@@ -1,0 +1,7 @@
+- Nom du projet : Foot Forecast
+- Titre : Outil de prédictions sportive (spécialisé dans le foot)
+- Description : 
+Celui-ci est destiné aux parieurs de football. 
+L'outil analysera les matchs à venir et proposera des prédictions aux parieurs suivant ce qu'ils recherchent grâce à des filtres.
+Notre application affichera donc une liste de paris proposés avec pour chacun son taux de probabilité calculé ainsi que son taux de probabilité selon les bookmakers afin de pouvoir comparer l'efficacité du modèle d'apprentissage.
+L'objectif est donc d'offrir aux parieurs des paris bien plus probables que ceux dont ils ont l'habitude de parier et donc d'augmenter drastiquement leurs gains.
