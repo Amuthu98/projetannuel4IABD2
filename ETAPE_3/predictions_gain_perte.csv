@@ -1,4 +1,4 @@
-id_match,date,id_HomeTeam,id_AwayTeam,homeTeam,AwayTeam,prediction_egalité,prediction_homeTeam_victory,prediction_awayTeam_victory,match_state
+id_match,date,id_HomeTeam,id_AwayTeam,homeTeam,AwayTeam,prediction_egalite,prediction_homeTeam_victory,prediction_awayTeam_victory,match_state
 267926,2019-08-09,548,523,AS Monaco FC,Olympique Lyonnais,3.551914542913437,33.14692676067352,63.30115795135498,2
 267922,2019-08-10,516,547,Olympique de Marseille,Stade de Reims,0.7766959723085165,31.238627433776855,67.98468232154846,2
 267919,2019-08-10,518,529,Montpellier HSC,Stade Rennais FC 1901,2.3330288007855415,32.0742666721344,65.59269428253174,2
