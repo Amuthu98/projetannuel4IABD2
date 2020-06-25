@@ -10,9 +10,9 @@
 8;Bordeaux;FC Girondins de Bordeaux;Bordeaux;2298
 9;Saint-Étienne;AS Saint-Étienne;Saint-Étienne;3749
 10;Dijon FCO;Dijon Football Côte d'Or;Dijon;2608
-11;Stade Rennais;Stade Rennais FC 1901;;100
+11;Stade Rennais;Stade Rennais FC 1901;Rennes;4815
 12;Amiens SC;Amiens SC;AmiensSC;2045
-13;Angers SCO;Angers SCO;Angers;2690
+13;Angers SCO;Angers SCO;AngersSCO;2690
 14;Nantes;FC Nantes;Nantes;3029
 15;FC Metz;FC Metz;Metz;1736
 16;Stade de Reims;Stade de Reims;Reims;3054
@@ -38,39 +38,39 @@
 36;Sheffield Utd;Sheffield United FC;SheffieldUnited;3883
 37;Brighton Hove;Brighton & Hove Albion FC;Brighton&HoveAlbion;2512
 38;West Ham;West Ham United FC;WestHamUnited;2705
-39;Bournemouth;AFC Bournemouth;Bournemouth;2482
-40;Athletic;Athletic Club;AthleticBilbao;6139
+39;Bournemouth;AFC Bournemouth;AFCBournemouth;2482
+40;Athletic;Athletic Club;AthleticoParanaense;9286
 41;Atleti;Club Atlético de Madrid;AtléticoMadrid;9329
 42;Osasuna;CA Osasuna;Osasuna;3267
 43;Espanyol;RCD Espanyol de Barcelona;Espanyol;6273
-44;Barça;FC Barcelona;Barcelone;13105
+44;Barça;FC Barcelona;Barcelona;13105
 45;Getafe;Getafe CF;Getafe;7881
-46;Granada;Granada CF;Grenade;4803
+46;Granada;Granada CF;Granada;4803
 47;Real Madrid;Real Madrid CF;RealMadrid;8949
 48;Levante;Levante UD;Levante;4554
-49;Mallorca;RCD Mallorca;Majorque;2475
-50;Real Betis;Real Betis Balompié;RealBétis;4257
+49;Mallorca;RCD Mallorca;Mallorca;2475
+50;Real Betis;Real Betis Balompié;RealMadrid;8949
 51;Real Sociedad;Real Sociedad de Fútbol;RealSociedad;7427
 52;Villarreal;Villarreal CF;Villarreal;5396
-53;Valencia;Valencia CF;Valence;9770
+53;Valencia;Valencia CF;Valencia;9770
 54;Valladolid;Real Valladolid CF;RealValladolid;4059
 55;Alavés;Deportivo Alavés;DeportivoAlavés;3663
 56;Eibar;SD Eibar;Eibar;3861
-57;Celta;RC Celta de Vigo;CeltaVigo;4059
-58;Sevilla FC;Sevilla FC;Séville;7447
-59;Leganés;CD Leganés;;100
+57;Celta;RC Celta de Vigo;CeltadeVigo;4059
+58;Sevilla FC;Sevilla FC;Sevilla;7447
+59;Leganés;CD Leganés;Leganés;3465
 60;Milan;AC Milan;Milan;4490
 61;Fiorentina;ACF Fiorentina;Fiorentina;2679
-62;Roma;AS Roma;Rome;6735
+62;Roma;AS Roma;Roma;6735
 63;Atalanta;Atalanta BC;Atalanta;7928
-64;Bologna;Bologna FC 1909;;100
+64;Bologna;Bologna FC 1909;Bologna;3818
 65;Cagliari;Cagliari Calcio;Cagliari;2866
 66;Genoa;Genoa CFC;Genoa;1932
 67;Inter;FC Internazionale Milano;Internacional;9035
 68;Juventus;Juventus FC;Juventus;9319
 69;Lazio;SS Lazio;Lazio;6846
-70;Parma;Parma Calcio 1913;;100
-71;Napoli;SSC Napoli;;100
+70;Parma;Parma Calcio 1913;Parma;3080
+71;Napoli;SSC Napoli;Napoli;7165
 72;Udinese;Udinese Calcio;Udinese;3100
 73;Brescia;Brescia Calcio;Brescia;1140
 74;Verona;Hellas Verona FC;HellasVerona;2280
@@ -81,65 +81,81 @@
 79;Lecce;US Lecce;Lecce;1781
 80;Leverkusen;Bayer 04 Leverkusen;BayerLeverkusen;8083
 81;Dortmund;BV Borussia 09 Dortmund;BorussiaDortmund;7276
-82;Bayern M;FC Bayern München;BayernMunich;10885
-95;Porto;FC Porto;FCPorto;6206
-99;Galatasaray;Galatasaray SK;GalatasaraySK;3647
+82;Bayern M;FC Bayern München;BayernMünchen;10885
+95;Porto;FC Porto;Porto;6206
+99;Galatasaray;Galatasaray SK;Galatasaray;3647
 100;Qarabağ Ağdam;Qarabağ Ağdam FK;Qarabağ;1054
-101;Olympiakos;PAE Olympiakos SFP;OlympiakosPirée;6497
+101;Olympiakos;PAE Olympiakos SFP;OlympiakosPiraeus;6497
 102;PSV;PSV;PSV;4032
 103;Ajax;AFC Ajax;Ajax;8164
 104;RB Leipzig;RB Leipzig;RBLeipzig;9221
-105;Basel;FC Basel 1893;;100
+105;Basel;FC Basel 1893;Basel;5742
 106;Zenit;FK Zenit Sankt-Petersburg;Zenit;6351
-107;Celtic;Celtic FC;CelticGlasgowFC;5551
-108;Maribor;NK Maribor;NKMaribor;651
+107;Celtic;Celtic FC;Celtic;5551
+108;Maribor;NK Maribor;Maribor;651
 109;BATE;FK BATE Borisov;BATE;890
 110;APOEL;APOEL FC;APOEL;3270
-111;Dinamo Zagreb;GNK Dinamo Zagreb;DinamoMoscou;2478
-112;Dynamo Kyiv;FK Dynamo Kyiv;FCDynamoKiev;4168
-113;Club Brugge;Club Brugge KV;ClubTigresUANL;8036
+111;Dinamo Zagreb;GNK Dinamo Zagreb;DinamoMoskva;2478
+112;Dynamo Kyiv;FK Dynamo Kyiv;DynamoKyiv;4168
+113;Club Brugge;Club Brugge KV;ClubBrugge;6464
 114;Rosenborg;Rosenborg BK;Rosenborg;2769
-115;Slavia Praha;SK Slavia Praha;SlaviaPrague;3612
+115;Slavia Praha;SK Slavia Praha;SlaviaPraha;3612
 116;KRC Genk;KRC Genk;Genk;2929
 117;Young Boys;BSC Young Boys;YoungBoys;3132
 118;Dundalk;Dundalk FC;Dundalk;195
 119;F91 Dudelange;F91 Diddeleng;F91Dudelange;832
-120;København;FC København;;100
-121;RB Salzburg;FC Red Bull Salzburg;;100
-122;Santa Coloma;FC Santa Coloma;UniónSantaFe;3507
-123;Sheriff;FC Sheriff Tiraspol;FCSheriffTiraspol;316
+120;København;FC København;København;4737
+121;RB Salzburg;FC Red Bull Salzburg;Salzburg;4620
+122;Santa Coloma;FC Santa Coloma;SantaFe;3175
+123;Sheriff;FC Sheriff Tiraspol;Sheriff;316
 124;Viktoria Plzeň;FC Viktoria Plzeň;ViktoriaPlzeň;2877
 125;Astana FK;Astana FK;Astana;1092
 126;Shaktar;FK Shakhtar Donetsk;;100
 127;Linfield;Linfield FC;Linfield;409
-128;Başakşehir;Medipol Başakşehir FK;;100
+128;Başakşehir;Medipol Başakşehir FK;İstanbulBaşakşehir;4377
 129;Ludogorets;PFK Ludogorets 1945 Razgrad;Ludogorets;3545
 130;SL Benfica;Sport Lisboa e Benfica;Benfica;6562
 131;The New Saints;The New Saints FC;;100
-132;LASK;LASK Linz;;100
-133;Sarajevo;FK Sarajevo;Sarajevo;63
+132;LASK;LASK Linz;LASK;5341
+133;Sarajevo;FK Sarajevo;;100
 134;Nõmme Kalju;Nõmme Kalju FC;NõmmeKalju;178
 135;HJK;Helsingin JK;HJK;498
 136;AIK Fotboll;AIK Fotboll;;100
 137;Krasnodar;FK Krasnodar;Krasnodar;5313
-138;Lok Moskva;FK Lokomotiv Moskva;;100
-139;CFR Cluj;FC CFR 1907 Cluj;CFR1907Cluj;4858
-140;Piast Gliwice;GKS Piast Gliwice;GKSPiastGliwice;2030
-141;Valletta;Valletta FC;Valletta;136
+138;Lok Moskva;FK Lokomotiv Moskva;LokomotivMoskva;5090
+139;CFR Cluj;FC CFR 1907 Cluj;CFRCluj;4858
+140;Piast Gliwice;GKS Piast Gliwice;PiastGliwice;2030
+141;Valletta;Valletta FC;;100
 142;FK Sūduva;FK Sūduva Marijampolė;Sūduva;603
-143;Rīga FC;Rīga FC;RīgasFS;135
-144;Maccabi TA;Maccabi Tel Aviv FC;MaccabiHaifaFC;2302
+143;Rīga FC;Rīga FC;;100
+144;Maccabi TA;Maccabi Tel Aviv FC;MaccabiHaifa;2302
 145;Valur;KF Valur;;100
 146;Ferencváros;Ferencvárosi TC;Ferencváros;1735
-147;PAOK FC;PAOK FC;PAOKSalonique;3673
+147;PAOK FC;PAOK FC;PAOK;3673
 148;Lincoln;Lincoln Red Imps FC;;100
-149;Crvena Zvedza;FK Crvena Zvezda;;100
+149;Crvena Zvedza;FK Crvena Zvezda;CrvenaZvezda;3994
 150;Sutjeska Nik;FK Sutjeska Nikšić;Sutjeska;210
 151;Shkëndija 79;KF Shkëndija 79;;100
-152;Partizani;FK Partizani;PartizaniTirana;119
-153;Sl. Bratislava;ŠK Slovan Bratislava;SKSlovanBratislava;3493
+152;Partizani;FK Partizani;;100
+153;Sl. Bratislava;ŠK Slovan Bratislava;SlovanBratislava;3493
 154;Feronikeli;KF Feronikeli;;100
 155;Tre Penne;SP Tre Penne;;100
 156;Ararat-Armenia;FC Ararat-Armenia;Ararat-Armenia;423
 157;Saburtalo;FC Saburtalo;Saburtalo;244
-158;HB;HB;HB;74
+158;HB;HB;;100
+159;Rio Ave;Rio Ave FC;;100
+160;Sporting CP;Sporting Clube de Portugal;SportingBraga;5314
+162;Paços Ferreira;FC Paços de Ferreira;PaçosdeFerreira;1215
+163;Moreirense;Moreirense FC;Moreirense;1842
+164;Boavista;Boavista FC;Boavista;2325
+165;Tondela;CD Tondela;Tondela;1729
+167;Santa Clara;CD Santa Clara;SantaFe;3175
+168;Famalicão;FC Famalicão;Famalicão;2300
+169;Gil Vicente;Gil Vicente FC;GilVicente;1346
+170;Vitória SC;Vitória SC;VitóriaGuimarães;3593
+171;Aves;CD Aves;DesportivoAves;1159
+172;Belenenses;Os Belenenses Futebol;Belenenses;1589
+173;Marítimo;CS Marítimo;Marítimo;1672
+174;Portimonense;Portimonense SC;Portimonense;1067
+175;Braga;Sporting Clube de Braga;SportingBraga;5314
+176;Vitória FC;Vitória FC;VitóriaGuimarães;3593
