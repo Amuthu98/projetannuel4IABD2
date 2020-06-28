@@ -378,765 +378,6 @@
 377;20/05/17;Paris SG;Caen;D;1.0;0.0;1;1;PSG;;9144;100
 378;20/05/17;Rennes;Monaco;A;0.0;1.0;2;3;Stade Rennais;Monaco;100;8320
 379;20/05/17;Toulouse;Dijon;D;0.0;0.0;0;0;Toulouse;Dijon FCO;2127;2154
-0;19/08/16;La Coruna;Eibar;H;0.0;0.0;2;1;;Eibar;100;6125
-1;19/08/16;Malaga;Osasuna;D;0.0;0.0;1;1;;Osasuna;100;1617
-2;20/08/16;Barcelona;Betis;H;3.0;1.0;6;2;;Real Betis;100;100
-3;20/08/16;Granada;Villarreal;D;0.0;0.0;1;1;;Villarreal;100;8065
-4;20/08/16;Sevilla;Espanol;H;3.0;3.0;6;4;Sevilla FC;;100;100
-5;21/08/16;Ath Madrid;Alaves;D;0.0;0.0;1;1;Real Madrid;;17696;100
-6;21/08/16;Sociedad;Real Madrid;A;0.0;2.0;0;3;Real Sociedad;Real Madrid;6982;17696
-7;21/08/16;Sp Gijon;Ath Bilbao;H;0.0;0.0;2;1;;;100;100
-8;22/08/16;Celta;Leganes;A;0.0;0.0;0;1;Celta;;8442;100
-9;22/08/16;Valencia;Las Palmas;A;2.0;3.0;2;4;;;100;100
-10;26/08/16;Betis;La Coruna;D;0.0;0.0;0;0;Real Betis;;100;100
-11;26/08/16;Espanol;Malaga;D;1.0;0.0;2;2;;;100;100
-12;27/08/16;Eibar;Valencia;H;0.0;0.0;1;0;Eibar;;6125;100
-13;27/08/16;Leganes;Ath Madrid;D;0.0;0.0;0;0;;Real Madrid;100;17696
-14;27/08/16;Osasuna;Sociedad;A;0.0;1.0;0;2;Osasuna;Real Sociedad;1617;6982
-15;27/08/16;Real Madrid;Celta;H;0.0;0.0;2;1;Real Madrid;Celta;17696;8442
-16;28/08/16;Alaves;Sp Gijon;D;0.0;0.0;0;0;;;100;100
-17;28/08/16;Ath Bilbao;Barcelona;A;0.0;1.0;0;1;;;100;100
-18;28/08/16;Las Palmas;Granada;H;1.0;1.0;5;1;;;100;100
-19;28/08/16;Villarreal;Sevilla;D;0.0;0.0;0;0;Villarreal;Sevilla FC;8065;100
-20;09/09/16;Sociedad;Espanol;D;0.0;0.0;1;1;Real Sociedad;;6982;100
-21;10/09/16;Barcelona;Alaves;A;0.0;1.0;1;2;;;100;100
-22;10/09/16;Celta;Ath Madrid;A;0.0;0.0;0;4;Celta;Real Madrid;8442;17696
-23;10/09/16;Malaga;Villarreal;A;0.0;2.0;0;2;;Villarreal;100;8065
-24;10/09/16;Real Madrid;Osasuna;H;3.0;0.0;5;2;Real Madrid;Osasuna;17696;1617
-25;10/09/16;Sevilla;Las Palmas;H;0.0;1.0;2;1;Sevilla FC;;100;100
-26;11/09/16;Granada;Eibar;A;0.0;1.0;1;2;;Eibar;100;6125
-27;11/09/16;La Coruna;Ath Bilbao;A;0.0;1.0;0;1;;;100;100
-28;11/09/16;Sp Gijon;Leganes;H;2.0;0.0;2;1;;;100;100
-29;11/09/16;Valencia;Betis;A;0.0;1.0;2;3;;Real Betis;100;100
-30;16/09/16;Betis;Granada;D;1.0;2.0;2;2;Real Betis;;100;100
-31;17/09/16;Ath Madrid;Sp Gijon;H;3.0;0.0;5;0;Real Madrid;;17696;100
-32;17/09/16;Eibar;Sevilla;D;0.0;1.0;1;1;Eibar;Sevilla FC;6125;100
-33;17/09/16;Las Palmas;Malaga;H;1.0;0.0;1;0;;;100;100
-34;17/09/16;Leganes;Barcelona;A;0.0;3.0;1;5;;;100;100
-35;18/09/16;Ath Bilbao;Valencia;H;2.0;1.0;2;1;;;100;100
-36;18/09/16;Espanol;Real Madrid;A;0.0;1.0;0;2;;Real Madrid;100;17696
-37;18/09/16;Osasuna;Celta;D;0.0;0.0;0;0;Osasuna;Celta;1617;8442
-38;18/09/16;Villarreal;Sociedad;H;2.0;1.0;2;1;Villarreal;Real Sociedad;8065;6982
-39;19/09/16;Alaves;La Coruna;D;0.0;0.0;0;0;;;100;100
-40;20/09/16;Malaga;Eibar;H;1.0;1.0;2;1;;Eibar;100;6125
-41;20/09/16;Sevilla;Betis;H;0.0;0.0;1;0;Sevilla FC;Real Betis;100;100
-42;21/09/16;Barcelona;Ath Madrid;D;1.0;0.0;1;1;;Real Madrid;100;17696
-43;21/09/16;Celta;Sp Gijon;H;0.0;0.0;2;1;Celta;;8442;100
-44;21/09/16;Granada;Ath Bilbao;A;1.0;1.0;1;2;;;100;100
-45;21/09/16;Real Madrid;Villarreal;D;0.0;1.0;1;1;Real Madrid;Villarreal;17696;8065
-46;21/09/16;Sociedad;Las Palmas;H;3.0;0.0;4;1;Real Sociedad;;6982;100
-47;22/09/16;La Coruna;Leganes;A;1.0;0.0;1;2;;;100;100
-48;22/09/16;Osasuna;Espanol;A;0.0;1.0;1;2;Osasuna;;1617;100
-49;22/09/16;Valencia;Alaves;H;1.0;1.0;2;1;;;100;100
-50;23/09/16;Betis;Malaga;H;1.0;0.0;1;0;Real Betis;;100;100
-51;24/09/16;Ath Bilbao;Sevilla;H;1.0;0.0;3;1;;Sevilla FC;100;100
-52;24/09/16;Eibar;Sociedad;H;0.0;0.0;2;0;Eibar;Real Sociedad;6125;6982
-53;24/09/16;Las Palmas;Real Madrid;D;1.0;1.0;2;2;;Real Madrid;100;17696
-54;24/09/16;Sp Gijon;Barcelona;A;0.0;2.0;0;5;;;100;100
-55;25/09/16;Ath Madrid;La Coruna;H;0.0;0.0;1;0;Real Madrid;;17696;100
-56;25/09/16;Espanol;Celta;A;0.0;0.0;0;2;;Celta;100;8442
-57;25/09/16;Leganes;Valencia;A;1.0;1.0;1;2;;;100;100
-58;25/09/16;Villarreal;Osasuna;H;3.0;1.0;3;1;Villarreal;Osasuna;8065;1617
-59;26/09/16;Alaves;Granada;H;0.0;0.0;3;1;;;100;100
-60;30/09/16;Sociedad;Betis;H;0.0;0.0;1;0;Real Sociedad;Real Betis;6982;100
-61;01/10/16;Granada;Leganes;A;0.0;0.0;0;1;;;100;100
-62;01/10/16;La Coruna;Sp Gijon;H;1.0;0.0;2;1;;;100;100
-63;01/10/16;Osasuna;Las Palmas;D;2.0;0.0;2;2;Osasuna;;1617;100
-64;01/10/16;Sevilla;Alaves;H;0.0;0.0;2;1;Sevilla FC;;100;100
-65;02/10/16;Celta;Barcelona;H;3.0;0.0;4;3;Celta;;8442;100
-66;02/10/16;Espanol;Villarreal;D;0.0;0.0;0;0;;Villarreal;100;8065
-67;02/10/16;Malaga;Ath Bilbao;H;0.0;1.0;2;1;;;100;100
-68;02/10/16;Real Madrid;Eibar;D;1.0;1.0;1;1;Real Madrid;Eibar;17696;6125
-69;02/10/16;Valencia;Ath Madrid;A;0.0;0.0;0;2;;Real Madrid;100;17696
-70;14/10/16;Las Palmas;Espanol;D;0.0;0.0;0;0;;;100;100
-71;15/10/16;Ath Madrid;Granada;H;2.0;1.0;7;1;Real Madrid;;17696;100
-72;15/10/16;Barcelona;La Coruna;H;3.0;0.0;4;0;;;100;100
-73;15/10/16;Betis;Real Madrid;A;0.0;4.0;1;6;Real Betis;Real Madrid;100;17696
-74;15/10/16;Leganes;Sevilla;A;0.0;1.0;2;3;;Sevilla FC;100;100
-75;16/10/16;Alaves;Malaga;D;1.0;0.0;1;1;;;100;100
-76;16/10/16;Ath Bilbao;Sociedad;H;0.0;1.0;3;2;;Real Sociedad;100;6982
-77;16/10/16;Sp Gijon;Valencia;A;1.0;1.0;1;2;;;100;100
-78;16/10/16;Villarreal;Celta;H;3.0;0.0;5;0;Villarreal;Celta;8065;8442
-79;17/10/16;Eibar;Osasuna;A;2.0;2.0;2;3;Eibar;Osasuna;6125;1617
-80;21/10/16;Osasuna;Betis;A;0.0;1.0;1;2;Osasuna;Real Betis;1617;100
-81;22/10/16;Espanol;Eibar;D;0.0;3.0;3;3;;Eibar;100;6125
-82;22/10/16;Granada;Sp Gijon;D;0.0;0.0;0;0;;;100;100
-83;22/10/16;Sociedad;Alaves;H;1.0;0.0;3;0;Real Sociedad;;6982;100
-84;22/10/16;Valencia;Barcelona;A;0.0;1.0;2;3;;;100;100
-85;23/10/16;Celta;La Coruna;H;1.0;1.0;4;1;Celta;;8442;100
-86;23/10/16;Malaga;Leganes;H;2.0;0.0;4;0;;;100;100
-87;23/10/16;Real Madrid;Ath Bilbao;H;1.0;1.0;2;1;Real Madrid;;17696;100
-88;23/10/16;Sevilla;Ath Madrid;H;0.0;0.0;1;0;Sevilla FC;Real Madrid;100;17696
-89;23/10/16;Villarreal;Las Palmas;H;0.0;1.0;2;1;Villarreal;;8065;100
-90;28/10/16;Leganes;Sociedad;A;0.0;1.0;0;2;;Real Sociedad;100;6982
-91;29/10/16;Alaves;Real Madrid;A;1.0;2.0;1;4;;Real Madrid;100;17696
-92;29/10/16;Ath Madrid;Malaga;H;3.0;1.0;4;2;Real Madrid;;17696;100
-93;29/10/16;Barcelona;Granada;H;0.0;0.0;1;0;;;100;100
-94;29/10/16;Sp Gijon;Sevilla;D;1.0;1.0;1;1;;Sevilla FC;100;100
-95;30/10/16;Ath Bilbao;Osasuna;D;1.0;1.0;1;1;;Osasuna;100;1617
-96;30/10/16;Betis;Espanol;A;0.0;0.0;0;1;Real Betis;;100;100
-97;30/10/16;Eibar;Villarreal;H;0.0;1.0;2;1;Eibar;Villarreal;6125;8065
-98;30/10/16;Las Palmas;Celta;D;0.0;3.0;3;3;;Celta;100;8442
-99;31/10/16;La Coruna;Valencia;D;1.0;0.0;1;1;;;100;100
-100;04/11/16;Malaga;Sp Gijon;H;1.0;1.0;3;2;;;100;100
-101;05/11/16;Granada;La Coruna;D;0.0;0.0;1;1;;;100;100
-102;05/11/16;Las Palmas;Eibar;H;0.0;0.0;1;0;;Eibar;100;6125
-103;05/11/16;Osasuna;Alaves;A;0.0;0.0;0;1;Osasuna;;1617;100
-104;05/11/16;Sociedad;Ath Madrid;H;0.0;0.0;2;0;Real Sociedad;Real Madrid;6982;17696
-105;06/11/16;Celta;Valencia;H;1.0;1.0;2;1;Celta;;8442;100
-106;06/11/16;Espanol;Ath Bilbao;D;0.0;0.0;0;0;;;100;100
-107;06/11/16;Real Madrid;Leganes;H;2.0;0.0;3;0;Real Madrid;;17696;100
-108;06/11/16;Sevilla;Barcelona;A;1.0;1.0;1;2;Sevilla FC;;100;100
-109;06/11/16;Villarreal;Betis;H;1.0;0.0;2;0;Villarreal;Real Betis;8065;100
-110;18/11/16;Betis;Las Palmas;H;2.0;0.0;2;0;Real Betis;;100;100
-111;19/11/16;Ath Madrid;Real Madrid;A;0.0;1.0;0;3;Real Madrid;Real Madrid;17696;17696
-112;19/11/16;Barcelona;Malaga;D;0.0;0.0;0;0;;;100;100
-113;19/11/16;Eibar;Celta;H;1.0;0.0;1;0;Eibar;Celta;6125;8442
-114;19/11/16;La Coruna;Sevilla;A;2.0;1.0;2;3;;Sevilla FC;100;100
-115;20/11/16;Alaves;Espanol;A;0.0;0.0;0;1;;;100;100
-116;20/11/16;Ath Bilbao;Villarreal;H;0.0;0.0;1;0;;Villarreal;100;8065
-117;20/11/16;Sp Gijon;Sociedad;A;1.0;1.0;1;3;;Real Sociedad;100;6982
-118;20/11/16;Valencia;Granada;D;0.0;1.0;1;1;;;100;100
-119;21/11/16;Leganes;Osasuna;H;1.0;0.0;2;0;;Osasuna;100;1617
-120;25/11/16;Eibar;Betis;H;2.0;0.0;3;1;Eibar;Real Betis;6125;100
-121;26/11/16;Espanol;Leganes;H;0.0;0.0;3;0;;;100;100
-122;26/11/16;Malaga;La Coruna;H;2.0;1.0;4;3;;;100;100
-123;26/11/16;Real Madrid;Sp Gijon;H;2.0;1.0;2;1;Real Madrid;;17696;100
-124;26/11/16;Sevilla;Valencia;H;0.0;0.0;2;1;Sevilla FC;;100;100
-125;27/11/16;Celta;Granada;H;2.0;0.0;3;1;Celta;;8442;100
-126;27/11/16;Osasuna;Ath Madrid;A;0.0;2.0;0;3;Osasuna;Real Madrid;1617;17696
-127;27/11/16;Sociedad;Barcelona;D;0.0;0.0;1;1;Real Sociedad;;6982;100
-128;27/11/16;Villarreal;Alaves;A;0.0;2.0;0;2;Villarreal;;8065;100
-129;28/11/16;Las Palmas;Ath Bilbao;H;1.0;0.0;3;1;;;100;100
-130;03/12/16;Ath Madrid;Espanol;D;0.0;0.0;0;0;Real Madrid;;17696;100
-131;03/12/16;Barcelona;Real Madrid;D;0.0;0.0;1;1;;Real Madrid;100;17696
-132;03/12/16;Granada;Sevilla;H;1.0;0.0;2;1;;Sevilla FC;100;100
-133;03/12/16;Leganes;Villarreal;D;0.0;0.0;0;0;;Villarreal;100;8065
-134;04/12/16;Alaves;Las Palmas;D;1.0;0.0;1;1;;;100;100
-135;04/12/16;Ath Bilbao;Eibar;H;1.0;0.0;3;1;;Eibar;100;6125
-136;04/12/16;Betis;Celta;D;1.0;1.0;3;3;Real Betis;Celta;100;8442
-137;04/12/16;Sp Gijon;Osasuna;H;1.0;0.0;3;1;;Osasuna;100;1617
-138;04/12/16;Valencia;Malaga;D;2.0;1.0;2;2;;;100;100
-139;05/12/16;La Coruna;Sociedad;H;3.0;0.0;5;1;;Real Sociedad;100;6982
-140;09/12/16;Malaga;Granada;D;1.0;0.0;1;1;;;100;100
-141;10/12/16;Las Palmas;Leganes;D;1.0;0.0;1;1;;;100;100
-142;10/12/16;Osasuna;Barcelona;A;0.0;0.0;0;3;Osasuna;;1617;100
-143;10/12/16;Real Madrid;La Coruna;H;0.0;0.0;3;2;Real Madrid;;17696;100
-144;10/12/16;Sociedad;Valencia;H;2.0;1.0;3;2;Real Sociedad;;6982;100
-145;11/12/16;Betis;Ath Bilbao;H;1.0;0.0;1;0;Real Betis;;100;100
-146;11/12/16;Celta;Sevilla;A;0.0;0.0;0;3;Celta;Sevilla FC;8442;100
-147;11/12/16;Eibar;Alaves;D;0.0;0.0;0;0;Eibar;;6125;100
-148;11/12/16;Espanol;Sp Gijon;H;0.0;0.0;2;1;;;100;100
-149;12/12/16;Villarreal;Ath Madrid;H;2.0;0.0;3;0;Villarreal;Real Madrid;8065;17696
-150;16/12/16;Alaves;Betis;H;0.0;0.0;1;0;;Real Betis;100;100
-151;17/12/16;Ath Madrid;Las Palmas;H;0.0;0.0;1;0;Real Madrid;;17696;100
-152;17/12/16;Granada;Sociedad;A;0.0;0.0;0;2;;Real Sociedad;100;6982
-153;17/12/16;Sevilla;Malaga;H;4.0;0.0;4;1;Sevilla FC;;100;100
-154;17/12/16;Sp Gijon;Villarreal;A;0.0;2.0;1;3;;Villarreal;100;8065
-155;18/12/16;Barcelona;Espanol;H;1.0;0.0;4;1;;;100;100
-156;18/12/16;La Coruna;Osasuna;H;2.0;0.0;2;0;;Osasuna;100;1617
-157;18/12/16;Leganes;Eibar;D;1.0;0.0;1;1;;Eibar;100;6125
-158;19/12/16;Ath Bilbao;Celta;H;0.0;0.0;2;1;;Celta;100;8442
-159;06/01/17;Espanol;La Coruna;D;0.0;0.0;1;1;;;100;100
-160;07/01/17;Eibar;Ath Madrid;A;0.0;0.0;0;2;Eibar;Real Madrid;6125;17696
-161;07/01/17;Las Palmas;Sp Gijon;H;0.0;0.0;1;0;;;100;100
-162;07/01/17;Real Madrid;Granada;H;4.0;0.0;5;0;Real Madrid;;17696;100
-163;07/01/17;Sociedad;Sevilla;A;0.0;2.0;0;4;Real Sociedad;Sevilla FC;6982;100
-164;08/01/17;Ath Bilbao;Alaves;D;0.0;0.0;0;0;;;100;100
-165;08/01/17;Betis;Leganes;H;0.0;0.0;2;0;Real Betis;;100;100
-166;08/01/17;Celta;Malaga;H;1.0;0.0;3;1;Celta;;8442;100
-167;08/01/17;Villarreal;Barcelona;D;0.0;0.0;1;1;Villarreal;;8065;100
-168;09/01/17;Osasuna;Valencia;D;1.0;2.0;3;3;Osasuna;;1617;100
-169;14/01/17;Ath Madrid;Betis;H;1.0;0.0;1;0;Real Madrid;Real Betis;17696;100
-170;14/01/17;Barcelona;Las Palmas;H;1.0;0.0;5;0;;;100;100
-171;14/01/17;La Coruna;Villarreal;D;0.0;0.0;0;0;;Villarreal;100;8065
-172;14/01/17;Leganes;Ath Bilbao;D;0.0;0.0;0;0;;;100;100
-173;15/01/17;Celta;Alaves;H;0.0;0.0;1;0;Celta;;8442;100
-174;15/01/17;Granada;Osasuna;D;0.0;1.0;1;1;;Osasuna;100;1617
-175;15/01/17;Sevilla;Real Madrid;H;0.0;0.0;2;1;Sevilla FC;Real Madrid;100;17696
-176;15/01/17;Sp Gijon;Eibar;A;1.0;3.0;2;3;;Eibar;100;6125
-177;15/01/17;Valencia;Espanol;H;1.0;0.0;2;1;;;100;100
-178;16/01/17;Malaga;Sociedad;A;0.0;0.0;0;2;;Real Sociedad;100;6982
-179;20/01/17;Las Palmas;La Coruna;D;1.0;0.0;1;1;;;100;100
-180;21/01/17;Alaves;Leganes;D;1.0;1.0;2;2;;;100;100
-181;21/01/17;Espanol;Granada;H;2.0;1.0;3;1;;;100;100
-182;21/01/17;Real Madrid;Malaga;H;2.0;0.0;2;1;Real Madrid;;17696;100
-183;21/01/17;Villarreal;Valencia;A;0.0;2.0;0;2;Villarreal;;8065;100
-184;22/01/17;Ath Bilbao;Ath Madrid;D;1.0;1.0;2;2;;Real Madrid;100;17696
-185;22/01/17;Betis;Sp Gijon;D;0.0;0.0;0;0;Real Betis;;100;100
-186;22/01/17;Eibar;Barcelona;A;0.0;1.0;0;4;Eibar;;6125;100
-187;22/01/17;Osasuna;Sevilla;A;1.0;1.0;3;4;Osasuna;Sevilla FC;1617;100
-188;22/01/17;Sociedad;Celta;H;0.0;0.0;1;0;Real Sociedad;Celta;6982;8442
-189;27/01/17;Osasuna;Malaga;D;0.0;0.0;1;1;Osasuna;;1617;100
-190;28/01/17;Alaves;Ath Madrid;D;0.0;0.0;0;0;;Real Madrid;100;17696
-191;28/01/17;Eibar;La Coruna;H;2.0;1.0;3;1;Eibar;;6125;100
-192;28/01/17;Leganes;Celta;A;0.0;1.0;0;2;;Celta;100;8442
-193;28/01/17;Villarreal;Granada;H;1.0;0.0;2;0;Villarreal;;8065;100
-194;29/01/17;Ath Bilbao;Sp Gijon;H;0.0;1.0;2;1;;;100;100
-195;29/01/17;Betis;Barcelona;D;0.0;0.0;1;1;Real Betis;;100;100
-196;29/01/17;Espanol;Sevilla;H;2.0;1.0;3;1;;Sevilla FC;100;100
-197;29/01/17;Real Madrid;Sociedad;H;1.0;0.0;3;0;Real Madrid;Real Sociedad;17696;6982
-198;30/01/17;Las Palmas;Valencia;H;1.0;1.0;3;1;;;100;100
-199;04/02/17;Ath Madrid;Leganes;H;1.0;0.0;2;0;Real Madrid;;17696;100
-200;04/02/17;Barcelona;Ath Bilbao;H;2.0;0.0;3;0;;;100;100
-201;04/02/17;Malaga;Espanol;A;0.0;1.0;0;1;;;100;100
-202;04/02/17;Valencia;Eibar;A;0.0;2.0;0;4;;Eibar;100;6125
-203;05/02/17;Sevilla;Villarreal;D;0.0;0.0;0;0;Sevilla FC;Villarreal;100;8065
-204;05/02/17;Sociedad;Osasuna;H;0.0;1.0;3;2;Real Sociedad;Osasuna;6982;1617
-205;05/02/17;Sp Gijon;Alaves;A;0.0;1.0;2;4;;;100;100
-206;06/02/17;Granada;Las Palmas;H;1.0;0.0;1;0;;;100;100
-207;10/02/17;Espanol;Sociedad;A;1.0;1.0;1;2;;Real Sociedad;100;6982
-208;11/02/17;Alaves;Barcelona;A;0.0;2.0;0;6;;;100;100
-209;11/02/17;Ath Bilbao;La Coruna;H;0.0;1.0;2;1;;;100;100
-210;11/02/17;Betis;Valencia;D;0.0;0.0;0;0;Real Betis;;100;100
-211;11/02/17;Osasuna;Real Madrid;A;1.0;1.0;1;3;Osasuna;Real Madrid;1617;17696
-212;12/02/17;Ath Madrid;Celta;H;1.0;1.0;3;2;Real Madrid;Celta;17696;8442
-213;12/02/17;Las Palmas;Sevilla;A;0.0;0.0;0;1;;Sevilla FC;100;100
-214;12/02/17;Leganes;Sp Gijon;A;0.0;0.0;0;2;;;100;100
-215;12/02/17;Villarreal;Malaga;D;0.0;1.0;1;1;Villarreal;;8065;100
-216;13/02/17;Eibar;Granada;H;2.0;0.0;4;0;Eibar;;6125;100
-217;17/02/17;Granada;Betis;H;3.0;0.0;4;1;;Real Betis;100;100
-218;18/02/17;La Coruna;Alaves;A;0.0;0.0;0;1;;;100;100
-219;18/02/17;Real Madrid;Espanol;H;1.0;0.0;2;0;Real Madrid;;17696;100
-220;18/02/17;Sevilla;Eibar;H;1.0;0.0;2;0;Sevilla FC;Eibar;100;6125
-221;18/02/17;Sp Gijon;Ath Madrid;A;0.0;0.0;1;4;;Real Madrid;100;17696
-222;19/02/17;Barcelona;Leganes;H;1.0;0.0;2;1;;;100;100
-223;19/02/17;Celta;Osasuna;H;1.0;0.0;3;0;Celta;Osasuna;8442;1617
-224;19/02/17;Sociedad;Villarreal;A;0.0;0.0;0;1;Real Sociedad;Villarreal;6982;8065
-225;19/02/17;Valencia;Ath Bilbao;H;2.0;0.0;2;0;;;100;100
-226;20/02/17;Malaga;Las Palmas;H;2.0;1.0;2;1;;;100;100
-227;22/02/17;Valencia;Real Madrid;H;2.0;1.0;2;1;;Real Madrid;100;17696
-228;24/02/17;Las Palmas;Sociedad;A;0.0;0.0;0;1;;Real Sociedad;100;6982
-229;25/02/17;Alaves;Valencia;H;0.0;0.0;2;1;;;100;100
-230;25/02/17;Betis;Sevilla;A;1.0;0.0;1;2;Real Betis;Sevilla FC;100;100
-231;25/02/17;Eibar;Malaga;H;1.0;0.0;3;0;Eibar;;6125;100
-232;25/02/17;Leganes;La Coruna;H;2.0;0.0;4;0;;;100;100
-233;26/02/17;Ath Bilbao;Granada;H;2.0;1.0;3;1;;;100;100
-234;26/02/17;Ath Madrid;Barcelona;A;0.0;0.0;1;2;Real Madrid;;17696;100
-235;26/02/17;Espanol;Osasuna;H;1.0;0.0;3;0;;Osasuna;100;1617
-236;26/02/17;Sp Gijon;Celta;D;0.0;0.0;1;1;;Celta;100;8442
-237;26/02/17;Villarreal;Real Madrid;A;0.0;0.0;2;3;Villarreal;Real Madrid;8065;17696
-238;28/02/17;Malaga;Betis;A;1.0;0.0;1;2;;Real Betis;100;100
-239;28/02/17;Sociedad;Eibar;D;1.0;1.0;2;2;Real Sociedad;Eibar;6982;6125
-240;28/02/17;Valencia;Leganes;H;1.0;0.0;1;0;;;100;100
-241;01/03/17;Barcelona;Sp Gijon;H;3.0;1.0;6;1;;;100;100
-242;01/03/17;Celta;Espanol;D;2.0;2.0;2;2;Celta;;8442;100
-243;01/03/17;Granada;Alaves;H;1.0;0.0;2;1;;;100;100
-244;01/03/17;Osasuna;Villarreal;A;0.0;2.0;1;4;Osasuna;Villarreal;1617;8065
-245;01/03/17;Real Madrid;Las Palmas;D;1.0;1.0;3;3;Real Madrid;;17696;100
-246;02/03/17;La Coruna;Ath Madrid;D;1.0;0.0;1;1;;Real Madrid;100;17696
-247;02/03/17;Sevilla;Ath Bilbao;H;1.0;0.0;1;0;Sevilla FC;;100;100
-248;03/03/17;Betis;Sociedad;A;1.0;2.0;2;3;Real Betis;Real Sociedad;100;6982
-249;04/03/17;Barcelona;Celta;H;2.0;0.0;5;0;;Celta;100;8442
-250;04/03/17;Eibar;Real Madrid;A;0.0;3.0;1;4;Eibar;Real Madrid;6125;17696
-251;04/03/17;Leganes;Granada;H;0.0;0.0;1;0;;;100;100
-252;04/03/17;Villarreal;Espanol;H;1.0;0.0;2;0;Villarreal;;8065;100
-253;05/03/17;Ath Bilbao;Malaga;H;0.0;0.0;1;0;;;100;100
-254;05/03/17;Ath Madrid;Valencia;H;1.0;0.0;3;0;Real Madrid;;17696;100
-255;05/03/17;Las Palmas;Osasuna;H;1.0;2.0;5;2;;Osasuna;100;1617
-256;05/03/17;Sp Gijon;La Coruna;A;0.0;1.0;0;1;;;100;100
-257;06/03/17;Alaves;Sevilla;D;0.0;1.0;1;1;;Sevilla FC;100;100
-258;08/03/17;La Coruna;Betis;D;0.0;0.0;1;1;;Real Betis;100;100
-259;10/03/17;Espanol;Las Palmas;H;2.0;1.0;4;3;;;100;100
-260;11/03/17;Granada;Ath Madrid;A;0.0;0.0;0;1;;Real Madrid;100;17696
-261;11/03/17;Malaga;Alaves;A;0.0;1.0;1;2;;;100;100
-262;11/03/17;Sevilla;Leganes;D;1.0;1.0;1;1;Sevilla FC;;100;100
-263;11/03/17;Valencia;Sp Gijon;D;0.0;0.0;1;1;;;100;100
-264;12/03/17;Celta;Villarreal;A;0.0;1.0;0;1;Celta;Villarreal;8442;8065
-265;12/03/17;La Coruna;Barcelona;H;1.0;0.0;2;1;;;100;100
-266;12/03/17;Real Madrid;Betis;H;1.0;1.0;2;1;Real Madrid;Real Betis;17696;100
-267;12/03/17;Sociedad;Ath Bilbao;A;0.0;1.0;0;2;Real Sociedad;;6982;100
-268;13/03/17;Osasuna;Eibar;D;0.0;0.0;1;1;Osasuna;Eibar;1617;6125
-269;17/03/17;Las Palmas;Villarreal;H;1.0;0.0;1;0;;Villarreal;100;8065
-270;18/03/17;Alaves;Sociedad;H;1.0;0.0;1;0;;Real Sociedad;100;6982
-271;18/03/17;Ath Bilbao;Real Madrid;A;0.0;1.0;1;2;;Real Madrid;100;17696
-272;18/03/17;Betis;Osasuna;H;2.0;0.0;2;0;Real Betis;Osasuna;100;1617
-273;18/03/17;Eibar;Espanol;D;1.0;0.0;1;1;Eibar;;6125;100
-274;19/03/17;Ath Madrid;Sevilla;H;1.0;0.0;3;1;Real Madrid;Sevilla FC;17696;100
-275;19/03/17;Barcelona;Valencia;H;2.0;2.0;4;2;;;100;100
-276;19/03/17;La Coruna;Celta;A;0.0;0.0;0;1;;Celta;100;8442
-277;19/03/17;Leganes;Malaga;D;0.0;0.0;0;0;;;100;100
-278;19/03/17;Sp Gijon;Granada;H;0.0;0.0;3;1;;;100;100
-279;31/03/17;Espanol;Betis;H;0.0;0.0;2;1;;Real Betis;100;100
-280;01/04/17;Malaga;Ath Madrid;A;0.0;1.0;0;2;;Real Madrid;100;17696
-281;01/04/17;Osasuna;Ath Bilbao;A;0.0;2.0;1;2;Osasuna;;1617;100
-282;01/04/17;Sociedad;Leganes;D;0.0;1.0;1;1;Real Sociedad;;6982;100
-283;01/04/17;Villarreal;Eibar;A;1.0;0.0;2;3;Villarreal;Eibar;8065;6125
-284;02/04/17;Granada;Barcelona;A;0.0;1.0;1;4;;;100;100
-285;02/04/17;Real Madrid;Alaves;H;1.0;0.0;3;0;Real Madrid;;17696;100
-286;02/04/17;Sevilla;Sp Gijon;D;0.0;0.0;0;0;Sevilla FC;;100;100
-287;02/04/17;Valencia;La Coruna;H;2.0;0.0;3;0;;;100;100
-288;03/04/17;Celta;Las Palmas;H;2.0;0.0;3;1;Celta;;8442;100
-289;04/04/17;Ath Bilbao;Espanol;H;2.0;0.0;2;0;;;100;100
-290;04/04/17;Ath Madrid;Sociedad;H;1.0;0.0;1;0;Real Madrid;Real Sociedad;17696;6982
-291;04/04/17;Betis;Villarreal;A;0.0;0.0;0;1;Real Betis;Villarreal;100;8065
-292;05/04/17;Alaves;Osasuna;A;0.0;0.0;0;1;;Osasuna;100;1617
-293;05/04/17;Barcelona;Sevilla;H;3.0;0.0;3;0;;Sevilla FC;100;100
-294;05/04/17;La Coruna;Granada;D;0.0;0.0;0;0;;;100;100
-295;05/04/17;Leganes;Real Madrid;A;2.0;3.0;2;4;;Real Madrid;100;17696
-296;05/04/17;Sp Gijon;Malaga;A;0.0;1.0;0;1;;;100;100
-297;06/04/17;Eibar;Las Palmas;H;2.0;0.0;3;1;Eibar;;6125;100
-298;06/04/17;Valencia;Celta;H;1.0;1.0;3;2;;Celta;100;8442
-299;07/04/17;Villarreal;Ath Bilbao;H;1.0;1.0;3;1;Villarreal;;8065;100
-300;08/04/17;Espanol;Alaves;H;0.0;0.0;1;0;;;100;100
-301;08/04/17;Malaga;Barcelona;H;1.0;0.0;2;0;;;100;100
-302;08/04/17;Real Madrid;Ath Madrid;D;0.0;0.0;1;1;Real Madrid;Real Madrid;17696;17696
-303;08/04/17;Sevilla;La Coruna;H;3.0;2.0;4;2;Sevilla FC;;100;100
-304;09/04/17;Celta;Eibar;A;0.0;1.0;0;2;Celta;Eibar;8442;6125
-305;09/04/17;Granada;Valencia;A;0.0;2.0;1;3;;;100;100
-306;09/04/17;Las Palmas;Betis;H;1.0;0.0;4;1;;Real Betis;100;100
-307;09/04/17;Osasuna;Leganes;H;1.0;1.0;2;1;Osasuna;;1617;100
-308;10/04/17;Sociedad;Sp Gijon;H;2.0;0.0;3;1;Real Sociedad;;6982;100
-309;14/04/17;Ath Bilbao;Las Palmas;H;3.0;1.0;5;1;;;100;100
-310;15/04/17;Ath Madrid;Osasuna;H;1.0;0.0;3;0;Real Madrid;Osasuna;17696;1617
-311;15/04/17;Barcelona;Sociedad;H;3.0;2.0;3;2;;Real Sociedad;100;6982
-312;15/04/17;La Coruna;Malaga;H;0.0;0.0;2;0;;;100;100
-313;15/04/17;Sp Gijon;Real Madrid;A;1.0;1.0;2;3;;Real Madrid;100;17696
-314;16/04/17;Betis;Eibar;H;1.0;0.0;2;0;Real Betis;Eibar;100;6125
-315;16/04/17;Granada;Celta;A;0.0;1.0;0;3;;Celta;100;8442
-316;16/04/17;Leganes;Espanol;A;0.0;0.0;0;1;;;100;100
-317;16/04/17;Valencia;Sevilla;D;0.0;0.0;0;0;;Sevilla FC;100;100
-318;17/04/17;Alaves;Villarreal;H;2.0;0.0;2;1;;Villarreal;100;8065
-319;21/04/17;Sevilla;Granada;H;1.0;0.0;2;0;Sevilla FC;;100;100
-320;22/04/17;Espanol;Ath Madrid;A;0.0;0.0;0;1;;Real Madrid;100;17696
-321;22/04/17;Malaga;Valencia;H;2.0;0.0;2;0;;;100;100
-322;22/04/17;Osasuna;Sp Gijon;D;1.0;0.0;2;2;Osasuna;;1617;100
-323;22/04/17;Villarreal;Leganes;H;0.0;0.0;2;1;Villarreal;;8065;100
-324;23/04/17;Celta;Betis;A;0.0;0.0;0;1;Celta;Real Betis;8442;100
-325;23/04/17;Las Palmas;Alaves;D;1.0;0.0;1;1;;;100;100
-326;23/04/17;Real Madrid;Barcelona;A;1.0;1.0;2;3;Real Madrid;;17696;100
-327;23/04/17;Sociedad;La Coruna;H;1.0;0.0;1;0;Real Sociedad;;6982;100
-328;24/04/17;Eibar;Ath Bilbao;A;0.0;0.0;0;1;Eibar;;6125;100
-329;25/04/17;Ath Madrid;Villarreal;A;0.0;0.0;0;1;Real Madrid;Villarreal;17696;8065
-330;25/04/17;Granada;Malaga;A;0.0;0.0;0;2;;;100;100
-331;25/04/17;Sp Gijon;Espanol;D;1.0;0.0;1;1;;;100;100
-332;26/04/17;Barcelona;Osasuna;H;2.0;0.0;7;1;;Osasuna;100;1617
-333;26/04/17;La Coruna;Real Madrid;A;1.0;3.0;2;6;;Real Madrid;100;17696
-334;26/04/17;Leganes;Las Palmas;H;0.0;0.0;3;0;;;100;100
-335;26/04/17;Valencia;Sociedad;A;0.0;2.0;2;3;;Real Sociedad;100;6982
-336;27/04/17;Alaves;Eibar;D;0.0;0.0;0;0;;Eibar;100;6125
-337;27/04/17;Ath Bilbao;Betis;H;0.0;0.0;2;1;;Real Betis;100;100
-338;27/04/17;Sevilla;Celta;H;0.0;0.0;2;1;Sevilla FC;Celta;100;8442
-339;28/04/17;Villarreal;Sp Gijon;H;1.0;0.0;3;1;Villarreal;;8065;100
-340;29/04/17;Espanol;Barcelona;A;0.0;0.0;0;3;;;100;100
-341;29/04/17;Las Palmas;Ath Madrid;A;0.0;3.0;0;5;;Real Madrid;100;17696
-342;29/04/17;Real Madrid;Valencia;H;1.0;0.0;2;1;Real Madrid;;17696;100
-343;29/04/17;Sociedad;Granada;H;1.0;0.0;2;1;Real Sociedad;;6982;100
-344;30/04/17;Betis;Alaves;A;1.0;0.0;1;4;Real Betis;;100;100
-345;30/04/17;Celta;Ath Bilbao;A;0.0;1.0;0;3;Celta;;8442;100
-346;30/04/17;Eibar;Leganes;H;0.0;0.0;2;0;Eibar;;6125;100
-347;30/04/17;Osasuna;La Coruna;D;1.0;1.0;2;2;Osasuna;;1617;100
-348;01/05/17;Malaga;Sevilla;H;1.0;1.0;4;2;;Sevilla FC;100;100
-349;05/05/17;Sevilla;Sociedad;D;1.0;0.0;1;1;Sevilla FC;Real Sociedad;100;6982
-350;06/05/17;Ath Madrid;Eibar;H;0.0;0.0;1;0;Real Madrid;Eibar;17696;6125
-351;06/05/17;Barcelona;Villarreal;H;2.0;1.0;4;1;;Villarreal;100;8065
-352;06/05/17;Granada;Real Madrid;A;0.0;4.0;0;4;;Real Madrid;100;17696
-353;06/05/17;Sp Gijon;Las Palmas;H;0.0;0.0;1;0;;;100;100
-354;07/05/17;Alaves;Ath Bilbao;H;0.0;0.0;1;0;;;100;100
-355;07/05/17;La Coruna;Espanol;A;0.0;2.0;1;2;;;100;100
-356;07/05/17;Malaga;Celta;H;1.0;0.0;3;0;;Celta;100;8442
-357;07/05/17;Valencia;Osasuna;H;2.0;0.0;4;1;;Osasuna;100;1617
-358;08/05/17;Leganes;Betis;H;2.0;0.0;4;0;;Real Betis;100;100
-359;13/05/17;Espanol;Valencia;A;0.0;0.0;0;1;;;100;100
-360;13/05/17;Osasuna;Granada;H;1.0;1.0;2;1;Osasuna;;1617;100
-361;14/05/17;Alaves;Celta;H;3.0;0.0;3;1;;Celta;100;8442
-362;14/05/17;Ath Bilbao;Leganes;D;1.0;0.0;1;1;;;100;100
-363;14/05/17;Betis;Ath Madrid;D;0.0;0.0;1;1;Real Betis;Real Madrid;100;17696
-364;14/05/17;Eibar;Sp Gijon;A;0.0;1.0;0;1;Eibar;;6125;100
-365;14/05/17;Las Palmas;Barcelona;A;0.0;2.0;1;4;;;100;100
-366;14/05/17;Real Madrid;Sevilla;H;2.0;0.0;4;1;Real Madrid;Sevilla FC;17696;100
-367;14/05/17;Sociedad;Malaga;D;1.0;1.0;2;2;Real Sociedad;;6982;100
-368;14/05/17;Villarreal;La Coruna;D;0.0;0.0;0;0;Villarreal;;8065;100
-369;17/05/17;Celta;Real Madrid;A;0.0;1.0;1;4;Celta;Real Madrid;8442;17696
-370;19/05/17;Granada;Espanol;A;1.0;2.0;1;2;;;100;100
-371;20/05/17;La Coruna;Las Palmas;H;3.0;0.0;3;0;;;100;100
-372;20/05/17;Leganes;Alaves;D;0.0;0.0;1;1;;;100;100
-373;20/05/17;Sevilla;Osasuna;H;3.0;0.0;5;0;Sevilla FC;Osasuna;100;1617
-374;20/05/17;Sp Gijon;Betis;D;1.0;1.0;2;2;;Real Betis;100;100
-375;21/05/17;Ath Madrid;Ath Bilbao;H;2.0;0.0;3;1;Real Madrid;;17696;100
-376;21/05/17;Barcelona;Eibar;H;0.0;1.0;4;2;;Eibar;100;6125
-377;21/05/17;Celta;Sociedad;D;0.0;0.0;2;2;Celta;Real Sociedad;8442;6982
-378;21/05/17;Malaga;Real Madrid;A;0.0;1.0;0;2;;Real Madrid;100;17696
-379;21/05/17;Valencia;Villarreal;A;0.0;1.0;1;3;;Villarreal;100;8065
-0;12/08/16;Bastia;Paris SG;A;0.0;0.0;0;1;;PSG;100;9144
-1;12/08/16;Monaco;Guingamp;D;0.0;2.0;2;2;Monaco;;8320;100
-2;13/08/16;Bordeaux;St Etienne;H;1.0;0.0;3;2;Bordeaux;Saint-Étienne;3286;2236
-3;13/08/16;Caen;Lorient;H;2.0;2.0;3;2;;;100;100
-4;13/08/16;Dijon;Nantes;A;0.0;0.0;0;1;Dijon FCO;Nantes;2154;3158
-5;13/08/16;Metz;Lille;H;0.0;1.0;3;2;FC Metz;Lille;1759;2452
-6;13/08/16;Montpellier;Angers;H;1.0;0.0;1;0;Montpellier;Angers SCO;2396;3175
-7;14/08/16;Marseille;Toulouse;D;0.0;0.0;0;0;Marseille;Toulouse;5086;2127
-8;14/08/16;Nancy;Lyon;A;0.0;2.0;0;3;;Olympique Lyon;100;7682
-9;14/08/16;Nice;Rennes;H;0.0;0.0;1;0;Nice;Stade Rennais;4420;100
-10;19/08/16;Lyon;Caen;H;1.0;0.0;2;0;Olympique Lyon;;7682;100
-11;20/08/16;Angers;Nice;A;0.0;1.0;0;1;Angers SCO;Nice;3175;4420
-12;20/08/16;Lille;Dijon;H;0.0;0.0;1;0;Lille;Dijon FCO;2452;2154
-13;20/08/16;Lorient;Bastia;A;0.0;2.0;0;3;;;100;100
-14;20/08/16;Nantes;Monaco;A;0.0;1.0;0;1;Nantes;Monaco;3158;8320
-15;20/08/16;Rennes;Nancy;H;1.0;0.0;2;0;Stade Rennais;;100;100
-16;20/08/16;Toulouse;Bordeaux;H;2.0;0.0;4;1;Toulouse;Bordeaux;2127;3286
-17;21/08/16;Guingamp;Marseille;H;1.0;0.0;2;1;;Marseille;100;5086
-18;21/08/16;Paris SG;Metz;H;0.0;0.0;3;0;PSG;FC Metz;9144;1759
-19;21/08/16;St Etienne;Montpellier;H;0.0;1.0;3;1;Saint-Étienne;Montpellier;2236;2396
-20;26/08/16;Marseille;Lorient;H;1.0;0.0;2;0;Marseille;;5086;100
-21;27/08/16;Caen;Bastia;H;0.0;0.0;2;0;;;100;100
-22;27/08/16;Dijon;Lyon;H;2.0;2.0;4;2;Dijon FCO;Olympique Lyon;2154;7682
-23;27/08/16;Metz;Angers;H;1.0;0.0;2;0;FC Metz;Angers SCO;1759;3175
-24;27/08/16;Montpellier;Rennes;D;1.0;0.0;1;1;Montpellier;Stade Rennais;2396;100
-25;27/08/16;Nancy;Guingamp;A;0.0;0.0;0;2;;;100;100
-26;27/08/16;Nice;Lille;D;1.0;1.0;1;1;Nice;Lille;4420;2452
-27;28/08/16;Bordeaux;Nantes;H;1.0;0.0;1;0;Bordeaux;Nantes;3286;3158
-28;28/08/16;Monaco;Paris SG;H;2.0;0.0;3;1;Monaco;PSG;8320;9144
-29;28/08/16;St Etienne;Toulouse;D;0.0;0.0;0;0;Saint-Étienne;Toulouse;2236;2127
-30;09/09/16;Paris SG;St Etienne;D;0.0;0.0;1;1;PSG;Saint-Étienne;9144;2236
-31;10/09/16;Angers;Dijon;H;1.0;1.0;3;1;Angers SCO;Dijon FCO;3175;2154
-32;10/09/16;Bastia;Toulouse;H;1.0;0.0;2;1;;Toulouse;100;2127
-33;10/09/16;Guingamp;Montpellier;D;1.0;1.0;1;1;;Montpellier;100;2396
-34;10/09/16;Lille;Monaco;A;0.0;2.0;1;4;Lille;Monaco;2452;8320
-35;10/09/16;Lorient;Nancy;A;0.0;1.0;0;2;;;100;100
-36;10/09/16;Lyon;Bordeaux;A;1.0;1.0;1;3;Olympique Lyon;Bordeaux;7682;3286
-37;11/09/16;Nantes;Metz;A;0.0;2.0;0;3;Nantes;FC Metz;3158;1759
-38;11/09/16;Nice;Marseille;H;1.0;1.0;3;2;Nice;Marseille;4420;5086
-39;11/09/16;Rennes;Caen;H;0.0;0.0;2;0;Stade Rennais;;100;100
-40;16/09/16;Caen;Paris SG;A;0.0;4.0;0;6;;PSG;100;9144
-41;17/09/16;Bordeaux;Angers;A;0.0;1.0;0;1;Bordeaux;Angers SCO;3286;3175
-42;17/09/16;Dijon;Metz;D;0.0;0.0;0;0;Dijon FCO;FC Metz;2154;1759
-43;17/09/16;Lorient;Lille;H;0.0;0.0;1;0;;Lille;100;2452
-44;17/09/16;Monaco;Rennes;H;1.0;0.0;3;0;Monaco;Stade Rennais;8320;100
-45;17/09/16;Nancy;Nantes;D;0.0;0.0;1;1;;Nantes;100;3158
-46;17/09/16;Toulouse;Guingamp;H;0.0;0.0;2;1;Toulouse;;2127;100
-47;18/09/16;Marseille;Lyon;D;0.0;0.0;0;0;Marseille;Olympique Lyon;5086;7682
-48;18/09/16;Montpellier;Nice;D;0.0;0.0;1;1;Montpellier;Nice;2396;4420
-49;18/09/16;St Etienne;Bastia;H;0.0;0.0;1;0;Saint-Étienne;;2236;100
-50;20/09/16;Lille;Toulouse;A;1.0;1.0;1;2;Lille;Toulouse;2452;2127
-51;20/09/16;Paris SG;Dijon;H;2.0;0.0;3;0;PSG;Dijon FCO;9144;2154
-52;21/09/16;Angers;Caen;H;1.0;0.0;2;1;Angers SCO;;3175;100
-53;21/09/16;Bastia;Nancy;D;0.0;0.0;0;0;;;100;100
-54;21/09/16;Guingamp;Lorient;H;0.0;0.0;1;0;;;100;100
-55;21/09/16;Lyon;Montpellier;H;2.0;1.0;5;1;Olympique Lyon;Montpellier;7682;2396
-56;21/09/16;Metz;Bordeaux;A;0.0;1.0;0;3;FC Metz;Bordeaux;1759;3286
-57;21/09/16;Nantes;St Etienne;D;0.0;0.0;0;0;Nantes;Saint-Étienne;3158;2236
-58;21/09/16;Nice;Monaco;H;2.0;0.0;4;0;Nice;Monaco;4420;8320
-59;21/09/16;Rennes;Marseille;H;1.0;1.0;3;2;Stade Rennais;Marseille;100;5086
-60;23/09/16;Toulouse;Paris SG;H;0.0;0.0;2;0;Toulouse;PSG;2127;9144
-61;24/09/16;Bastia;Guingamp;H;0.0;0.0;1;0;;;100;100
-62;24/09/16;Bordeaux;Caen;D;0.0;0.0;0;0;Bordeaux;;3286;100
-63;24/09/16;Dijon;Rennes;H;2.0;0.0;3;0;Dijon FCO;Stade Rennais;2154;100
-64;24/09/16;Lorient;Lyon;H;0.0;0.0;1;0;;Olympique Lyon;100;7682
-65;24/09/16;Monaco;Angers;H;0.0;0.0;2;1;Monaco;Angers SCO;8320;3175
-66;24/09/16;Montpellier;Metz;A;0.0;1.0;0;1;Montpellier;FC Metz;2396;1759
-67;25/09/16;Marseille;Nantes;H;1.0;1.0;2;1;Marseille;Nantes;5086;3158
-68;25/09/16;Nancy;Nice;A;0.0;0.0;0;1;;Nice;100;4420
-69;25/09/16;St Etienne;Lille;H;0.0;0.0;3;1;Saint-Étienne;Lille;2236;2452
-70;30/09/16;Rennes;Guingamp;H;0.0;0.0;1;0;Stade Rennais;;100;100
-71;01/10/16;Caen;Toulouse;H;0.0;0.0;1;0;;Toulouse;100;2127
-72;01/10/16;Dijon;Montpellier;D;1.0;2.0;3;3;Dijon FCO;Montpellier;2154;2396
-73;01/10/16;Lille;Nancy;H;0.0;0.0;1;0;Lille;;2452;100
-74;01/10/16;Metz;Monaco;A;0.0;3.0;0;7;FC Metz;Monaco;1759;8320
-75;01/10/16;Nantes;Bastia;H;1.0;0.0;1;0;Nantes;;3158;100
-76;01/10/16;Paris SG;Bordeaux;H;2.0;0.0;2;0;PSG;Bordeaux;9144;3286
-77;02/10/16;Angers;Marseille;D;0.0;0.0;1;1;Angers SCO;Marseille;3175;5086
-78;02/10/16;Lyon;St Etienne;H;1.0;0.0;2;0;Olympique Lyon;Saint-Étienne;7682;2236
-79;02/10/16;Nice;Lorient;H;1.0;0.0;2;1;Nice;;4420;100
-80;14/10/16;Nice;Lyon;H;1.0;0.0;2;0;Nice;Olympique Lyon;4420;7682
-81;14/10/16;Toulouse;Monaco;H;0.0;1.0;3;1;Toulouse;Monaco;2127;8320
-82;15/10/16;Bastia;Angers;A;1.0;1.0;1;2;;Angers SCO;100;3175
-83;15/10/16;Guingamp;Lille;H;1.0;0.0;1;0;;Lille;100;2452
-84;15/10/16;Lorient;Nantes;A;0.0;1.0;1;2;;Nantes;100;3158
-85;15/10/16;Montpellier;Caen;H;1.0;1.0;3;2;Montpellier;;2396;100
-86;15/10/16;Nancy;Paris SG;A;0.0;2.0;1;2;;PSG;100;9144
-87;16/10/16;Marseille;Metz;H;1.0;0.0;1;0;Marseille;FC Metz;5086;1759
-88;16/10/16;Rennes;Bordeaux;D;1.0;0.0;1;1;Stade Rennais;Bordeaux;100;3286
-89;16/10/16;St Etienne;Dijon;D;0.0;1.0;1;1;Saint-Étienne;Dijon FCO;2236;2154
-90;21/10/16;Monaco;Montpellier;H;1.0;1.0;6;2;Monaco;Montpellier;8320;2396
-91;22/10/16;Angers;Toulouse;D;0.0;0.0;0;0;Angers SCO;Toulouse;3175;2127
-92;22/10/16;Bordeaux;Nancy;D;0.0;0.0;1;1;Bordeaux;;3286;100
-93;22/10/16;Dijon;Lorient;H;0.0;0.0;1;0;Dijon FCO;;2154;100
-94;22/10/16;Lille;Bastia;H;0.0;0.0;2;1;Lille;;2452;100
-95;22/10/16;Lyon;Guingamp;A;1.0;0.0;1;3;Olympique Lyon;;7682;100
-96;22/10/16;Nantes;Rennes;A;1.0;0.0;1;2;Nantes;Stade Rennais;3158;100
-97;23/10/16;Caen;St Etienne;A;0.0;0.0;0;2;;Saint-Étienne;100;2236
-98;23/10/16;Metz;Nice;A;1.0;2.0;2;4;FC Metz;Nice;1759;4420
-99;23/10/16;Paris SG;Marseille;D;0.0;0.0;0;0;PSG;Marseille;9144;5086
-100;28/10/16;Lille;Paris SG;A;0.0;0.0;0;1;Lille;PSG;2452;9144
-101;29/10/16;Bastia;Dijon;D;0.0;0.0;0;0;;Dijon FCO;100;2154
-102;29/10/16;Guingamp;Angers;H;0.0;0.0;1;0;;Angers SCO;100;3175
-103;29/10/16;Lorient;Montpellier;D;2.0;1.0;2;2;;Montpellier;100;2396
-104;29/10/16;Nancy;Caen;H;2.0;0.0;2;0;;;100;100
-105;29/10/16;St Etienne;Monaco;D;1.0;1.0;1;1;Saint-Étienne;Monaco;2236;8320
-106;29/10/16;Toulouse;Lyon;A;1.0;1.0;1;2;Toulouse;Olympique Lyon;2127;7682
-107;30/10/16;Marseille;Bordeaux;D;0.0;0.0;0;0;Marseille;Bordeaux;5086;3286
-108;30/10/16;Nice;Nantes;H;2.0;0.0;4;1;Nice;Nantes;4420;3158
-109;30/10/16;Rennes;Metz;H;0.0;0.0;1;0;Stade Rennais;FC Metz;100;1759
-110;04/11/16;Montpellier;Marseille;H;2.0;0.0;3;1;Montpellier;Marseille;2396;5086
-111;05/11/16;Angers;Lille;H;0.0;0.0;1;0;Angers SCO;Lille;3175;2452
-112;05/11/16;Bordeaux;Lorient;H;1.0;0.0;2;1;Bordeaux;;3286;100
-113;05/11/16;Dijon;Guingamp;D;3.0;1.0;3;3;Dijon FCO;;2154;100
-114;05/11/16;Lyon;Bastia;H;1.0;0.0;2;1;Olympique Lyon;;7682;100
-115;05/11/16;Monaco;Nancy;H;2.0;0.0;6;0;Monaco;;8320;100
-116;05/11/16;Nantes;Toulouse;D;0.0;1.0;1;1;Nantes;Toulouse;3158;2127
-117;06/11/16;Caen;Nice;H;1.0;0.0;1;0;;Nice;100;4420
-118;06/11/16;Metz;St Etienne;D;0.0;0.0;0;0;FC Metz;Saint-Étienne;1759;2236
-119;06/11/16;Paris SG;Rennes;H;2.0;0.0;4;0;PSG;Stade Rennais;9144;100
-120;18/11/16;Lille;Lyon;A;0.0;1.0;0;1;Lille;Olympique Lyon;2452;7682
-121;18/11/16;Lorient;Monaco;A;0.0;0.0;0;3;;Monaco;100;8320
-122;19/11/16;Bastia;Montpellier;D;1.0;0.0;1;1;;Montpellier;100;2396
-123;19/11/16;Nancy;Dijon;H;0.0;0.0;1;0;;Dijon FCO;100;2154
-124;19/11/16;Paris SG;Nantes;H;1.0;0.0;2;0;PSG;Nantes;9144;3158
-125;19/11/16;Rennes;Angers;D;1.0;0.0;1;1;Stade Rennais;Angers SCO;100;3175
-126;19/11/16;Toulouse;Metz;A;0.0;1.0;1;2;Toulouse;FC Metz;2127;1759
-127;20/11/16;Guingamp;Bordeaux;D;0.0;1.0;1;1;;Bordeaux;100;3286
-128;20/11/16;Marseille;Caen;H;0.0;0.0;1;0;Marseille;;5086;100
-129;20/11/16;St Etienne;Nice;A;0.0;0.0;0;1;Saint-Étienne;Nice;2236;4420
-130;25/11/16;Rennes;Toulouse;H;1.0;0.0;1;0;Stade Rennais;Toulouse;100;2127
-131;26/11/16;Bordeaux;Dijon;H;0.0;1.0;3;2;Bordeaux;Dijon FCO;3286;2154
-132;26/11/16;Caen;Guingamp;D;0.0;0.0;1;1;;;100;100
-133;26/11/16;Metz;Lorient;D;1.0;1.0;3;3;FC Metz;;1759;100
-134;26/11/16;Monaco;Marseille;H;3.0;0.0;4;0;Monaco;Marseille;8320;5086
-135;26/11/16;Montpellier;Nancy;D;0.0;0.0;0;0;Montpellier;;2396;100
-136;26/11/16;Nantes;Lille;D;0.0;0.0;0;0;Nantes;Lille;3158;2452
-137;27/11/16;Angers;St Etienne;A;1.0;0.0;1;2;Angers SCO;Saint-Étienne;3175;2236
-138;27/11/16;Lyon;Paris SG;A;0.0;1.0;1;2;Olympique Lyon;PSG;7682;9144
-139;27/11/16;Nice;Bastia;D;1.0;0.0;1;1;Nice;;4420;100
-140;29/11/16;Dijon;Monaco;D;0.0;1.0;1;1;Dijon FCO;Monaco;2154;8320
-141;29/11/16;Lille;Caen;H;2.0;1.0;4;2;Lille;;2452;100
-142;29/11/16;Lorient;Rennes;H;1.0;1.0;2;1;;Stade Rennais;100;100
-143;30/11/16;Bastia;Bordeaux;D;0.0;0.0;1;1;;Bordeaux;100;3286
-144;30/11/16;Guingamp;Nice;A;0.0;1.0;0;1;;Nice;100;4420
-145;30/11/16;Nancy;Metz;H;1.0;0.0;4;0;;FC Metz;100;1759
-146;30/11/16;Nantes;Lyon;A;0.0;3.0;0;6;Nantes;Olympique Lyon;3158;7682
-147;30/11/16;Paris SG;Angers;H;1.0;0.0;2;0;PSG;Angers SCO;9144;3175
-148;30/11/16;St Etienne;Marseille;D;0.0;0.0;0;0;Saint-Étienne;Marseille;2236;5086
-149;30/11/16;Toulouse;Montpellier;H;1.0;0.0;1;0;Toulouse;Montpellier;2127;2396
-150;02/12/16;Caen;Dijon;D;3.0;1.0;3;3;;Dijon FCO;100;2154
-151;03/12/16;Angers;Lorient;D;1.0;1.0;2;2;Angers SCO;;3175;100
-152;03/12/16;Bordeaux;Lille;A;0.0;1.0;0;1;Bordeaux;Lille;3286;2452
-153;03/12/16;Guingamp;Nantes;H;1.0;0.0;2;0;;Nantes;100;3158
-154;03/12/16;Monaco;Bastia;H;1.0;0.0;5;0;Monaco;;8320;100
-155;03/12/16;Montpellier;Paris SG;H;1.0;0.0;3;0;Montpellier;PSG;2396;9144
-156;04/12/16;Marseille;Nancy;H;0.0;0.0;3;0;Marseille;;5086;100
-157;04/12/16;Nice;Toulouse;H;2.0;0.0;3;0;Nice;Toulouse;4420;2127
-158;04/12/16;Rennes;St Etienne;H;0.0;0.0;2;0;Stade Rennais;Saint-Étienne;100;2236
-159;10/12/16;Bastia;Metz;H;1.0;0.0;2;0;;FC Metz;100;1759
-160;10/12/16;Bordeaux;Monaco;A;0.0;2.0;0;4;Bordeaux;Monaco;3286;8320
-161;10/12/16;Dijon;Marseille;A;0.0;1.0;1;2;Dijon FCO;Marseille;2154;5086
-162;10/12/16;Lille;Montpellier;H;2.0;0.0;2;1;Lille;Montpellier;2452;2396
-163;10/12/16;Nancy;Angers;H;1.0;0.0;2;0;;Angers SCO;100;3175
-164;10/12/16;Toulouse;Lorient;H;2.0;1.0;3;2;Toulouse;;2127;100
-165;11/12/16;Lyon;Rennes;H;1.0;0.0;1;0;Olympique Lyon;Stade Rennais;7682;100
-166;11/12/16;Paris SG;Nice;D;0.0;2.0;2;2;PSG;Nice;9144;4420
-167;11/12/16;St Etienne;Guingamp;H;1.0;0.0;1;0;Saint-Étienne;;2236;100
-168;16/12/16;Angers;Nantes;A;0.0;1.0;0;2;Angers SCO;Nantes;3175;3158
-169;17/12/16;Guingamp;Paris SG;H;0.0;0.0;2;1;;PSG;100;9144
-170;17/12/16;Lorient;St Etienne;H;1.0;0.0;2;1;;Saint-Étienne;100;2236
-171;17/12/16;Montpellier;Bordeaux;H;2.0;0.0;4;0;Montpellier;Bordeaux;2396;3286
-172;17/12/16;Rennes;Bastia;A;0.0;0.0;1;2;Stade Rennais;;100;100
-173;17/12/16;Toulouse;Nancy;D;0.0;1.0;1;1;Toulouse;;2127;100
-174;18/12/16;Caen;Metz;H;1.0;0.0;3;0;;FC Metz;100;1759
-175;18/12/16;Marseille;Lille;H;0.0;0.0;2;0;Marseille;Lille;5086;2452
-176;18/12/16;Monaco;Lyon;A;0.0;1.0;1;3;Monaco;Olympique Lyon;8320;7682
-177;18/12/16;Nice;Dijon;H;1.0;1.0;2;1;Nice;Dijon FCO;4420;2154
-178;21/12/16;Bastia;Marseille;A;0.0;1.0;1;2;;Marseille;100;5086
-179;21/12/16;Bordeaux;Nice;D;0.0;0.0;0;0;Bordeaux;Nice;3286;4420
-180;21/12/16;Dijon;Toulouse;H;0.0;0.0;2;0;Dijon FCO;Toulouse;2154;2127
-181;21/12/16;Lille;Rennes;D;0.0;1.0;1;1;Lille;Stade Rennais;2452;100
-182;21/12/16;Lyon;Angers;H;1.0;0.0;2;0;Olympique Lyon;Angers SCO;7682;3175
-183;21/12/16;Metz;Guingamp;D;1.0;0.0;2;2;FC Metz;;1759;100
-184;21/12/16;Monaco;Caen;H;0.0;0.0;2;1;Monaco;;8320;100
-185;21/12/16;Nantes;Montpellier;H;1.0;0.0;1;0;Nantes;Montpellier;3158;2396
-186;21/12/16;Paris SG;Lorient;H;2.0;0.0;5;0;PSG;;9144;100
-187;21/12/16;St Etienne;Nancy;D;0.0;0.0;0;0;Saint-Étienne;;2236;100
-188;13/01/17;Lille;St Etienne;D;0.0;1.0;1;1;Lille;Saint-Étienne;2452;2236
-189;14/01/17;Angers;Bordeaux;D;1.0;1.0;1;1;Angers SCO;Bordeaux;3175;3286
-190;14/01/17;Lorient;Guingamp;H;0.0;1.0;3;1;;;100;100
-191;14/01/17;Montpellier;Dijon;D;0.0;1.0;1;1;Montpellier;Dijon FCO;2396;2154
-192;14/01/17;Nancy;Bastia;H;0.0;0.0;1;0;;;100;100
-193;14/01/17;Rennes;Paris SG;A;0.0;1.0;0;1;Stade Rennais;PSG;100;9144
-194;14/01/17;Toulouse;Nantes;A;0.0;1.0;0;1;Toulouse;Nantes;2127;3158
-195;15/01/17;Caen;Lyon;H;2.0;2.0;3;2;;Olympique Lyon;100;7682
-196;15/01/17;Marseille;Monaco;A;1.0;3.0;1;4;Marseille;Monaco;5086;8320
-197;15/01/17;Nice;Metz;D;0.0;0.0;0;0;Nice;FC Metz;4420;1759
-198;18/01/17;Nantes;Caen;H;0.0;0.0;1;0;Nantes;;3158;100
-199;20/01/17;Bastia;Nice;D;1.0;1.0;1;1;;Nice;100;4420
-200;21/01/17;Bordeaux;Toulouse;H;1.0;0.0;1;0;Bordeaux;Toulouse;3286;2127
-201;21/01/17;Dijon;Lille;D;0.0;0.0;0;0;Dijon FCO;Lille;2154;2452
-202;21/01/17;Guingamp;Rennes;D;1.0;0.0;1;1;;Stade Rennais;100;100
-203;21/01/17;Metz;Montpellier;H;2.0;0.0;2;0;FC Metz;Montpellier;1759;2396
-204;21/01/17;Nantes;Paris SG;A;0.0;1.0;0;2;Nantes;PSG;3158;9144
-205;22/01/17;Lyon;Marseille;H;1.0;0.0;3;1;Olympique Lyon;Marseille;7682;5086
-206;22/01/17;Monaco;Lorient;H;3.0;0.0;4;0;Monaco;;8320;100
-207;22/01/17;St Etienne;Angers;H;0.0;1.0;2;1;Saint-Étienne;Angers SCO;2236;3175
-208;27/01/17;Marseille;Montpellier;H;3.0;0.0;5;1;Marseille;Montpellier;5086;2396
-209;28/01/17;Angers;Metz;H;2.0;1.0;2;1;Angers SCO;FC Metz;3175;1759
-210;28/01/17;Bastia;Caen;D;1.0;1.0;1;1;;;100;100
-211;28/01/17;Lorient;Dijon;A;0.0;1.0;2;3;;Dijon FCO;100;2154
-212;28/01/17;Lyon;Lille;A;0.0;1.0;1;2;Olympique Lyon;Lille;7682;2452
-213;28/01/17;Nancy;Bordeaux;A;0.0;0.0;0;2;;Bordeaux;100;3286
-214;28/01/17;Rennes;Nantes;D;0.0;1.0;1;1;Stade Rennais;Nantes;100;3158
-215;29/01/17;Nice;Guingamp;H;2.0;0.0;3;1;Nice;;4420;100
-216;29/01/17;Paris SG;Monaco;D;0.0;0.0;1;1;PSG;Monaco;9144;8320
-217;29/01/17;Toulouse;St Etienne;A;0.0;1.0;0;3;Toulouse;Saint-Étienne;2127;2236
-218;03/02/17;Metz;Marseille;H;0.0;0.0;1;0;FC Metz;Marseille;1759;5086
-219;04/02/17;Bordeaux;Rennes;D;0.0;0.0;1;1;Bordeaux;Stade Rennais;3286;100
-220;04/02/17;Dijon;Paris SG;A;1.0;1.0;1;3;Dijon FCO;PSG;2154;9144
-221;04/02/17;Guingamp;Caen;A;0.0;0.0;0;1;;;100;100
-222;04/02/17;Lille;Lorient;A;0.0;0.0;0;1;Lille;;2452;100
-223;04/02/17;Monaco;Nice;H;0.0;0.0;3;0;Monaco;Nice;8320;4420
-224;04/02/17;Montpellier;Bastia;H;1.0;1.0;2;1;Montpellier;;2396;100
-225;05/02/17;Nantes;Nancy;A;0.0;0.0;0;2;Nantes;;3158;100
-226;05/02/17;St Etienne;Lyon;H;2.0;0.0;2;0;Saint-Étienne;Olympique Lyon;2236;7682
-227;05/02/17;Toulouse;Angers;H;0.0;0.0;4;0;Toulouse;Angers SCO;2127;3175
-228;07/02/17;Caen;Bordeaux;A;0.0;2.0;0;4;;Bordeaux;100;3286
-229;07/02/17;Montpellier;Monaco;A;0.0;2.0;1;2;Montpellier;Monaco;2396;8320
-230;07/02/17;Paris SG;Lille;H;0.0;0.0;2;1;PSG;Lille;9144;2452
-231;08/02/17;Angers;Rennes;D;0.0;0.0;0;0;Angers SCO;Stade Rennais;3175;100
-232;08/02/17;Lorient;Toulouse;D;0.0;1.0;1;1;;Toulouse;100;2127
-233;08/02/17;Lyon;Nancy;H;2.0;0.0;4;0;Olympique Lyon;;7682;100
-234;08/02/17;Marseille;Guingamp;H;1.0;0.0;2;0;Marseille;;5086;100
-235;08/02/17;Metz;Dijon;H;0.0;0.0;2;1;FC Metz;Dijon FCO;1759;2154
-236;08/02/17;Nice;St Etienne;H;1.0;0.0;1;0;Nice;Saint-Étienne;4420;2236
-237;10/02/17;Bordeaux;Paris SG;A;0.0;2.0;0;3;Bordeaux;PSG;3286;9144
-238;11/02/17;Dijon;Caen;H;1.0;0.0;2;0;Dijon FCO;;2154;100
-239;11/02/17;Guingamp;Lyon;H;2.0;1.0;2;1;;Olympique Lyon;100;7682
-240;11/02/17;Lille;Angers;A;1.0;1.0;1;2;Lille;Angers SCO;2452;3175
-241;11/02/17;Monaco;Metz;H;3.0;0.0;5;0;Monaco;FC Metz;8320;1759
-242;11/02/17;Nancy;Montpellier;A;0.0;2.0;0;3;;Montpellier;100;2396
-243;11/02/17;Toulouse;Bastia;H;2.0;0.0;4;1;Toulouse;;2127;100
-244;12/02/17;Nantes;Marseille;H;2.0;0.0;3;2;Nantes;Marseille;3158;5086
-245;12/02/17;Rennes;Nice;D;2.0;0.0;2;2;Stade Rennais;Nice;100;4420
-246;12/02/17;St Etienne;Lorient;H;2.0;0.0;4;0;Saint-Étienne;;2236;100
-247;17/02/17;Bastia;Monaco;D;1.0;0.0;1;1;;Monaco;100;8320
-248;18/02/17;Angers;Nancy;H;1.0;0.0;1;0;Angers SCO;;3175;100
-249;18/02/17;Caen;Lille;A;0.0;0.0;0;1;;Lille;100;2452
-250;18/02/17;Lorient;Nice;A;0.0;1.0;0;1;;Nice;100;4420
-251;18/02/17;Marseille;Rennes;H;0.0;0.0;2;0;Marseille;Stade Rennais;5086;100
-252;18/02/17;Metz;Nantes;D;0.0;0.0;1;1;FC Metz;Nantes;1759;3158
-253;19/02/17;Bordeaux;Guingamp;H;2.0;0.0;3;0;Bordeaux;;3286;100
-254;19/02/17;Lyon;Dijon;H;1.0;1.0;4;2;Olympique Lyon;Dijon FCO;7682;2154
-255;19/02/17;Montpellier;St Etienne;H;0.0;1.0;2;1;Montpellier;Saint-Étienne;2396;2236
-256;19/02/17;Paris SG;Toulouse;D;0.0;0.0;0;0;PSG;Toulouse;9144;2127
-257;21/02/17;Caen;Nancy;H;1.0;0.0;1;0;;;100;100
-258;24/02/17;Nantes;Dijon;H;1.0;1.0;3;1;Nantes;Dijon FCO;3158;2154
-259;24/02/17;Nice;Montpellier;H;0.0;1.0;2;1;Nice;Montpellier;4420;2396
-260;25/02/17;Angers;Bastia;H;1.0;0.0;3;0;Angers SCO;;3175;100
-261;25/02/17;Guingamp;Monaco;A;0.0;1.0;1;2;;Monaco;100;8320
-262;25/02/17;Lille;Bordeaux;A;0.0;1.0;2;3;Lille;Bordeaux;2452;3286
-263;25/02/17;Nancy;Toulouse;D;0.0;0.0;0;0;;Toulouse;100;2127
-264;25/02/17;Rennes;Lorient;H;1.0;0.0;1;0;Stade Rennais;;100;100
-265;26/02/17;Lyon;Metz;H;1.0;0.0;5;0;Olympique Lyon;FC Metz;7682;1759
-266;26/02/17;Marseille;Paris SG;A;0.0;2.0;1;5;Marseille;PSG;5086;9144
-267;26/02/17;St Etienne;Caen;A;0.0;1.0;0;1;Saint-Étienne;;2236;100
-268;01/03/17;Bastia;Nantes;D;0.0;0.0;2;2;;Nantes;100;3158
-269;03/03/17;Bordeaux;Lyon;D;1.0;0.0;1;1;Bordeaux;Olympique Lyon;3286;7682
-270;04/03/17;Bastia;St Etienne;D;0.0;0.0;0;0;;Saint-Étienne;100;2236
-271;04/03/17;Caen;Angers;A;1.0;2.0;2;3;;Angers SCO;100;3175
-272;04/03/17;Dijon;Nice;A;0.0;0.0;0;1;Dijon FCO;Nice;2154;4420
-273;04/03/17;Metz;Rennes;D;1.0;0.0;1;1;FC Metz;Stade Rennais;1759;100
-274;04/03/17;Montpellier;Guingamp;D;0.0;0.0;1;1;Montpellier;;2396;100
-275;04/03/17;Paris SG;Nancy;H;0.0;0.0;1;0;PSG;;9144;100
-276;05/03/17;Lorient;Marseille;A;0.0;2.0;1;4;;Marseille;100;5086
-277;05/03/17;Monaco;Nantes;H;3.0;0.0;4;0;Monaco;Nantes;8320;3158
-278;05/03/17;Toulouse;Lille;D;1.0;0.0;1;1;Toulouse;Lille;2127;2452
-279;10/03/17;Marseille;Angers;H;2.0;0.0;3;0;Marseille;Angers SCO;5086;3175
-280;10/03/17;Nice;Caen;D;0.0;1.0;2;2;Nice;;4420;100
-281;11/03/17;Guingamp;Bastia;H;0.0;0.0;5;0;;;100;100
-282;11/03/17;Monaco;Bordeaux;H;0.0;0.0;2;1;Monaco;Bordeaux;8320;3286
-283;11/03/17;Montpellier;Nantes;A;1.0;1.0;2;3;Montpellier;Nantes;2396;3158
-284;11/03/17;Nancy;Lille;A;1.0;0.0;1;2;;Lille;100;2452
-285;11/03/17;Rennes;Dijon;D;0.0;1.0;1;1;Stade Rennais;Dijon FCO;100;2154
-286;12/03/17;Lorient;Paris SG;A;0.0;1.0;1;2;;PSG;100;9144
-287;12/03/17;Lyon;Toulouse;H;1.0;0.0;4;0;Olympique Lyon;Toulouse;7682;2127
-288;12/03/17;St Etienne;Metz;D;0.0;1.0;2;2;Saint-Étienne;FC Metz;2236;1759
-289;17/03/17;Lille;Marseille;D;0.0;0.0;0;0;Lille;Marseille;2452;5086
-290;17/03/17;Metz;Bastia;H;0.0;0.0;1;0;FC Metz;;1759;100
-291;18/03/17;Angers;Guingamp;H;0.0;0.0;3;0;Angers SCO;;3175;100
-292;18/03/17;Bordeaux;Montpellier;H;3.0;0.0;5;1;Bordeaux;Montpellier;3286;2396
-293;18/03/17;Nancy;Lorient;A;2.0;0.0;2;3;;;100;100
-294;18/03/17;Nantes;Nice;D;1.0;1.0;1;1;Nantes;Nice;3158;4420
-295;18/03/17;Toulouse;Rennes;D;0.0;0.0;0;0;Toulouse;Stade Rennais;2127;100
-296;19/03/17;Caen;Monaco;A;0.0;1.0;0;3;;Monaco;100;8320
-297;19/03/17;Dijon;St Etienne;A;0.0;0.0;0;1;Dijon FCO;Saint-Étienne;2154;2236
-298;19/03/17;Paris SG;Lyon;H;2.0;1.0;2;1;PSG;Olympique Lyon;9144;7682
-299;31/03/17;Guingamp;Nancy;H;0.0;0.0;1;0;;;100;100
-300;01/04/17;Bastia;Lille;A;0.0;0.0;0;1;;Lille;100;2452
-301;01/04/17;Marseille;Dijon;D;0.0;1.0;1;1;Marseille;Dijon FCO;5086;2154
-302;02/04/17;Lorient;Caen;H;1.0;0.0;1;0;;;100;100
-303;02/04/17;Montpellier;Toulouse;A;0.0;1.0;0;1;Montpellier;Toulouse;2396;2127
-304;02/04/17;Nantes;Angers;H;0.0;0.0;2;1;Nantes;Angers SCO;3158;3175
-305;02/04/17;Nice;Bordeaux;H;2.0;1.0;2;1;Nice;Bordeaux;4420;3286
-306;02/04/17;Rennes;Lyon;D;0.0;0.0;1;1;Stade Rennais;Olympique Lyon;100;7682
-307;05/04/17;Metz;Lyon;A;0.0;0.0;0;3;FC Metz;Olympique Lyon;1759;7682
-308;07/04/17;Lille;Nice;A;1.0;2.0;1;2;Lille;Nice;2452;4420
-309;08/04/17;Angers;Monaco;A;0.0;0.0;0;1;Angers SCO;Monaco;3175;8320
-310;08/04/17;Bordeaux;Metz;H;1.0;0.0;3;0;Bordeaux;FC Metz;3286;1759
-311;08/04/17;Caen;Montpellier;A;0.0;0.0;0;2;;Montpellier;100;2396
-312;08/04/17;Dijon;Bastia;A;1.0;1.0;1;2;Dijon FCO;;2154;100
-313;08/04/17;Lyon;Lorient;A;1.0;1.0;1;4;Olympique Lyon;;7682;100
-314;08/04/17;Nancy;Rennes;H;1.0;0.0;3;0;;Stade Rennais;100;100
-315;09/04/17;Paris SG;Guingamp;H;0.0;0.0;4;0;PSG;;9144;100
-316;09/04/17;St Etienne;Nantes;D;0.0;1.0;1;1;Saint-Étienne;Nantes;2236;3158
-317;09/04/17;Toulouse;Marseille;D;0.0;0.0;0;0;Toulouse;Marseille;2127;5086
-318;14/04/17;Angers;Paris SG;A;0.0;1.0;0;2;Angers SCO;PSG;3175;9144
-319;15/04/17;Guingamp;Toulouse;H;0.0;0.0;2;1;;Toulouse;100;2127
-320;15/04/17;Metz;Caen;D;0.0;0.0;2;2;FC Metz;;1759;100
-321;15/04/17;Monaco;Dijon;H;0.0;1.0;2;1;Monaco;Dijon FCO;8320;2154
-322;15/04/17;Montpellier;Lorient;H;2.0;0.0;2;0;Montpellier;;2396;100
-323;15/04/17;Nice;Nancy;H;1.0;1.0;3;1;Nice;;4420;100
-324;15/04/17;Rennes;Lille;H;2.0;0.0;2;0;Stade Rennais;Lille;100;2452
-326;16/04/17;Marseille;St Etienne;H;2.0;0.0;4;0;Marseille;Saint-Étienne;5086;2236
-327;16/04/17;Nantes;Bordeaux;A;0.0;0.0;0;1;Nantes;Bordeaux;3158;3286
-328;18/04/17;Metz;Paris SG;A;0.0;2.0;2;3;FC Metz;PSG;1759;9144
-329;21/04/17;Nancy;Marseille;D;0.0;0.0;0;0;;Marseille;100;5086
-330;22/04/17;Bordeaux;Bastia;H;0.0;0.0;2;0;Bordeaux;;3286;100
-331;22/04/17;Caen;Nantes;A;0.0;2.0;0;2;;Nantes;100;3158
-332;22/04/17;Dijon;Angers;H;3.0;0.0;3;2;Dijon FCO;Angers SCO;2154;3175
-333;22/04/17;Lille;Guingamp;H;2.0;0.0;3;0;Lille;;2452;100
-334;22/04/17;Lorient;Metz;H;1.0;1.0;5;1;;FC Metz;100;1759
-335;22/04/17;Paris SG;Montpellier;H;1.0;0.0;2;0;PSG;Montpellier;9144;2396
-336;23/04/17;Lyon;Monaco;A;0.0;2.0;1;2;Olympique Lyon;Monaco;7682;8320
-337;23/04/17;St Etienne;Rennes;D;1.0;1.0;1;1;Saint-Étienne;Stade Rennais;2236;100
-338;23/04/17;Toulouse;Nice;D;0.0;0.0;1;1;Toulouse;Nice;2127;4420
-339;28/04/17;Angers;Lyon;A;0.0;2.0;1;2;Angers SCO;Olympique Lyon;3175;7682
-340;29/04/17;Bastia;Rennes;H;0.0;0.0;1;0;;Stade Rennais;100;100
-341;29/04/17;Guingamp;St Etienne;A;0.0;0.0;0;2;;Saint-Étienne;100;2236
-342;29/04/17;Metz;Nancy;H;1.0;1.0;2;1;FC Metz;;1759;100
-343;29/04/17;Monaco;Toulouse;H;0.0;0.0;3;1;Monaco;Toulouse;8320;2127
-344;29/04/17;Montpellier;Lille;A;0.0;1.0;0;3;Montpellier;Lille;2396;2452
-345;29/04/17;Nantes;Lorient;H;0.0;0.0;1;0;Nantes;;3158;100
-346;30/04/17;Caen;Marseille;A;1.0;3.0;1;5;;Marseille;100;5086
-347;30/04/17;Dijon;Bordeaux;D;0.0;0.0;0;0;Dijon FCO;Bordeaux;2154;3286
-348;30/04/17;Nice;Paris SG;H;1.0;0.0;3;1;Nice;PSG;4420;9144
-349;05/05/17;St Etienne;Bordeaux;D;1.0;1.0;2;2;Saint-Étienne;Bordeaux;2236;3286
-350;06/05/17;Guingamp;Dijon;H;1.0;0.0;4;0;;Dijon FCO;100;2154
-351;06/05/17;Lille;Metz;A;0.0;1.0;0;2;Lille;FC Metz;2452;1759
-352;06/05/17;Lorient;Angers;D;0.0;0.0;1;1;;Angers SCO;100;3175
-353;06/05/17;Nancy;Monaco;A;0.0;2.0;0;3;;Monaco;100;8320
-354;06/05/17;Paris SG;Bastia;H;2.0;0.0;5;0;PSG;;9144;100
-355;06/05/17;Toulouse;Caen;A;0.0;0.0;0;1;Toulouse;;2127;100
-356;07/05/17;Lyon;Nantes;H;0.0;1.0;3;2;Olympique Lyon;Nantes;7682;3158
-357;07/05/17;Marseille;Nice;H;1.0;0.0;2;1;Marseille;Nice;5086;4420
-358;07/05/17;Rennes;Montpellier;H;0.0;0.0;1;0;Stade Rennais;Montpellier;100;2396
-359;14/05/17;Bastia;Lorient;H;0.0;0.0;2;0;;;100;100
-360;14/05/17;Bordeaux;Marseille;D;1.0;0.0;1;1;Bordeaux;Marseille;3286;5086
-361;14/05/17;Caen;Rennes;A;0.0;0.0;0;1;;Stade Rennais;100;100
-362;14/05/17;Dijon;Nancy;H;0.0;0.0;2;0;Dijon FCO;;2154;100
-363;14/05/17;Metz;Toulouse;D;0.0;1.0;1;1;FC Metz;Toulouse;1759;2127
-364;14/05/17;Monaco;Lille;H;2.0;0.0;4;0;Monaco;Lille;8320;2452
-365;14/05/17;Montpellier;Lyon;A;1.0;2.0;1;3;Montpellier;Olympique Lyon;2396;7682
-366;14/05/17;Nantes;Guingamp;H;1.0;0.0;4;1;Nantes;;3158;100
-367;14/05/17;Nice;Angers;A;0.0;1.0;0;2;Nice;Angers SCO;4420;3175
-368;14/05/17;St Etienne;Paris SG;A;0.0;2.0;0;5;Saint-Étienne;PSG;2236;9144
-369;17/05/17;Monaco;St Etienne;H;1.0;0.0;2;0;Monaco;Saint-Étienne;8320;2236
-370;20/05/17;Angers;Montpellier;H;0.0;0.0;2;0;Angers SCO;Montpellier;3175;2396
-371;20/05/17;Guingamp;Metz;H;1.0;0.0;1;0;;FC Metz;100;1759
-372;20/05/17;Lille;Nantes;H;1.0;0.0;3;0;Lille;Nantes;2452;3158
-373;20/05/17;Lorient;Bordeaux;D;0.0;1.0;1;1;;Bordeaux;100;3286
-374;20/05/17;Lyon;Nice;D;1.0;1.0;3;3;Olympique Lyon;Nice;7682;4420
-375;20/05/17;Marseille;Bastia;H;0.0;0.0;1;0;Marseille;;5086;100
-376;20/05/17;Nancy;St Etienne;H;1.0;0.0;3;1;;Saint-Étienne;100;2236
-377;20/05/17;Paris SG;Caen;D;1.0;0.0;1;1;PSG;;9144;100
-378;20/05/17;Rennes;Monaco;A;0.0;1.0;2;3;Stade Rennais;Monaco;100;8320
-379;20/05/17;Toulouse;Dijon;D;0.0;0.0;0;0;Toulouse;Dijon FCO;2127;2154
 380;19/08/16;La Coruna;Eibar;H;0.0;0.0;2;1;;Eibar;100;6125
 381;19/08/16;Malaga;Osasuna;D;0.0;0.0;1;1;;Osasuna;100;1617
 382;20/08/16;Barcelona;Betis;H;3.0;1.0;6;2;;Real Betis;100;100
@@ -1517,3 +758,762 @@
 757;21/05/17;Celta;Sociedad;D;0.0;0.0;2;2;Celta;Real Sociedad;8442;6982
 758;21/05/17;Malaga;Real Madrid;A;0.0;1.0;0;2;;Real Madrid;100;17696
 759;21/05/17;Valencia;Villarreal;A;0.0;1.0;1;3;;Villarreal;100;8065
+0;12/08/16;Bastia;Paris SG;A;0.0;0.0;0;1;;PSG;100;9144
+1;12/08/16;Monaco;Guingamp;D;0.0;2.0;2;2;Monaco;;8320;100
+2;13/08/16;Bordeaux;St Etienne;H;1.0;0.0;3;2;Bordeaux;Saint-Étienne;3286;2236
+3;13/08/16;Caen;Lorient;H;2.0;2.0;3;2;;;100;100
+4;13/08/16;Dijon;Nantes;A;0.0;0.0;0;1;Dijon FCO;Nantes;2154;3158
+5;13/08/16;Metz;Lille;H;0.0;1.0;3;2;FC Metz;Lille;1759;2452
+6;13/08/16;Montpellier;Angers;H;1.0;0.0;1;0;Montpellier;Angers SCO;2396;3175
+7;14/08/16;Marseille;Toulouse;D;0.0;0.0;0;0;Marseille;Toulouse;5086;2127
+8;14/08/16;Nancy;Lyon;A;0.0;2.0;0;3;;Olympique Lyon;100;7682
+9;14/08/16;Nice;Rennes;H;0.0;0.0;1;0;Nice;Stade Rennais;4420;100
+10;19/08/16;Lyon;Caen;H;1.0;0.0;2;0;Olympique Lyon;;7682;100
+11;20/08/16;Angers;Nice;A;0.0;1.0;0;1;Angers SCO;Nice;3175;4420
+12;20/08/16;Lille;Dijon;H;0.0;0.0;1;0;Lille;Dijon FCO;2452;2154
+13;20/08/16;Lorient;Bastia;A;0.0;2.0;0;3;;;100;100
+14;20/08/16;Nantes;Monaco;A;0.0;1.0;0;1;Nantes;Monaco;3158;8320
+15;20/08/16;Rennes;Nancy;H;1.0;0.0;2;0;Stade Rennais;;100;100
+16;20/08/16;Toulouse;Bordeaux;H;2.0;0.0;4;1;Toulouse;Bordeaux;2127;3286
+17;21/08/16;Guingamp;Marseille;H;1.0;0.0;2;1;;Marseille;100;5086
+18;21/08/16;Paris SG;Metz;H;0.0;0.0;3;0;PSG;FC Metz;9144;1759
+19;21/08/16;St Etienne;Montpellier;H;0.0;1.0;3;1;Saint-Étienne;Montpellier;2236;2396
+20;26/08/16;Marseille;Lorient;H;1.0;0.0;2;0;Marseille;;5086;100
+21;27/08/16;Caen;Bastia;H;0.0;0.0;2;0;;;100;100
+22;27/08/16;Dijon;Lyon;H;2.0;2.0;4;2;Dijon FCO;Olympique Lyon;2154;7682
+23;27/08/16;Metz;Angers;H;1.0;0.0;2;0;FC Metz;Angers SCO;1759;3175
+24;27/08/16;Montpellier;Rennes;D;1.0;0.0;1;1;Montpellier;Stade Rennais;2396;100
+25;27/08/16;Nancy;Guingamp;A;0.0;0.0;0;2;;;100;100
+26;27/08/16;Nice;Lille;D;1.0;1.0;1;1;Nice;Lille;4420;2452
+27;28/08/16;Bordeaux;Nantes;H;1.0;0.0;1;0;Bordeaux;Nantes;3286;3158
+28;28/08/16;Monaco;Paris SG;H;2.0;0.0;3;1;Monaco;PSG;8320;9144
+29;28/08/16;St Etienne;Toulouse;D;0.0;0.0;0;0;Saint-Étienne;Toulouse;2236;2127
+30;09/09/16;Paris SG;St Etienne;D;0.0;0.0;1;1;PSG;Saint-Étienne;9144;2236
+31;10/09/16;Angers;Dijon;H;1.0;1.0;3;1;Angers SCO;Dijon FCO;3175;2154
+32;10/09/16;Bastia;Toulouse;H;1.0;0.0;2;1;;Toulouse;100;2127
+33;10/09/16;Guingamp;Montpellier;D;1.0;1.0;1;1;;Montpellier;100;2396
+34;10/09/16;Lille;Monaco;A;0.0;2.0;1;4;Lille;Monaco;2452;8320
+35;10/09/16;Lorient;Nancy;A;0.0;1.0;0;2;;;100;100
+36;10/09/16;Lyon;Bordeaux;A;1.0;1.0;1;3;Olympique Lyon;Bordeaux;7682;3286
+37;11/09/16;Nantes;Metz;A;0.0;2.0;0;3;Nantes;FC Metz;3158;1759
+38;11/09/16;Nice;Marseille;H;1.0;1.0;3;2;Nice;Marseille;4420;5086
+39;11/09/16;Rennes;Caen;H;0.0;0.0;2;0;Stade Rennais;;100;100
+40;16/09/16;Caen;Paris SG;A;0.0;4.0;0;6;;PSG;100;9144
+41;17/09/16;Bordeaux;Angers;A;0.0;1.0;0;1;Bordeaux;Angers SCO;3286;3175
+42;17/09/16;Dijon;Metz;D;0.0;0.0;0;0;Dijon FCO;FC Metz;2154;1759
+43;17/09/16;Lorient;Lille;H;0.0;0.0;1;0;;Lille;100;2452
+44;17/09/16;Monaco;Rennes;H;1.0;0.0;3;0;Monaco;Stade Rennais;8320;100
+45;17/09/16;Nancy;Nantes;D;0.0;0.0;1;1;;Nantes;100;3158
+46;17/09/16;Toulouse;Guingamp;H;0.0;0.0;2;1;Toulouse;;2127;100
+47;18/09/16;Marseille;Lyon;D;0.0;0.0;0;0;Marseille;Olympique Lyon;5086;7682
+48;18/09/16;Montpellier;Nice;D;0.0;0.0;1;1;Montpellier;Nice;2396;4420
+49;18/09/16;St Etienne;Bastia;H;0.0;0.0;1;0;Saint-Étienne;;2236;100
+50;20/09/16;Lille;Toulouse;A;1.0;1.0;1;2;Lille;Toulouse;2452;2127
+51;20/09/16;Paris SG;Dijon;H;2.0;0.0;3;0;PSG;Dijon FCO;9144;2154
+52;21/09/16;Angers;Caen;H;1.0;0.0;2;1;Angers SCO;;3175;100
+53;21/09/16;Bastia;Nancy;D;0.0;0.0;0;0;;;100;100
+54;21/09/16;Guingamp;Lorient;H;0.0;0.0;1;0;;;100;100
+55;21/09/16;Lyon;Montpellier;H;2.0;1.0;5;1;Olympique Lyon;Montpellier;7682;2396
+56;21/09/16;Metz;Bordeaux;A;0.0;1.0;0;3;FC Metz;Bordeaux;1759;3286
+57;21/09/16;Nantes;St Etienne;D;0.0;0.0;0;0;Nantes;Saint-Étienne;3158;2236
+58;21/09/16;Nice;Monaco;H;2.0;0.0;4;0;Nice;Monaco;4420;8320
+59;21/09/16;Rennes;Marseille;H;1.0;1.0;3;2;Stade Rennais;Marseille;100;5086
+60;23/09/16;Toulouse;Paris SG;H;0.0;0.0;2;0;Toulouse;PSG;2127;9144
+61;24/09/16;Bastia;Guingamp;H;0.0;0.0;1;0;;;100;100
+62;24/09/16;Bordeaux;Caen;D;0.0;0.0;0;0;Bordeaux;;3286;100
+63;24/09/16;Dijon;Rennes;H;2.0;0.0;3;0;Dijon FCO;Stade Rennais;2154;100
+64;24/09/16;Lorient;Lyon;H;0.0;0.0;1;0;;Olympique Lyon;100;7682
+65;24/09/16;Monaco;Angers;H;0.0;0.0;2;1;Monaco;Angers SCO;8320;3175
+66;24/09/16;Montpellier;Metz;A;0.0;1.0;0;1;Montpellier;FC Metz;2396;1759
+67;25/09/16;Marseille;Nantes;H;1.0;1.0;2;1;Marseille;Nantes;5086;3158
+68;25/09/16;Nancy;Nice;A;0.0;0.0;0;1;;Nice;100;4420
+69;25/09/16;St Etienne;Lille;H;0.0;0.0;3;1;Saint-Étienne;Lille;2236;2452
+70;30/09/16;Rennes;Guingamp;H;0.0;0.0;1;0;Stade Rennais;;100;100
+71;01/10/16;Caen;Toulouse;H;0.0;0.0;1;0;;Toulouse;100;2127
+72;01/10/16;Dijon;Montpellier;D;1.0;2.0;3;3;Dijon FCO;Montpellier;2154;2396
+73;01/10/16;Lille;Nancy;H;0.0;0.0;1;0;Lille;;2452;100
+74;01/10/16;Metz;Monaco;A;0.0;3.0;0;7;FC Metz;Monaco;1759;8320
+75;01/10/16;Nantes;Bastia;H;1.0;0.0;1;0;Nantes;;3158;100
+76;01/10/16;Paris SG;Bordeaux;H;2.0;0.0;2;0;PSG;Bordeaux;9144;3286
+77;02/10/16;Angers;Marseille;D;0.0;0.0;1;1;Angers SCO;Marseille;3175;5086
+78;02/10/16;Lyon;St Etienne;H;1.0;0.0;2;0;Olympique Lyon;Saint-Étienne;7682;2236
+79;02/10/16;Nice;Lorient;H;1.0;0.0;2;1;Nice;;4420;100
+80;14/10/16;Nice;Lyon;H;1.0;0.0;2;0;Nice;Olympique Lyon;4420;7682
+81;14/10/16;Toulouse;Monaco;H;0.0;1.0;3;1;Toulouse;Monaco;2127;8320
+82;15/10/16;Bastia;Angers;A;1.0;1.0;1;2;;Angers SCO;100;3175
+83;15/10/16;Guingamp;Lille;H;1.0;0.0;1;0;;Lille;100;2452
+84;15/10/16;Lorient;Nantes;A;0.0;1.0;1;2;;Nantes;100;3158
+85;15/10/16;Montpellier;Caen;H;1.0;1.0;3;2;Montpellier;;2396;100
+86;15/10/16;Nancy;Paris SG;A;0.0;2.0;1;2;;PSG;100;9144
+87;16/10/16;Marseille;Metz;H;1.0;0.0;1;0;Marseille;FC Metz;5086;1759
+88;16/10/16;Rennes;Bordeaux;D;1.0;0.0;1;1;Stade Rennais;Bordeaux;100;3286
+89;16/10/16;St Etienne;Dijon;D;0.0;1.0;1;1;Saint-Étienne;Dijon FCO;2236;2154
+90;21/10/16;Monaco;Montpellier;H;1.0;1.0;6;2;Monaco;Montpellier;8320;2396
+91;22/10/16;Angers;Toulouse;D;0.0;0.0;0;0;Angers SCO;Toulouse;3175;2127
+92;22/10/16;Bordeaux;Nancy;D;0.0;0.0;1;1;Bordeaux;;3286;100
+93;22/10/16;Dijon;Lorient;H;0.0;0.0;1;0;Dijon FCO;;2154;100
+94;22/10/16;Lille;Bastia;H;0.0;0.0;2;1;Lille;;2452;100
+95;22/10/16;Lyon;Guingamp;A;1.0;0.0;1;3;Olympique Lyon;;7682;100
+96;22/10/16;Nantes;Rennes;A;1.0;0.0;1;2;Nantes;Stade Rennais;3158;100
+97;23/10/16;Caen;St Etienne;A;0.0;0.0;0;2;;Saint-Étienne;100;2236
+98;23/10/16;Metz;Nice;A;1.0;2.0;2;4;FC Metz;Nice;1759;4420
+99;23/10/16;Paris SG;Marseille;D;0.0;0.0;0;0;PSG;Marseille;9144;5086
+100;28/10/16;Lille;Paris SG;A;0.0;0.0;0;1;Lille;PSG;2452;9144
+101;29/10/16;Bastia;Dijon;D;0.0;0.0;0;0;;Dijon FCO;100;2154
+102;29/10/16;Guingamp;Angers;H;0.0;0.0;1;0;;Angers SCO;100;3175
+103;29/10/16;Lorient;Montpellier;D;2.0;1.0;2;2;;Montpellier;100;2396
+104;29/10/16;Nancy;Caen;H;2.0;0.0;2;0;;;100;100
+105;29/10/16;St Etienne;Monaco;D;1.0;1.0;1;1;Saint-Étienne;Monaco;2236;8320
+106;29/10/16;Toulouse;Lyon;A;1.0;1.0;1;2;Toulouse;Olympique Lyon;2127;7682
+107;30/10/16;Marseille;Bordeaux;D;0.0;0.0;0;0;Marseille;Bordeaux;5086;3286
+108;30/10/16;Nice;Nantes;H;2.0;0.0;4;1;Nice;Nantes;4420;3158
+109;30/10/16;Rennes;Metz;H;0.0;0.0;1;0;Stade Rennais;FC Metz;100;1759
+110;04/11/16;Montpellier;Marseille;H;2.0;0.0;3;1;Montpellier;Marseille;2396;5086
+111;05/11/16;Angers;Lille;H;0.0;0.0;1;0;Angers SCO;Lille;3175;2452
+112;05/11/16;Bordeaux;Lorient;H;1.0;0.0;2;1;Bordeaux;;3286;100
+113;05/11/16;Dijon;Guingamp;D;3.0;1.0;3;3;Dijon FCO;;2154;100
+114;05/11/16;Lyon;Bastia;H;1.0;0.0;2;1;Olympique Lyon;;7682;100
+115;05/11/16;Monaco;Nancy;H;2.0;0.0;6;0;Monaco;;8320;100
+116;05/11/16;Nantes;Toulouse;D;0.0;1.0;1;1;Nantes;Toulouse;3158;2127
+117;06/11/16;Caen;Nice;H;1.0;0.0;1;0;;Nice;100;4420
+118;06/11/16;Metz;St Etienne;D;0.0;0.0;0;0;FC Metz;Saint-Étienne;1759;2236
+119;06/11/16;Paris SG;Rennes;H;2.0;0.0;4;0;PSG;Stade Rennais;9144;100
+120;18/11/16;Lille;Lyon;A;0.0;1.0;0;1;Lille;Olympique Lyon;2452;7682
+121;18/11/16;Lorient;Monaco;A;0.0;0.0;0;3;;Monaco;100;8320
+122;19/11/16;Bastia;Montpellier;D;1.0;0.0;1;1;;Montpellier;100;2396
+123;19/11/16;Nancy;Dijon;H;0.0;0.0;1;0;;Dijon FCO;100;2154
+124;19/11/16;Paris SG;Nantes;H;1.0;0.0;2;0;PSG;Nantes;9144;3158
+125;19/11/16;Rennes;Angers;D;1.0;0.0;1;1;Stade Rennais;Angers SCO;100;3175
+126;19/11/16;Toulouse;Metz;A;0.0;1.0;1;2;Toulouse;FC Metz;2127;1759
+127;20/11/16;Guingamp;Bordeaux;D;0.0;1.0;1;1;;Bordeaux;100;3286
+128;20/11/16;Marseille;Caen;H;0.0;0.0;1;0;Marseille;;5086;100
+129;20/11/16;St Etienne;Nice;A;0.0;0.0;0;1;Saint-Étienne;Nice;2236;4420
+130;25/11/16;Rennes;Toulouse;H;1.0;0.0;1;0;Stade Rennais;Toulouse;100;2127
+131;26/11/16;Bordeaux;Dijon;H;0.0;1.0;3;2;Bordeaux;Dijon FCO;3286;2154
+132;26/11/16;Caen;Guingamp;D;0.0;0.0;1;1;;;100;100
+133;26/11/16;Metz;Lorient;D;1.0;1.0;3;3;FC Metz;;1759;100
+134;26/11/16;Monaco;Marseille;H;3.0;0.0;4;0;Monaco;Marseille;8320;5086
+135;26/11/16;Montpellier;Nancy;D;0.0;0.0;0;0;Montpellier;;2396;100
+136;26/11/16;Nantes;Lille;D;0.0;0.0;0;0;Nantes;Lille;3158;2452
+137;27/11/16;Angers;St Etienne;A;1.0;0.0;1;2;Angers SCO;Saint-Étienne;3175;2236
+138;27/11/16;Lyon;Paris SG;A;0.0;1.0;1;2;Olympique Lyon;PSG;7682;9144
+139;27/11/16;Nice;Bastia;D;1.0;0.0;1;1;Nice;;4420;100
+140;29/11/16;Dijon;Monaco;D;0.0;1.0;1;1;Dijon FCO;Monaco;2154;8320
+141;29/11/16;Lille;Caen;H;2.0;1.0;4;2;Lille;;2452;100
+142;29/11/16;Lorient;Rennes;H;1.0;1.0;2;1;;Stade Rennais;100;100
+143;30/11/16;Bastia;Bordeaux;D;0.0;0.0;1;1;;Bordeaux;100;3286
+144;30/11/16;Guingamp;Nice;A;0.0;1.0;0;1;;Nice;100;4420
+145;30/11/16;Nancy;Metz;H;1.0;0.0;4;0;;FC Metz;100;1759
+146;30/11/16;Nantes;Lyon;A;0.0;3.0;0;6;Nantes;Olympique Lyon;3158;7682
+147;30/11/16;Paris SG;Angers;H;1.0;0.0;2;0;PSG;Angers SCO;9144;3175
+148;30/11/16;St Etienne;Marseille;D;0.0;0.0;0;0;Saint-Étienne;Marseille;2236;5086
+149;30/11/16;Toulouse;Montpellier;H;1.0;0.0;1;0;Toulouse;Montpellier;2127;2396
+150;02/12/16;Caen;Dijon;D;3.0;1.0;3;3;;Dijon FCO;100;2154
+151;03/12/16;Angers;Lorient;D;1.0;1.0;2;2;Angers SCO;;3175;100
+152;03/12/16;Bordeaux;Lille;A;0.0;1.0;0;1;Bordeaux;Lille;3286;2452
+153;03/12/16;Guingamp;Nantes;H;1.0;0.0;2;0;;Nantes;100;3158
+154;03/12/16;Monaco;Bastia;H;1.0;0.0;5;0;Monaco;;8320;100
+155;03/12/16;Montpellier;Paris SG;H;1.0;0.0;3;0;Montpellier;PSG;2396;9144
+156;04/12/16;Marseille;Nancy;H;0.0;0.0;3;0;Marseille;;5086;100
+157;04/12/16;Nice;Toulouse;H;2.0;0.0;3;0;Nice;Toulouse;4420;2127
+158;04/12/16;Rennes;St Etienne;H;0.0;0.0;2;0;Stade Rennais;Saint-Étienne;100;2236
+159;10/12/16;Bastia;Metz;H;1.0;0.0;2;0;;FC Metz;100;1759
+160;10/12/16;Bordeaux;Monaco;A;0.0;2.0;0;4;Bordeaux;Monaco;3286;8320
+161;10/12/16;Dijon;Marseille;A;0.0;1.0;1;2;Dijon FCO;Marseille;2154;5086
+162;10/12/16;Lille;Montpellier;H;2.0;0.0;2;1;Lille;Montpellier;2452;2396
+163;10/12/16;Nancy;Angers;H;1.0;0.0;2;0;;Angers SCO;100;3175
+164;10/12/16;Toulouse;Lorient;H;2.0;1.0;3;2;Toulouse;;2127;100
+165;11/12/16;Lyon;Rennes;H;1.0;0.0;1;0;Olympique Lyon;Stade Rennais;7682;100
+166;11/12/16;Paris SG;Nice;D;0.0;2.0;2;2;PSG;Nice;9144;4420
+167;11/12/16;St Etienne;Guingamp;H;1.0;0.0;1;0;Saint-Étienne;;2236;100
+168;16/12/16;Angers;Nantes;A;0.0;1.0;0;2;Angers SCO;Nantes;3175;3158
+169;17/12/16;Guingamp;Paris SG;H;0.0;0.0;2;1;;PSG;100;9144
+170;17/12/16;Lorient;St Etienne;H;1.0;0.0;2;1;;Saint-Étienne;100;2236
+171;17/12/16;Montpellier;Bordeaux;H;2.0;0.0;4;0;Montpellier;Bordeaux;2396;3286
+172;17/12/16;Rennes;Bastia;A;0.0;0.0;1;2;Stade Rennais;;100;100
+173;17/12/16;Toulouse;Nancy;D;0.0;1.0;1;1;Toulouse;;2127;100
+174;18/12/16;Caen;Metz;H;1.0;0.0;3;0;;FC Metz;100;1759
+175;18/12/16;Marseille;Lille;H;0.0;0.0;2;0;Marseille;Lille;5086;2452
+176;18/12/16;Monaco;Lyon;A;0.0;1.0;1;3;Monaco;Olympique Lyon;8320;7682
+177;18/12/16;Nice;Dijon;H;1.0;1.0;2;1;Nice;Dijon FCO;4420;2154
+178;21/12/16;Bastia;Marseille;A;0.0;1.0;1;2;;Marseille;100;5086
+179;21/12/16;Bordeaux;Nice;D;0.0;0.0;0;0;Bordeaux;Nice;3286;4420
+180;21/12/16;Dijon;Toulouse;H;0.0;0.0;2;0;Dijon FCO;Toulouse;2154;2127
+181;21/12/16;Lille;Rennes;D;0.0;1.0;1;1;Lille;Stade Rennais;2452;100
+182;21/12/16;Lyon;Angers;H;1.0;0.0;2;0;Olympique Lyon;Angers SCO;7682;3175
+183;21/12/16;Metz;Guingamp;D;1.0;0.0;2;2;FC Metz;;1759;100
+184;21/12/16;Monaco;Caen;H;0.0;0.0;2;1;Monaco;;8320;100
+185;21/12/16;Nantes;Montpellier;H;1.0;0.0;1;0;Nantes;Montpellier;3158;2396
+186;21/12/16;Paris SG;Lorient;H;2.0;0.0;5;0;PSG;;9144;100
+187;21/12/16;St Etienne;Nancy;D;0.0;0.0;0;0;Saint-Étienne;;2236;100
+188;13/01/17;Lille;St Etienne;D;0.0;1.0;1;1;Lille;Saint-Étienne;2452;2236
+189;14/01/17;Angers;Bordeaux;D;1.0;1.0;1;1;Angers SCO;Bordeaux;3175;3286
+190;14/01/17;Lorient;Guingamp;H;0.0;1.0;3;1;;;100;100
+191;14/01/17;Montpellier;Dijon;D;0.0;1.0;1;1;Montpellier;Dijon FCO;2396;2154
+192;14/01/17;Nancy;Bastia;H;0.0;0.0;1;0;;;100;100
+193;14/01/17;Rennes;Paris SG;A;0.0;1.0;0;1;Stade Rennais;PSG;100;9144
+194;14/01/17;Toulouse;Nantes;A;0.0;1.0;0;1;Toulouse;Nantes;2127;3158
+195;15/01/17;Caen;Lyon;H;2.0;2.0;3;2;;Olympique Lyon;100;7682
+196;15/01/17;Marseille;Monaco;A;1.0;3.0;1;4;Marseille;Monaco;5086;8320
+197;15/01/17;Nice;Metz;D;0.0;0.0;0;0;Nice;FC Metz;4420;1759
+198;18/01/17;Nantes;Caen;H;0.0;0.0;1;0;Nantes;;3158;100
+199;20/01/17;Bastia;Nice;D;1.0;1.0;1;1;;Nice;100;4420
+200;21/01/17;Bordeaux;Toulouse;H;1.0;0.0;1;0;Bordeaux;Toulouse;3286;2127
+201;21/01/17;Dijon;Lille;D;0.0;0.0;0;0;Dijon FCO;Lille;2154;2452
+202;21/01/17;Guingamp;Rennes;D;1.0;0.0;1;1;;Stade Rennais;100;100
+203;21/01/17;Metz;Montpellier;H;2.0;0.0;2;0;FC Metz;Montpellier;1759;2396
+204;21/01/17;Nantes;Paris SG;A;0.0;1.0;0;2;Nantes;PSG;3158;9144
+205;22/01/17;Lyon;Marseille;H;1.0;0.0;3;1;Olympique Lyon;Marseille;7682;5086
+206;22/01/17;Monaco;Lorient;H;3.0;0.0;4;0;Monaco;;8320;100
+207;22/01/17;St Etienne;Angers;H;0.0;1.0;2;1;Saint-Étienne;Angers SCO;2236;3175
+208;27/01/17;Marseille;Montpellier;H;3.0;0.0;5;1;Marseille;Montpellier;5086;2396
+209;28/01/17;Angers;Metz;H;2.0;1.0;2;1;Angers SCO;FC Metz;3175;1759
+210;28/01/17;Bastia;Caen;D;1.0;1.0;1;1;;;100;100
+211;28/01/17;Lorient;Dijon;A;0.0;1.0;2;3;;Dijon FCO;100;2154
+212;28/01/17;Lyon;Lille;A;0.0;1.0;1;2;Olympique Lyon;Lille;7682;2452
+213;28/01/17;Nancy;Bordeaux;A;0.0;0.0;0;2;;Bordeaux;100;3286
+214;28/01/17;Rennes;Nantes;D;0.0;1.0;1;1;Stade Rennais;Nantes;100;3158
+215;29/01/17;Nice;Guingamp;H;2.0;0.0;3;1;Nice;;4420;100
+216;29/01/17;Paris SG;Monaco;D;0.0;0.0;1;1;PSG;Monaco;9144;8320
+217;29/01/17;Toulouse;St Etienne;A;0.0;1.0;0;3;Toulouse;Saint-Étienne;2127;2236
+218;03/02/17;Metz;Marseille;H;0.0;0.0;1;0;FC Metz;Marseille;1759;5086
+219;04/02/17;Bordeaux;Rennes;D;0.0;0.0;1;1;Bordeaux;Stade Rennais;3286;100
+220;04/02/17;Dijon;Paris SG;A;1.0;1.0;1;3;Dijon FCO;PSG;2154;9144
+221;04/02/17;Guingamp;Caen;A;0.0;0.0;0;1;;;100;100
+222;04/02/17;Lille;Lorient;A;0.0;0.0;0;1;Lille;;2452;100
+223;04/02/17;Monaco;Nice;H;0.0;0.0;3;0;Monaco;Nice;8320;4420
+224;04/02/17;Montpellier;Bastia;H;1.0;1.0;2;1;Montpellier;;2396;100
+225;05/02/17;Nantes;Nancy;A;0.0;0.0;0;2;Nantes;;3158;100
+226;05/02/17;St Etienne;Lyon;H;2.0;0.0;2;0;Saint-Étienne;Olympique Lyon;2236;7682
+227;05/02/17;Toulouse;Angers;H;0.0;0.0;4;0;Toulouse;Angers SCO;2127;3175
+228;07/02/17;Caen;Bordeaux;A;0.0;2.0;0;4;;Bordeaux;100;3286
+229;07/02/17;Montpellier;Monaco;A;0.0;2.0;1;2;Montpellier;Monaco;2396;8320
+230;07/02/17;Paris SG;Lille;H;0.0;0.0;2;1;PSG;Lille;9144;2452
+231;08/02/17;Angers;Rennes;D;0.0;0.0;0;0;Angers SCO;Stade Rennais;3175;100
+232;08/02/17;Lorient;Toulouse;D;0.0;1.0;1;1;;Toulouse;100;2127
+233;08/02/17;Lyon;Nancy;H;2.0;0.0;4;0;Olympique Lyon;;7682;100
+234;08/02/17;Marseille;Guingamp;H;1.0;0.0;2;0;Marseille;;5086;100
+235;08/02/17;Metz;Dijon;H;0.0;0.0;2;1;FC Metz;Dijon FCO;1759;2154
+236;08/02/17;Nice;St Etienne;H;1.0;0.0;1;0;Nice;Saint-Étienne;4420;2236
+237;10/02/17;Bordeaux;Paris SG;A;0.0;2.0;0;3;Bordeaux;PSG;3286;9144
+238;11/02/17;Dijon;Caen;H;1.0;0.0;2;0;Dijon FCO;;2154;100
+239;11/02/17;Guingamp;Lyon;H;2.0;1.0;2;1;;Olympique Lyon;100;7682
+240;11/02/17;Lille;Angers;A;1.0;1.0;1;2;Lille;Angers SCO;2452;3175
+241;11/02/17;Monaco;Metz;H;3.0;0.0;5;0;Monaco;FC Metz;8320;1759
+242;11/02/17;Nancy;Montpellier;A;0.0;2.0;0;3;;Montpellier;100;2396
+243;11/02/17;Toulouse;Bastia;H;2.0;0.0;4;1;Toulouse;;2127;100
+244;12/02/17;Nantes;Marseille;H;2.0;0.0;3;2;Nantes;Marseille;3158;5086
+245;12/02/17;Rennes;Nice;D;2.0;0.0;2;2;Stade Rennais;Nice;100;4420
+246;12/02/17;St Etienne;Lorient;H;2.0;0.0;4;0;Saint-Étienne;;2236;100
+247;17/02/17;Bastia;Monaco;D;1.0;0.0;1;1;;Monaco;100;8320
+248;18/02/17;Angers;Nancy;H;1.0;0.0;1;0;Angers SCO;;3175;100
+249;18/02/17;Caen;Lille;A;0.0;0.0;0;1;;Lille;100;2452
+250;18/02/17;Lorient;Nice;A;0.0;1.0;0;1;;Nice;100;4420
+251;18/02/17;Marseille;Rennes;H;0.0;0.0;2;0;Marseille;Stade Rennais;5086;100
+252;18/02/17;Metz;Nantes;D;0.0;0.0;1;1;FC Metz;Nantes;1759;3158
+253;19/02/17;Bordeaux;Guingamp;H;2.0;0.0;3;0;Bordeaux;;3286;100
+254;19/02/17;Lyon;Dijon;H;1.0;1.0;4;2;Olympique Lyon;Dijon FCO;7682;2154
+255;19/02/17;Montpellier;St Etienne;H;0.0;1.0;2;1;Montpellier;Saint-Étienne;2396;2236
+256;19/02/17;Paris SG;Toulouse;D;0.0;0.0;0;0;PSG;Toulouse;9144;2127
+257;21/02/17;Caen;Nancy;H;1.0;0.0;1;0;;;100;100
+258;24/02/17;Nantes;Dijon;H;1.0;1.0;3;1;Nantes;Dijon FCO;3158;2154
+259;24/02/17;Nice;Montpellier;H;0.0;1.0;2;1;Nice;Montpellier;4420;2396
+260;25/02/17;Angers;Bastia;H;1.0;0.0;3;0;Angers SCO;;3175;100
+261;25/02/17;Guingamp;Monaco;A;0.0;1.0;1;2;;Monaco;100;8320
+262;25/02/17;Lille;Bordeaux;A;0.0;1.0;2;3;Lille;Bordeaux;2452;3286
+263;25/02/17;Nancy;Toulouse;D;0.0;0.0;0;0;;Toulouse;100;2127
+264;25/02/17;Rennes;Lorient;H;1.0;0.0;1;0;Stade Rennais;;100;100
+265;26/02/17;Lyon;Metz;H;1.0;0.0;5;0;Olympique Lyon;FC Metz;7682;1759
+266;26/02/17;Marseille;Paris SG;A;0.0;2.0;1;5;Marseille;PSG;5086;9144
+267;26/02/17;St Etienne;Caen;A;0.0;1.0;0;1;Saint-Étienne;;2236;100
+268;01/03/17;Bastia;Nantes;D;0.0;0.0;2;2;;Nantes;100;3158
+269;03/03/17;Bordeaux;Lyon;D;1.0;0.0;1;1;Bordeaux;Olympique Lyon;3286;7682
+270;04/03/17;Bastia;St Etienne;D;0.0;0.0;0;0;;Saint-Étienne;100;2236
+271;04/03/17;Caen;Angers;A;1.0;2.0;2;3;;Angers SCO;100;3175
+272;04/03/17;Dijon;Nice;A;0.0;0.0;0;1;Dijon FCO;Nice;2154;4420
+273;04/03/17;Metz;Rennes;D;1.0;0.0;1;1;FC Metz;Stade Rennais;1759;100
+274;04/03/17;Montpellier;Guingamp;D;0.0;0.0;1;1;Montpellier;;2396;100
+275;04/03/17;Paris SG;Nancy;H;0.0;0.0;1;0;PSG;;9144;100
+276;05/03/17;Lorient;Marseille;A;0.0;2.0;1;4;;Marseille;100;5086
+277;05/03/17;Monaco;Nantes;H;3.0;0.0;4;0;Monaco;Nantes;8320;3158
+278;05/03/17;Toulouse;Lille;D;1.0;0.0;1;1;Toulouse;Lille;2127;2452
+279;10/03/17;Marseille;Angers;H;2.0;0.0;3;0;Marseille;Angers SCO;5086;3175
+280;10/03/17;Nice;Caen;D;0.0;1.0;2;2;Nice;;4420;100
+281;11/03/17;Guingamp;Bastia;H;0.0;0.0;5;0;;;100;100
+282;11/03/17;Monaco;Bordeaux;H;0.0;0.0;2;1;Monaco;Bordeaux;8320;3286
+283;11/03/17;Montpellier;Nantes;A;1.0;1.0;2;3;Montpellier;Nantes;2396;3158
+284;11/03/17;Nancy;Lille;A;1.0;0.0;1;2;;Lille;100;2452
+285;11/03/17;Rennes;Dijon;D;0.0;1.0;1;1;Stade Rennais;Dijon FCO;100;2154
+286;12/03/17;Lorient;Paris SG;A;0.0;1.0;1;2;;PSG;100;9144
+287;12/03/17;Lyon;Toulouse;H;1.0;0.0;4;0;Olympique Lyon;Toulouse;7682;2127
+288;12/03/17;St Etienne;Metz;D;0.0;1.0;2;2;Saint-Étienne;FC Metz;2236;1759
+289;17/03/17;Lille;Marseille;D;0.0;0.0;0;0;Lille;Marseille;2452;5086
+290;17/03/17;Metz;Bastia;H;0.0;0.0;1;0;FC Metz;;1759;100
+291;18/03/17;Angers;Guingamp;H;0.0;0.0;3;0;Angers SCO;;3175;100
+292;18/03/17;Bordeaux;Montpellier;H;3.0;0.0;5;1;Bordeaux;Montpellier;3286;2396
+293;18/03/17;Nancy;Lorient;A;2.0;0.0;2;3;;;100;100
+294;18/03/17;Nantes;Nice;D;1.0;1.0;1;1;Nantes;Nice;3158;4420
+295;18/03/17;Toulouse;Rennes;D;0.0;0.0;0;0;Toulouse;Stade Rennais;2127;100
+296;19/03/17;Caen;Monaco;A;0.0;1.0;0;3;;Monaco;100;8320
+297;19/03/17;Dijon;St Etienne;A;0.0;0.0;0;1;Dijon FCO;Saint-Étienne;2154;2236
+298;19/03/17;Paris SG;Lyon;H;2.0;1.0;2;1;PSG;Olympique Lyon;9144;7682
+299;31/03/17;Guingamp;Nancy;H;0.0;0.0;1;0;;;100;100
+300;01/04/17;Bastia;Lille;A;0.0;0.0;0;1;;Lille;100;2452
+301;01/04/17;Marseille;Dijon;D;0.0;1.0;1;1;Marseille;Dijon FCO;5086;2154
+302;02/04/17;Lorient;Caen;H;1.0;0.0;1;0;;;100;100
+303;02/04/17;Montpellier;Toulouse;A;0.0;1.0;0;1;Montpellier;Toulouse;2396;2127
+304;02/04/17;Nantes;Angers;H;0.0;0.0;2;1;Nantes;Angers SCO;3158;3175
+305;02/04/17;Nice;Bordeaux;H;2.0;1.0;2;1;Nice;Bordeaux;4420;3286
+306;02/04/17;Rennes;Lyon;D;0.0;0.0;1;1;Stade Rennais;Olympique Lyon;100;7682
+307;05/04/17;Metz;Lyon;A;0.0;0.0;0;3;FC Metz;Olympique Lyon;1759;7682
+308;07/04/17;Lille;Nice;A;1.0;2.0;1;2;Lille;Nice;2452;4420
+309;08/04/17;Angers;Monaco;A;0.0;0.0;0;1;Angers SCO;Monaco;3175;8320
+310;08/04/17;Bordeaux;Metz;H;1.0;0.0;3;0;Bordeaux;FC Metz;3286;1759
+311;08/04/17;Caen;Montpellier;A;0.0;0.0;0;2;;Montpellier;100;2396
+312;08/04/17;Dijon;Bastia;A;1.0;1.0;1;2;Dijon FCO;;2154;100
+313;08/04/17;Lyon;Lorient;A;1.0;1.0;1;4;Olympique Lyon;;7682;100
+314;08/04/17;Nancy;Rennes;H;1.0;0.0;3;0;;Stade Rennais;100;100
+315;09/04/17;Paris SG;Guingamp;H;0.0;0.0;4;0;PSG;;9144;100
+316;09/04/17;St Etienne;Nantes;D;0.0;1.0;1;1;Saint-Étienne;Nantes;2236;3158
+317;09/04/17;Toulouse;Marseille;D;0.0;0.0;0;0;Toulouse;Marseille;2127;5086
+318;14/04/17;Angers;Paris SG;A;0.0;1.0;0;2;Angers SCO;PSG;3175;9144
+319;15/04/17;Guingamp;Toulouse;H;0.0;0.0;2;1;;Toulouse;100;2127
+320;15/04/17;Metz;Caen;D;0.0;0.0;2;2;FC Metz;;1759;100
+321;15/04/17;Monaco;Dijon;H;0.0;1.0;2;1;Monaco;Dijon FCO;8320;2154
+322;15/04/17;Montpellier;Lorient;H;2.0;0.0;2;0;Montpellier;;2396;100
+323;15/04/17;Nice;Nancy;H;1.0;1.0;3;1;Nice;;4420;100
+324;15/04/17;Rennes;Lille;H;2.0;0.0;2;0;Stade Rennais;Lille;100;2452
+326;16/04/17;Marseille;St Etienne;H;2.0;0.0;4;0;Marseille;Saint-Étienne;5086;2236
+327;16/04/17;Nantes;Bordeaux;A;0.0;0.0;0;1;Nantes;Bordeaux;3158;3286
+328;18/04/17;Metz;Paris SG;A;0.0;2.0;2;3;FC Metz;PSG;1759;9144
+329;21/04/17;Nancy;Marseille;D;0.0;0.0;0;0;;Marseille;100;5086
+330;22/04/17;Bordeaux;Bastia;H;0.0;0.0;2;0;Bordeaux;;3286;100
+331;22/04/17;Caen;Nantes;A;0.0;2.0;0;2;;Nantes;100;3158
+332;22/04/17;Dijon;Angers;H;3.0;0.0;3;2;Dijon FCO;Angers SCO;2154;3175
+333;22/04/17;Lille;Guingamp;H;2.0;0.0;3;0;Lille;;2452;100
+334;22/04/17;Lorient;Metz;H;1.0;1.0;5;1;;FC Metz;100;1759
+335;22/04/17;Paris SG;Montpellier;H;1.0;0.0;2;0;PSG;Montpellier;9144;2396
+336;23/04/17;Lyon;Monaco;A;0.0;2.0;1;2;Olympique Lyon;Monaco;7682;8320
+337;23/04/17;St Etienne;Rennes;D;1.0;1.0;1;1;Saint-Étienne;Stade Rennais;2236;100
+338;23/04/17;Toulouse;Nice;D;0.0;0.0;1;1;Toulouse;Nice;2127;4420
+339;28/04/17;Angers;Lyon;A;0.0;2.0;1;2;Angers SCO;Olympique Lyon;3175;7682
+340;29/04/17;Bastia;Rennes;H;0.0;0.0;1;0;;Stade Rennais;100;100
+341;29/04/17;Guingamp;St Etienne;A;0.0;0.0;0;2;;Saint-Étienne;100;2236
+342;29/04/17;Metz;Nancy;H;1.0;1.0;2;1;FC Metz;;1759;100
+343;29/04/17;Monaco;Toulouse;H;0.0;0.0;3;1;Monaco;Toulouse;8320;2127
+344;29/04/17;Montpellier;Lille;A;0.0;1.0;0;3;Montpellier;Lille;2396;2452
+345;29/04/17;Nantes;Lorient;H;0.0;0.0;1;0;Nantes;;3158;100
+346;30/04/17;Caen;Marseille;A;1.0;3.0;1;5;;Marseille;100;5086
+347;30/04/17;Dijon;Bordeaux;D;0.0;0.0;0;0;Dijon FCO;Bordeaux;2154;3286
+348;30/04/17;Nice;Paris SG;H;1.0;0.0;3;1;Nice;PSG;4420;9144
+349;05/05/17;St Etienne;Bordeaux;D;1.0;1.0;2;2;Saint-Étienne;Bordeaux;2236;3286
+350;06/05/17;Guingamp;Dijon;H;1.0;0.0;4;0;;Dijon FCO;100;2154
+351;06/05/17;Lille;Metz;A;0.0;1.0;0;2;Lille;FC Metz;2452;1759
+352;06/05/17;Lorient;Angers;D;0.0;0.0;1;1;;Angers SCO;100;3175
+353;06/05/17;Nancy;Monaco;A;0.0;2.0;0;3;;Monaco;100;8320
+354;06/05/17;Paris SG;Bastia;H;2.0;0.0;5;0;PSG;;9144;100
+355;06/05/17;Toulouse;Caen;A;0.0;0.0;0;1;Toulouse;;2127;100
+356;07/05/17;Lyon;Nantes;H;0.0;1.0;3;2;Olympique Lyon;Nantes;7682;3158
+357;07/05/17;Marseille;Nice;H;1.0;0.0;2;1;Marseille;Nice;5086;4420
+358;07/05/17;Rennes;Montpellier;H;0.0;0.0;1;0;Stade Rennais;Montpellier;100;2396
+359;14/05/17;Bastia;Lorient;H;0.0;0.0;2;0;;;100;100
+360;14/05/17;Bordeaux;Marseille;D;1.0;0.0;1;1;Bordeaux;Marseille;3286;5086
+361;14/05/17;Caen;Rennes;A;0.0;0.0;0;1;;Stade Rennais;100;100
+362;14/05/17;Dijon;Nancy;H;0.0;0.0;2;0;Dijon FCO;;2154;100
+363;14/05/17;Metz;Toulouse;D;0.0;1.0;1;1;FC Metz;Toulouse;1759;2127
+364;14/05/17;Monaco;Lille;H;2.0;0.0;4;0;Monaco;Lille;8320;2452
+365;14/05/17;Montpellier;Lyon;A;1.0;2.0;1;3;Montpellier;Olympique Lyon;2396;7682
+366;14/05/17;Nantes;Guingamp;H;1.0;0.0;4;1;Nantes;;3158;100
+367;14/05/17;Nice;Angers;A;0.0;1.0;0;2;Nice;Angers SCO;4420;3175
+368;14/05/17;St Etienne;Paris SG;A;0.0;2.0;0;5;Saint-Étienne;PSG;2236;9144
+369;17/05/17;Monaco;St Etienne;H;1.0;0.0;2;0;Monaco;Saint-Étienne;8320;2236
+370;20/05/17;Angers;Montpellier;H;0.0;0.0;2;0;Angers SCO;Montpellier;3175;2396
+371;20/05/17;Guingamp;Metz;H;1.0;0.0;1;0;;FC Metz;100;1759
+372;20/05/17;Lille;Nantes;H;1.0;0.0;3;0;Lille;Nantes;2452;3158
+373;20/05/17;Lorient;Bordeaux;D;0.0;1.0;1;1;;Bordeaux;100;3286
+374;20/05/17;Lyon;Nice;D;1.0;1.0;3;3;Olympique Lyon;Nice;7682;4420
+375;20/05/17;Marseille;Bastia;H;0.0;0.0;1;0;Marseille;;5086;100
+376;20/05/17;Nancy;St Etienne;H;1.0;0.0;3;1;;Saint-Étienne;100;2236
+377;20/05/17;Paris SG;Caen;D;1.0;0.0;1;1;PSG;;9144;100
+378;20/05/17;Rennes;Monaco;A;0.0;1.0;2;3;Stade Rennais;Monaco;100;8320
+379;20/05/17;Toulouse;Dijon;D;0.0;0.0;0;0;Toulouse;Dijon FCO;2127;2154
+0;19/08/16;La Coruna;Eibar;H;0.0;0.0;2;1;;Eibar;100;6125
+1;19/08/16;Malaga;Osasuna;D;0.0;0.0;1;1;;Osasuna;100;1617
+2;20/08/16;Barcelona;Betis;H;3.0;1.0;6;2;;Real Betis;100;100
+3;20/08/16;Granada;Villarreal;D;0.0;0.0;1;1;;Villarreal;100;8065
+4;20/08/16;Sevilla;Espanol;H;3.0;3.0;6;4;Sevilla FC;;100;100
+5;21/08/16;Ath Madrid;Alaves;D;0.0;0.0;1;1;Real Madrid;;17696;100
+6;21/08/16;Sociedad;Real Madrid;A;0.0;2.0;0;3;Real Sociedad;Real Madrid;6982;17696
+7;21/08/16;Sp Gijon;Ath Bilbao;H;0.0;0.0;2;1;;;100;100
+8;22/08/16;Celta;Leganes;A;0.0;0.0;0;1;Celta;;8442;100
+9;22/08/16;Valencia;Las Palmas;A;2.0;3.0;2;4;;;100;100
+10;26/08/16;Betis;La Coruna;D;0.0;0.0;0;0;Real Betis;;100;100
+11;26/08/16;Espanol;Malaga;D;1.0;0.0;2;2;;;100;100
+12;27/08/16;Eibar;Valencia;H;0.0;0.0;1;0;Eibar;;6125;100
+13;27/08/16;Leganes;Ath Madrid;D;0.0;0.0;0;0;;Real Madrid;100;17696
+14;27/08/16;Osasuna;Sociedad;A;0.0;1.0;0;2;Osasuna;Real Sociedad;1617;6982
+15;27/08/16;Real Madrid;Celta;H;0.0;0.0;2;1;Real Madrid;Celta;17696;8442
+16;28/08/16;Alaves;Sp Gijon;D;0.0;0.0;0;0;;;100;100
+17;28/08/16;Ath Bilbao;Barcelona;A;0.0;1.0;0;1;;;100;100
+18;28/08/16;Las Palmas;Granada;H;1.0;1.0;5;1;;;100;100
+19;28/08/16;Villarreal;Sevilla;D;0.0;0.0;0;0;Villarreal;Sevilla FC;8065;100
+20;09/09/16;Sociedad;Espanol;D;0.0;0.0;1;1;Real Sociedad;;6982;100
+21;10/09/16;Barcelona;Alaves;A;0.0;1.0;1;2;;;100;100
+22;10/09/16;Celta;Ath Madrid;A;0.0;0.0;0;4;Celta;Real Madrid;8442;17696
+23;10/09/16;Malaga;Villarreal;A;0.0;2.0;0;2;;Villarreal;100;8065
+24;10/09/16;Real Madrid;Osasuna;H;3.0;0.0;5;2;Real Madrid;Osasuna;17696;1617
+25;10/09/16;Sevilla;Las Palmas;H;0.0;1.0;2;1;Sevilla FC;;100;100
+26;11/09/16;Granada;Eibar;A;0.0;1.0;1;2;;Eibar;100;6125
+27;11/09/16;La Coruna;Ath Bilbao;A;0.0;1.0;0;1;;;100;100
+28;11/09/16;Sp Gijon;Leganes;H;2.0;0.0;2;1;;;100;100
+29;11/09/16;Valencia;Betis;A;0.0;1.0;2;3;;Real Betis;100;100
+30;16/09/16;Betis;Granada;D;1.0;2.0;2;2;Real Betis;;100;100
+31;17/09/16;Ath Madrid;Sp Gijon;H;3.0;0.0;5;0;Real Madrid;;17696;100
+32;17/09/16;Eibar;Sevilla;D;0.0;1.0;1;1;Eibar;Sevilla FC;6125;100
+33;17/09/16;Las Palmas;Malaga;H;1.0;0.0;1;0;;;100;100
+34;17/09/16;Leganes;Barcelona;A;0.0;3.0;1;5;;;100;100
+35;18/09/16;Ath Bilbao;Valencia;H;2.0;1.0;2;1;;;100;100
+36;18/09/16;Espanol;Real Madrid;A;0.0;1.0;0;2;;Real Madrid;100;17696
+37;18/09/16;Osasuna;Celta;D;0.0;0.0;0;0;Osasuna;Celta;1617;8442
+38;18/09/16;Villarreal;Sociedad;H;2.0;1.0;2;1;Villarreal;Real Sociedad;8065;6982
+39;19/09/16;Alaves;La Coruna;D;0.0;0.0;0;0;;;100;100
+40;20/09/16;Malaga;Eibar;H;1.0;1.0;2;1;;Eibar;100;6125
+41;20/09/16;Sevilla;Betis;H;0.0;0.0;1;0;Sevilla FC;Real Betis;100;100
+42;21/09/16;Barcelona;Ath Madrid;D;1.0;0.0;1;1;;Real Madrid;100;17696
+43;21/09/16;Celta;Sp Gijon;H;0.0;0.0;2;1;Celta;;8442;100
+44;21/09/16;Granada;Ath Bilbao;A;1.0;1.0;1;2;;;100;100
+45;21/09/16;Real Madrid;Villarreal;D;0.0;1.0;1;1;Real Madrid;Villarreal;17696;8065
+46;21/09/16;Sociedad;Las Palmas;H;3.0;0.0;4;1;Real Sociedad;;6982;100
+47;22/09/16;La Coruna;Leganes;A;1.0;0.0;1;2;;;100;100
+48;22/09/16;Osasuna;Espanol;A;0.0;1.0;1;2;Osasuna;;1617;100
+49;22/09/16;Valencia;Alaves;H;1.0;1.0;2;1;;;100;100
+50;23/09/16;Betis;Malaga;H;1.0;0.0;1;0;Real Betis;;100;100
+51;24/09/16;Ath Bilbao;Sevilla;H;1.0;0.0;3;1;;Sevilla FC;100;100
+52;24/09/16;Eibar;Sociedad;H;0.0;0.0;2;0;Eibar;Real Sociedad;6125;6982
+53;24/09/16;Las Palmas;Real Madrid;D;1.0;1.0;2;2;;Real Madrid;100;17696
+54;24/09/16;Sp Gijon;Barcelona;A;0.0;2.0;0;5;;;100;100
+55;25/09/16;Ath Madrid;La Coruna;H;0.0;0.0;1;0;Real Madrid;;17696;100
+56;25/09/16;Espanol;Celta;A;0.0;0.0;0;2;;Celta;100;8442
+57;25/09/16;Leganes;Valencia;A;1.0;1.0;1;2;;;100;100
+58;25/09/16;Villarreal;Osasuna;H;3.0;1.0;3;1;Villarreal;Osasuna;8065;1617
+59;26/09/16;Alaves;Granada;H;0.0;0.0;3;1;;;100;100
+60;30/09/16;Sociedad;Betis;H;0.0;0.0;1;0;Real Sociedad;Real Betis;6982;100
+61;01/10/16;Granada;Leganes;A;0.0;0.0;0;1;;;100;100
+62;01/10/16;La Coruna;Sp Gijon;H;1.0;0.0;2;1;;;100;100
+63;01/10/16;Osasuna;Las Palmas;D;2.0;0.0;2;2;Osasuna;;1617;100
+64;01/10/16;Sevilla;Alaves;H;0.0;0.0;2;1;Sevilla FC;;100;100
+65;02/10/16;Celta;Barcelona;H;3.0;0.0;4;3;Celta;;8442;100
+66;02/10/16;Espanol;Villarreal;D;0.0;0.0;0;0;;Villarreal;100;8065
+67;02/10/16;Malaga;Ath Bilbao;H;0.0;1.0;2;1;;;100;100
+68;02/10/16;Real Madrid;Eibar;D;1.0;1.0;1;1;Real Madrid;Eibar;17696;6125
+69;02/10/16;Valencia;Ath Madrid;A;0.0;0.0;0;2;;Real Madrid;100;17696
+70;14/10/16;Las Palmas;Espanol;D;0.0;0.0;0;0;;;100;100
+71;15/10/16;Ath Madrid;Granada;H;2.0;1.0;7;1;Real Madrid;;17696;100
+72;15/10/16;Barcelona;La Coruna;H;3.0;0.0;4;0;;;100;100
+73;15/10/16;Betis;Real Madrid;A;0.0;4.0;1;6;Real Betis;Real Madrid;100;17696
+74;15/10/16;Leganes;Sevilla;A;0.0;1.0;2;3;;Sevilla FC;100;100
+75;16/10/16;Alaves;Malaga;D;1.0;0.0;1;1;;;100;100
+76;16/10/16;Ath Bilbao;Sociedad;H;0.0;1.0;3;2;;Real Sociedad;100;6982
+77;16/10/16;Sp Gijon;Valencia;A;1.0;1.0;1;2;;;100;100
+78;16/10/16;Villarreal;Celta;H;3.0;0.0;5;0;Villarreal;Celta;8065;8442
+79;17/10/16;Eibar;Osasuna;A;2.0;2.0;2;3;Eibar;Osasuna;6125;1617
+80;21/10/16;Osasuna;Betis;A;0.0;1.0;1;2;Osasuna;Real Betis;1617;100
+81;22/10/16;Espanol;Eibar;D;0.0;3.0;3;3;;Eibar;100;6125
+82;22/10/16;Granada;Sp Gijon;D;0.0;0.0;0;0;;;100;100
+83;22/10/16;Sociedad;Alaves;H;1.0;0.0;3;0;Real Sociedad;;6982;100
+84;22/10/16;Valencia;Barcelona;A;0.0;1.0;2;3;;;100;100
+85;23/10/16;Celta;La Coruna;H;1.0;1.0;4;1;Celta;;8442;100
+86;23/10/16;Malaga;Leganes;H;2.0;0.0;4;0;;;100;100
+87;23/10/16;Real Madrid;Ath Bilbao;H;1.0;1.0;2;1;Real Madrid;;17696;100
+88;23/10/16;Sevilla;Ath Madrid;H;0.0;0.0;1;0;Sevilla FC;Real Madrid;100;17696
+89;23/10/16;Villarreal;Las Palmas;H;0.0;1.0;2;1;Villarreal;;8065;100
+90;28/10/16;Leganes;Sociedad;A;0.0;1.0;0;2;;Real Sociedad;100;6982
+91;29/10/16;Alaves;Real Madrid;A;1.0;2.0;1;4;;Real Madrid;100;17696
+92;29/10/16;Ath Madrid;Malaga;H;3.0;1.0;4;2;Real Madrid;;17696;100
+93;29/10/16;Barcelona;Granada;H;0.0;0.0;1;0;;;100;100
+94;29/10/16;Sp Gijon;Sevilla;D;1.0;1.0;1;1;;Sevilla FC;100;100
+95;30/10/16;Ath Bilbao;Osasuna;D;1.0;1.0;1;1;;Osasuna;100;1617
+96;30/10/16;Betis;Espanol;A;0.0;0.0;0;1;Real Betis;;100;100
+97;30/10/16;Eibar;Villarreal;H;0.0;1.0;2;1;Eibar;Villarreal;6125;8065
+98;30/10/16;Las Palmas;Celta;D;0.0;3.0;3;3;;Celta;100;8442
+99;31/10/16;La Coruna;Valencia;D;1.0;0.0;1;1;;;100;100
+100;04/11/16;Malaga;Sp Gijon;H;1.0;1.0;3;2;;;100;100
+101;05/11/16;Granada;La Coruna;D;0.0;0.0;1;1;;;100;100
+102;05/11/16;Las Palmas;Eibar;H;0.0;0.0;1;0;;Eibar;100;6125
+103;05/11/16;Osasuna;Alaves;A;0.0;0.0;0;1;Osasuna;;1617;100
+104;05/11/16;Sociedad;Ath Madrid;H;0.0;0.0;2;0;Real Sociedad;Real Madrid;6982;17696
+105;06/11/16;Celta;Valencia;H;1.0;1.0;2;1;Celta;;8442;100
+106;06/11/16;Espanol;Ath Bilbao;D;0.0;0.0;0;0;;;100;100
+107;06/11/16;Real Madrid;Leganes;H;2.0;0.0;3;0;Real Madrid;;17696;100
+108;06/11/16;Sevilla;Barcelona;A;1.0;1.0;1;2;Sevilla FC;;100;100
+109;06/11/16;Villarreal;Betis;H;1.0;0.0;2;0;Villarreal;Real Betis;8065;100
+110;18/11/16;Betis;Las Palmas;H;2.0;0.0;2;0;Real Betis;;100;100
+111;19/11/16;Ath Madrid;Real Madrid;A;0.0;1.0;0;3;Real Madrid;Real Madrid;17696;17696
+112;19/11/16;Barcelona;Malaga;D;0.0;0.0;0;0;;;100;100
+113;19/11/16;Eibar;Celta;H;1.0;0.0;1;0;Eibar;Celta;6125;8442
+114;19/11/16;La Coruna;Sevilla;A;2.0;1.0;2;3;;Sevilla FC;100;100
+115;20/11/16;Alaves;Espanol;A;0.0;0.0;0;1;;;100;100
+116;20/11/16;Ath Bilbao;Villarreal;H;0.0;0.0;1;0;;Villarreal;100;8065
+117;20/11/16;Sp Gijon;Sociedad;A;1.0;1.0;1;3;;Real Sociedad;100;6982
+118;20/11/16;Valencia;Granada;D;0.0;1.0;1;1;;;100;100
+119;21/11/16;Leganes;Osasuna;H;1.0;0.0;2;0;;Osasuna;100;1617
+120;25/11/16;Eibar;Betis;H;2.0;0.0;3;1;Eibar;Real Betis;6125;100
+121;26/11/16;Espanol;Leganes;H;0.0;0.0;3;0;;;100;100
+122;26/11/16;Malaga;La Coruna;H;2.0;1.0;4;3;;;100;100
+123;26/11/16;Real Madrid;Sp Gijon;H;2.0;1.0;2;1;Real Madrid;;17696;100
+124;26/11/16;Sevilla;Valencia;H;0.0;0.0;2;1;Sevilla FC;;100;100
+125;27/11/16;Celta;Granada;H;2.0;0.0;3;1;Celta;;8442;100
+126;27/11/16;Osasuna;Ath Madrid;A;0.0;2.0;0;3;Osasuna;Real Madrid;1617;17696
+127;27/11/16;Sociedad;Barcelona;D;0.0;0.0;1;1;Real Sociedad;;6982;100
+128;27/11/16;Villarreal;Alaves;A;0.0;2.0;0;2;Villarreal;;8065;100
+129;28/11/16;Las Palmas;Ath Bilbao;H;1.0;0.0;3;1;;;100;100
+130;03/12/16;Ath Madrid;Espanol;D;0.0;0.0;0;0;Real Madrid;;17696;100
+131;03/12/16;Barcelona;Real Madrid;D;0.0;0.0;1;1;;Real Madrid;100;17696
+132;03/12/16;Granada;Sevilla;H;1.0;0.0;2;1;;Sevilla FC;100;100
+133;03/12/16;Leganes;Villarreal;D;0.0;0.0;0;0;;Villarreal;100;8065
+134;04/12/16;Alaves;Las Palmas;D;1.0;0.0;1;1;;;100;100
+135;04/12/16;Ath Bilbao;Eibar;H;1.0;0.0;3;1;;Eibar;100;6125
+136;04/12/16;Betis;Celta;D;1.0;1.0;3;3;Real Betis;Celta;100;8442
+137;04/12/16;Sp Gijon;Osasuna;H;1.0;0.0;3;1;;Osasuna;100;1617
+138;04/12/16;Valencia;Malaga;D;2.0;1.0;2;2;;;100;100
+139;05/12/16;La Coruna;Sociedad;H;3.0;0.0;5;1;;Real Sociedad;100;6982
+140;09/12/16;Malaga;Granada;D;1.0;0.0;1;1;;;100;100
+141;10/12/16;Las Palmas;Leganes;D;1.0;0.0;1;1;;;100;100
+142;10/12/16;Osasuna;Barcelona;A;0.0;0.0;0;3;Osasuna;;1617;100
+143;10/12/16;Real Madrid;La Coruna;H;0.0;0.0;3;2;Real Madrid;;17696;100
+144;10/12/16;Sociedad;Valencia;H;2.0;1.0;3;2;Real Sociedad;;6982;100
+145;11/12/16;Betis;Ath Bilbao;H;1.0;0.0;1;0;Real Betis;;100;100
+146;11/12/16;Celta;Sevilla;A;0.0;0.0;0;3;Celta;Sevilla FC;8442;100
+147;11/12/16;Eibar;Alaves;D;0.0;0.0;0;0;Eibar;;6125;100
+148;11/12/16;Espanol;Sp Gijon;H;0.0;0.0;2;1;;;100;100
+149;12/12/16;Villarreal;Ath Madrid;H;2.0;0.0;3;0;Villarreal;Real Madrid;8065;17696
+150;16/12/16;Alaves;Betis;H;0.0;0.0;1;0;;Real Betis;100;100
+151;17/12/16;Ath Madrid;Las Palmas;H;0.0;0.0;1;0;Real Madrid;;17696;100
+152;17/12/16;Granada;Sociedad;A;0.0;0.0;0;2;;Real Sociedad;100;6982
+153;17/12/16;Sevilla;Malaga;H;4.0;0.0;4;1;Sevilla FC;;100;100
+154;17/12/16;Sp Gijon;Villarreal;A;0.0;2.0;1;3;;Villarreal;100;8065
+155;18/12/16;Barcelona;Espanol;H;1.0;0.0;4;1;;;100;100
+156;18/12/16;La Coruna;Osasuna;H;2.0;0.0;2;0;;Osasuna;100;1617
+157;18/12/16;Leganes;Eibar;D;1.0;0.0;1;1;;Eibar;100;6125
+158;19/12/16;Ath Bilbao;Celta;H;0.0;0.0;2;1;;Celta;100;8442
+159;06/01/17;Espanol;La Coruna;D;0.0;0.0;1;1;;;100;100
+160;07/01/17;Eibar;Ath Madrid;A;0.0;0.0;0;2;Eibar;Real Madrid;6125;17696
+161;07/01/17;Las Palmas;Sp Gijon;H;0.0;0.0;1;0;;;100;100
+162;07/01/17;Real Madrid;Granada;H;4.0;0.0;5;0;Real Madrid;;17696;100
+163;07/01/17;Sociedad;Sevilla;A;0.0;2.0;0;4;Real Sociedad;Sevilla FC;6982;100
+164;08/01/17;Ath Bilbao;Alaves;D;0.0;0.0;0;0;;;100;100
+165;08/01/17;Betis;Leganes;H;0.0;0.0;2;0;Real Betis;;100;100
+166;08/01/17;Celta;Malaga;H;1.0;0.0;3;1;Celta;;8442;100
+167;08/01/17;Villarreal;Barcelona;D;0.0;0.0;1;1;Villarreal;;8065;100
+168;09/01/17;Osasuna;Valencia;D;1.0;2.0;3;3;Osasuna;;1617;100
+169;14/01/17;Ath Madrid;Betis;H;1.0;0.0;1;0;Real Madrid;Real Betis;17696;100
+170;14/01/17;Barcelona;Las Palmas;H;1.0;0.0;5;0;;;100;100
+171;14/01/17;La Coruna;Villarreal;D;0.0;0.0;0;0;;Villarreal;100;8065
+172;14/01/17;Leganes;Ath Bilbao;D;0.0;0.0;0;0;;;100;100
+173;15/01/17;Celta;Alaves;H;0.0;0.0;1;0;Celta;;8442;100
+174;15/01/17;Granada;Osasuna;D;0.0;1.0;1;1;;Osasuna;100;1617
+175;15/01/17;Sevilla;Real Madrid;H;0.0;0.0;2;1;Sevilla FC;Real Madrid;100;17696
+176;15/01/17;Sp Gijon;Eibar;A;1.0;3.0;2;3;;Eibar;100;6125
+177;15/01/17;Valencia;Espanol;H;1.0;0.0;2;1;;;100;100
+178;16/01/17;Malaga;Sociedad;A;0.0;0.0;0;2;;Real Sociedad;100;6982
+179;20/01/17;Las Palmas;La Coruna;D;1.0;0.0;1;1;;;100;100
+180;21/01/17;Alaves;Leganes;D;1.0;1.0;2;2;;;100;100
+181;21/01/17;Espanol;Granada;H;2.0;1.0;3;1;;;100;100
+182;21/01/17;Real Madrid;Malaga;H;2.0;0.0;2;1;Real Madrid;;17696;100
+183;21/01/17;Villarreal;Valencia;A;0.0;2.0;0;2;Villarreal;;8065;100
+184;22/01/17;Ath Bilbao;Ath Madrid;D;1.0;1.0;2;2;;Real Madrid;100;17696
+185;22/01/17;Betis;Sp Gijon;D;0.0;0.0;0;0;Real Betis;;100;100
+186;22/01/17;Eibar;Barcelona;A;0.0;1.0;0;4;Eibar;;6125;100
+187;22/01/17;Osasuna;Sevilla;A;1.0;1.0;3;4;Osasuna;Sevilla FC;1617;100
+188;22/01/17;Sociedad;Celta;H;0.0;0.0;1;0;Real Sociedad;Celta;6982;8442
+189;27/01/17;Osasuna;Malaga;D;0.0;0.0;1;1;Osasuna;;1617;100
+190;28/01/17;Alaves;Ath Madrid;D;0.0;0.0;0;0;;Real Madrid;100;17696
+191;28/01/17;Eibar;La Coruna;H;2.0;1.0;3;1;Eibar;;6125;100
+192;28/01/17;Leganes;Celta;A;0.0;1.0;0;2;;Celta;100;8442
+193;28/01/17;Villarreal;Granada;H;1.0;0.0;2;0;Villarreal;;8065;100
+194;29/01/17;Ath Bilbao;Sp Gijon;H;0.0;1.0;2;1;;;100;100
+195;29/01/17;Betis;Barcelona;D;0.0;0.0;1;1;Real Betis;;100;100
+196;29/01/17;Espanol;Sevilla;H;2.0;1.0;3;1;;Sevilla FC;100;100
+197;29/01/17;Real Madrid;Sociedad;H;1.0;0.0;3;0;Real Madrid;Real Sociedad;17696;6982
+198;30/01/17;Las Palmas;Valencia;H;1.0;1.0;3;1;;;100;100
+199;04/02/17;Ath Madrid;Leganes;H;1.0;0.0;2;0;Real Madrid;;17696;100
+200;04/02/17;Barcelona;Ath Bilbao;H;2.0;0.0;3;0;;;100;100
+201;04/02/17;Malaga;Espanol;A;0.0;1.0;0;1;;;100;100
+202;04/02/17;Valencia;Eibar;A;0.0;2.0;0;4;;Eibar;100;6125
+203;05/02/17;Sevilla;Villarreal;D;0.0;0.0;0;0;Sevilla FC;Villarreal;100;8065
+204;05/02/17;Sociedad;Osasuna;H;0.0;1.0;3;2;Real Sociedad;Osasuna;6982;1617
+205;05/02/17;Sp Gijon;Alaves;A;0.0;1.0;2;4;;;100;100
+206;06/02/17;Granada;Las Palmas;H;1.0;0.0;1;0;;;100;100
+207;10/02/17;Espanol;Sociedad;A;1.0;1.0;1;2;;Real Sociedad;100;6982
+208;11/02/17;Alaves;Barcelona;A;0.0;2.0;0;6;;;100;100
+209;11/02/17;Ath Bilbao;La Coruna;H;0.0;1.0;2;1;;;100;100
+210;11/02/17;Betis;Valencia;D;0.0;0.0;0;0;Real Betis;;100;100
+211;11/02/17;Osasuna;Real Madrid;A;1.0;1.0;1;3;Osasuna;Real Madrid;1617;17696
+212;12/02/17;Ath Madrid;Celta;H;1.0;1.0;3;2;Real Madrid;Celta;17696;8442
+213;12/02/17;Las Palmas;Sevilla;A;0.0;0.0;0;1;;Sevilla FC;100;100
+214;12/02/17;Leganes;Sp Gijon;A;0.0;0.0;0;2;;;100;100
+215;12/02/17;Villarreal;Malaga;D;0.0;1.0;1;1;Villarreal;;8065;100
+216;13/02/17;Eibar;Granada;H;2.0;0.0;4;0;Eibar;;6125;100
+217;17/02/17;Granada;Betis;H;3.0;0.0;4;1;;Real Betis;100;100
+218;18/02/17;La Coruna;Alaves;A;0.0;0.0;0;1;;;100;100
+219;18/02/17;Real Madrid;Espanol;H;1.0;0.0;2;0;Real Madrid;;17696;100
+220;18/02/17;Sevilla;Eibar;H;1.0;0.0;2;0;Sevilla FC;Eibar;100;6125
+221;18/02/17;Sp Gijon;Ath Madrid;A;0.0;0.0;1;4;;Real Madrid;100;17696
+222;19/02/17;Barcelona;Leganes;H;1.0;0.0;2;1;;;100;100
+223;19/02/17;Celta;Osasuna;H;1.0;0.0;3;0;Celta;Osasuna;8442;1617
+224;19/02/17;Sociedad;Villarreal;A;0.0;0.0;0;1;Real Sociedad;Villarreal;6982;8065
+225;19/02/17;Valencia;Ath Bilbao;H;2.0;0.0;2;0;;;100;100
+226;20/02/17;Malaga;Las Palmas;H;2.0;1.0;2;1;;;100;100
+227;22/02/17;Valencia;Real Madrid;H;2.0;1.0;2;1;;Real Madrid;100;17696
+228;24/02/17;Las Palmas;Sociedad;A;0.0;0.0;0;1;;Real Sociedad;100;6982
+229;25/02/17;Alaves;Valencia;H;0.0;0.0;2;1;;;100;100
+230;25/02/17;Betis;Sevilla;A;1.0;0.0;1;2;Real Betis;Sevilla FC;100;100
+231;25/02/17;Eibar;Malaga;H;1.0;0.0;3;0;Eibar;;6125;100
+232;25/02/17;Leganes;La Coruna;H;2.0;0.0;4;0;;;100;100
+233;26/02/17;Ath Bilbao;Granada;H;2.0;1.0;3;1;;;100;100
+234;26/02/17;Ath Madrid;Barcelona;A;0.0;0.0;1;2;Real Madrid;;17696;100
+235;26/02/17;Espanol;Osasuna;H;1.0;0.0;3;0;;Osasuna;100;1617
+236;26/02/17;Sp Gijon;Celta;D;0.0;0.0;1;1;;Celta;100;8442
+237;26/02/17;Villarreal;Real Madrid;A;0.0;0.0;2;3;Villarreal;Real Madrid;8065;17696
+238;28/02/17;Malaga;Betis;A;1.0;0.0;1;2;;Real Betis;100;100
+239;28/02/17;Sociedad;Eibar;D;1.0;1.0;2;2;Real Sociedad;Eibar;6982;6125
+240;28/02/17;Valencia;Leganes;H;1.0;0.0;1;0;;;100;100
+241;01/03/17;Barcelona;Sp Gijon;H;3.0;1.0;6;1;;;100;100
+242;01/03/17;Celta;Espanol;D;2.0;2.0;2;2;Celta;;8442;100
+243;01/03/17;Granada;Alaves;H;1.0;0.0;2;1;;;100;100
+244;01/03/17;Osasuna;Villarreal;A;0.0;2.0;1;4;Osasuna;Villarreal;1617;8065
+245;01/03/17;Real Madrid;Las Palmas;D;1.0;1.0;3;3;Real Madrid;;17696;100
+246;02/03/17;La Coruna;Ath Madrid;D;1.0;0.0;1;1;;Real Madrid;100;17696
+247;02/03/17;Sevilla;Ath Bilbao;H;1.0;0.0;1;0;Sevilla FC;;100;100
+248;03/03/17;Betis;Sociedad;A;1.0;2.0;2;3;Real Betis;Real Sociedad;100;6982
+249;04/03/17;Barcelona;Celta;H;2.0;0.0;5;0;;Celta;100;8442
+250;04/03/17;Eibar;Real Madrid;A;0.0;3.0;1;4;Eibar;Real Madrid;6125;17696
+251;04/03/17;Leganes;Granada;H;0.0;0.0;1;0;;;100;100
+252;04/03/17;Villarreal;Espanol;H;1.0;0.0;2;0;Villarreal;;8065;100
+253;05/03/17;Ath Bilbao;Malaga;H;0.0;0.0;1;0;;;100;100
+254;05/03/17;Ath Madrid;Valencia;H;1.0;0.0;3;0;Real Madrid;;17696;100
+255;05/03/17;Las Palmas;Osasuna;H;1.0;2.0;5;2;;Osasuna;100;1617
+256;05/03/17;Sp Gijon;La Coruna;A;0.0;1.0;0;1;;;100;100
+257;06/03/17;Alaves;Sevilla;D;0.0;1.0;1;1;;Sevilla FC;100;100
+258;08/03/17;La Coruna;Betis;D;0.0;0.0;1;1;;Real Betis;100;100
+259;10/03/17;Espanol;Las Palmas;H;2.0;1.0;4;3;;;100;100
+260;11/03/17;Granada;Ath Madrid;A;0.0;0.0;0;1;;Real Madrid;100;17696
+261;11/03/17;Malaga;Alaves;A;0.0;1.0;1;2;;;100;100
+262;11/03/17;Sevilla;Leganes;D;1.0;1.0;1;1;Sevilla FC;;100;100
+263;11/03/17;Valencia;Sp Gijon;D;0.0;0.0;1;1;;;100;100
+264;12/03/17;Celta;Villarreal;A;0.0;1.0;0;1;Celta;Villarreal;8442;8065
+265;12/03/17;La Coruna;Barcelona;H;1.0;0.0;2;1;;;100;100
+266;12/03/17;Real Madrid;Betis;H;1.0;1.0;2;1;Real Madrid;Real Betis;17696;100
+267;12/03/17;Sociedad;Ath Bilbao;A;0.0;1.0;0;2;Real Sociedad;;6982;100
+268;13/03/17;Osasuna;Eibar;D;0.0;0.0;1;1;Osasuna;Eibar;1617;6125
+269;17/03/17;Las Palmas;Villarreal;H;1.0;0.0;1;0;;Villarreal;100;8065
+270;18/03/17;Alaves;Sociedad;H;1.0;0.0;1;0;;Real Sociedad;100;6982
+271;18/03/17;Ath Bilbao;Real Madrid;A;0.0;1.0;1;2;;Real Madrid;100;17696
+272;18/03/17;Betis;Osasuna;H;2.0;0.0;2;0;Real Betis;Osasuna;100;1617
+273;18/03/17;Eibar;Espanol;D;1.0;0.0;1;1;Eibar;;6125;100
+274;19/03/17;Ath Madrid;Sevilla;H;1.0;0.0;3;1;Real Madrid;Sevilla FC;17696;100
+275;19/03/17;Barcelona;Valencia;H;2.0;2.0;4;2;;;100;100
+276;19/03/17;La Coruna;Celta;A;0.0;0.0;0;1;;Celta;100;8442
+277;19/03/17;Leganes;Malaga;D;0.0;0.0;0;0;;;100;100
+278;19/03/17;Sp Gijon;Granada;H;0.0;0.0;3;1;;;100;100
+279;31/03/17;Espanol;Betis;H;0.0;0.0;2;1;;Real Betis;100;100
+280;01/04/17;Malaga;Ath Madrid;A;0.0;1.0;0;2;;Real Madrid;100;17696
+281;01/04/17;Osasuna;Ath Bilbao;A;0.0;2.0;1;2;Osasuna;;1617;100
+282;01/04/17;Sociedad;Leganes;D;0.0;1.0;1;1;Real Sociedad;;6982;100
+283;01/04/17;Villarreal;Eibar;A;1.0;0.0;2;3;Villarreal;Eibar;8065;6125
+284;02/04/17;Granada;Barcelona;A;0.0;1.0;1;4;;;100;100
+285;02/04/17;Real Madrid;Alaves;H;1.0;0.0;3;0;Real Madrid;;17696;100
+286;02/04/17;Sevilla;Sp Gijon;D;0.0;0.0;0;0;Sevilla FC;;100;100
+287;02/04/17;Valencia;La Coruna;H;2.0;0.0;3;0;;;100;100
+288;03/04/17;Celta;Las Palmas;H;2.0;0.0;3;1;Celta;;8442;100
+289;04/04/17;Ath Bilbao;Espanol;H;2.0;0.0;2;0;;;100;100
+290;04/04/17;Ath Madrid;Sociedad;H;1.0;0.0;1;0;Real Madrid;Real Sociedad;17696;6982
+291;04/04/17;Betis;Villarreal;A;0.0;0.0;0;1;Real Betis;Villarreal;100;8065
+292;05/04/17;Alaves;Osasuna;A;0.0;0.0;0;1;;Osasuna;100;1617
+293;05/04/17;Barcelona;Sevilla;H;3.0;0.0;3;0;;Sevilla FC;100;100
+294;05/04/17;La Coruna;Granada;D;0.0;0.0;0;0;;;100;100
+295;05/04/17;Leganes;Real Madrid;A;2.0;3.0;2;4;;Real Madrid;100;17696
+296;05/04/17;Sp Gijon;Malaga;A;0.0;1.0;0;1;;;100;100
+297;06/04/17;Eibar;Las Palmas;H;2.0;0.0;3;1;Eibar;;6125;100
+298;06/04/17;Valencia;Celta;H;1.0;1.0;3;2;;Celta;100;8442
+299;07/04/17;Villarreal;Ath Bilbao;H;1.0;1.0;3;1;Villarreal;;8065;100
+300;08/04/17;Espanol;Alaves;H;0.0;0.0;1;0;;;100;100
+301;08/04/17;Malaga;Barcelona;H;1.0;0.0;2;0;;;100;100
+302;08/04/17;Real Madrid;Ath Madrid;D;0.0;0.0;1;1;Real Madrid;Real Madrid;17696;17696
+303;08/04/17;Sevilla;La Coruna;H;3.0;2.0;4;2;Sevilla FC;;100;100
+304;09/04/17;Celta;Eibar;A;0.0;1.0;0;2;Celta;Eibar;8442;6125
+305;09/04/17;Granada;Valencia;A;0.0;2.0;1;3;;;100;100
+306;09/04/17;Las Palmas;Betis;H;1.0;0.0;4;1;;Real Betis;100;100
+307;09/04/17;Osasuna;Leganes;H;1.0;1.0;2;1;Osasuna;;1617;100
+308;10/04/17;Sociedad;Sp Gijon;H;2.0;0.0;3;1;Real Sociedad;;6982;100
+309;14/04/17;Ath Bilbao;Las Palmas;H;3.0;1.0;5;1;;;100;100
+310;15/04/17;Ath Madrid;Osasuna;H;1.0;0.0;3;0;Real Madrid;Osasuna;17696;1617
+311;15/04/17;Barcelona;Sociedad;H;3.0;2.0;3;2;;Real Sociedad;100;6982
+312;15/04/17;La Coruna;Malaga;H;0.0;0.0;2;0;;;100;100
+313;15/04/17;Sp Gijon;Real Madrid;A;1.0;1.0;2;3;;Real Madrid;100;17696
+314;16/04/17;Betis;Eibar;H;1.0;0.0;2;0;Real Betis;Eibar;100;6125
+315;16/04/17;Granada;Celta;A;0.0;1.0;0;3;;Celta;100;8442
+316;16/04/17;Leganes;Espanol;A;0.0;0.0;0;1;;;100;100
+317;16/04/17;Valencia;Sevilla;D;0.0;0.0;0;0;;Sevilla FC;100;100
+318;17/04/17;Alaves;Villarreal;H;2.0;0.0;2;1;;Villarreal;100;8065
+319;21/04/17;Sevilla;Granada;H;1.0;0.0;2;0;Sevilla FC;;100;100
+320;22/04/17;Espanol;Ath Madrid;A;0.0;0.0;0;1;;Real Madrid;100;17696
+321;22/04/17;Malaga;Valencia;H;2.0;0.0;2;0;;;100;100
+322;22/04/17;Osasuna;Sp Gijon;D;1.0;0.0;2;2;Osasuna;;1617;100
+323;22/04/17;Villarreal;Leganes;H;0.0;0.0;2;1;Villarreal;;8065;100
+324;23/04/17;Celta;Betis;A;0.0;0.0;0;1;Celta;Real Betis;8442;100
+325;23/04/17;Las Palmas;Alaves;D;1.0;0.0;1;1;;;100;100
+326;23/04/17;Real Madrid;Barcelona;A;1.0;1.0;2;3;Real Madrid;;17696;100
+327;23/04/17;Sociedad;La Coruna;H;1.0;0.0;1;0;Real Sociedad;;6982;100
+328;24/04/17;Eibar;Ath Bilbao;A;0.0;0.0;0;1;Eibar;;6125;100
+329;25/04/17;Ath Madrid;Villarreal;A;0.0;0.0;0;1;Real Madrid;Villarreal;17696;8065
+330;25/04/17;Granada;Malaga;A;0.0;0.0;0;2;;;100;100
+331;25/04/17;Sp Gijon;Espanol;D;1.0;0.0;1;1;;;100;100
+332;26/04/17;Barcelona;Osasuna;H;2.0;0.0;7;1;;Osasuna;100;1617
+333;26/04/17;La Coruna;Real Madrid;A;1.0;3.0;2;6;;Real Madrid;100;17696
+334;26/04/17;Leganes;Las Palmas;H;0.0;0.0;3;0;;;100;100
+335;26/04/17;Valencia;Sociedad;A;0.0;2.0;2;3;;Real Sociedad;100;6982
+336;27/04/17;Alaves;Eibar;D;0.0;0.0;0;0;;Eibar;100;6125
+337;27/04/17;Ath Bilbao;Betis;H;0.0;0.0;2;1;;Real Betis;100;100
+338;27/04/17;Sevilla;Celta;H;0.0;0.0;2;1;Sevilla FC;Celta;100;8442
+339;28/04/17;Villarreal;Sp Gijon;H;1.0;0.0;3;1;Villarreal;;8065;100
+340;29/04/17;Espanol;Barcelona;A;0.0;0.0;0;3;;;100;100
+341;29/04/17;Las Palmas;Ath Madrid;A;0.0;3.0;0;5;;Real Madrid;100;17696
+342;29/04/17;Real Madrid;Valencia;H;1.0;0.0;2;1;Real Madrid;;17696;100
+343;29/04/17;Sociedad;Granada;H;1.0;0.0;2;1;Real Sociedad;;6982;100
+344;30/04/17;Betis;Alaves;A;1.0;0.0;1;4;Real Betis;;100;100
+345;30/04/17;Celta;Ath Bilbao;A;0.0;1.0;0;3;Celta;;8442;100
+346;30/04/17;Eibar;Leganes;H;0.0;0.0;2;0;Eibar;;6125;100
+347;30/04/17;Osasuna;La Coruna;D;1.0;1.0;2;2;Osasuna;;1617;100
+348;01/05/17;Malaga;Sevilla;H;1.0;1.0;4;2;;Sevilla FC;100;100
+349;05/05/17;Sevilla;Sociedad;D;1.0;0.0;1;1;Sevilla FC;Real Sociedad;100;6982
+350;06/05/17;Ath Madrid;Eibar;H;0.0;0.0;1;0;Real Madrid;Eibar;17696;6125
+351;06/05/17;Barcelona;Villarreal;H;2.0;1.0;4;1;;Villarreal;100;8065
+352;06/05/17;Granada;Real Madrid;A;0.0;4.0;0;4;;Real Madrid;100;17696
+353;06/05/17;Sp Gijon;Las Palmas;H;0.0;0.0;1;0;;;100;100
+354;07/05/17;Alaves;Ath Bilbao;H;0.0;0.0;1;0;;;100;100
+355;07/05/17;La Coruna;Espanol;A;0.0;2.0;1;2;;;100;100
+356;07/05/17;Malaga;Celta;H;1.0;0.0;3;0;;Celta;100;8442
+357;07/05/17;Valencia;Osasuna;H;2.0;0.0;4;1;;Osasuna;100;1617
+358;08/05/17;Leganes;Betis;H;2.0;0.0;4;0;;Real Betis;100;100
+359;13/05/17;Espanol;Valencia;A;0.0;0.0;0;1;;;100;100
+360;13/05/17;Osasuna;Granada;H;1.0;1.0;2;1;Osasuna;;1617;100
+361;14/05/17;Alaves;Celta;H;3.0;0.0;3;1;;Celta;100;8442
+362;14/05/17;Ath Bilbao;Leganes;D;1.0;0.0;1;1;;;100;100
+363;14/05/17;Betis;Ath Madrid;D;0.0;0.0;1;1;Real Betis;Real Madrid;100;17696
+364;14/05/17;Eibar;Sp Gijon;A;0.0;1.0;0;1;Eibar;;6125;100
+365;14/05/17;Las Palmas;Barcelona;A;0.0;2.0;1;4;;;100;100
+366;14/05/17;Real Madrid;Sevilla;H;2.0;0.0;4;1;Real Madrid;Sevilla FC;17696;100
+367;14/05/17;Sociedad;Malaga;D;1.0;1.0;2;2;Real Sociedad;;6982;100
+368;14/05/17;Villarreal;La Coruna;D;0.0;0.0;0;0;Villarreal;;8065;100
+369;17/05/17;Celta;Real Madrid;A;0.0;1.0;1;4;Celta;Real Madrid;8442;17696
+370;19/05/17;Granada;Espanol;A;1.0;2.0;1;2;;;100;100
+371;20/05/17;La Coruna;Las Palmas;H;3.0;0.0;3;0;;;100;100
+372;20/05/17;Leganes;Alaves;D;0.0;0.0;1;1;;;100;100
+373;20/05/17;Sevilla;Osasuna;H;3.0;0.0;5;0;Sevilla FC;Osasuna;100;1617
+374;20/05/17;Sp Gijon;Betis;D;1.0;1.0;2;2;;Real Betis;100;100
+375;21/05/17;Ath Madrid;Ath Bilbao;H;2.0;0.0;3;1;Real Madrid;;17696;100
+376;21/05/17;Barcelona;Eibar;H;0.0;1.0;4;2;;Eibar;100;6125
+377;21/05/17;Celta;Sociedad;D;0.0;0.0;2;2;Celta;Real Sociedad;8442;6982
+378;21/05/17;Malaga;Real Madrid;A;0.0;1.0;0;2;;Real Madrid;100;17696
+379;21/05/17;Valencia;Villarreal;A;0.0;1.0;1;3;;Villarreal;100;8065

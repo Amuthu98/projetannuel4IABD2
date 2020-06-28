@@ -1,384 +1,4 @@
 ;Date;HomeTeam;AwayTeam;FTR;HTHG;HTAG;FTHG;FTAG;NameHome;NameAway;puissanceHomeTeam;puissanceAwayTeam
-0;17/08/2018;Betis;Levante;A;0;1;0;3;Real Betis;Levante;5879;5198
-1;17/08/2018;Girona;Valladolid;D;0;0;0;0;;Valladolid;100;4109
-2;18/08/2018;Barcelona;Alaves;H;0;0;3;0;;;100;100
-3;18/08/2018;Celta;Espanol;D;0;1;1;1;Celta;;3366;100
-4;18/08/2018;Villarreal;Sociedad;A;1;1;1;2;Villarreal;Real Sociedad;7282;6436
-5;19/08/2018;Eibar;Huesca;A;0;2;1;2;Eibar;;4455;100
-6;19/08/2018;Real Madrid;Getafe;H;1;0;2;0;Real Madrid;Getafe;11475;8931
-7;19/08/2018;Vallecano;Sevilla;A;0;3;1;4;;Sevilla FC;100;9335
-8;20/08/2018;Ath Bilbao;Leganes;H;1;1;2;1;;;100;100
-9;20/08/2018;Valencia;Ath Madrid;D;0;1;1;1;;Real Madrid;100;11475
-10;24/08/2018;Getafe;Eibar;H;1;0;2;0;Getafe;Eibar;8931;4455
-11;24/08/2018;Leganes;Sociedad;D;0;2;2;2;;Real Sociedad;100;6436
-12;25/08/2018;Alaves;Betis;D;0;0;0;0;;Real Betis;100;5879
-13;25/08/2018;Ath Madrid;Vallecano;H;0;0;1;0;Real Madrid;;11475;100
-14;25/08/2018;Valladolid;Barcelona;A;0;0;0;1;Valladolid;;4109;100
-15;26/08/2018;Espanol;Valencia;H;0;0;2;0;;;100;100
-16;26/08/2018;Girona;Real Madrid;A;1;1;1;4;;Real Madrid;100;11475
-17;26/08/2018;Sevilla;Villarreal;D;0;0;0;0;Sevilla FC;Villarreal;9335;7282
-18;27/08/2018;Ath Bilbao;Huesca;D;0;0;2;2;;;100;100
-19;27/08/2018;Levante;Celta;A;0;2;1;2;Levante;Celta;5198;3366
-20;31/08/2018;Eibar;Sociedad;H;1;1;2;1;Eibar;Real Sociedad;4455;6436
-21;31/08/2018;Getafe;Valladolid;D;0;0;0;0;Getafe;Valladolid;8931;4109
-22;31/08/2018;Villarreal;Girona;A;0;0;0;1;Villarreal;;7282;100
-23;01/09/2018;Celta;Ath Madrid;H;0;0;2;0;Celta;Real Madrid;3366;11475
-24;01/09/2018;Real Madrid;Leganes;H;1;1;4;1;Real Madrid;;11475;100
-25;02/09/2018;Alaves;Espanol;H;0;1;2;1;;;100;100
-26;02/09/2018;Barcelona;Huesca;H;3;2;8;2;;;100;100
-27;02/09/2018;Betis;Sevilla;H;0;0;1;0;Real Betis;Sevilla FC;5879;9335
-28;02/09/2018;Levante;Valencia;D;2;1;2;2;Levante;;5198;100
-29;14/09/2018;Huesca;Vallecano;A;0;1;0;1;;;100;100
-30;15/09/2018;Ath Bilbao;Real Madrid;D;1;0;1;1;;Real Madrid;100;11475
-31;15/09/2018;Ath Madrid;Eibar;D;0;0;1;1;Real Madrid;Eibar;11475;4455
-32;15/09/2018;Sociedad;Barcelona;A;1;0;1;2;Real Sociedad;;6436;100
-33;15/09/2018;Valencia;Betis;D;0;0;0;0;;Real Betis;100;5879
-34;16/09/2018;Espanol;Levante;H;0;0;1;0;;Levante;100;5198
-35;16/09/2018;Leganes;Villarreal;A;0;0;0;1;;Villarreal;100;7282
-36;16/09/2018;Sevilla;Getafe;A;0;2;0;2;Sevilla FC;Getafe;9335;8931
-37;16/09/2018;Valladolid;Alaves;A;0;0;0;1;Valladolid;;4109;100
-38;17/09/2018;Girona;Celta;H;2;1;3;2;;Celta;100;3366
-39;21/09/2018;Huesca;Sociedad;A;0;0;0;1;;Real Sociedad;100;6436
-40;22/09/2018;Celta;Valladolid;D;2;1;3;3;Celta;Valladolid;3366;4109
-41;22/09/2018;Eibar;Leganes;H;0;0;1;0;Eibar;;4455;100
-42;22/09/2018;Getafe;Ath Madrid;A;0;1;0;2;Getafe;Real Madrid;8931;11475
-43;22/09/2018;Real Madrid;Espanol;H;1;0;1;0;Real Madrid;;11475;100
-44;22/09/2018;Vallecano;Alaves;A;1;2;1;5;;;100;100
-45;23/09/2018;Barcelona;Girona;D;1;1;2;2;;;100;100
-46;23/09/2018;Betis;Ath Bilbao;D;0;2;2;2;Real Betis;;5879;100
-47;23/09/2018;Levante;Sevilla;A;1;4;2;6;Levante;Sevilla FC;5198;9335
-48;23/09/2018;Villarreal;Valencia;D;0;0;0;0;Villarreal;;7282;100
-49;25/09/2018;Ath Madrid;Huesca;H;3;0;3;0;Real Madrid;;11475;100
-50;25/09/2018;Espanol;Eibar;H;0;0;1;0;;Eibar;100;4455
-51;25/09/2018;Sociedad;Vallecano;D;1;2;2;2;Real Sociedad;;6436;100
-52;26/09/2018;Ath Bilbao;Villarreal;A;0;0;0;3;;Villarreal;100;7282
-53;26/09/2018;Leganes;Barcelona;H;0;1;2;1;;;100;100
-54;26/09/2018;Sevilla;Real Madrid;H;3;0;3;0;Sevilla FC;Real Madrid;9335;11475
-55;26/09/2018;Valencia;Celta;D;1;0;1;1;;Celta;100;3366
-56;27/09/2018;Alaves;Getafe;D;0;0;1;1;;Getafe;100;8931
-57;27/09/2018;Girona;Betis;A;0;0;0;1;;Real Betis;100;5879
-58;27/09/2018;Valladolid;Levante;H;0;0;2;1;Valladolid;Levante;4109;5198
-59;28/09/2018;Vallecano;Espanol;D;1;2;2;2;;;100;100
-60;29/09/2018;Barcelona;Ath Bilbao;D;0;1;1;1;;;100;100
-61;29/09/2018;Eibar;Sevilla;A;0;0;1;3;Eibar;Sevilla FC;4455;9335
-62;29/09/2018;Real Madrid;Ath Madrid;D;0;0;0;0;Real Madrid;Real Madrid;11475;11475
-63;29/09/2018;Sociedad;Valencia;A;0;1;0;1;Real Sociedad;;6436;100
-64;30/09/2018;Betis;Leganes;H;0;0;1;0;Real Betis;;5879;100
-65;30/09/2018;Huesca;Girona;D;0;1;1;1;;;100;100
-66;30/09/2018;Levante;Alaves;H;2;1;2;1;Levante;;5198;100
-67;30/09/2018;Villarreal;Valladolid;A;0;0;0;1;Villarreal;Valladolid;7282;4109
-68;01/10/2018;Celta;Getafe;D;1;0;1;1;Celta;Getafe;3366;8931
-69;05/10/2018;Ath Bilbao;Sociedad;A;1;1;1;3;;Real Sociedad;100;6436
-70;06/10/2018;Alaves;Real Madrid;H;0;0;1;0;;Real Madrid;100;11475
-71;06/10/2018;Getafe;Levante;A;0;0;0;1;Getafe;Levante;8931;5198
-72;06/10/2018;Girona;Eibar;A;2;2;2;3;;Eibar;100;4455
-73;06/10/2018;Leganes;Vallecano;H;1;0;1;0;;;100;100
-74;07/10/2018;Ath Madrid;Betis;H;0;0;1;0;Real Madrid;Real Betis;11475;5879
-75;07/10/2018;Espanol;Villarreal;H;1;1;3;1;;Villarreal;100;7282
-76;07/10/2018;Sevilla;Celta;H;1;0;2;1;Sevilla FC;Celta;9335;3366
-77;07/10/2018;Valencia;Barcelona;D;1;1;1;1;;;100;100
-78;07/10/2018;Valladolid;Huesca;H;1;0;1;0;Valladolid;;4109;100
-79;19/10/2018;Celta;Alaves;A;0;0;0;1;Celta;;3366;100
-80;20/10/2018;Barcelona;Sevilla;H;2;0;4;2;;Sevilla FC;100;9335
-81;20/10/2018;Real Madrid;Levante;A;0;2;1;2;Real Madrid;Levante;11475;5198
-82;20/10/2018;Valencia;Leganes;D;0;0;1;1;;;100;100
-83;20/10/2018;Villarreal;Ath Madrid;D;0;0;1;1;Villarreal;Real Madrid;7282;11475
-84;21/10/2018;Betis;Valladolid;A;0;1;0;1;Real Betis;Valladolid;5879;4109
-85;21/10/2018;Eibar;Ath Bilbao;D;1;1;1;1;Eibar;;4455;100
-86;21/10/2018;Huesca;Espanol;A;0;1;0;2;;;100;100
-87;21/10/2018;Vallecano;Getafe;A;0;0;1;2;;Getafe;100;8931
-88;22/10/2018;Sociedad;Girona;D;0;0;0;0;Real Sociedad;;6436;100
-89;24/10/2018;Vallecano;Ath Bilbao;D;1;0;1;1;;;100;100
-90;26/10/2018;Valladolid;Espanol;D;0;1;1;1;Valladolid;;4109;100
-91;27/10/2018;Ath Bilbao;Valencia;D;0;0;0;0;;;100;100
-92;27/10/2018;Ath Madrid;Sociedad;H;1;0;2;0;Real Madrid;Real Sociedad;11475;6436
-93;27/10/2018;Celta;Eibar;H;2;0;4;0;Celta;Eibar;3366;4455
-94;27/10/2018;Girona;Vallecano;H;2;0;2;1;;;100;100
-95;27/10/2018;Levante;Leganes;H;1;0;2;0;Levante;;5198;100
-96;28/10/2018;Alaves;Villarreal;H;0;1;2;1;;Villarreal;100;7282
-97;28/10/2018;Barcelona;Real Madrid;H;2;0;5;1;;Real Madrid;100;11475
-98;28/10/2018;Getafe;Betis;H;0;0;2;0;Getafe;Real Betis;8931;5879
-99;28/10/2018;Sevilla;Huesca;H;0;0;2;1;Sevilla FC;;9335;100
-100;03/11/2018;Leganes;Ath Madrid;D;0;0;1;1;;Real Madrid;100;11475
-101;03/11/2018;Real Madrid;Valladolid;H;0;0;2;0;Real Madrid;Valladolid;11475;4109
-102;03/11/2018;Valencia;Girona;A;0;0;0;1;;;100;100
-103;03/11/2018;Vallecano;Barcelona;A;1;1;2;3;;;100;100
-104;04/11/2018;Betis;Celta;D;1;0;3;3;Real Betis;Celta;5879;3366
-105;04/11/2018;Eibar;Alaves;H;0;1;2;1;Eibar;;4455;100
-106;04/11/2018;Huesca;Getafe;D;0;0;1;1;;Getafe;100;8931
-107;04/11/2018;Sociedad;Sevilla;D;0;0;0;0;Real Sociedad;Sevilla FC;6436;9335
-108;04/11/2018;Villarreal;Levante;D;0;0;1;1;Villarreal;Levante;7282;5198
-109;05/11/2018;Espanol;Ath Bilbao;H;1;0;1;0;;;100;100
-110;09/11/2018;Levante;Sociedad;A;1;0;1;3;Levante;Real Sociedad;5198;6436
-111;10/11/2018;Ath Madrid;Ath Bilbao;H;0;1;3;2;Real Madrid;;11475;100
-112;10/11/2018;Getafe;Valencia;A;0;0;0;1;Getafe;;8931;100
-113;10/11/2018;Girona;Leganes;D;0;0;0;0;;;100;100
-114;10/11/2018;Valladolid;Eibar;D;0;0;0;0;Valladolid;Eibar;4109;4455
-115;11/11/2018;Alaves;Huesca;H;1;1;2;1;;;100;100
-116;11/11/2018;Barcelona;Betis;A;0;2;3;4;;Real Betis;100;5879
-117;11/11/2018;Celta;Real Madrid;A;0;1;2;4;Celta;Real Madrid;3366;11475
-118;11/11/2018;Sevilla;Espanol;H;0;1;2;1;Sevilla FC;;9335;100
-119;11/11/2018;Vallecano;Villarreal;D;1;1;2;2;;Villarreal;100;7282
-120;23/11/2018;Leganes;Alaves;H;1;0;1;0;;;100;100
-121;24/11/2018;Ath Madrid;Barcelona;D;0;0;1;1;Real Madrid;;11475;100
-122;24/11/2018;Eibar;Real Madrid;H;1;0;3;0;Eibar;Real Madrid;4455;11475
-123;24/11/2018;Huesca;Levante;D;1;1;2;2;;Levante;100;5198
-124;24/11/2018;Valencia;Vallecano;H;1;0;3;0;;;100;100
-125;25/11/2018;Ath Bilbao;Getafe;D;0;0;1;1;;Getafe;100;8931
-126;25/11/2018;Espanol;Girona;A;0;2;1;3;;;100;100
-127;25/11/2018;Sevilla;Valladolid;H;1;0;1;0;Sevilla FC;Valladolid;9335;4109
-128;25/11/2018;Villarreal;Betis;H;0;0;2;1;Villarreal;Real Betis;7282;5879
-129;26/11/2018;Sociedad;Celta;H;1;0;2;1;Real Sociedad;Celta;6436;3366
-130;30/11/2018;Vallecano;Eibar;H;0;0;1;0;;Eibar;100;4455
-131;01/12/2018;Celta;Huesca;H;1;0;2;0;Celta;;3366;100
-132;01/12/2018;Getafe;Espanol;H;0;0;3;0;Getafe;;8931;100
-133;01/12/2018;Real Madrid;Valencia;H;1;0;2;0;Real Madrid;;11475;100
-134;01/12/2018;Valladolid;Leganes;A;0;2;2;4;Valladolid;;4109;100
-135;02/12/2018;Alaves;Sevilla;D;1;0;1;1;;Sevilla FC;100;9335
-136;02/12/2018;Barcelona;Villarreal;H;1;0;2;0;;Villarreal;100;7282
-137;02/12/2018;Betis;Sociedad;H;1;0;1;0;Real Betis;Real Sociedad;5879;6436
-138;02/12/2018;Girona;Ath Madrid;D;1;0;1;1;;Real Madrid;100;11475
-139;03/12/2018;Levante;Ath Bilbao;H;1;0;3;0;Levante;;5198;100
-140;07/12/2018;Leganes;Getafe;D;0;1;1;1;;Getafe;100;8931
-141;08/12/2018;Ath Madrid;Alaves;H;1;0;3;0;Real Madrid;;11475;100
-142;08/12/2018;Espanol;Barcelona;A;0;3;0;4;;;100;100
-143;08/12/2018;Valencia;Sevilla;D;0;0;1;1;;Sevilla FC;100;9335
-144;08/12/2018;Villarreal;Celta;A;0;1;2;3;Villarreal;Celta;7282;3366
-145;09/12/2018;Betis;Vallecano;H;0;0;2;0;Real Betis;;5879;100
-146;09/12/2018;Eibar;Levante;D;1;2;4;4;Eibar;Levante;4455;5198
-147;09/12/2018;Huesca;Real Madrid;A;0;1;0;1;;Real Madrid;100;11475
-148;09/12/2018;Sociedad;Valladolid;A;0;1;1;2;Real Sociedad;Valladolid;6436;4109
-149;10/12/2018;Ath Bilbao;Girona;H;0;0;1;0;;;100;100
-150;14/12/2018;Celta;Leganes;D;0;0;0;0;Celta;;3366;100
-151;15/12/2018;Eibar;Valencia;D;0;1;1;1;Eibar;;4455;100
-152;15/12/2018;Getafe;Sociedad;H;1;0;1;0;Getafe;Real Sociedad;8931;6436
-153;15/12/2018;Real Madrid;Vallecano;H;1;0;1;0;Real Madrid;;11475;100
-154;15/12/2018;Valladolid;Ath Madrid;A;0;2;2;3;Valladolid;Real Madrid;4109;11475
-155;16/12/2018;Espanol;Betis;A;1;1;1;3;;Real Betis;100;5879
-156;16/12/2018;Huesca;Villarreal;D;1;0;2;2;;Villarreal;100;7282
-157;16/12/2018;Levante;Barcelona;A;0;2;0;5;Levante;;5198;100
-158;16/12/2018;Sevilla;Girona;H;0;0;2;0;Sevilla FC;;9335;100
-159;17/12/2018;Alaves;Ath Bilbao;D;0;0;0;0;;;100;100
-160;21/12/2018;Girona;Getafe;D;0;0;1;1;;Getafe;100;8931
-161;21/12/2018;Sociedad;Alaves;A;0;1;0;1;Real Sociedad;;6436;100
-162;22/12/2018;Ath Bilbao;Valladolid;D;1;0;1;1;;Valladolid;100;4109
-163;22/12/2018;Ath Madrid;Espanol;H;0;0;1;0;Real Madrid;;11475;100
-164;22/12/2018;Barcelona;Celta;H;2;0;2;0;;Celta;100;3366
-165;22/12/2018;Betis;Eibar;D;1;0;1;1;Real Betis;Eibar;5879;4455
-166;23/12/2018;Leganes;Sevilla;D;1;0;1;1;;Sevilla FC;100;9335
-167;23/12/2018;Valencia;Huesca;H;1;0;2;1;;;100;100
-168;23/12/2018;Vallecano;Levante;H;1;0;2;1;;Levante;100;5198
-169;03/01/2019;Villarreal;Real Madrid;D;1;2;2;2;Villarreal;Real Madrid;7282;11475
-170;04/01/2019;Espanol;Leganes;H;1;0;1;0;;;100;100
-171;04/01/2019;Levante;Girona;D;0;1;2;2;Levante;;5198;100
-172;05/01/2019;Alaves;Valencia;H;2;1;2;1;;;100;100
-173;05/01/2019;Huesca;Betis;H;0;0;2;1;;Real Betis;100;5879
-174;05/01/2019;Valladolid;Vallecano;A;0;1;0;1;Valladolid;;4109;100
-175;06/01/2019;Eibar;Villarreal;D;0;0;0;0;Eibar;Villarreal;4455;7282
-176;06/01/2019;Getafe;Barcelona;A;1;2;1;2;Getafe;;8931;100
-177;06/01/2019;Real Madrid;Sociedad;A;0;1;0;2;Real Madrid;Real Sociedad;11475;6436
-178;06/01/2019;Sevilla;Ath Madrid;D;1;1;1;1;Sevilla FC;Real Madrid;9335;11475
-179;07/01/2019;Celta;Ath Bilbao;A;1;1;1;2;Celta;;3366;100
-180;11/01/2019;Vallecano;Celta;H;2;2;4;2;;Celta;100;3366
-181;12/01/2019;Girona;Alaves;D;1;0;1;1;;;100;100
-182;12/01/2019;Leganes;Huesca;H;0;0;1;0;;;100;100
-183;12/01/2019;Valencia;Valladolid;D;0;0;1;1;;Valladolid;100;4109
-184;12/01/2019;Villarreal;Getafe;A;0;0;1;2;Villarreal;Getafe;7282;8931
-185;13/01/2019;Ath Bilbao;Sevilla;H;1;0;2;0;;Sevilla FC;100;9335
-186;13/01/2019;Ath Madrid;Levante;H;0;0;1;0;Real Madrid;Levante;11475;5198
-187;13/01/2019;Barcelona;Eibar;H;1;0;3;0;;Eibar;100;4455
-188;13/01/2019;Betis;Real Madrid;A;0;1;1;2;Real Betis;Real Madrid;5879;11475
-189;14/01/2019;Sociedad;Espanol;H;2;2;3;2;Real Sociedad;;6436;100
-190;18/01/2019;Getafe;Alaves;H;1;0;4;0;Getafe;;8931;100
-191;19/01/2019;Celta;Valencia;A;1;0;1;2;Celta;;3366;100
-192;19/01/2019;Huesca;Ath Madrid;A;0;1;0;3;;Real Madrid;100;11475
-193;19/01/2019;Real Madrid;Sevilla;H;0;0;2;0;Real Madrid;Sevilla FC;11475;9335
-194;20/01/2019;Barcelona;Leganes;H;1;0;3;1;;;100;100
-195;20/01/2019;Betis;Girona;H;1;2;3;2;Real Betis;;5879;100
-196;20/01/2019;Levante;Valladolid;H;1;0;2;0;Levante;Valladolid;5198;4109
-197;20/01/2019;Vallecano;Sociedad;D;2;1;2;2;;Real Sociedad;100;6436
-198;20/01/2019;Villarreal;Ath Bilbao;D;0;1;1;1;Villarreal;;7282;100
-199;21/01/2019;Eibar;Espanol;H;1;0;3;0;Eibar;;4455;100
-200;26/01/2019;Ath Madrid;Getafe;H;2;0;2;0;Real Madrid;Getafe;11475;8931
-201;26/01/2019;Leganes;Eibar;D;0;2;2;2;;Eibar;100;4455
-202;26/01/2019;Sevilla;Levante;H;0;0;5;0;Sevilla FC;Levante;9335;5198
-203;26/01/2019;Valencia;Villarreal;H;1;0;3;0;;Villarreal;100;7282
-204;27/01/2019;Ath Bilbao;Betis;H;1;0;1;0;;Real Betis;100;5879
-205;27/01/2019;Espanol;Real Madrid;A;1;3;2;4;;Real Madrid;100;11475
-206;27/01/2019;Girona;Barcelona;A;0;1;0;2;;;100;100
-207;27/01/2019;Sociedad;Huesca;D;0;0;0;0;Real Sociedad;;6436;100
-208;27/01/2019;Valladolid;Celta;H;0;1;2;1;Valladolid;Celta;4109;3366
-209;28/01/2019;Alaves;Vallecano;A;0;0;0;1;;;100;100
-210;01/02/2019;Huesca;Valladolid;H;1;0;4;0;;Valladolid;100;4109
-211;02/02/2019;Barcelona;Valencia;D;1;2;2;2;;;100;100
-212;02/02/2019;Celta;Sevilla;H;0;0;1;0;Celta;Sevilla FC;3366;9335
-213;02/02/2019;Levante;Getafe;D;0;0;0;0;Levante;Getafe;5198;8931
-214;02/02/2019;Sociedad;Ath Bilbao;H;2;0;2;1;Real Sociedad;;6436;100
-215;03/02/2019;Betis;Ath Madrid;H;0;0;1;0;Real Betis;Real Madrid;5879;11475
-216;03/02/2019;Eibar;Girona;H;1;0;3;0;Eibar;;4455;100
-217;03/02/2019;Real Madrid;Alaves;H;1;0;3;0;Real Madrid;;11475;100
-218;03/02/2019;Villarreal;Espanol;D;1;0;2;2;Villarreal;;7282;100
-219;04/02/2019;Vallecano;Leganes;A;0;1;1;2;;;100;100
-220;08/02/2019;Valladolid;Villarreal;D;0;0;0;0;Valladolid;Villarreal;4109;7282
-221;09/02/2019;Ath Madrid;Real Madrid;A;1;2;1;3;Real Madrid;Real Madrid;11475;11475
-222;09/02/2019;Espanol;Vallecano;H;0;1;2;1;;;100;100
-223;09/02/2019;Getafe;Celta;H;1;1;3;1;Getafe;Celta;8931;3366
-224;09/02/2019;Girona;Huesca;A;0;2;0;2;;;100;100
-225;10/02/2019;Ath Bilbao;Barcelona;D;0;0;0;0;;;100;100
-226;10/02/2019;Leganes;Betis;H;2;0;3;0;;Real Betis;100;5879
-227;10/02/2019;Sevilla;Eibar;D;0;1;2;2;Sevilla FC;Eibar;9335;4455
-228;10/02/2019;Valencia;Sociedad;D;0;0;0;0;;Real Sociedad;100;6436
-229;11/02/2019;Alaves;Levante;H;1;0;2;0;;Levante;100;5198
-230;15/02/2019;Eibar;Getafe;D;0;1;2;2;Eibar;Getafe;4455;8931
-231;16/02/2019;Barcelona;Valladolid;H;1;0;1;0;;Valladolid;100;4109
-232;16/02/2019;Celta;Levante;A;0;2;1;4;Celta;Levante;3366;5198
-233;16/02/2019;Sociedad;Leganes;H;0;0;3;0;Real Sociedad;;6436;100
-234;16/02/2019;Vallecano;Ath Madrid;A;0;0;0;1;;Real Madrid;100;11475
-235;17/02/2019;Betis;Alaves;D;1;1;1;1;Real Betis;;5879;100
-236;17/02/2019;Real Madrid;Girona;A;1;0;1;2;Real Madrid;;11475;100
-237;17/02/2019;Valencia;Espanol;D;0;0;0;0;;;100;100
-238;17/02/2019;Villarreal;Sevilla;H;2;0;3;0;Villarreal;Sevilla FC;7282;9335
-239;18/02/2019;Huesca;Ath Bilbao;A;0;1;0;1;;;100;100
-240;22/02/2019;Espanol;Huesca;D;1;0;1;1;;;100;100
-241;23/02/2019;Alaves;Celta;D;0;0;0;0;;Celta;100;3366
-242;23/02/2019;Ath Bilbao;Eibar;H;1;0;1;0;;Eibar;100;4455
-243;23/02/2019;Getafe;Vallecano;H;1;0;2;1;Getafe;;8931;100
-244;23/02/2019;Sevilla;Barcelona;A;2;1;2;4;Sevilla FC;;9335;100
-245;24/02/2019;Ath Madrid;Villarreal;H;1;0;2;0;Real Madrid;Villarreal;11475;7282
-246;24/02/2019;Leganes;Valencia;D;0;1;1;1;;;100;100
-247;24/02/2019;Levante;Real Madrid;A;0;1;1;2;Levante;Real Madrid;5198;11475
-248;24/02/2019;Valladolid;Betis;A;0;1;0;2;Valladolid;Real Betis;4109;5879
-249;25/02/2019;Girona;Sociedad;D;0;0;0;0;;Real Sociedad;100;6436
-250;01/03/2019;Vallecano;Girona;A;0;1;0;2;;;100;100
-251;02/03/2019;Espanol;Valladolid;H;1;1;3;1;;Valladolid;100;4109
-252;02/03/2019;Huesca;Sevilla;H;1;0;2;1;;Sevilla FC;100;9335
-253;02/03/2019;Real Madrid;Barcelona;A;0;1;0;1;Real Madrid;;11475;100
-254;02/03/2019;Villarreal;Alaves;A;0;0;1;2;Villarreal;;7282;100
-255;03/03/2019;Betis;Getafe;A;0;2;1;2;Real Betis;Getafe;5879;8931
-256;03/03/2019;Eibar;Celta;H;0;0;1;0;Eibar;Celta;4455;3366
-257;03/03/2019;Sociedad;Ath Madrid;A;0;2;0;2;Real Sociedad;Real Madrid;6436;11475
-258;03/03/2019;Valencia;Ath Bilbao;H;0;0;2;0;;;100;100
-259;04/03/2019;Leganes;Levante;H;1;0;1;0;;Levante;100;5198
-260;08/03/2019;Ath Bilbao;Espanol;D;0;1;1;1;;;100;100
-261;09/03/2019;Alaves;Eibar;D;0;0;1;1;;Eibar;100;4455
-262;09/03/2019;Ath Madrid;Leganes;H;0;0;1;0;Real Madrid;;11475;100
-263;09/03/2019;Barcelona;Vallecano;H;1;1;3;1;;;100;100
-264;09/03/2019;Getafe;Huesca;H;0;1;2;1;Getafe;;8931;100
-265;10/03/2019;Celta;Betis;A;0;0;0;1;Celta;Real Betis;3366;5879
-266;10/03/2019;Girona;Valencia;A;1;1;2;3;;;100;100
-267;10/03/2019;Levante;Villarreal;A;0;0;0;2;Levante;Villarreal;5198;7282
-268;10/03/2019;Sevilla;Sociedad;H;1;1;5;2;Sevilla FC;Real Sociedad;9335;6436
-269;10/03/2019;Valladolid;Real Madrid;A;1;1;1;4;Valladolid;Real Madrid;4109;11475
-270;15/03/2019;Sociedad;Levante;D;1;0;1;1;Real Sociedad;Levante;6436;5198
-271;16/03/2019;Ath Bilbao;Ath Madrid;H;0;0;2;0;;Real Madrid;100;11475
-272;16/03/2019;Huesca;Alaves;A;1;1;1;3;;;100;100
-273;16/03/2019;Leganes;Girona;A;0;2;0;2;;;100;100
-274;16/03/2019;Real Madrid;Celta;H;0;0;2;0;Real Madrid;Celta;11475;3366
-275;17/03/2019;Betis;Barcelona;A;0;2;1;4;Real Betis;;5879;100
-276;17/03/2019;Eibar;Valladolid;A;0;0;1;2;Eibar;Valladolid;4455;4109
-277;17/03/2019;Espanol;Sevilla;A;0;0;0;1;;Sevilla FC;100;9335
-278;17/03/2019;Valencia;Getafe;D;0;0;0;0;;Getafe;100;8931
-279;17/03/2019;Villarreal;Vallecano;H;0;1;3;1;Villarreal;;7282;100
-280;29/03/2019;Girona;Ath Bilbao;A;1;0;1;2;;;100;100
-281;30/03/2019;Alaves;Ath Madrid;A;0;2;0;4;;Real Madrid;100;11475
-282;30/03/2019;Barcelona;Espanol;H;0;0;2;0;;;100;100
-283;30/03/2019;Celta;Villarreal;H;0;2;3;2;Celta;Villarreal;3366;7282
-284;30/03/2019;Getafe;Leganes;A;0;0;0;2;Getafe;;8931;100
-285;31/03/2019;Levante;Eibar;D;2;1;2;2;Levante;Eibar;5198;4455
-286;31/03/2019;Real Madrid;Huesca;H;1;1;3;2;Real Madrid;;11475;100
-287;31/03/2019;Sevilla;Valencia;A;0;1;0;1;Sevilla FC;;9335;100
-288;31/03/2019;Valladolid;Sociedad;D;1;0;1;1;Valladolid;Real Sociedad;4109;6436
-289;31/03/2019;Vallecano;Betis;D;1;0;1;1;;Real Betis;100;5879
-290;02/04/2019;Ath Madrid;Girona;H;0;0;2;0;Real Madrid;;11475;100
-291;02/04/2019;Espanol;Getafe;D;0;0;1;1;;Getafe;100;8931
-292;02/04/2019;Villarreal;Barcelona;D;1;2;4;4;Villarreal;;7282;100
-293;03/04/2019;Ath Bilbao;Levante;H;2;0;3;2;;Levante;100;5198
-294;03/04/2019;Eibar;Vallecano;H;0;1;2;1;Eibar;;4455;100
-295;03/04/2019;Huesca;Celta;D;0;1;3;3;;Celta;100;3366
-296;03/04/2019;Valencia;Real Madrid;H;1;0;2;1;;Real Madrid;100;11475
-297;04/04/2019;Leganes;Valladolid;H;0;0;1;0;;Valladolid;100;4109
-298;04/04/2019;Sevilla;Alaves;H;1;0;2;0;Sevilla FC;;9335;100
-299;04/04/2019;Sociedad;Betis;H;1;0;2;1;Real Sociedad;Real Betis;6436;5879
-300;06/04/2019;Barcelona;Ath Madrid;H;0;0;2;0;;Real Madrid;100;11475
-301;06/04/2019;Girona;Espanol;A;0;0;1;2;;;100;100
-302;06/04/2019;Real Madrid;Eibar;H;0;1;2;1;Real Madrid;Eibar;11475;4455
-303;06/04/2019;Vallecano;Valencia;H;1;0;2;0;;;100;100
-304;07/04/2019;Alaves;Leganes;D;1;0;1;1;;;100;100
-305;07/04/2019;Betis;Villarreal;H;1;1;2;1;Real Betis;Villarreal;5879;7282
-306;07/04/2019;Celta;Sociedad;H;0;1;3;1;Celta;Real Sociedad;3366;6436
-307;07/04/2019;Getafe;Ath Bilbao;H;0;0;1;0;Getafe;;8931;100
-308;07/04/2019;Levante;Huesca;D;1;0;2;2;Levante;;5198;100
-309;07/04/2019;Valladolid;Sevilla;A;0;0;0;2;Valladolid;Sevilla FC;4109;9335
-310;13/04/2019;Ath Madrid;Celta;H;1;0;2;0;Real Madrid;Celta;11475;3366
-311;13/04/2019;Espanol;Alaves;H;1;0;2;1;;;100;100
-312;13/04/2019;Huesca;Barcelona;D;0;0;0;0;;;100;100
-313;13/04/2019;Sevilla;Betis;H;1;0;3;2;Sevilla FC;Real Betis;9335;5879
-314;14/04/2019;Ath Bilbao;Vallecano;H;1;1;3;2;;;100;100
-315;14/04/2019;Girona;Villarreal;A;0;1;0;1;;Villarreal;100;7282
-316;14/04/2019;Sociedad;Eibar;D;1;0;1;1;Real Sociedad;Eibar;6436;4455
-317;14/04/2019;Valencia;Levante;H;1;0;3;1;;Levante;100;5198
-318;14/04/2019;Valladolid;Getafe;D;1;1;2;2;Valladolid;Getafe;4109;8931
-319;15/04/2019;Leganes;Real Madrid;D;1;0;1;1;;Real Madrid;100;11475
-320;19/04/2019;Alaves;Valladolid;D;2;1;2;2;;Valladolid;100;4109
-321;20/04/2019;Barcelona;Sociedad;H;1;0;2;1;;Real Sociedad;100;6436
-322;20/04/2019;Celta;Girona;H;1;0;2;1;Celta;;3366;100
-323;20/04/2019;Eibar;Ath Madrid;A;0;0;0;1;Eibar;Real Madrid;4455;11475
-324;20/04/2019;Vallecano;Huesca;D;0;0;0;0;;;100;100
-325;21/04/2019;Betis;Valencia;A;0;1;1;2;Real Betis;;5879;100
-326;21/04/2019;Getafe;Sevilla;H;2;0;3;0;Getafe;Sevilla FC;8931;9335
-327;21/04/2019;Levante;Espanol;D;0;1;2;2;Levante;;5198;100
-328;21/04/2019;Real Madrid;Ath Bilbao;H;0;0;3;0;Real Madrid;;11475;100
-329;21/04/2019;Villarreal;Leganes;H;0;0;2;1;Villarreal;;7282;100
-330;23/04/2019;Alaves;Barcelona;A;0;0;0;2;;;100;100
-331;23/04/2019;Huesca;Eibar;H;0;0;2;0;;Eibar;100;4455
-332;23/04/2019;Valladolid;Girona;H;0;0;1;0;Valladolid;;4109;100
-333;24/04/2019;Ath Madrid;Valencia;H;1;1;3;2;Real Madrid;;11475;100
-334;24/04/2019;Espanol;Celta;D;1;0;1;1;;Celta;100;3366
-335;24/04/2019;Leganes;Ath Bilbao;A;0;1;0;1;;;100;100
-336;24/04/2019;Levante;Betis;H;2;0;4;0;Levante;Real Betis;5198;5879
-337;25/04/2019;Getafe;Real Madrid;D;0;0;0;0;Getafe;Real Madrid;8931;11475
-338;25/04/2019;Sevilla;Vallecano;H;0;0;5;0;Sevilla FC;;9335;100
-339;25/04/2019;Sociedad;Villarreal;A;0;0;0;1;Real Sociedad;Villarreal;6436;7282
-340;27/04/2019;Ath Bilbao;Alaves;D;1;1;1;1;;;100;100
-341;27/04/2019;Ath Madrid;Valladolid;H;0;0;1;0;Real Madrid;Valladolid;11475;4109
-342;27/04/2019;Barcelona;Levante;H;0;0;1;0;;Levante;100;5198
-343;27/04/2019;Leganes;Celta;D;0;0;0;0;;Celta;100;3366
-344;28/04/2019;Girona;Sevilla;H;0;0;1;0;;Sevilla FC;100;9335
-345;28/04/2019;Sociedad;Getafe;H;1;0;2;1;Real Sociedad;Getafe;6436;8931
-346;28/04/2019;Valencia;Eibar;A;0;0;0;1;;Eibar;100;4455
-347;28/04/2019;Vallecano;Real Madrid;H;1;0;1;0;;Real Madrid;100;11475
-348;28/04/2019;Villarreal;Huesca;D;1;0;1;1;Villarreal;;7282;100
-349;29/04/2019;Betis;Espanol;D;0;1;1;1;Real Betis;;5879;100
-350;03/05/2019;Sevilla;Leganes;A;0;2;0;3;Sevilla FC;;9335;100
-351;04/05/2019;Alaves;Sociedad;A;0;1;0;1;;Real Sociedad;100;6436
-352;04/05/2019;Celta;Barcelona;H;0;0;2;0;Celta;;3366;100
-353;04/05/2019;Espanol;Ath Madrid;H;1;0;3;0;;Real Madrid;100;11475
-354;04/05/2019;Levante;Vallecano;H;2;0;4;1;Levante;;5198;100
-355;05/05/2019;Eibar;Betis;H;1;0;1;0;Eibar;Real Betis;4455;5879
-356;05/05/2019;Getafe;Girona;H;1;0;2;0;Getafe;;8931;100
-357;05/05/2019;Huesca;Valencia;A;0;5;2;6;;;100;100
-358;05/05/2019;Real Madrid;Villarreal;H;2;1;3;2;Real Madrid;Villarreal;11475;7282
-359;05/05/2019;Valladolid;Ath Bilbao;H;1;0;1;0;Valladolid;;4109;100
-360;12/05/2019;Ath Bilbao;Celta;H;3;0;3;1;;Celta;100;3366
-361;12/05/2019;Ath Madrid;Sevilla;D;1;0;1;1;Real Madrid;Sevilla FC;11475;9335
-362;12/05/2019;Barcelona;Getafe;H;1;0;2;0;;Getafe;100;8931
-363;12/05/2019;Betis;Huesca;H;1;0;2;1;Real Betis;;5879;100
-364;12/05/2019;Girona;Levante;A;0;0;1;2;;Levante;100;5198
-365;12/05/2019;Leganes;Espanol;A;0;1;0;2;;;100;100
-366;12/05/2019;Sociedad;Real Madrid;H;1;1;3;1;Real Sociedad;Real Madrid;6436;11475
-367;12/05/2019;Valencia;Alaves;H;2;1;3;1;;;100;100
-368;12/05/2019;Vallecano;Valladolid;A;0;1;1;2;;Valladolid;100;4109
-369;12/05/2019;Villarreal;Eibar;H;0;0;1;0;Villarreal;Eibar;7282;4455
-370;18/05/2019;Alaves;Girona;H;1;0;2;1;;;100;100
-371;18/05/2019;Celta;Vallecano;D;0;1;2;2;Celta;;3366;100
-372;18/05/2019;Espanol;Sociedad;H;0;0;2;0;;Real Sociedad;100;6436
-373;18/05/2019;Getafe;Villarreal;D;1;1;2;2;Getafe;Villarreal;8931;7282
-374;18/05/2019;Huesca;Leganes;H;0;1;2;1;;;100;100
-375;18/05/2019;Levante;Ath Madrid;D;2;0;2;2;Levante;Real Madrid;5198;11475
-376;18/05/2019;Sevilla;Ath Bilbao;H;1;0;2;0;Sevilla FC;;9335;100
-377;18/05/2019;Valladolid;Valencia;A;0;1;0;2;Valladolid;;4109;100
-378;19/05/2019;Eibar;Barcelona;D;2;2;2;2;Eibar;;4455;100
-379;19/05/2019;Real Madrid;Betis;A;0;0;0;2;Real Madrid;Real Betis;11475;5879
 0;10/08/2018;Marseille;Toulouse;H;1;0;4;0;Marseille;Toulouse;3818;1627
 1;11/08/2018;Angers;Nimes;A;1;1;3;4;Angers SCO;;2974;100
 2;11/08/2018;Lille;Rennes;H;1;1;3;1;Lille;Stade Rennais;4242;100
@@ -759,3 +379,383 @@
 377;24/05/2019;Nimes;Lyon;A;2;1;2;3;;Olympique Lyon;100;6005
 378;24/05/2019;Reims;Paris SG;H;1;0;3;1;Stade de Reims;PSG;3339;9395
 379;24/05/2019;Rennes;Lille;H;1;1;3;1;Stade Rennais;Lille;100;4242
+0;17/08/2018;Betis;Levante;A;0;1;0;3;Real Betis;Levante;5879;5198
+1;17/08/2018;Girona;Valladolid;D;0;0;0;0;;Valladolid;100;4109
+2;18/08/2018;Barcelona;Alaves;H;0;0;3;0;;;100;100
+3;18/08/2018;Celta;Espanol;D;0;1;1;1;Celta;;3366;100
+4;18/08/2018;Villarreal;Sociedad;A;1;1;1;2;Villarreal;Real Sociedad;7282;6436
+5;19/08/2018;Eibar;Huesca;A;0;2;1;2;Eibar;;4455;100
+6;19/08/2018;Real Madrid;Getafe;H;1;0;2;0;Real Madrid;Getafe;11475;8931
+7;19/08/2018;Vallecano;Sevilla;A;0;3;1;4;;Sevilla FC;100;9335
+8;20/08/2018;Ath Bilbao;Leganes;H;1;1;2;1;;;100;100
+9;20/08/2018;Valencia;Ath Madrid;D;0;1;1;1;;Real Madrid;100;11475
+10;24/08/2018;Getafe;Eibar;H;1;0;2;0;Getafe;Eibar;8931;4455
+11;24/08/2018;Leganes;Sociedad;D;0;2;2;2;;Real Sociedad;100;6436
+12;25/08/2018;Alaves;Betis;D;0;0;0;0;;Real Betis;100;5879
+13;25/08/2018;Ath Madrid;Vallecano;H;0;0;1;0;Real Madrid;;11475;100
+14;25/08/2018;Valladolid;Barcelona;A;0;0;0;1;Valladolid;;4109;100
+15;26/08/2018;Espanol;Valencia;H;0;0;2;0;;;100;100
+16;26/08/2018;Girona;Real Madrid;A;1;1;1;4;;Real Madrid;100;11475
+17;26/08/2018;Sevilla;Villarreal;D;0;0;0;0;Sevilla FC;Villarreal;9335;7282
+18;27/08/2018;Ath Bilbao;Huesca;D;0;0;2;2;;;100;100
+19;27/08/2018;Levante;Celta;A;0;2;1;2;Levante;Celta;5198;3366
+20;31/08/2018;Eibar;Sociedad;H;1;1;2;1;Eibar;Real Sociedad;4455;6436
+21;31/08/2018;Getafe;Valladolid;D;0;0;0;0;Getafe;Valladolid;8931;4109
+22;31/08/2018;Villarreal;Girona;A;0;0;0;1;Villarreal;;7282;100
+23;01/09/2018;Celta;Ath Madrid;H;0;0;2;0;Celta;Real Madrid;3366;11475
+24;01/09/2018;Real Madrid;Leganes;H;1;1;4;1;Real Madrid;;11475;100
+25;02/09/2018;Alaves;Espanol;H;0;1;2;1;;;100;100
+26;02/09/2018;Barcelona;Huesca;H;3;2;8;2;;;100;100
+27;02/09/2018;Betis;Sevilla;H;0;0;1;0;Real Betis;Sevilla FC;5879;9335
+28;02/09/2018;Levante;Valencia;D;2;1;2;2;Levante;;5198;100
+29;14/09/2018;Huesca;Vallecano;A;0;1;0;1;;;100;100
+30;15/09/2018;Ath Bilbao;Real Madrid;D;1;0;1;1;;Real Madrid;100;11475
+31;15/09/2018;Ath Madrid;Eibar;D;0;0;1;1;Real Madrid;Eibar;11475;4455
+32;15/09/2018;Sociedad;Barcelona;A;1;0;1;2;Real Sociedad;;6436;100
+33;15/09/2018;Valencia;Betis;D;0;0;0;0;;Real Betis;100;5879
+34;16/09/2018;Espanol;Levante;H;0;0;1;0;;Levante;100;5198
+35;16/09/2018;Leganes;Villarreal;A;0;0;0;1;;Villarreal;100;7282
+36;16/09/2018;Sevilla;Getafe;A;0;2;0;2;Sevilla FC;Getafe;9335;8931
+37;16/09/2018;Valladolid;Alaves;A;0;0;0;1;Valladolid;;4109;100
+38;17/09/2018;Girona;Celta;H;2;1;3;2;;Celta;100;3366
+39;21/09/2018;Huesca;Sociedad;A;0;0;0;1;;Real Sociedad;100;6436
+40;22/09/2018;Celta;Valladolid;D;2;1;3;3;Celta;Valladolid;3366;4109
+41;22/09/2018;Eibar;Leganes;H;0;0;1;0;Eibar;;4455;100
+42;22/09/2018;Getafe;Ath Madrid;A;0;1;0;2;Getafe;Real Madrid;8931;11475
+43;22/09/2018;Real Madrid;Espanol;H;1;0;1;0;Real Madrid;;11475;100
+44;22/09/2018;Vallecano;Alaves;A;1;2;1;5;;;100;100
+45;23/09/2018;Barcelona;Girona;D;1;1;2;2;;;100;100
+46;23/09/2018;Betis;Ath Bilbao;D;0;2;2;2;Real Betis;;5879;100
+47;23/09/2018;Levante;Sevilla;A;1;4;2;6;Levante;Sevilla FC;5198;9335
+48;23/09/2018;Villarreal;Valencia;D;0;0;0;0;Villarreal;;7282;100
+49;25/09/2018;Ath Madrid;Huesca;H;3;0;3;0;Real Madrid;;11475;100
+50;25/09/2018;Espanol;Eibar;H;0;0;1;0;;Eibar;100;4455
+51;25/09/2018;Sociedad;Vallecano;D;1;2;2;2;Real Sociedad;;6436;100
+52;26/09/2018;Ath Bilbao;Villarreal;A;0;0;0;3;;Villarreal;100;7282
+53;26/09/2018;Leganes;Barcelona;H;0;1;2;1;;;100;100
+54;26/09/2018;Sevilla;Real Madrid;H;3;0;3;0;Sevilla FC;Real Madrid;9335;11475
+55;26/09/2018;Valencia;Celta;D;1;0;1;1;;Celta;100;3366
+56;27/09/2018;Alaves;Getafe;D;0;0;1;1;;Getafe;100;8931
+57;27/09/2018;Girona;Betis;A;0;0;0;1;;Real Betis;100;5879
+58;27/09/2018;Valladolid;Levante;H;0;0;2;1;Valladolid;Levante;4109;5198
+59;28/09/2018;Vallecano;Espanol;D;1;2;2;2;;;100;100
+60;29/09/2018;Barcelona;Ath Bilbao;D;0;1;1;1;;;100;100
+61;29/09/2018;Eibar;Sevilla;A;0;0;1;3;Eibar;Sevilla FC;4455;9335
+62;29/09/2018;Real Madrid;Ath Madrid;D;0;0;0;0;Real Madrid;Real Madrid;11475;11475
+63;29/09/2018;Sociedad;Valencia;A;0;1;0;1;Real Sociedad;;6436;100
+64;30/09/2018;Betis;Leganes;H;0;0;1;0;Real Betis;;5879;100
+65;30/09/2018;Huesca;Girona;D;0;1;1;1;;;100;100
+66;30/09/2018;Levante;Alaves;H;2;1;2;1;Levante;;5198;100
+67;30/09/2018;Villarreal;Valladolid;A;0;0;0;1;Villarreal;Valladolid;7282;4109
+68;01/10/2018;Celta;Getafe;D;1;0;1;1;Celta;Getafe;3366;8931
+69;05/10/2018;Ath Bilbao;Sociedad;A;1;1;1;3;;Real Sociedad;100;6436
+70;06/10/2018;Alaves;Real Madrid;H;0;0;1;0;;Real Madrid;100;11475
+71;06/10/2018;Getafe;Levante;A;0;0;0;1;Getafe;Levante;8931;5198
+72;06/10/2018;Girona;Eibar;A;2;2;2;3;;Eibar;100;4455
+73;06/10/2018;Leganes;Vallecano;H;1;0;1;0;;;100;100
+74;07/10/2018;Ath Madrid;Betis;H;0;0;1;0;Real Madrid;Real Betis;11475;5879
+75;07/10/2018;Espanol;Villarreal;H;1;1;3;1;;Villarreal;100;7282
+76;07/10/2018;Sevilla;Celta;H;1;0;2;1;Sevilla FC;Celta;9335;3366
+77;07/10/2018;Valencia;Barcelona;D;1;1;1;1;;;100;100
+78;07/10/2018;Valladolid;Huesca;H;1;0;1;0;Valladolid;;4109;100
+79;19/10/2018;Celta;Alaves;A;0;0;0;1;Celta;;3366;100
+80;20/10/2018;Barcelona;Sevilla;H;2;0;4;2;;Sevilla FC;100;9335
+81;20/10/2018;Real Madrid;Levante;A;0;2;1;2;Real Madrid;Levante;11475;5198
+82;20/10/2018;Valencia;Leganes;D;0;0;1;1;;;100;100
+83;20/10/2018;Villarreal;Ath Madrid;D;0;0;1;1;Villarreal;Real Madrid;7282;11475
+84;21/10/2018;Betis;Valladolid;A;0;1;0;1;Real Betis;Valladolid;5879;4109
+85;21/10/2018;Eibar;Ath Bilbao;D;1;1;1;1;Eibar;;4455;100
+86;21/10/2018;Huesca;Espanol;A;0;1;0;2;;;100;100
+87;21/10/2018;Vallecano;Getafe;A;0;0;1;2;;Getafe;100;8931
+88;22/10/2018;Sociedad;Girona;D;0;0;0;0;Real Sociedad;;6436;100
+89;24/10/2018;Vallecano;Ath Bilbao;D;1;0;1;1;;;100;100
+90;26/10/2018;Valladolid;Espanol;D;0;1;1;1;Valladolid;;4109;100
+91;27/10/2018;Ath Bilbao;Valencia;D;0;0;0;0;;;100;100
+92;27/10/2018;Ath Madrid;Sociedad;H;1;0;2;0;Real Madrid;Real Sociedad;11475;6436
+93;27/10/2018;Celta;Eibar;H;2;0;4;0;Celta;Eibar;3366;4455
+94;27/10/2018;Girona;Vallecano;H;2;0;2;1;;;100;100
+95;27/10/2018;Levante;Leganes;H;1;0;2;0;Levante;;5198;100
+96;28/10/2018;Alaves;Villarreal;H;0;1;2;1;;Villarreal;100;7282
+97;28/10/2018;Barcelona;Real Madrid;H;2;0;5;1;;Real Madrid;100;11475
+98;28/10/2018;Getafe;Betis;H;0;0;2;0;Getafe;Real Betis;8931;5879
+99;28/10/2018;Sevilla;Huesca;H;0;0;2;1;Sevilla FC;;9335;100
+100;03/11/2018;Leganes;Ath Madrid;D;0;0;1;1;;Real Madrid;100;11475
+101;03/11/2018;Real Madrid;Valladolid;H;0;0;2;0;Real Madrid;Valladolid;11475;4109
+102;03/11/2018;Valencia;Girona;A;0;0;0;1;;;100;100
+103;03/11/2018;Vallecano;Barcelona;A;1;1;2;3;;;100;100
+104;04/11/2018;Betis;Celta;D;1;0;3;3;Real Betis;Celta;5879;3366
+105;04/11/2018;Eibar;Alaves;H;0;1;2;1;Eibar;;4455;100
+106;04/11/2018;Huesca;Getafe;D;0;0;1;1;;Getafe;100;8931
+107;04/11/2018;Sociedad;Sevilla;D;0;0;0;0;Real Sociedad;Sevilla FC;6436;9335
+108;04/11/2018;Villarreal;Levante;D;0;0;1;1;Villarreal;Levante;7282;5198
+109;05/11/2018;Espanol;Ath Bilbao;H;1;0;1;0;;;100;100
+110;09/11/2018;Levante;Sociedad;A;1;0;1;3;Levante;Real Sociedad;5198;6436
+111;10/11/2018;Ath Madrid;Ath Bilbao;H;0;1;3;2;Real Madrid;;11475;100
+112;10/11/2018;Getafe;Valencia;A;0;0;0;1;Getafe;;8931;100
+113;10/11/2018;Girona;Leganes;D;0;0;0;0;;;100;100
+114;10/11/2018;Valladolid;Eibar;D;0;0;0;0;Valladolid;Eibar;4109;4455
+115;11/11/2018;Alaves;Huesca;H;1;1;2;1;;;100;100
+116;11/11/2018;Barcelona;Betis;A;0;2;3;4;;Real Betis;100;5879
+117;11/11/2018;Celta;Real Madrid;A;0;1;2;4;Celta;Real Madrid;3366;11475
+118;11/11/2018;Sevilla;Espanol;H;0;1;2;1;Sevilla FC;;9335;100
+119;11/11/2018;Vallecano;Villarreal;D;1;1;2;2;;Villarreal;100;7282
+120;23/11/2018;Leganes;Alaves;H;1;0;1;0;;;100;100
+121;24/11/2018;Ath Madrid;Barcelona;D;0;0;1;1;Real Madrid;;11475;100
+122;24/11/2018;Eibar;Real Madrid;H;1;0;3;0;Eibar;Real Madrid;4455;11475
+123;24/11/2018;Huesca;Levante;D;1;1;2;2;;Levante;100;5198
+124;24/11/2018;Valencia;Vallecano;H;1;0;3;0;;;100;100
+125;25/11/2018;Ath Bilbao;Getafe;D;0;0;1;1;;Getafe;100;8931
+126;25/11/2018;Espanol;Girona;A;0;2;1;3;;;100;100
+127;25/11/2018;Sevilla;Valladolid;H;1;0;1;0;Sevilla FC;Valladolid;9335;4109
+128;25/11/2018;Villarreal;Betis;H;0;0;2;1;Villarreal;Real Betis;7282;5879
+129;26/11/2018;Sociedad;Celta;H;1;0;2;1;Real Sociedad;Celta;6436;3366
+130;30/11/2018;Vallecano;Eibar;H;0;0;1;0;;Eibar;100;4455
+131;01/12/2018;Celta;Huesca;H;1;0;2;0;Celta;;3366;100
+132;01/12/2018;Getafe;Espanol;H;0;0;3;0;Getafe;;8931;100
+133;01/12/2018;Real Madrid;Valencia;H;1;0;2;0;Real Madrid;;11475;100
+134;01/12/2018;Valladolid;Leganes;A;0;2;2;4;Valladolid;;4109;100
+135;02/12/2018;Alaves;Sevilla;D;1;0;1;1;;Sevilla FC;100;9335
+136;02/12/2018;Barcelona;Villarreal;H;1;0;2;0;;Villarreal;100;7282
+137;02/12/2018;Betis;Sociedad;H;1;0;1;0;Real Betis;Real Sociedad;5879;6436
+138;02/12/2018;Girona;Ath Madrid;D;1;0;1;1;;Real Madrid;100;11475
+139;03/12/2018;Levante;Ath Bilbao;H;1;0;3;0;Levante;;5198;100
+140;07/12/2018;Leganes;Getafe;D;0;1;1;1;;Getafe;100;8931
+141;08/12/2018;Ath Madrid;Alaves;H;1;0;3;0;Real Madrid;;11475;100
+142;08/12/2018;Espanol;Barcelona;A;0;3;0;4;;;100;100
+143;08/12/2018;Valencia;Sevilla;D;0;0;1;1;;Sevilla FC;100;9335
+144;08/12/2018;Villarreal;Celta;A;0;1;2;3;Villarreal;Celta;7282;3366
+145;09/12/2018;Betis;Vallecano;H;0;0;2;0;Real Betis;;5879;100
+146;09/12/2018;Eibar;Levante;D;1;2;4;4;Eibar;Levante;4455;5198
+147;09/12/2018;Huesca;Real Madrid;A;0;1;0;1;;Real Madrid;100;11475
+148;09/12/2018;Sociedad;Valladolid;A;0;1;1;2;Real Sociedad;Valladolid;6436;4109
+149;10/12/2018;Ath Bilbao;Girona;H;0;0;1;0;;;100;100
+150;14/12/2018;Celta;Leganes;D;0;0;0;0;Celta;;3366;100
+151;15/12/2018;Eibar;Valencia;D;0;1;1;1;Eibar;;4455;100
+152;15/12/2018;Getafe;Sociedad;H;1;0;1;0;Getafe;Real Sociedad;8931;6436
+153;15/12/2018;Real Madrid;Vallecano;H;1;0;1;0;Real Madrid;;11475;100
+154;15/12/2018;Valladolid;Ath Madrid;A;0;2;2;3;Valladolid;Real Madrid;4109;11475
+155;16/12/2018;Espanol;Betis;A;1;1;1;3;;Real Betis;100;5879
+156;16/12/2018;Huesca;Villarreal;D;1;0;2;2;;Villarreal;100;7282
+157;16/12/2018;Levante;Barcelona;A;0;2;0;5;Levante;;5198;100
+158;16/12/2018;Sevilla;Girona;H;0;0;2;0;Sevilla FC;;9335;100
+159;17/12/2018;Alaves;Ath Bilbao;D;0;0;0;0;;;100;100
+160;21/12/2018;Girona;Getafe;D;0;0;1;1;;Getafe;100;8931
+161;21/12/2018;Sociedad;Alaves;A;0;1;0;1;Real Sociedad;;6436;100
+162;22/12/2018;Ath Bilbao;Valladolid;D;1;0;1;1;;Valladolid;100;4109
+163;22/12/2018;Ath Madrid;Espanol;H;0;0;1;0;Real Madrid;;11475;100
+164;22/12/2018;Barcelona;Celta;H;2;0;2;0;;Celta;100;3366
+165;22/12/2018;Betis;Eibar;D;1;0;1;1;Real Betis;Eibar;5879;4455
+166;23/12/2018;Leganes;Sevilla;D;1;0;1;1;;Sevilla FC;100;9335
+167;23/12/2018;Valencia;Huesca;H;1;0;2;1;;;100;100
+168;23/12/2018;Vallecano;Levante;H;1;0;2;1;;Levante;100;5198
+169;03/01/2019;Villarreal;Real Madrid;D;1;2;2;2;Villarreal;Real Madrid;7282;11475
+170;04/01/2019;Espanol;Leganes;H;1;0;1;0;;;100;100
+171;04/01/2019;Levante;Girona;D;0;1;2;2;Levante;;5198;100
+172;05/01/2019;Alaves;Valencia;H;2;1;2;1;;;100;100
+173;05/01/2019;Huesca;Betis;H;0;0;2;1;;Real Betis;100;5879
+174;05/01/2019;Valladolid;Vallecano;A;0;1;0;1;Valladolid;;4109;100
+175;06/01/2019;Eibar;Villarreal;D;0;0;0;0;Eibar;Villarreal;4455;7282
+176;06/01/2019;Getafe;Barcelona;A;1;2;1;2;Getafe;;8931;100
+177;06/01/2019;Real Madrid;Sociedad;A;0;1;0;2;Real Madrid;Real Sociedad;11475;6436
+178;06/01/2019;Sevilla;Ath Madrid;D;1;1;1;1;Sevilla FC;Real Madrid;9335;11475
+179;07/01/2019;Celta;Ath Bilbao;A;1;1;1;2;Celta;;3366;100
+180;11/01/2019;Vallecano;Celta;H;2;2;4;2;;Celta;100;3366
+181;12/01/2019;Girona;Alaves;D;1;0;1;1;;;100;100
+182;12/01/2019;Leganes;Huesca;H;0;0;1;0;;;100;100
+183;12/01/2019;Valencia;Valladolid;D;0;0;1;1;;Valladolid;100;4109
+184;12/01/2019;Villarreal;Getafe;A;0;0;1;2;Villarreal;Getafe;7282;8931
+185;13/01/2019;Ath Bilbao;Sevilla;H;1;0;2;0;;Sevilla FC;100;9335
+186;13/01/2019;Ath Madrid;Levante;H;0;0;1;0;Real Madrid;Levante;11475;5198
+187;13/01/2019;Barcelona;Eibar;H;1;0;3;0;;Eibar;100;4455
+188;13/01/2019;Betis;Real Madrid;A;0;1;1;2;Real Betis;Real Madrid;5879;11475
+189;14/01/2019;Sociedad;Espanol;H;2;2;3;2;Real Sociedad;;6436;100
+190;18/01/2019;Getafe;Alaves;H;1;0;4;0;Getafe;;8931;100
+191;19/01/2019;Celta;Valencia;A;1;0;1;2;Celta;;3366;100
+192;19/01/2019;Huesca;Ath Madrid;A;0;1;0;3;;Real Madrid;100;11475
+193;19/01/2019;Real Madrid;Sevilla;H;0;0;2;0;Real Madrid;Sevilla FC;11475;9335
+194;20/01/2019;Barcelona;Leganes;H;1;0;3;1;;;100;100
+195;20/01/2019;Betis;Girona;H;1;2;3;2;Real Betis;;5879;100
+196;20/01/2019;Levante;Valladolid;H;1;0;2;0;Levante;Valladolid;5198;4109
+197;20/01/2019;Vallecano;Sociedad;D;2;1;2;2;;Real Sociedad;100;6436
+198;20/01/2019;Villarreal;Ath Bilbao;D;0;1;1;1;Villarreal;;7282;100
+199;21/01/2019;Eibar;Espanol;H;1;0;3;0;Eibar;;4455;100
+200;26/01/2019;Ath Madrid;Getafe;H;2;0;2;0;Real Madrid;Getafe;11475;8931
+201;26/01/2019;Leganes;Eibar;D;0;2;2;2;;Eibar;100;4455
+202;26/01/2019;Sevilla;Levante;H;0;0;5;0;Sevilla FC;Levante;9335;5198
+203;26/01/2019;Valencia;Villarreal;H;1;0;3;0;;Villarreal;100;7282
+204;27/01/2019;Ath Bilbao;Betis;H;1;0;1;0;;Real Betis;100;5879
+205;27/01/2019;Espanol;Real Madrid;A;1;3;2;4;;Real Madrid;100;11475
+206;27/01/2019;Girona;Barcelona;A;0;1;0;2;;;100;100
+207;27/01/2019;Sociedad;Huesca;D;0;0;0;0;Real Sociedad;;6436;100
+208;27/01/2019;Valladolid;Celta;H;0;1;2;1;Valladolid;Celta;4109;3366
+209;28/01/2019;Alaves;Vallecano;A;0;0;0;1;;;100;100
+210;01/02/2019;Huesca;Valladolid;H;1;0;4;0;;Valladolid;100;4109
+211;02/02/2019;Barcelona;Valencia;D;1;2;2;2;;;100;100
+212;02/02/2019;Celta;Sevilla;H;0;0;1;0;Celta;Sevilla FC;3366;9335
+213;02/02/2019;Levante;Getafe;D;0;0;0;0;Levante;Getafe;5198;8931
+214;02/02/2019;Sociedad;Ath Bilbao;H;2;0;2;1;Real Sociedad;;6436;100
+215;03/02/2019;Betis;Ath Madrid;H;0;0;1;0;Real Betis;Real Madrid;5879;11475
+216;03/02/2019;Eibar;Girona;H;1;0;3;0;Eibar;;4455;100
+217;03/02/2019;Real Madrid;Alaves;H;1;0;3;0;Real Madrid;;11475;100
+218;03/02/2019;Villarreal;Espanol;D;1;0;2;2;Villarreal;;7282;100
+219;04/02/2019;Vallecano;Leganes;A;0;1;1;2;;;100;100
+220;08/02/2019;Valladolid;Villarreal;D;0;0;0;0;Valladolid;Villarreal;4109;7282
+221;09/02/2019;Ath Madrid;Real Madrid;A;1;2;1;3;Real Madrid;Real Madrid;11475;11475
+222;09/02/2019;Espanol;Vallecano;H;0;1;2;1;;;100;100
+223;09/02/2019;Getafe;Celta;H;1;1;3;1;Getafe;Celta;8931;3366
+224;09/02/2019;Girona;Huesca;A;0;2;0;2;;;100;100
+225;10/02/2019;Ath Bilbao;Barcelona;D;0;0;0;0;;;100;100
+226;10/02/2019;Leganes;Betis;H;2;0;3;0;;Real Betis;100;5879
+227;10/02/2019;Sevilla;Eibar;D;0;1;2;2;Sevilla FC;Eibar;9335;4455
+228;10/02/2019;Valencia;Sociedad;D;0;0;0;0;;Real Sociedad;100;6436
+229;11/02/2019;Alaves;Levante;H;1;0;2;0;;Levante;100;5198
+230;15/02/2019;Eibar;Getafe;D;0;1;2;2;Eibar;Getafe;4455;8931
+231;16/02/2019;Barcelona;Valladolid;H;1;0;1;0;;Valladolid;100;4109
+232;16/02/2019;Celta;Levante;A;0;2;1;4;Celta;Levante;3366;5198
+233;16/02/2019;Sociedad;Leganes;H;0;0;3;0;Real Sociedad;;6436;100
+234;16/02/2019;Vallecano;Ath Madrid;A;0;0;0;1;;Real Madrid;100;11475
+235;17/02/2019;Betis;Alaves;D;1;1;1;1;Real Betis;;5879;100
+236;17/02/2019;Real Madrid;Girona;A;1;0;1;2;Real Madrid;;11475;100
+237;17/02/2019;Valencia;Espanol;D;0;0;0;0;;;100;100
+238;17/02/2019;Villarreal;Sevilla;H;2;0;3;0;Villarreal;Sevilla FC;7282;9335
+239;18/02/2019;Huesca;Ath Bilbao;A;0;1;0;1;;;100;100
+240;22/02/2019;Espanol;Huesca;D;1;0;1;1;;;100;100
+241;23/02/2019;Alaves;Celta;D;0;0;0;0;;Celta;100;3366
+242;23/02/2019;Ath Bilbao;Eibar;H;1;0;1;0;;Eibar;100;4455
+243;23/02/2019;Getafe;Vallecano;H;1;0;2;1;Getafe;;8931;100
+244;23/02/2019;Sevilla;Barcelona;A;2;1;2;4;Sevilla FC;;9335;100
+245;24/02/2019;Ath Madrid;Villarreal;H;1;0;2;0;Real Madrid;Villarreal;11475;7282
+246;24/02/2019;Leganes;Valencia;D;0;1;1;1;;;100;100
+247;24/02/2019;Levante;Real Madrid;A;0;1;1;2;Levante;Real Madrid;5198;11475
+248;24/02/2019;Valladolid;Betis;A;0;1;0;2;Valladolid;Real Betis;4109;5879
+249;25/02/2019;Girona;Sociedad;D;0;0;0;0;;Real Sociedad;100;6436
+250;01/03/2019;Vallecano;Girona;A;0;1;0;2;;;100;100
+251;02/03/2019;Espanol;Valladolid;H;1;1;3;1;;Valladolid;100;4109
+252;02/03/2019;Huesca;Sevilla;H;1;0;2;1;;Sevilla FC;100;9335
+253;02/03/2019;Real Madrid;Barcelona;A;0;1;0;1;Real Madrid;;11475;100
+254;02/03/2019;Villarreal;Alaves;A;0;0;1;2;Villarreal;;7282;100
+255;03/03/2019;Betis;Getafe;A;0;2;1;2;Real Betis;Getafe;5879;8931
+256;03/03/2019;Eibar;Celta;H;0;0;1;0;Eibar;Celta;4455;3366
+257;03/03/2019;Sociedad;Ath Madrid;A;0;2;0;2;Real Sociedad;Real Madrid;6436;11475
+258;03/03/2019;Valencia;Ath Bilbao;H;0;0;2;0;;;100;100
+259;04/03/2019;Leganes;Levante;H;1;0;1;0;;Levante;100;5198
+260;08/03/2019;Ath Bilbao;Espanol;D;0;1;1;1;;;100;100
+261;09/03/2019;Alaves;Eibar;D;0;0;1;1;;Eibar;100;4455
+262;09/03/2019;Ath Madrid;Leganes;H;0;0;1;0;Real Madrid;;11475;100
+263;09/03/2019;Barcelona;Vallecano;H;1;1;3;1;;;100;100
+264;09/03/2019;Getafe;Huesca;H;0;1;2;1;Getafe;;8931;100
+265;10/03/2019;Celta;Betis;A;0;0;0;1;Celta;Real Betis;3366;5879
+266;10/03/2019;Girona;Valencia;A;1;1;2;3;;;100;100
+267;10/03/2019;Levante;Villarreal;A;0;0;0;2;Levante;Villarreal;5198;7282
+268;10/03/2019;Sevilla;Sociedad;H;1;1;5;2;Sevilla FC;Real Sociedad;9335;6436
+269;10/03/2019;Valladolid;Real Madrid;A;1;1;1;4;Valladolid;Real Madrid;4109;11475
+270;15/03/2019;Sociedad;Levante;D;1;0;1;1;Real Sociedad;Levante;6436;5198
+271;16/03/2019;Ath Bilbao;Ath Madrid;H;0;0;2;0;;Real Madrid;100;11475
+272;16/03/2019;Huesca;Alaves;A;1;1;1;3;;;100;100
+273;16/03/2019;Leganes;Girona;A;0;2;0;2;;;100;100
+274;16/03/2019;Real Madrid;Celta;H;0;0;2;0;Real Madrid;Celta;11475;3366
+275;17/03/2019;Betis;Barcelona;A;0;2;1;4;Real Betis;;5879;100
+276;17/03/2019;Eibar;Valladolid;A;0;0;1;2;Eibar;Valladolid;4455;4109
+277;17/03/2019;Espanol;Sevilla;A;0;0;0;1;;Sevilla FC;100;9335
+278;17/03/2019;Valencia;Getafe;D;0;0;0;0;;Getafe;100;8931
+279;17/03/2019;Villarreal;Vallecano;H;0;1;3;1;Villarreal;;7282;100
+280;29/03/2019;Girona;Ath Bilbao;A;1;0;1;2;;;100;100
+281;30/03/2019;Alaves;Ath Madrid;A;0;2;0;4;;Real Madrid;100;11475
+282;30/03/2019;Barcelona;Espanol;H;0;0;2;0;;;100;100
+283;30/03/2019;Celta;Villarreal;H;0;2;3;2;Celta;Villarreal;3366;7282
+284;30/03/2019;Getafe;Leganes;A;0;0;0;2;Getafe;;8931;100
+285;31/03/2019;Levante;Eibar;D;2;1;2;2;Levante;Eibar;5198;4455
+286;31/03/2019;Real Madrid;Huesca;H;1;1;3;2;Real Madrid;;11475;100
+287;31/03/2019;Sevilla;Valencia;A;0;1;0;1;Sevilla FC;;9335;100
+288;31/03/2019;Valladolid;Sociedad;D;1;0;1;1;Valladolid;Real Sociedad;4109;6436
+289;31/03/2019;Vallecano;Betis;D;1;0;1;1;;Real Betis;100;5879
+290;02/04/2019;Ath Madrid;Girona;H;0;0;2;0;Real Madrid;;11475;100
+291;02/04/2019;Espanol;Getafe;D;0;0;1;1;;Getafe;100;8931
+292;02/04/2019;Villarreal;Barcelona;D;1;2;4;4;Villarreal;;7282;100
+293;03/04/2019;Ath Bilbao;Levante;H;2;0;3;2;;Levante;100;5198
+294;03/04/2019;Eibar;Vallecano;H;0;1;2;1;Eibar;;4455;100
+295;03/04/2019;Huesca;Celta;D;0;1;3;3;;Celta;100;3366
+296;03/04/2019;Valencia;Real Madrid;H;1;0;2;1;;Real Madrid;100;11475
+297;04/04/2019;Leganes;Valladolid;H;0;0;1;0;;Valladolid;100;4109
+298;04/04/2019;Sevilla;Alaves;H;1;0;2;0;Sevilla FC;;9335;100
+299;04/04/2019;Sociedad;Betis;H;1;0;2;1;Real Sociedad;Real Betis;6436;5879
+300;06/04/2019;Barcelona;Ath Madrid;H;0;0;2;0;;Real Madrid;100;11475
+301;06/04/2019;Girona;Espanol;A;0;0;1;2;;;100;100
+302;06/04/2019;Real Madrid;Eibar;H;0;1;2;1;Real Madrid;Eibar;11475;4455
+303;06/04/2019;Vallecano;Valencia;H;1;0;2;0;;;100;100
+304;07/04/2019;Alaves;Leganes;D;1;0;1;1;;;100;100
+305;07/04/2019;Betis;Villarreal;H;1;1;2;1;Real Betis;Villarreal;5879;7282
+306;07/04/2019;Celta;Sociedad;H;0;1;3;1;Celta;Real Sociedad;3366;6436
+307;07/04/2019;Getafe;Ath Bilbao;H;0;0;1;0;Getafe;;8931;100
+308;07/04/2019;Levante;Huesca;D;1;0;2;2;Levante;;5198;100
+309;07/04/2019;Valladolid;Sevilla;A;0;0;0;2;Valladolid;Sevilla FC;4109;9335
+310;13/04/2019;Ath Madrid;Celta;H;1;0;2;0;Real Madrid;Celta;11475;3366
+311;13/04/2019;Espanol;Alaves;H;1;0;2;1;;;100;100
+312;13/04/2019;Huesca;Barcelona;D;0;0;0;0;;;100;100
+313;13/04/2019;Sevilla;Betis;H;1;0;3;2;Sevilla FC;Real Betis;9335;5879
+314;14/04/2019;Ath Bilbao;Vallecano;H;1;1;3;2;;;100;100
+315;14/04/2019;Girona;Villarreal;A;0;1;0;1;;Villarreal;100;7282
+316;14/04/2019;Sociedad;Eibar;D;1;0;1;1;Real Sociedad;Eibar;6436;4455
+317;14/04/2019;Valencia;Levante;H;1;0;3;1;;Levante;100;5198
+318;14/04/2019;Valladolid;Getafe;D;1;1;2;2;Valladolid;Getafe;4109;8931
+319;15/04/2019;Leganes;Real Madrid;D;1;0;1;1;;Real Madrid;100;11475
+320;19/04/2019;Alaves;Valladolid;D;2;1;2;2;;Valladolid;100;4109
+321;20/04/2019;Barcelona;Sociedad;H;1;0;2;1;;Real Sociedad;100;6436
+322;20/04/2019;Celta;Girona;H;1;0;2;1;Celta;;3366;100
+323;20/04/2019;Eibar;Ath Madrid;A;0;0;0;1;Eibar;Real Madrid;4455;11475
+324;20/04/2019;Vallecano;Huesca;D;0;0;0;0;;;100;100
+325;21/04/2019;Betis;Valencia;A;0;1;1;2;Real Betis;;5879;100
+326;21/04/2019;Getafe;Sevilla;H;2;0;3;0;Getafe;Sevilla FC;8931;9335
+327;21/04/2019;Levante;Espanol;D;0;1;2;2;Levante;;5198;100
+328;21/04/2019;Real Madrid;Ath Bilbao;H;0;0;3;0;Real Madrid;;11475;100
+329;21/04/2019;Villarreal;Leganes;H;0;0;2;1;Villarreal;;7282;100
+330;23/04/2019;Alaves;Barcelona;A;0;0;0;2;;;100;100
+331;23/04/2019;Huesca;Eibar;H;0;0;2;0;;Eibar;100;4455
+332;23/04/2019;Valladolid;Girona;H;0;0;1;0;Valladolid;;4109;100
+333;24/04/2019;Ath Madrid;Valencia;H;1;1;3;2;Real Madrid;;11475;100
+334;24/04/2019;Espanol;Celta;D;1;0;1;1;;Celta;100;3366
+335;24/04/2019;Leganes;Ath Bilbao;A;0;1;0;1;;;100;100
+336;24/04/2019;Levante;Betis;H;2;0;4;0;Levante;Real Betis;5198;5879
+337;25/04/2019;Getafe;Real Madrid;D;0;0;0;0;Getafe;Real Madrid;8931;11475
+338;25/04/2019;Sevilla;Vallecano;H;0;0;5;0;Sevilla FC;;9335;100
+339;25/04/2019;Sociedad;Villarreal;A;0;0;0;1;Real Sociedad;Villarreal;6436;7282
+340;27/04/2019;Ath Bilbao;Alaves;D;1;1;1;1;;;100;100
+341;27/04/2019;Ath Madrid;Valladolid;H;0;0;1;0;Real Madrid;Valladolid;11475;4109
+342;27/04/2019;Barcelona;Levante;H;0;0;1;0;;Levante;100;5198
+343;27/04/2019;Leganes;Celta;D;0;0;0;0;;Celta;100;3366
+344;28/04/2019;Girona;Sevilla;H;0;0;1;0;;Sevilla FC;100;9335
+345;28/04/2019;Sociedad;Getafe;H;1;0;2;1;Real Sociedad;Getafe;6436;8931
+346;28/04/2019;Valencia;Eibar;A;0;0;0;1;;Eibar;100;4455
+347;28/04/2019;Vallecano;Real Madrid;H;1;0;1;0;;Real Madrid;100;11475
+348;28/04/2019;Villarreal;Huesca;D;1;0;1;1;Villarreal;;7282;100
+349;29/04/2019;Betis;Espanol;D;0;1;1;1;Real Betis;;5879;100
+350;03/05/2019;Sevilla;Leganes;A;0;2;0;3;Sevilla FC;;9335;100
+351;04/05/2019;Alaves;Sociedad;A;0;1;0;1;;Real Sociedad;100;6436
+352;04/05/2019;Celta;Barcelona;H;0;0;2;0;Celta;;3366;100
+353;04/05/2019;Espanol;Ath Madrid;H;1;0;3;0;;Real Madrid;100;11475
+354;04/05/2019;Levante;Vallecano;H;2;0;4;1;Levante;;5198;100
+355;05/05/2019;Eibar;Betis;H;1;0;1;0;Eibar;Real Betis;4455;5879
+356;05/05/2019;Getafe;Girona;H;1;0;2;0;Getafe;;8931;100
+357;05/05/2019;Huesca;Valencia;A;0;5;2;6;;;100;100
+358;05/05/2019;Real Madrid;Villarreal;H;2;1;3;2;Real Madrid;Villarreal;11475;7282
+359;05/05/2019;Valladolid;Ath Bilbao;H;1;0;1;0;Valladolid;;4109;100
+360;12/05/2019;Ath Bilbao;Celta;H;3;0;3;1;;Celta;100;3366
+361;12/05/2019;Ath Madrid;Sevilla;D;1;0;1;1;Real Madrid;Sevilla FC;11475;9335
+362;12/05/2019;Barcelona;Getafe;H;1;0;2;0;;Getafe;100;8931
+363;12/05/2019;Betis;Huesca;H;1;0;2;1;Real Betis;;5879;100
+364;12/05/2019;Girona;Levante;A;0;0;1;2;;Levante;100;5198
+365;12/05/2019;Leganes;Espanol;A;0;1;0;2;;;100;100
+366;12/05/2019;Sociedad;Real Madrid;H;1;1;3;1;Real Sociedad;Real Madrid;6436;11475
+367;12/05/2019;Valencia;Alaves;H;2;1;3;1;;;100;100
+368;12/05/2019;Vallecano;Valladolid;A;0;1;1;2;;Valladolid;100;4109
+369;12/05/2019;Villarreal;Eibar;H;0;0;1;0;Villarreal;Eibar;7282;4455
+370;18/05/2019;Alaves;Girona;H;1;0;2;1;;;100;100
+371;18/05/2019;Celta;Vallecano;D;0;1;2;2;Celta;;3366;100
+372;18/05/2019;Espanol;Sociedad;H;0;0;2;0;;Real Sociedad;100;6436
+373;18/05/2019;Getafe;Villarreal;D;1;1;2;2;Getafe;Villarreal;8931;7282
+374;18/05/2019;Huesca;Leganes;H;0;1;2;1;;;100;100
+375;18/05/2019;Levante;Ath Madrid;D;2;0;2;2;Levante;Real Madrid;5198;11475
+376;18/05/2019;Sevilla;Ath Bilbao;H;1;0;2;0;Sevilla FC;;9335;100
+377;18/05/2019;Valladolid;Valencia;A;0;1;0;2;Valladolid;;4109;100
+378;19/05/2019;Eibar;Barcelona;D;2;2;2;2;Eibar;;4455;100
+379;19/05/2019;Real Madrid;Betis;A;0;0;0;2;Real Madrid;Real Betis;11475;5879
