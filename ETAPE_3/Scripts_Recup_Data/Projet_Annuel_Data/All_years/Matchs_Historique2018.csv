@@ -1,761 +1,1827 @@
 ;Date;HomeTeam;AwayTeam;FTR;HTHG;HTAG;FTHG;FTAG;NameHome;NameAway;puissanceHomeTeam;puissanceAwayTeam
-0;17/08/2018;Betis;Levante;A;0;1;0;3;Real Betis;Levante;5879;5198
-1;17/08/2018;Girona;Valladolid;D;0;0;0;0;;Valladolid;100;4109
-2;18/08/2018;Barcelona;Alaves;H;0;0;3;0;;;100;100
-3;18/08/2018;Celta;Espanol;D;0;1;1;1;Celta;;3366;100
-4;18/08/2018;Villarreal;Sociedad;A;1;1;1;2;Villarreal;Real Sociedad;7282;6436
+0;10/08/2018;Man United;Leicester;H;1;0;2;1;ManchesterUnited;LeicesterCity;7088;5192
+1;11/08/2018;Bournemouth;Cardiff;H;1;0;2;0;AFCBournemouth;;2964;100
+2;11/08/2018;Fulham;Crystal Palace;A;0;1;0;2;;CrystalPalace;100;4319
+3;11/08/2018;Huddersfield;Chelsea;A;0;2;0;3;;Chelsea;100;10845
+4;11/08/2018;Newcastle;Tottenham;A;1;2;1;2;NewcastleUnited;TottenhamHotspur;3751;8491
+5;11/08/2018;Watford;Brighton;H;1;0;2;0;Watford;Brighton&HoveAlbion;3543;3305
+6;11/08/2018;Wolves;Everton;D;1;1;2;2;;Everton;100;3410
+7;12/08/2018;Arsenal;Man City;A;0;1;0;2;Arsenal;ManchesterCity;8845;12324
+8;12/08/2018;Liverpool;West Ham;H;2;0;4;0;Liverpool;WestHamUnited;15510;3633
+9;12/08/2018;Southampton;Burnley;D;0;0;0;0;Southampton;Burnley;3253;3818
+10;18/08/2018;Cardiff;Newcastle;D;0;0;0;0;;NewcastleUnited;100;3751
+11;18/08/2018;Chelsea;Arsenal;H;2;2;3;2;Chelsea;Arsenal;10845;8845
+12;18/08/2018;Everton;Southampton;H;2;0;2;1;Everton;Southampton;3410;3253
+13;18/08/2018;Leicester;Wolves;H;2;0;2;0;LeicesterCity;;5192;100
+14;18/08/2018;Tottenham;Fulham;H;1;0;3;1;TottenhamHotspur;;8491;100
+15;18/08/2018;West Ham;Bournemouth;A;1;0;1;2;WestHamUnited;AFCBournemouth;3633;2964
+16;19/08/2018;Brighton;Man United;H;3;1;3;2;Brighton&HoveAlbion;ManchesterUnited;3305;7088
+17;19/08/2018;Burnley;Watford;A;1;1;1;3;Burnley;Watford;3818;3543
+18;19/08/2018;Man City;Huddersfield;H;3;1;6;1;ManchesterCity;;12324;100
+19;20/08/2018;Crystal Palace;Liverpool;A;0;1;0;2;CrystalPalace;Liverpool;4319;15510
+20;25/08/2018;Arsenal;West Ham;H;1;1;3;1;Arsenal;WestHamUnited;8845;3633
+21;25/08/2018;Bournemouth;Everton;D;0;0;2;2;AFCBournemouth;Everton;2964;3410
+22;25/08/2018;Huddersfield;Cardiff;D;0;0;0;0;;;100;100
+23;25/08/2018;Liverpool;Brighton;H;1;0;1;0;Liverpool;Brighton&HoveAlbion;15510;3305
+24;25/08/2018;Southampton;Leicester;A;0;0;1;2;Southampton;LeicesterCity;3253;5192
+25;25/08/2018;Wolves;Man City;D;0;0;1;1;;ManchesterCity;100;12324
+26;26/08/2018;Fulham;Burnley;H;3;2;4;2;;Burnley;100;3818
+27;26/08/2018;Newcastle;Chelsea;A;0;0;1;2;NewcastleUnited;Chelsea;3751;10845
+28;26/08/2018;Watford;Crystal Palace;H;0;0;2;1;Watford;CrystalPalace;3543;4319
+29;27/08/2018;Man United;Tottenham;A;0;0;0;3;ManchesterUnited;TottenhamHotspur;7088;8491
+30;01/09/2018;Brighton;Fulham;D;0;1;2;2;Brighton&HoveAlbion;;3305;100
+31;01/09/2018;Chelsea;Bournemouth;H;0;0;2;0;Chelsea;AFCBournemouth;10845;2964
+32;01/09/2018;Crystal Palace;Southampton;A;0;0;0;2;CrystalPalace;Southampton;4319;3253
+33;01/09/2018;Everton;Huddersfield;D;1;1;1;1;Everton;;3410;100
+34;01/09/2018;Leicester;Liverpool;A;0;2;1;2;LeicesterCity;Liverpool;5192;15510
+35;01/09/2018;Man City;Newcastle;H;1;1;2;1;ManchesterCity;NewcastleUnited;12324;3751
+36;01/09/2018;West Ham;Wolves;A;0;0;0;1;WestHamUnited;;3633;100
+37;02/09/2018;Burnley;Man United;A;0;2;0;2;Burnley;ManchesterUnited;3818;7088
+38;02/09/2018;Cardiff;Arsenal;A;1;1;2;3;;Arsenal;100;8845
+39;02/09/2018;Watford;Tottenham;H;0;0;2;1;Watford;TottenhamHotspur;3543;8491
+40;15/09/2018;Bournemouth;Leicester;H;3;0;4;2;AFCBournemouth;LeicesterCity;2964;5192
+41;15/09/2018;Chelsea;Cardiff;H;2;1;4;1;Chelsea;;10845;100
+42;15/09/2018;Huddersfield;Crystal Palace;A;0;1;0;1;;CrystalPalace;100;4319
+43;15/09/2018;Man City;Fulham;H;2;0;3;0;ManchesterCity;;12324;100
+44;15/09/2018;Newcastle;Arsenal;A;0;0;1;2;NewcastleUnited;Arsenal;3751;8845
+45;15/09/2018;Tottenham;Liverpool;A;0;1;1;2;TottenhamHotspur;Liverpool;8491;15510
+46;15/09/2018;Watford;Man United;A;0;2;1;2;Watford;ManchesterUnited;3543;7088
+47;16/09/2018;Everton;West Ham;A;1;2;1;3;Everton;WestHamUnited;3410;3633
+48;16/09/2018;Wolves;Burnley;H;0;0;1;0;;Burnley;100;3818
+49;17/09/2018;Southampton;Brighton;D;1;0;2;2;Southampton;Brighton&HoveAlbion;3253;3305
+50;22/09/2018;Brighton;Tottenham;A;0;1;1;2;Brighton&HoveAlbion;TottenhamHotspur;3305;8491
+51;22/09/2018;Burnley;Bournemouth;H;2;0;4;0;Burnley;AFCBournemouth;3818;2964
+52;22/09/2018;Cardiff;Man City;A;0;3;0;5;;ManchesterCity;100;12324
+53;22/09/2018;Crystal Palace;Newcastle;D;0;0;0;0;CrystalPalace;NewcastleUnited;4319;3751
+54;22/09/2018;Fulham;Watford;D;0;1;1;1;;Watford;100;3543
+55;22/09/2018;Leicester;Huddersfield;H;1;1;3;1;LeicesterCity;;5192;100
+56;22/09/2018;Liverpool;Southampton;H;3;0;3;0;Liverpool;Southampton;15510;3253
+57;22/09/2018;Man United;Wolves;D;1;0;1;1;ManchesterUnited;;7088;100
+58;23/09/2018;Arsenal;Everton;H;0;0;2;0;Arsenal;Everton;8845;3410
+59;23/09/2018;West Ham;Chelsea;D;0;0;0;0;WestHamUnited;Chelsea;3633;10845
+60;29/09/2018;Arsenal;Watford;H;0;0;2;0;Arsenal;Watford;8845;3543
+61;29/09/2018;Chelsea;Liverpool;D;1;0;1;1;Chelsea;Liverpool;10845;15510
+62;29/09/2018;Everton;Fulham;H;0;0;3;0;Everton;;3410;100
+63;29/09/2018;Huddersfield;Tottenham;A;0;2;0;2;;TottenhamHotspur;100;8491
+64;29/09/2018;Man City;Brighton;H;1;0;2;0;ManchesterCity;Brighton&HoveAlbion;12324;3305
+65;29/09/2018;Newcastle;Leicester;A;0;1;0;2;NewcastleUnited;LeicesterCity;3751;5192
+66;29/09/2018;West Ham;Man United;H;2;0;3;1;WestHamUnited;ManchesterUnited;3633;7088
+67;29/09/2018;Wolves;Southampton;H;0;0;2;0;;Southampton;100;3253
+68;30/09/2018;Cardiff;Burnley;A;0;0;1;2;;Burnley;100;3818
+69;01/10/2018;Bournemouth;Crystal Palace;H;1;0;2;1;AFCBournemouth;CrystalPalace;2964;4319
+70;05/10/2018;Brighton;West Ham;H;1;0;1;0;Brighton&HoveAlbion;WestHamUnited;3305;3633
+71;06/10/2018;Burnley;Huddersfield;D;1;0;1;1;Burnley;;3818;100
+72;06/10/2018;Crystal Palace;Wolves;A;0;0;0;1;CrystalPalace;;4319;100
+73;06/10/2018;Leicester;Everton;A;1;1;1;2;LeicesterCity;Everton;5192;3410
+74;06/10/2018;Man United;Newcastle;H;0;2;3;2;ManchesterUnited;NewcastleUnited;7088;3751
+75;06/10/2018;Tottenham;Cardiff;H;1;0;1;0;TottenhamHotspur;;8491;100
+76;06/10/2018;Watford;Bournemouth;A;0;3;0;4;Watford;AFCBournemouth;3543;2964
+77;07/10/2018;Fulham;Arsenal;A;1;1;1;5;;Arsenal;100;8845
+78;07/10/2018;Liverpool;Man City;D;0;0;0;0;Liverpool;ManchesterCity;15510;12324
+79;07/10/2018;Southampton;Chelsea;A;0;1;0;3;Southampton;Chelsea;3253;10845
+80;20/10/2018;Bournemouth;Southampton;D;0;0;0;0;AFCBournemouth;Southampton;2964;3253
+81;20/10/2018;Cardiff;Fulham;H;2;2;4;2;;;100;100
+82;20/10/2018;Chelsea;Man United;D;1;0;2;2;Chelsea;ManchesterUnited;10845;7088
+83;20/10/2018;Huddersfield;Liverpool;A;0;1;0;1;;Liverpool;100;15510
+84;20/10/2018;Man City;Burnley;H;1;0;5;0;ManchesterCity;Burnley;12324;3818
+85;20/10/2018;Newcastle;Brighton;A;0;1;0;1;NewcastleUnited;Brighton&HoveAlbion;3751;3305
+86;20/10/2018;West Ham;Tottenham;A;0;1;0;1;WestHamUnited;TottenhamHotspur;3633;8491
+87;20/10/2018;Wolves;Watford;A;0;2;0;2;;Watford;100;3543
+88;21/10/2018;Everton;Crystal Palace;H;0;0;2;0;Everton;CrystalPalace;3410;4319
+89;22/10/2018;Arsenal;Leicester;H;1;1;3;1;Arsenal;LeicesterCity;8845;5192
+90;27/10/2018;Brighton;Wolves;H;0;0;1;0;Brighton&HoveAlbion;;3305;100
+91;27/10/2018;Fulham;Bournemouth;A;0;1;0;3;;AFCBournemouth;100;2964
+92;27/10/2018;Leicester;West Ham;D;0;1;1;1;LeicesterCity;WestHamUnited;5192;3633
+93;27/10/2018;Liverpool;Cardiff;H;1;0;4;1;Liverpool;;15510;100
+94;27/10/2018;Southampton;Newcastle;D;0;0;0;0;Southampton;NewcastleUnited;3253;3751
+95;27/10/2018;Watford;Huddersfield;H;2;0;3;0;Watford;;3543;100
+96;28/10/2018;Burnley;Chelsea;A;0;1;0;4;Burnley;Chelsea;3818;10845
+97;28/10/2018;Crystal Palace;Arsenal;D;1;0;2;2;CrystalPalace;Arsenal;4319;8845
+98;28/10/2018;Man United;Everton;H;1;0;2;1;ManchesterUnited;Everton;7088;3410
+99;29/10/2018;Tottenham;Man City;A;0;1;0;1;TottenhamHotspur;ManchesterCity;8491;12324
+100;03/11/2018;Arsenal;Liverpool;D;0;0;1;1;Arsenal;Liverpool;8845;15510
+101;03/11/2018;Bournemouth;Man United;A;1;1;1;2;AFCBournemouth;ManchesterUnited;2964;7088
+102;03/11/2018;Cardiff;Leicester;A;0;0;0;1;;LeicesterCity;100;5192
+103;03/11/2018;Everton;Brighton;H;1;1;3;1;Everton;Brighton&HoveAlbion;3410;3305
+104;03/11/2018;Newcastle;Watford;H;0;0;1;0;NewcastleUnited;Watford;3751;3543
+105;03/11/2018;West Ham;Burnley;H;1;1;4;2;WestHamUnited;Burnley;3633;3818
+106;03/11/2018;Wolves;Tottenham;A;0;2;2;3;;TottenhamHotspur;100;8491
+107;04/11/2018;Chelsea;Crystal Palace;H;1;0;3;1;Chelsea;CrystalPalace;10845;4319
+108;04/11/2018;Man City;Southampton;H;4;1;6;1;ManchesterCity;Southampton;12324;3253
+109;05/11/2018;Huddersfield;Fulham;H;1;0;1;0;;;100;100
+110;10/11/2018;Cardiff;Brighton;H;1;1;2;1;;Brighton&HoveAlbion;100;3305
+111;10/11/2018;Crystal Palace;Tottenham;A;0;0;0;1;CrystalPalace;TottenhamHotspur;4319;8491
+112;10/11/2018;Huddersfield;West Ham;D;1;0;1;1;;WestHamUnited;100;3633
+113;10/11/2018;Leicester;Burnley;D;0;0;0;0;LeicesterCity;Burnley;5192;3818
+114;10/11/2018;Newcastle;Bournemouth;H;2;1;2;1;NewcastleUnited;AFCBournemouth;3751;2964
+115;10/11/2018;Southampton;Watford;D;1;0;1;1;Southampton;Watford;3253;3543
+116;11/11/2018;Arsenal;Wolves;D;0;1;1;1;Arsenal;;8845;100
+117;11/11/2018;Chelsea;Everton;D;0;0;0;0;Chelsea;Everton;10845;3410
+118;11/11/2018;Liverpool;Fulham;H;1;0;2;0;Liverpool;;15510;100
+119;11/11/2018;Man City;Man United;H;1;0;3;1;ManchesterCity;ManchesterUnited;12324;7088
+120;24/11/2018;Brighton;Leicester;D;1;0;1;1;Brighton&HoveAlbion;LeicesterCity;3305;5192
+121;24/11/2018;Everton;Cardiff;H;0;0;1;0;Everton;;3410;100
+122;24/11/2018;Fulham;Southampton;H;2;1;3;2;;Southampton;100;3253
+123;24/11/2018;Man United;Crystal Palace;D;0;0;0;0;ManchesterUnited;CrystalPalace;7088;4319
+124;24/11/2018;Tottenham;Chelsea;H;2;0;3;1;TottenhamHotspur;Chelsea;8491;10845
+125;24/11/2018;Watford;Liverpool;A;0;0;0;3;Watford;Liverpool;3543;15510
+126;24/11/2018;West Ham;Man City;A;0;3;0;4;WestHamUnited;ManchesterCity;3633;12324
+127;25/11/2018;Bournemouth;Arsenal;A;1;1;1;2;AFCBournemouth;Arsenal;2964;8845
+128;25/11/2018;Wolves;Huddersfield;A;0;1;0;2;;;100;100
+129;26/11/2018;Burnley;Newcastle;A;1;2;1;2;Burnley;NewcastleUnited;3818;3751
+130;30/11/2018;Cardiff;Wolves;H;0;1;2;1;;;100;100
+131;01/12/2018;Crystal Palace;Burnley;H;1;0;2;0;CrystalPalace;Burnley;4319;3818
+132;01/12/2018;Huddersfield;Brighton;A;1;1;1;2;;Brighton&HoveAlbion;100;3305
+133;01/12/2018;Leicester;Watford;H;2;0;2;0;LeicesterCity;Watford;5192;3543
+134;01/12/2018;Man City;Bournemouth;H;1;1;3;1;ManchesterCity;AFCBournemouth;12324;2964
+135;01/12/2018;Newcastle;West Ham;A;0;1;0;3;NewcastleUnited;WestHamUnited;3751;3633
+136;01/12/2018;Southampton;Man United;D;2;2;2;2;Southampton;ManchesterUnited;3253;7088
+137;02/12/2018;Arsenal;Tottenham;H;1;2;4;2;Arsenal;TottenhamHotspur;8845;8491
+138;02/12/2018;Chelsea;Fulham;H;1;0;2;0;Chelsea;;10845;100
+139;02/12/2018;Liverpool;Everton;H;0;0;1;0;Liverpool;Everton;15510;3410
+140;04/12/2018;Bournemouth;Huddersfield;H;2;1;2;1;AFCBournemouth;;2964;100
+141;04/12/2018;Brighton;Crystal Palace;H;3;0;3;1;Brighton&HoveAlbion;CrystalPalace;3305;4319
+142;04/12/2018;Watford;Man City;A;0;1;1;2;Watford;ManchesterCity;3543;12324
+143;04/12/2018;West Ham;Cardiff;H;0;0;3;1;WestHamUnited;;3633;100
+144;05/12/2018;Burnley;Liverpool;A;0;0;1;3;Burnley;Liverpool;3818;15510
+145;05/12/2018;Everton;Newcastle;D;1;1;1;1;Everton;NewcastleUnited;3410;3751
+146;05/12/2018;Fulham;Leicester;D;1;0;1;1;;LeicesterCity;100;5192
+147;05/12/2018;Man United;Arsenal;D;1;1;2;2;ManchesterUnited;Arsenal;7088;8845
+148;05/12/2018;Tottenham;Southampton;H;1;0;3;1;TottenhamHotspur;Southampton;8491;3253
+149;05/12/2018;Wolves;Chelsea;H;0;1;2;1;;Chelsea;100;10845
+150;08/12/2018;Arsenal;Huddersfield;H;0;0;1;0;Arsenal;;8845;100
+151;08/12/2018;Bournemouth;Liverpool;A;0;1;0;4;AFCBournemouth;Liverpool;2964;15510
+152;08/12/2018;Burnley;Brighton;H;1;0;1;0;Burnley;Brighton&HoveAlbion;3818;3305
+153;08/12/2018;Cardiff;Southampton;H;0;0;1;0;;Southampton;100;3253
+154;08/12/2018;Chelsea;Man City;H;1;0;2;0;Chelsea;ManchesterCity;10845;12324
+155;08/12/2018;Leicester;Tottenham;A;0;1;0;2;LeicesterCity;TottenhamHotspur;5192;8491
+156;08/12/2018;Man United;Fulham;H;3;0;4;1;ManchesterUnited;;7088;100
+157;08/12/2018;West Ham;Crystal Palace;H;0;1;3;2;WestHamUnited;CrystalPalace;3633;4319
+158;09/12/2018;Newcastle;Wolves;A;1;1;1;2;NewcastleUnited;;3751;100
+159;10/12/2018;Everton;Watford;D;1;0;2;2;Everton;Watford;3410;3543
+160;15/12/2018;Crystal Palace;Leicester;H;1;0;1;0;CrystalPalace;LeicesterCity;4319;5192
+161;15/12/2018;Fulham;West Ham;A;0;2;0;2;;WestHamUnited;100;3633
+162;15/12/2018;Huddersfield;Newcastle;A;0;0;0;1;;NewcastleUnited;100;3751
+163;15/12/2018;Man City;Everton;H;1;0;3;1;ManchesterCity;Everton;12324;3410
+164;15/12/2018;Tottenham;Burnley;H;0;0;1;0;TottenhamHotspur;Burnley;8491;3818
+165;15/12/2018;Watford;Cardiff;H;1;0;3;2;Watford;;3543;100
+166;15/12/2018;Wolves;Bournemouth;H;1;0;2;0;;AFCBournemouth;100;2964
+167;16/12/2018;Brighton;Chelsea;A;0;2;1;2;Brighton&HoveAlbion;Chelsea;3305;10845
+168;16/12/2018;Liverpool;Man United;H;1;1;3;1;Liverpool;ManchesterUnited;15510;7088
+169;16/12/2018;Southampton;Arsenal;H;2;1;3;2;Southampton;Arsenal;3253;8845
+170;21/12/2018;Wolves;Liverpool;A;0;1;0;2;;Liverpool;100;15510
+171;22/12/2018;Arsenal;Burnley;H;1;0;3;1;Arsenal;Burnley;8845;3818
+172;22/12/2018;Bournemouth;Brighton;H;1;0;2;0;AFCBournemouth;Brighton&HoveAlbion;2964;3305
+173;22/12/2018;Cardiff;Man United;A;1;3;1;5;;ManchesterUnited;100;7088
+174;22/12/2018;Chelsea;Leicester;A;0;0;0;1;Chelsea;LeicesterCity;10845;5192
+175;22/12/2018;Huddersfield;Southampton;A;0;2;1;3;;Southampton;100;3253
+176;22/12/2018;Man City;Crystal Palace;A;1;2;2;3;ManchesterCity;CrystalPalace;12324;4319
+177;22/12/2018;Newcastle;Fulham;D;0;0;0;0;NewcastleUnited;;3751;100
+178;22/12/2018;West Ham;Watford;A;0;1;0;2;WestHamUnited;Watford;3633;3543
+179;23/12/2018;Everton;Tottenham;A;1;3;2;6;Everton;TottenhamHotspur;3410;8491
+180;26/12/2018;Brighton;Arsenal;D;1;1;1;1;Brighton&HoveAlbion;Arsenal;3305;8845
+181;26/12/2018;Burnley;Everton;A;1;3;1;5;Burnley;Everton;3818;3410
+182;26/12/2018;Crystal Palace;Cardiff;D;0;0;0;0;CrystalPalace;;4319;100
+183;26/12/2018;Fulham;Wolves;D;0;0;1;1;;;100;100
+184;26/12/2018;Leicester;Man City;H;1;1;2;1;LeicesterCity;ManchesterCity;5192;12324
+185;26/12/2018;Liverpool;Newcastle;H;1;0;4;0;Liverpool;NewcastleUnited;15510;3751
+186;26/12/2018;Man United;Huddersfield;H;1;0;3;1;ManchesterUnited;;7088;100
+187;26/12/2018;Tottenham;Bournemouth;H;3;0;5;0;TottenhamHotspur;AFCBournemouth;8491;2964
+188;26/12/2018;Watford;Chelsea;A;1;1;1;2;Watford;Chelsea;3543;10845
+189;27/12/2018;Southampton;West Ham;A;0;0;1;2;Southampton;WestHamUnited;3253;3633
+190;29/12/2018;Brighton;Everton;H;0;0;1;0;Brighton&HoveAlbion;Everton;3305;3410
+191;29/12/2018;Fulham;Huddersfield;H;0;0;1;0;;;100;100
+192;29/12/2018;Leicester;Cardiff;A;0;0;0;1;LeicesterCity;;5192;100
+193;29/12/2018;Liverpool;Arsenal;H;4;1;5;1;Liverpool;Arsenal;15510;8845
+194;29/12/2018;Tottenham;Wolves;A;1;0;1;3;TottenhamHotspur;;8491;100
+195;29/12/2018;Watford;Newcastle;D;0;1;1;1;Watford;NewcastleUnited;3543;3751
+196;30/12/2018;Burnley;West Ham;H;2;0;2;0;Burnley;WestHamUnited;3818;3633
+197;30/12/2018;Crystal Palace;Chelsea;A;0;0;0;1;CrystalPalace;Chelsea;4319;10845
+198;30/12/2018;Man United;Bournemouth;H;3;1;4;1;ManchesterUnited;AFCBournemouth;7088;2964
+199;30/12/2018;Southampton;Man City;A;1;3;1;3;Southampton;ManchesterCity;3253;12324
+200;01/01/2019;Arsenal;Fulham;H;1;0;4;1;Arsenal;;8845;100
+201;01/01/2019;Cardiff;Tottenham;A;0;3;0;3;;TottenhamHotspur;100;8491
+202;01/01/2019;Everton;Leicester;A;0;0;0;1;Everton;LeicesterCity;3410;5192
+203;02/01/2019;Bournemouth;Watford;D;3;3;3;3;AFCBournemouth;Watford;2964;3543
+204;02/01/2019;Chelsea;Southampton;D;0;0;0;0;Chelsea;Southampton;10845;3253
+205;02/01/2019;Huddersfield;Burnley;A;1;1;1;2;;Burnley;100;3818
+206;02/01/2019;Newcastle;Man United;A;0;0;0;2;NewcastleUnited;ManchesterUnited;3751;7088
+207;02/01/2019;West Ham;Brighton;D;0;0;2;2;WestHamUnited;Brighton&HoveAlbion;3633;3305
+208;02/01/2019;Wolves;Crystal Palace;A;0;0;0;2;;CrystalPalace;100;4319
+209;03/01/2019;Man City;Liverpool;H;1;0;2;1;ManchesterCity;Liverpool;12324;15510
+210;12/01/2019;Brighton;Liverpool;A;0;0;0;1;Brighton&HoveAlbion;Liverpool;3305;15510
+211;12/01/2019;Burnley;Fulham;H;2;1;2;1;Burnley;;3818;100
+212;12/01/2019;Cardiff;Huddersfield;D;0;0;0;0;;;100;100
+213;12/01/2019;Chelsea;Newcastle;H;1;1;2;1;Chelsea;NewcastleUnited;10845;3751
+214;12/01/2019;Crystal Palace;Watford;A;1;0;1;2;CrystalPalace;Watford;4319;3543
+215;12/01/2019;Leicester;Southampton;A;0;2;1;2;LeicesterCity;Southampton;5192;3253
+216;12/01/2019;West Ham;Arsenal;H;0;0;1;0;WestHamUnited;Arsenal;3633;8845
+217;13/01/2019;Everton;Bournemouth;H;0;0;2;0;Everton;AFCBournemouth;3410;2964
+218;13/01/2019;Tottenham;Man United;A;0;1;0;1;TottenhamHotspur;ManchesterUnited;8491;7088
+219;14/01/2019;Man City;Wolves;H;2;0;3;0;ManchesterCity;;12324;100
+220;19/01/2019;Arsenal;Chelsea;H;2;0;2;0;Arsenal;Chelsea;8845;10845
+221;19/01/2019;Bournemouth;West Ham;H;0;0;2;0;AFCBournemouth;WestHamUnited;2964;3633
+222;19/01/2019;Liverpool;Crystal Palace;H;0;1;4;3;Liverpool;CrystalPalace;15510;4319
+223;19/01/2019;Man United;Brighton;H;2;0;2;1;ManchesterUnited;Brighton&HoveAlbion;7088;3305
+224;19/01/2019;Newcastle;Cardiff;H;1;0;3;0;NewcastleUnited;;3751;100
+225;19/01/2019;Southampton;Everton;H;0;0;2;1;Southampton;Everton;3253;3410
+226;19/01/2019;Watford;Burnley;D;0;0;0;0;Watford;Burnley;3543;3818
+227;19/01/2019;Wolves;Leicester;H;2;0;4;3;;LeicesterCity;100;5192
+228;20/01/2019;Fulham;Tottenham;A;1;0;1;2;;TottenhamHotspur;100;8491
+229;20/01/2019;Huddersfield;Man City;A;0;1;0;3;;ManchesterCity;100;12324
+230;29/01/2019;Arsenal;Cardiff;H;0;0;2;1;Arsenal;;8845;100
+231;29/01/2019;Fulham;Brighton;H;0;2;4;2;;Brighton&HoveAlbion;100;3305
+232;29/01/2019;Huddersfield;Everton;A;0;1;0;1;;Everton;100;3410
+233;29/01/2019;Man United;Burnley;D;0;0;2;2;ManchesterUnited;Burnley;7088;3818
+234;29/01/2019;Newcastle;Man City;H;0;1;2;1;NewcastleUnited;ManchesterCity;3751;12324
+235;29/01/2019;Wolves;West Ham;H;0;0;3;0;;WestHamUnited;100;3633
+236;30/01/2019;Bournemouth;Chelsea;H;0;0;4;0;AFCBournemouth;Chelsea;2964;10845
+237;30/01/2019;Liverpool;Leicester;D;1;1;1;1;Liverpool;LeicesterCity;15510;5192
+238;30/01/2019;Southampton;Crystal Palace;D;0;1;1;1;Southampton;CrystalPalace;3253;4319
+239;30/01/2019;Tottenham;Watford;H;0;1;2;1;TottenhamHotspur;Watford;8491;3543
+240;02/02/2019;Brighton;Watford;D;0;0;0;0;Brighton&HoveAlbion;Watford;3305;3543
+241;02/02/2019;Burnley;Southampton;D;0;0;1;1;Burnley;Southampton;3818;3253
+242;02/02/2019;Cardiff;Bournemouth;H;1;0;2;0;;AFCBournemouth;100;2964
+243;02/02/2019;Chelsea;Huddersfield;H;2;0;5;0;Chelsea;;10845;100
+244;02/02/2019;Crystal Palace;Fulham;H;1;0;2;0;CrystalPalace;;4319;100
+245;02/02/2019;Everton;Wolves;A;1;2;1;3;Everton;;3410;100
+246;02/02/2019;Tottenham;Newcastle;H;0;0;1;0;TottenhamHotspur;NewcastleUnited;8491;3751
+247;03/02/2019;Leicester;Man United;A;0;1;0;1;LeicesterCity;ManchesterUnited;5192;7088
+248;03/02/2019;Man City;Arsenal;H;2;1;3;1;ManchesterCity;Arsenal;12324;8845
+249;04/02/2019;West Ham;Liverpool;D;1;1;1;1;WestHamUnited;Liverpool;3633;15510
+250;06/02/2019;Everton;Man City;A;0;1;0;2;Everton;ManchesterCity;3410;12324
+251;09/02/2019;Brighton;Burnley;A;0;1;1;3;Brighton&HoveAlbion;Burnley;3305;3818
+252;09/02/2019;Crystal Palace;West Ham;D;0;1;1;1;CrystalPalace;WestHamUnited;4319;3633
+253;09/02/2019;Fulham;Man United;A;0;2;0;3;;ManchesterUnited;100;7088
+254;09/02/2019;Huddersfield;Arsenal;A;0;2;1;2;;Arsenal;100;8845
+255;09/02/2019;Liverpool;Bournemouth;H;2;0;3;0;Liverpool;AFCBournemouth;15510;2964
+256;09/02/2019;Southampton;Cardiff;A;0;0;1;2;Southampton;;3253;100
+257;09/02/2019;Watford;Everton;H;0;0;1;0;Watford;Everton;3543;3410
+258;10/02/2019;Man City;Chelsea;H;4;0;6;0;ManchesterCity;Chelsea;12324;10845
+259;10/02/2019;Tottenham;Leicester;H;1;0;3;1;TottenhamHotspur;LeicesterCity;8491;5192
+260;11/02/2019;Wolves;Newcastle;D;0;0;1;1;;NewcastleUnited;100;3751
+261;22/02/2019;Cardiff;Watford;A;0;1;1;5;;Watford;100;3543
+262;22/02/2019;West Ham;Fulham;H;2;1;3;1;WestHamUnited;;3633;100
+263;23/02/2019;Bournemouth;Wolves;D;1;0;1;1;AFCBournemouth;;2964;100
+264;23/02/2019;Burnley;Tottenham;H;0;0;2;1;Burnley;TottenhamHotspur;3818;8491
+265;23/02/2019;Leicester;Crystal Palace;A;0;1;1;4;LeicesterCity;CrystalPalace;5192;4319
+266;23/02/2019;Newcastle;Huddersfield;H;0;0;2;0;NewcastleUnited;;3751;100
+267;24/02/2019;Arsenal;Southampton;H;2;0;2;0;Arsenal;Southampton;8845;3253
+268;24/02/2019;Man United;Liverpool;D;0;0;0;0;ManchesterUnited;Liverpool;7088;15510
+269;26/02/2019;Cardiff;Everton;A;0;1;0;3;;Everton;100;3410
+270;26/02/2019;Huddersfield;Wolves;H;0;0;1;0;;;100;100
+271;26/02/2019;Leicester;Brighton;H;1;0;2;1;LeicesterCity;Brighton&HoveAlbion;5192;3305
+272;26/02/2019;Newcastle;Burnley;H;2;0;2;0;NewcastleUnited;Burnley;3751;3818
+273;27/02/2019;Arsenal;Bournemouth;H;2;1;5;1;Arsenal;AFCBournemouth;8845;2964
+274;27/02/2019;Chelsea;Tottenham;H;0;0;2;0;Chelsea;TottenhamHotspur;10845;8491
+275;27/02/2019;Crystal Palace;Man United;A;0;1;1;3;CrystalPalace;ManchesterUnited;4319;7088
+276;27/02/2019;Liverpool;Watford;H;2;0;5;0;Liverpool;Watford;15510;3543
+277;27/02/2019;Man City;West Ham;H;0;0;1;0;ManchesterCity;WestHamUnited;12324;3633
+278;27/02/2019;Southampton;Fulham;H;2;0;2;0;Southampton;;3253;100
+279;02/03/2019;Bournemouth;Man City;A;0;0;0;1;AFCBournemouth;ManchesterCity;2964;12324
+280;02/03/2019;Brighton;Huddersfield;H;0;0;1;0;Brighton&HoveAlbion;;3305;100
+281;02/03/2019;Burnley;Crystal Palace;A;0;1;1;3;Burnley;CrystalPalace;3818;4319
+282;02/03/2019;Man United;Southampton;H;0;1;3;2;ManchesterUnited;Southampton;7088;3253
+283;02/03/2019;Tottenham;Arsenal;D;0;1;1;1;TottenhamHotspur;Arsenal;8491;8845
+284;02/03/2019;West Ham;Newcastle;H;2;0;2;0;WestHamUnited;NewcastleUnited;3633;3751
+285;02/03/2019;Wolves;Cardiff;H;2;0;2;0;;;100;100
+286;03/03/2019;Everton;Liverpool;D;0;0;0;0;Everton;Liverpool;3410;15510
+287;03/03/2019;Fulham;Chelsea;A;1;2;1;2;;Chelsea;100;10845
+288;03/03/2019;Watford;Leicester;H;1;0;2;1;Watford;LeicesterCity;3543;5192
+289;09/03/2019;Cardiff;West Ham;H;1;0;2;0;;WestHamUnited;100;3633
+290;09/03/2019;Crystal Palace;Brighton;A;0;1;1;2;CrystalPalace;Brighton&HoveAlbion;4319;3305
+291;09/03/2019;Huddersfield;Bournemouth;A;0;1;0;2;;AFCBournemouth;100;2964
+292;09/03/2019;Leicester;Fulham;H;1;0;3;1;LeicesterCity;;5192;100
+293;09/03/2019;Man City;Watford;H;0;0;3;1;ManchesterCity;Watford;12324;3543
+294;09/03/2019;Newcastle;Everton;H;0;2;3;2;NewcastleUnited;Everton;3751;3410
+295;09/03/2019;Southampton;Tottenham;H;0;1;2;1;Southampton;TottenhamHotspur;3253;8491
+296;10/03/2019;Arsenal;Man United;H;1;0;2;0;Arsenal;ManchesterUnited;8845;7088
+297;10/03/2019;Chelsea;Wolves;D;0;0;1;1;Chelsea;;10845;100
+298;10/03/2019;Liverpool;Burnley;H;2;1;4;2;Liverpool;Burnley;15510;3818
+299;16/03/2019;Bournemouth;Newcastle;D;0;1;2;2;AFCBournemouth;NewcastleUnited;2964;3751
+300;16/03/2019;Burnley;Leicester;A;1;1;1;2;Burnley;LeicesterCity;3818;5192
+301;16/03/2019;West Ham;Huddersfield;H;1;2;4;3;WestHamUnited;;3633;100
+302;17/03/2019;Everton;Chelsea;H;0;0;2;0;Everton;Chelsea;3410;10845
+303;17/03/2019;Fulham;Liverpool;A;0;1;1;2;;Liverpool;100;15510
+304;30/03/2019;Brighton;Southampton;A;0;0;0;1;Brighton&HoveAlbion;Southampton;3305;3253
+305;30/03/2019;Burnley;Wolves;H;1;0;2;0;Burnley;;3818;100
+306;30/03/2019;Crystal Palace;Huddersfield;H;0;0;2;0;CrystalPalace;;4319;100
+307;30/03/2019;Fulham;Man City;A;0;2;0;2;;ManchesterCity;100;12324
+308;30/03/2019;Leicester;Bournemouth;H;1;0;2;0;LeicesterCity;AFCBournemouth;5192;2964
+309;30/03/2019;Man United;Watford;H;1;0;2;1;ManchesterUnited;Watford;7088;3543
+310;30/03/2019;West Ham;Everton;A;0;2;0;2;WestHamUnited;Everton;3633;3410
+311;31/03/2019;Cardiff;Chelsea;A;0;0;1;2;;Chelsea;100;10845
+312;31/03/2019;Liverpool;Tottenham;H;1;0;2;1;Liverpool;TottenhamHotspur;15510;8491
+313;01/04/2019;Arsenal;Newcastle;H;1;0;2;0;Arsenal;NewcastleUnited;8845;3751
+314;02/04/2019;Watford;Fulham;H;1;1;4;1;Watford;;3543;100
+315;02/04/2019;Wolves;Man United;H;1;1;2;1;;ManchesterUnited;100;7088
+316;03/04/2019;Chelsea;Brighton;H;1;0;3;0;Chelsea;Brighton&HoveAlbion;10845;3305
+317;03/04/2019;Man City;Cardiff;H;2;0;2;0;ManchesterCity;;12324;100
+318;03/04/2019;Tottenham;Crystal Palace;H;0;0;2;0;TottenhamHotspur;CrystalPalace;8491;4319
+319;05/04/2019;Southampton;Liverpool;A;1;1;1;3;Southampton;Liverpool;3253;15510
+320;06/04/2019;Bournemouth;Burnley;A;1;2;1;3;AFCBournemouth;Burnley;2964;3818
+321;06/04/2019;Huddersfield;Leicester;A;0;1;1;4;;LeicesterCity;100;5192
+322;06/04/2019;Newcastle;Crystal Palace;A;0;0;0;1;NewcastleUnited;CrystalPalace;3751;4319
+323;07/04/2019;Everton;Arsenal;H;1;0;1;0;Everton;Arsenal;3410;8845
+324;08/04/2019;Chelsea;West Ham;H;1;0;2;0;Chelsea;WestHamUnited;10845;3633
+325;12/04/2019;Leicester;Newcastle;A;0;1;0;1;LeicesterCity;NewcastleUnited;5192;3751
+326;13/04/2019;Brighton;Bournemouth;A;0;1;0;5;Brighton&HoveAlbion;AFCBournemouth;3305;2964
+327;13/04/2019;Burnley;Cardiff;H;1;0;2;0;Burnley;;3818;100
+328;13/04/2019;Fulham;Everton;H;0;0;2;0;;Everton;100;3410
+329;13/04/2019;Man United;West Ham;H;1;0;2;1;ManchesterUnited;WestHamUnited;7088;3633
+330;13/04/2019;Southampton;Wolves;H;2;1;3;1;Southampton;;3253;100
+331;13/04/2019;Tottenham;Huddersfield;H;2;0;4;0;TottenhamHotspur;;8491;100
+332;14/04/2019;Crystal Palace;Man City;A;0;1;1;3;CrystalPalace;ManchesterCity;4319;12324
+333;14/04/2019;Liverpool;Chelsea;H;0;0;2;0;Liverpool;Chelsea;15510;10845
+334;15/04/2019;Watford;Arsenal;A;0;1;0;1;Watford;Arsenal;3543;8845
+335;16/04/2019;Brighton;Cardiff;A;0;1;0;2;Brighton&HoveAlbion;;3305;100
+336;20/04/2019;Bournemouth;Fulham;A;0;0;0;1;AFCBournemouth;;2964;100
+337;20/04/2019;Huddersfield;Watford;A;0;1;1;2;;Watford;100;3543
+338;20/04/2019;Man City;Tottenham;H;1;0;1;0;ManchesterCity;TottenhamHotspur;12324;8491
+339;20/04/2019;Newcastle;Southampton;H;2;0;3;1;NewcastleUnited;Southampton;3751;3253
+340;20/04/2019;West Ham;Leicester;D;1;0;2;2;WestHamUnited;LeicesterCity;3633;5192
+341;20/04/2019;Wolves;Brighton;D;0;0;0;0;;Brighton&HoveAlbion;100;3305
+342;21/04/2019;Arsenal;Crystal Palace;A;0;1;2;3;Arsenal;CrystalPalace;8845;4319
+343;21/04/2019;Cardiff;Liverpool;A;0;0;0;2;;Liverpool;100;15510
+344;21/04/2019;Everton;Man United;H;2;0;4;0;Everton;ManchesterUnited;3410;7088
+345;22/04/2019;Chelsea;Burnley;D;2;2;2;2;Chelsea;Burnley;10845;3818
+346;23/04/2019;Tottenham;Brighton;H;0;0;1;0;TottenhamHotspur;Brighton&HoveAlbion;8491;3305
+347;23/04/2019;Watford;Southampton;D;0;1;1;1;Watford;Southampton;3543;3253
+348;24/04/2019;Man United;Man City;A;0;0;0;2;ManchesterUnited;ManchesterCity;7088;12324
+349;24/04/2019;Wolves;Arsenal;H;3;0;3;1;;Arsenal;100;8845
+350;26/04/2019;Liverpool;Huddersfield;H;3;0;5;0;Liverpool;;15510;100
+351;27/04/2019;Brighton;Newcastle;D;0;1;1;1;Brighton&HoveAlbion;NewcastleUnited;3305;3751
+352;27/04/2019;Crystal Palace;Everton;D;0;0;0;0;CrystalPalace;Everton;4319;3410
+353;27/04/2019;Fulham;Cardiff;H;0;0;1;0;;;100;100
+354;27/04/2019;Southampton;Bournemouth;D;1;2;3;3;Southampton;AFCBournemouth;3253;2964
+355;27/04/2019;Tottenham;West Ham;A;0;0;0;1;TottenhamHotspur;WestHamUnited;8491;3633
+356;27/04/2019;Watford;Wolves;A;0;1;1;2;Watford;;3543;100
+357;28/04/2019;Burnley;Man City;A;0;0;0;1;Burnley;ManchesterCity;3818;12324
+358;28/04/2019;Leicester;Arsenal;H;0;0;3;0;LeicesterCity;Arsenal;5192;8845
+359;28/04/2019;Man United;Chelsea;D;1;1;1;1;ManchesterUnited;Chelsea;7088;10845
+360;03/05/2019;Everton;Burnley;H;2;0;2;0;Everton;Burnley;3410;3818
+361;04/05/2019;Bournemouth;Tottenham;H;0;0;1;0;AFCBournemouth;TottenhamHotspur;2964;8491
+362;04/05/2019;Cardiff;Crystal Palace;A;1;2;2;3;;CrystalPalace;100;4319
+363;04/05/2019;Newcastle;Liverpool;A;1;2;2;3;NewcastleUnited;Liverpool;3751;15510
+364;04/05/2019;West Ham;Southampton;H;1;0;3;0;WestHamUnited;Southampton;3633;3253
+365;04/05/2019;Wolves;Fulham;H;0;0;1;0;;;100;100
+366;05/05/2019;Arsenal;Brighton;D;1;0;1;1;Arsenal;Brighton&HoveAlbion;8845;3305
+367;05/05/2019;Chelsea;Watford;H;0;0;3;0;Chelsea;Watford;10845;3543
+368;05/05/2019;Huddersfield;Man United;D;0;1;1;1;;ManchesterUnited;100;7088
+369;06/05/2019;Man City;Leicester;H;0;0;1;0;ManchesterCity;LeicesterCity;12324;5192
+370;12/05/2019;Brighton;Man City;A;1;2;1;4;Brighton&HoveAlbion;ManchesterCity;3305;12324
+371;12/05/2019;Burnley;Arsenal;A;0;0;1;3;Burnley;Arsenal;3818;8845
+372;12/05/2019;Crystal Palace;Bournemouth;H;3;1;5;3;CrystalPalace;AFCBournemouth;4319;2964
+373;12/05/2019;Fulham;Newcastle;A;0;2;0;4;;NewcastleUnited;100;3751
+374;12/05/2019;Leicester;Chelsea;D;0;0;0;0;LeicesterCity;Chelsea;5192;10845
+375;12/05/2019;Liverpool;Wolves;H;1;0;2;0;Liverpool;;15510;100
+376;12/05/2019;Man United;Cardiff;A;0;1;0;2;ManchesterUnited;;7088;100
+377;12/05/2019;Southampton;Huddersfield;D;1;0;1;1;Southampton;;3253;100
+378;12/05/2019;Tottenham;Everton;D;1;0;2;2;TottenhamHotspur;Everton;8491;3410
+379;12/05/2019;Watford;West Ham;A;0;2;1;4;Watford;WestHamUnited;3543;3633
+0;17/08/2018;Betis;Levante;A;0;1;0;3;;Levante;100;5198
+1;17/08/2018;Girona;Valladolid;D;0;0;0;0;;RealValladolid;100;4109
+2;18/08/2018;Barcelona;Alaves;H;0;0;3;0;Barcelona;;15917;100
+3;18/08/2018;Celta;Espanol;D;0;1;1;1;CeltadeVigo;Espanyol;3366;6830
+4;18/08/2018;Villarreal;Sociedad;A;1;1;1;2;Villarreal;RealSociedad;7282;6436
 5;19/08/2018;Eibar;Huesca;A;0;2;1;2;Eibar;;4455;100
-6;19/08/2018;Real Madrid;Getafe;H;1;0;2;0;Real Madrid;Getafe;11475;8931
-7;19/08/2018;Vallecano;Sevilla;A;0;3;1;4;;Sevilla FC;100;9335
-8;20/08/2018;Ath Bilbao;Leganes;H;1;1;2;1;;;100;100
-9;20/08/2018;Valencia;Ath Madrid;D;0;1;1;1;;Real Madrid;100;11475
+6;19/08/2018;Real Madrid;Getafe;H;1;0;2;0;RealMadrid;Getafe;11475;8931
+7;19/08/2018;Vallecano;Sevilla;A;0;3;1;4;;Sevilla;100;9335
+8;20/08/2018;Ath Bilbao;Leganes;H;1;1;2;1;AthleticClub;;6881;100
+9;20/08/2018;Valencia;Ath Madrid;D;0;1;1;1;Valencia;AtléticoMadrid;12990;10169
 10;24/08/2018;Getafe;Eibar;H;1;0;2;0;Getafe;Eibar;8931;4455
-11;24/08/2018;Leganes;Sociedad;D;0;2;2;2;;Real Sociedad;100;6436
-12;25/08/2018;Alaves;Betis;D;0;0;0;0;;Real Betis;100;5879
-13;25/08/2018;Ath Madrid;Vallecano;H;0;0;1;0;Real Madrid;;11475;100
-14;25/08/2018;Valladolid;Barcelona;A;0;0;0;1;Valladolid;;4109;100
-15;26/08/2018;Espanol;Valencia;H;0;0;2;0;;;100;100
-16;26/08/2018;Girona;Real Madrid;A;1;1;1;4;;Real Madrid;100;11475
-17;26/08/2018;Sevilla;Villarreal;D;0;0;0;0;Sevilla FC;Villarreal;9335;7282
-18;27/08/2018;Ath Bilbao;Huesca;D;0;0;2;2;;;100;100
-19;27/08/2018;Levante;Celta;A;0;2;1;2;Levante;Celta;5198;3366
-20;31/08/2018;Eibar;Sociedad;H;1;1;2;1;Eibar;Real Sociedad;4455;6436
-21;31/08/2018;Getafe;Valladolid;D;0;0;0;0;Getafe;Valladolid;8931;4109
+11;24/08/2018;Leganes;Sociedad;D;0;2;2;2;;RealSociedad;100;6436
+12;25/08/2018;Alaves;Betis;D;0;0;0;0;;;100;100
+13;25/08/2018;Ath Madrid;Vallecano;H;0;0;1;0;AtléticoMadrid;;10169;100
+14;25/08/2018;Valladolid;Barcelona;A;0;0;0;1;RealValladolid;Barcelona;4109;15917
+15;26/08/2018;Espanol;Valencia;H;0;0;2;0;Espanyol;Valencia;6830;12990
+16;26/08/2018;Girona;Real Madrid;A;1;1;1;4;;RealMadrid;100;11475
+17;26/08/2018;Sevilla;Villarreal;D;0;0;0;0;Sevilla;Villarreal;9335;7282
+18;27/08/2018;Ath Bilbao;Huesca;D;0;0;2;2;AthleticClub;;6881;100
+19;27/08/2018;Levante;Celta;A;0;2;1;2;Levante;CeltadeVigo;5198;3366
+20;31/08/2018;Eibar;Sociedad;H;1;1;2;1;Eibar;RealSociedad;4455;6436
+21;31/08/2018;Getafe;Valladolid;D;0;0;0;0;Getafe;RealValladolid;8931;4109
 22;31/08/2018;Villarreal;Girona;A;0;0;0;1;Villarreal;;7282;100
-23;01/09/2018;Celta;Ath Madrid;H;0;0;2;0;Celta;Real Madrid;3366;11475
-24;01/09/2018;Real Madrid;Leganes;H;1;1;4;1;Real Madrid;;11475;100
-25;02/09/2018;Alaves;Espanol;H;0;1;2;1;;;100;100
-26;02/09/2018;Barcelona;Huesca;H;3;2;8;2;;;100;100
-27;02/09/2018;Betis;Sevilla;H;0;0;1;0;Real Betis;Sevilla FC;5879;9335
-28;02/09/2018;Levante;Valencia;D;2;1;2;2;Levante;;5198;100
+23;01/09/2018;Celta;Ath Madrid;H;0;0;2;0;CeltadeVigo;AtléticoMadrid;3366;10169
+24;01/09/2018;Real Madrid;Leganes;H;1;1;4;1;RealMadrid;;11475;100
+25;02/09/2018;Alaves;Espanol;H;0;1;2;1;;Espanyol;100;6830
+26;02/09/2018;Barcelona;Huesca;H;3;2;8;2;Barcelona;;15917;100
+27;02/09/2018;Betis;Sevilla;H;0;0;1;0;;Sevilla;100;9335
+28;02/09/2018;Levante;Valencia;D;2;1;2;2;Levante;Valencia;5198;12990
 29;14/09/2018;Huesca;Vallecano;A;0;1;0;1;;;100;100
-30;15/09/2018;Ath Bilbao;Real Madrid;D;1;0;1;1;;Real Madrid;100;11475
-31;15/09/2018;Ath Madrid;Eibar;D;0;0;1;1;Real Madrid;Eibar;11475;4455
-32;15/09/2018;Sociedad;Barcelona;A;1;0;1;2;Real Sociedad;;6436;100
-33;15/09/2018;Valencia;Betis;D;0;0;0;0;;Real Betis;100;5879
-34;16/09/2018;Espanol;Levante;H;0;0;1;0;;Levante;100;5198
+30;15/09/2018;Ath Bilbao;Real Madrid;D;1;0;1;1;AthleticClub;RealMadrid;6881;11475
+31;15/09/2018;Ath Madrid;Eibar;D;0;0;1;1;AtléticoMadrid;Eibar;10169;4455
+32;15/09/2018;Sociedad;Barcelona;A;1;0;1;2;RealSociedad;Barcelona;6436;15917
+33;15/09/2018;Valencia;Betis;D;0;0;0;0;Valencia;;12990;100
+34;16/09/2018;Espanol;Levante;H;0;0;1;0;Espanyol;Levante;6830;5198
 35;16/09/2018;Leganes;Villarreal;A;0;0;0;1;;Villarreal;100;7282
-36;16/09/2018;Sevilla;Getafe;A;0;2;0;2;Sevilla FC;Getafe;9335;8931
-37;16/09/2018;Valladolid;Alaves;A;0;0;0;1;Valladolid;;4109;100
-38;17/09/2018;Girona;Celta;H;2;1;3;2;;Celta;100;3366
-39;21/09/2018;Huesca;Sociedad;A;0;0;0;1;;Real Sociedad;100;6436
-40;22/09/2018;Celta;Valladolid;D;2;1;3;3;Celta;Valladolid;3366;4109
+36;16/09/2018;Sevilla;Getafe;A;0;2;0;2;Sevilla;Getafe;9335;8931
+37;16/09/2018;Valladolid;Alaves;A;0;0;0;1;RealValladolid;;4109;100
+38;17/09/2018;Girona;Celta;H;2;1;3;2;;CeltadeVigo;100;3366
+39;21/09/2018;Huesca;Sociedad;A;0;0;0;1;;RealSociedad;100;6436
+40;22/09/2018;Celta;Valladolid;D;2;1;3;3;CeltadeVigo;RealValladolid;3366;4109
 41;22/09/2018;Eibar;Leganes;H;0;0;1;0;Eibar;;4455;100
-42;22/09/2018;Getafe;Ath Madrid;A;0;1;0;2;Getafe;Real Madrid;8931;11475
-43;22/09/2018;Real Madrid;Espanol;H;1;0;1;0;Real Madrid;;11475;100
+42;22/09/2018;Getafe;Ath Madrid;A;0;1;0;2;Getafe;AtléticoMadrid;8931;10169
+43;22/09/2018;Real Madrid;Espanol;H;1;0;1;0;RealMadrid;Espanyol;11475;6830
 44;22/09/2018;Vallecano;Alaves;A;1;2;1;5;;;100;100
-45;23/09/2018;Barcelona;Girona;D;1;1;2;2;;;100;100
-46;23/09/2018;Betis;Ath Bilbao;D;0;2;2;2;Real Betis;;5879;100
-47;23/09/2018;Levante;Sevilla;A;1;4;2;6;Levante;Sevilla FC;5198;9335
-48;23/09/2018;Villarreal;Valencia;D;0;0;0;0;Villarreal;;7282;100
-49;25/09/2018;Ath Madrid;Huesca;H;3;0;3;0;Real Madrid;;11475;100
-50;25/09/2018;Espanol;Eibar;H;0;0;1;0;;Eibar;100;4455
-51;25/09/2018;Sociedad;Vallecano;D;1;2;2;2;Real Sociedad;;6436;100
-52;26/09/2018;Ath Bilbao;Villarreal;A;0;0;0;3;;Villarreal;100;7282
-53;26/09/2018;Leganes;Barcelona;H;0;1;2;1;;;100;100
-54;26/09/2018;Sevilla;Real Madrid;H;3;0;3;0;Sevilla FC;Real Madrid;9335;11475
-55;26/09/2018;Valencia;Celta;D;1;0;1;1;;Celta;100;3366
+45;23/09/2018;Barcelona;Girona;D;1;1;2;2;Barcelona;;15917;100
+46;23/09/2018;Betis;Ath Bilbao;D;0;2;2;2;;AthleticClub;100;6881
+47;23/09/2018;Levante;Sevilla;A;1;4;2;6;Levante;Sevilla;5198;9335
+48;23/09/2018;Villarreal;Valencia;D;0;0;0;0;Villarreal;Valencia;7282;12990
+49;25/09/2018;Ath Madrid;Huesca;H;3;0;3;0;AtléticoMadrid;;10169;100
+50;25/09/2018;Espanol;Eibar;H;0;0;1;0;Espanyol;Eibar;6830;4455
+51;25/09/2018;Sociedad;Vallecano;D;1;2;2;2;RealSociedad;;6436;100
+52;26/09/2018;Ath Bilbao;Villarreal;A;0;0;0;3;AthleticClub;Villarreal;6881;7282
+53;26/09/2018;Leganes;Barcelona;H;0;1;2;1;;Barcelona;100;15917
+54;26/09/2018;Sevilla;Real Madrid;H;3;0;3;0;Sevilla;RealMadrid;9335;11475
+55;26/09/2018;Valencia;Celta;D;1;0;1;1;Valencia;CeltadeVigo;12990;3366
 56;27/09/2018;Alaves;Getafe;D;0;0;1;1;;Getafe;100;8931
-57;27/09/2018;Girona;Betis;A;0;0;0;1;;Real Betis;100;5879
-58;27/09/2018;Valladolid;Levante;H;0;0;2;1;Valladolid;Levante;4109;5198
-59;28/09/2018;Vallecano;Espanol;D;1;2;2;2;;;100;100
-60;29/09/2018;Barcelona;Ath Bilbao;D;0;1;1;1;;;100;100
-61;29/09/2018;Eibar;Sevilla;A;0;0;1;3;Eibar;Sevilla FC;4455;9335
-62;29/09/2018;Real Madrid;Ath Madrid;D;0;0;0;0;Real Madrid;Real Madrid;11475;11475
-63;29/09/2018;Sociedad;Valencia;A;0;1;0;1;Real Sociedad;;6436;100
-64;30/09/2018;Betis;Leganes;H;0;0;1;0;Real Betis;;5879;100
+57;27/09/2018;Girona;Betis;A;0;0;0;1;;;100;100
+58;27/09/2018;Valladolid;Levante;H;0;0;2;1;RealValladolid;Levante;4109;5198
+59;28/09/2018;Vallecano;Espanol;D;1;2;2;2;;Espanyol;100;6830
+60;29/09/2018;Barcelona;Ath Bilbao;D;0;1;1;1;Barcelona;AthleticClub;15917;6881
+61;29/09/2018;Eibar;Sevilla;A;0;0;1;3;Eibar;Sevilla;4455;9335
+62;29/09/2018;Real Madrid;Ath Madrid;D;0;0;0;0;RealMadrid;AtléticoMadrid;11475;10169
+63;29/09/2018;Sociedad;Valencia;A;0;1;0;1;RealSociedad;Valencia;6436;12990
+64;30/09/2018;Betis;Leganes;H;0;0;1;0;;;100;100
 65;30/09/2018;Huesca;Girona;D;0;1;1;1;;;100;100
 66;30/09/2018;Levante;Alaves;H;2;1;2;1;Levante;;5198;100
-67;30/09/2018;Villarreal;Valladolid;A;0;0;0;1;Villarreal;Valladolid;7282;4109
-68;01/10/2018;Celta;Getafe;D;1;0;1;1;Celta;Getafe;3366;8931
-69;05/10/2018;Ath Bilbao;Sociedad;A;1;1;1;3;;Real Sociedad;100;6436
-70;06/10/2018;Alaves;Real Madrid;H;0;0;1;0;;Real Madrid;100;11475
+67;30/09/2018;Villarreal;Valladolid;A;0;0;0;1;Villarreal;RealValladolid;7282;4109
+68;01/10/2018;Celta;Getafe;D;1;0;1;1;CeltadeVigo;Getafe;3366;8931
+69;05/10/2018;Ath Bilbao;Sociedad;A;1;1;1;3;AthleticClub;RealSociedad;6881;6436
+70;06/10/2018;Alaves;Real Madrid;H;0;0;1;0;;RealMadrid;100;11475
 71;06/10/2018;Getafe;Levante;A;0;0;0;1;Getafe;Levante;8931;5198
 72;06/10/2018;Girona;Eibar;A;2;2;2;3;;Eibar;100;4455
 73;06/10/2018;Leganes;Vallecano;H;1;0;1;0;;;100;100
-74;07/10/2018;Ath Madrid;Betis;H;0;0;1;0;Real Madrid;Real Betis;11475;5879
-75;07/10/2018;Espanol;Villarreal;H;1;1;3;1;;Villarreal;100;7282
-76;07/10/2018;Sevilla;Celta;H;1;0;2;1;Sevilla FC;Celta;9335;3366
-77;07/10/2018;Valencia;Barcelona;D;1;1;1;1;;;100;100
-78;07/10/2018;Valladolid;Huesca;H;1;0;1;0;Valladolid;;4109;100
-79;19/10/2018;Celta;Alaves;A;0;0;0;1;Celta;;3366;100
-80;20/10/2018;Barcelona;Sevilla;H;2;0;4;2;;Sevilla FC;100;9335
-81;20/10/2018;Real Madrid;Levante;A;0;2;1;2;Real Madrid;Levante;11475;5198
-82;20/10/2018;Valencia;Leganes;D;0;0;1;1;;;100;100
-83;20/10/2018;Villarreal;Ath Madrid;D;0;0;1;1;Villarreal;Real Madrid;7282;11475
-84;21/10/2018;Betis;Valladolid;A;0;1;0;1;Real Betis;Valladolid;5879;4109
-85;21/10/2018;Eibar;Ath Bilbao;D;1;1;1;1;Eibar;;4455;100
-86;21/10/2018;Huesca;Espanol;A;0;1;0;2;;;100;100
+74;07/10/2018;Ath Madrid;Betis;H;0;0;1;0;AtléticoMadrid;;10169;100
+75;07/10/2018;Espanol;Villarreal;H;1;1;3;1;Espanyol;Villarreal;6830;7282
+76;07/10/2018;Sevilla;Celta;H;1;0;2;1;Sevilla;CeltadeVigo;9335;3366
+77;07/10/2018;Valencia;Barcelona;D;1;1;1;1;Valencia;Barcelona;12990;15917
+78;07/10/2018;Valladolid;Huesca;H;1;0;1;0;RealValladolid;;4109;100
+79;19/10/2018;Celta;Alaves;A;0;0;0;1;CeltadeVigo;;3366;100
+80;20/10/2018;Barcelona;Sevilla;H;2;0;4;2;Barcelona;Sevilla;15917;9335
+81;20/10/2018;Real Madrid;Levante;A;0;2;1;2;RealMadrid;Levante;11475;5198
+82;20/10/2018;Valencia;Leganes;D;0;0;1;1;Valencia;;12990;100
+83;20/10/2018;Villarreal;Ath Madrid;D;0;0;1;1;Villarreal;AtléticoMadrid;7282;10169
+84;21/10/2018;Betis;Valladolid;A;0;1;0;1;;RealValladolid;100;4109
+85;21/10/2018;Eibar;Ath Bilbao;D;1;1;1;1;Eibar;AthleticClub;4455;6881
+86;21/10/2018;Huesca;Espanol;A;0;1;0;2;;Espanyol;100;6830
 87;21/10/2018;Vallecano;Getafe;A;0;0;1;2;;Getafe;100;8931
-88;22/10/2018;Sociedad;Girona;D;0;0;0;0;Real Sociedad;;6436;100
-89;24/10/2018;Vallecano;Ath Bilbao;D;1;0;1;1;;;100;100
-90;26/10/2018;Valladolid;Espanol;D;0;1;1;1;Valladolid;;4109;100
-91;27/10/2018;Ath Bilbao;Valencia;D;0;0;0;0;;;100;100
-92;27/10/2018;Ath Madrid;Sociedad;H;1;0;2;0;Real Madrid;Real Sociedad;11475;6436
-93;27/10/2018;Celta;Eibar;H;2;0;4;0;Celta;Eibar;3366;4455
+88;22/10/2018;Sociedad;Girona;D;0;0;0;0;RealSociedad;;6436;100
+89;24/10/2018;Vallecano;Ath Bilbao;D;1;0;1;1;;AthleticClub;100;6881
+90;26/10/2018;Valladolid;Espanol;D;0;1;1;1;RealValladolid;Espanyol;4109;6830
+91;27/10/2018;Ath Bilbao;Valencia;D;0;0;0;0;AthleticClub;Valencia;6881;12990
+92;27/10/2018;Ath Madrid;Sociedad;H;1;0;2;0;AtléticoMadrid;RealSociedad;10169;6436
+93;27/10/2018;Celta;Eibar;H;2;0;4;0;CeltadeVigo;Eibar;3366;4455
 94;27/10/2018;Girona;Vallecano;H;2;0;2;1;;;100;100
 95;27/10/2018;Levante;Leganes;H;1;0;2;0;Levante;;5198;100
 96;28/10/2018;Alaves;Villarreal;H;0;1;2;1;;Villarreal;100;7282
-97;28/10/2018;Barcelona;Real Madrid;H;2;0;5;1;;Real Madrid;100;11475
-98;28/10/2018;Getafe;Betis;H;0;0;2;0;Getafe;Real Betis;8931;5879
-99;28/10/2018;Sevilla;Huesca;H;0;0;2;1;Sevilla FC;;9335;100
-100;03/11/2018;Leganes;Ath Madrid;D;0;0;1;1;;Real Madrid;100;11475
-101;03/11/2018;Real Madrid;Valladolid;H;0;0;2;0;Real Madrid;Valladolid;11475;4109
-102;03/11/2018;Valencia;Girona;A;0;0;0;1;;;100;100
-103;03/11/2018;Vallecano;Barcelona;A;1;1;2;3;;;100;100
-104;04/11/2018;Betis;Celta;D;1;0;3;3;Real Betis;Celta;5879;3366
+97;28/10/2018;Barcelona;Real Madrid;H;2;0;5;1;Barcelona;RealMadrid;15917;11475
+98;28/10/2018;Getafe;Betis;H;0;0;2;0;Getafe;;8931;100
+99;28/10/2018;Sevilla;Huesca;H;0;0;2;1;Sevilla;;9335;100
+100;03/11/2018;Leganes;Ath Madrid;D;0;0;1;1;;AtléticoMadrid;100;10169
+101;03/11/2018;Real Madrid;Valladolid;H;0;0;2;0;RealMadrid;RealValladolid;11475;4109
+102;03/11/2018;Valencia;Girona;A;0;0;0;1;Valencia;;12990;100
+103;03/11/2018;Vallecano;Barcelona;A;1;1;2;3;;Barcelona;100;15917
+104;04/11/2018;Betis;Celta;D;1;0;3;3;;CeltadeVigo;100;3366
 105;04/11/2018;Eibar;Alaves;H;0;1;2;1;Eibar;;4455;100
 106;04/11/2018;Huesca;Getafe;D;0;0;1;1;;Getafe;100;8931
-107;04/11/2018;Sociedad;Sevilla;D;0;0;0;0;Real Sociedad;Sevilla FC;6436;9335
+107;04/11/2018;Sociedad;Sevilla;D;0;0;0;0;RealSociedad;Sevilla;6436;9335
 108;04/11/2018;Villarreal;Levante;D;0;0;1;1;Villarreal;Levante;7282;5198
-109;05/11/2018;Espanol;Ath Bilbao;H;1;0;1;0;;;100;100
-110;09/11/2018;Levante;Sociedad;A;1;0;1;3;Levante;Real Sociedad;5198;6436
-111;10/11/2018;Ath Madrid;Ath Bilbao;H;0;1;3;2;Real Madrid;;11475;100
-112;10/11/2018;Getafe;Valencia;A;0;0;0;1;Getafe;;8931;100
+109;05/11/2018;Espanol;Ath Bilbao;H;1;0;1;0;Espanyol;AthleticClub;6830;6881
+110;09/11/2018;Levante;Sociedad;A;1;0;1;3;Levante;RealSociedad;5198;6436
+111;10/11/2018;Ath Madrid;Ath Bilbao;H;0;1;3;2;AtléticoMadrid;AthleticClub;10169;6881
+112;10/11/2018;Getafe;Valencia;A;0;0;0;1;Getafe;Valencia;8931;12990
 113;10/11/2018;Girona;Leganes;D;0;0;0;0;;;100;100
-114;10/11/2018;Valladolid;Eibar;D;0;0;0;0;Valladolid;Eibar;4109;4455
+114;10/11/2018;Valladolid;Eibar;D;0;0;0;0;RealValladolid;Eibar;4109;4455
 115;11/11/2018;Alaves;Huesca;H;1;1;2;1;;;100;100
-116;11/11/2018;Barcelona;Betis;A;0;2;3;4;;Real Betis;100;5879
-117;11/11/2018;Celta;Real Madrid;A;0;1;2;4;Celta;Real Madrid;3366;11475
-118;11/11/2018;Sevilla;Espanol;H;0;1;2;1;Sevilla FC;;9335;100
+116;11/11/2018;Barcelona;Betis;A;0;2;3;4;Barcelona;;15917;100
+117;11/11/2018;Celta;Real Madrid;A;0;1;2;4;CeltadeVigo;RealMadrid;3366;11475
+118;11/11/2018;Sevilla;Espanol;H;0;1;2;1;Sevilla;Espanyol;9335;6830
 119;11/11/2018;Vallecano;Villarreal;D;1;1;2;2;;Villarreal;100;7282
 120;23/11/2018;Leganes;Alaves;H;1;0;1;0;;;100;100
-121;24/11/2018;Ath Madrid;Barcelona;D;0;0;1;1;Real Madrid;;11475;100
-122;24/11/2018;Eibar;Real Madrid;H;1;0;3;0;Eibar;Real Madrid;4455;11475
+121;24/11/2018;Ath Madrid;Barcelona;D;0;0;1;1;AtléticoMadrid;Barcelona;10169;15917
+122;24/11/2018;Eibar;Real Madrid;H;1;0;3;0;Eibar;RealMadrid;4455;11475
 123;24/11/2018;Huesca;Levante;D;1;1;2;2;;Levante;100;5198
-124;24/11/2018;Valencia;Vallecano;H;1;0;3;0;;;100;100
-125;25/11/2018;Ath Bilbao;Getafe;D;0;0;1;1;;Getafe;100;8931
-126;25/11/2018;Espanol;Girona;A;0;2;1;3;;;100;100
-127;25/11/2018;Sevilla;Valladolid;H;1;0;1;0;Sevilla FC;Valladolid;9335;4109
-128;25/11/2018;Villarreal;Betis;H;0;0;2;1;Villarreal;Real Betis;7282;5879
-129;26/11/2018;Sociedad;Celta;H;1;0;2;1;Real Sociedad;Celta;6436;3366
+124;24/11/2018;Valencia;Vallecano;H;1;0;3;0;Valencia;;12990;100
+125;25/11/2018;Ath Bilbao;Getafe;D;0;0;1;1;AthleticClub;Getafe;6881;8931
+126;25/11/2018;Espanol;Girona;A;0;2;1;3;Espanyol;;6830;100
+127;25/11/2018;Sevilla;Valladolid;H;1;0;1;0;Sevilla;RealValladolid;9335;4109
+128;25/11/2018;Villarreal;Betis;H;0;0;2;1;Villarreal;;7282;100
+129;26/11/2018;Sociedad;Celta;H;1;0;2;1;RealSociedad;CeltadeVigo;6436;3366
 130;30/11/2018;Vallecano;Eibar;H;0;0;1;0;;Eibar;100;4455
-131;01/12/2018;Celta;Huesca;H;1;0;2;0;Celta;;3366;100
-132;01/12/2018;Getafe;Espanol;H;0;0;3;0;Getafe;;8931;100
-133;01/12/2018;Real Madrid;Valencia;H;1;0;2;0;Real Madrid;;11475;100
-134;01/12/2018;Valladolid;Leganes;A;0;2;2;4;Valladolid;;4109;100
-135;02/12/2018;Alaves;Sevilla;D;1;0;1;1;;Sevilla FC;100;9335
-136;02/12/2018;Barcelona;Villarreal;H;1;0;2;0;;Villarreal;100;7282
-137;02/12/2018;Betis;Sociedad;H;1;0;1;0;Real Betis;Real Sociedad;5879;6436
-138;02/12/2018;Girona;Ath Madrid;D;1;0;1;1;;Real Madrid;100;11475
-139;03/12/2018;Levante;Ath Bilbao;H;1;0;3;0;Levante;;5198;100
+131;01/12/2018;Celta;Huesca;H;1;0;2;0;CeltadeVigo;;3366;100
+132;01/12/2018;Getafe;Espanol;H;0;0;3;0;Getafe;Espanyol;8931;6830
+133;01/12/2018;Real Madrid;Valencia;H;1;0;2;0;RealMadrid;Valencia;11475;12990
+134;01/12/2018;Valladolid;Leganes;A;0;2;2;4;RealValladolid;;4109;100
+135;02/12/2018;Alaves;Sevilla;D;1;0;1;1;;Sevilla;100;9335
+136;02/12/2018;Barcelona;Villarreal;H;1;0;2;0;Barcelona;Villarreal;15917;7282
+137;02/12/2018;Betis;Sociedad;H;1;0;1;0;;RealSociedad;100;6436
+138;02/12/2018;Girona;Ath Madrid;D;1;0;1;1;;AtléticoMadrid;100;10169
+139;03/12/2018;Levante;Ath Bilbao;H;1;0;3;0;Levante;AthleticClub;5198;6881
 140;07/12/2018;Leganes;Getafe;D;0;1;1;1;;Getafe;100;8931
-141;08/12/2018;Ath Madrid;Alaves;H;1;0;3;0;Real Madrid;;11475;100
-142;08/12/2018;Espanol;Barcelona;A;0;3;0;4;;;100;100
-143;08/12/2018;Valencia;Sevilla;D;0;0;1;1;;Sevilla FC;100;9335
-144;08/12/2018;Villarreal;Celta;A;0;1;2;3;Villarreal;Celta;7282;3366
-145;09/12/2018;Betis;Vallecano;H;0;0;2;0;Real Betis;;5879;100
+141;08/12/2018;Ath Madrid;Alaves;H;1;0;3;0;AtléticoMadrid;;10169;100
+142;08/12/2018;Espanol;Barcelona;A;0;3;0;4;Espanyol;Barcelona;6830;15917
+143;08/12/2018;Valencia;Sevilla;D;0;0;1;1;Valencia;Sevilla;12990;9335
+144;08/12/2018;Villarreal;Celta;A;0;1;2;3;Villarreal;CeltadeVigo;7282;3366
+145;09/12/2018;Betis;Vallecano;H;0;0;2;0;;;100;100
 146;09/12/2018;Eibar;Levante;D;1;2;4;4;Eibar;Levante;4455;5198
-147;09/12/2018;Huesca;Real Madrid;A;0;1;0;1;;Real Madrid;100;11475
-148;09/12/2018;Sociedad;Valladolid;A;0;1;1;2;Real Sociedad;Valladolid;6436;4109
-149;10/12/2018;Ath Bilbao;Girona;H;0;0;1;0;;;100;100
-150;14/12/2018;Celta;Leganes;D;0;0;0;0;Celta;;3366;100
-151;15/12/2018;Eibar;Valencia;D;0;1;1;1;Eibar;;4455;100
-152;15/12/2018;Getafe;Sociedad;H;1;0;1;0;Getafe;Real Sociedad;8931;6436
-153;15/12/2018;Real Madrid;Vallecano;H;1;0;1;0;Real Madrid;;11475;100
-154;15/12/2018;Valladolid;Ath Madrid;A;0;2;2;3;Valladolid;Real Madrid;4109;11475
-155;16/12/2018;Espanol;Betis;A;1;1;1;3;;Real Betis;100;5879
+147;09/12/2018;Huesca;Real Madrid;A;0;1;0;1;;RealMadrid;100;11475
+148;09/12/2018;Sociedad;Valladolid;A;0;1;1;2;RealSociedad;RealValladolid;6436;4109
+149;10/12/2018;Ath Bilbao;Girona;H;0;0;1;0;AthleticClub;;6881;100
+150;14/12/2018;Celta;Leganes;D;0;0;0;0;CeltadeVigo;;3366;100
+151;15/12/2018;Eibar;Valencia;D;0;1;1;1;Eibar;Valencia;4455;12990
+152;15/12/2018;Getafe;Sociedad;H;1;0;1;0;Getafe;RealSociedad;8931;6436
+153;15/12/2018;Real Madrid;Vallecano;H;1;0;1;0;RealMadrid;;11475;100
+154;15/12/2018;Valladolid;Ath Madrid;A;0;2;2;3;RealValladolid;AtléticoMadrid;4109;10169
+155;16/12/2018;Espanol;Betis;A;1;1;1;3;Espanyol;;6830;100
 156;16/12/2018;Huesca;Villarreal;D;1;0;2;2;;Villarreal;100;7282
-157;16/12/2018;Levante;Barcelona;A;0;2;0;5;Levante;;5198;100
-158;16/12/2018;Sevilla;Girona;H;0;0;2;0;Sevilla FC;;9335;100
-159;17/12/2018;Alaves;Ath Bilbao;D;0;0;0;0;;;100;100
+157;16/12/2018;Levante;Barcelona;A;0;2;0;5;Levante;Barcelona;5198;15917
+158;16/12/2018;Sevilla;Girona;H;0;0;2;0;Sevilla;;9335;100
+159;17/12/2018;Alaves;Ath Bilbao;D;0;0;0;0;;AthleticClub;100;6881
 160;21/12/2018;Girona;Getafe;D;0;0;1;1;;Getafe;100;8931
-161;21/12/2018;Sociedad;Alaves;A;0;1;0;1;Real Sociedad;;6436;100
-162;22/12/2018;Ath Bilbao;Valladolid;D;1;0;1;1;;Valladolid;100;4109
-163;22/12/2018;Ath Madrid;Espanol;H;0;0;1;0;Real Madrid;;11475;100
-164;22/12/2018;Barcelona;Celta;H;2;0;2;0;;Celta;100;3366
-165;22/12/2018;Betis;Eibar;D;1;0;1;1;Real Betis;Eibar;5879;4455
-166;23/12/2018;Leganes;Sevilla;D;1;0;1;1;;Sevilla FC;100;9335
-167;23/12/2018;Valencia;Huesca;H;1;0;2;1;;;100;100
+161;21/12/2018;Sociedad;Alaves;A;0;1;0;1;RealSociedad;;6436;100
+162;22/12/2018;Ath Bilbao;Valladolid;D;1;0;1;1;AthleticClub;RealValladolid;6881;4109
+163;22/12/2018;Ath Madrid;Espanol;H;0;0;1;0;AtléticoMadrid;Espanyol;10169;6830
+164;22/12/2018;Barcelona;Celta;H;2;0;2;0;Barcelona;CeltadeVigo;15917;3366
+165;22/12/2018;Betis;Eibar;D;1;0;1;1;;Eibar;100;4455
+166;23/12/2018;Leganes;Sevilla;D;1;0;1;1;;Sevilla;100;9335
+167;23/12/2018;Valencia;Huesca;H;1;0;2;1;Valencia;;12990;100
 168;23/12/2018;Vallecano;Levante;H;1;0;2;1;;Levante;100;5198
-169;03/01/2019;Villarreal;Real Madrid;D;1;2;2;2;Villarreal;Real Madrid;7282;11475
-170;04/01/2019;Espanol;Leganes;H;1;0;1;0;;;100;100
+169;03/01/2019;Villarreal;Real Madrid;D;1;2;2;2;Villarreal;RealMadrid;7282;11475
+170;04/01/2019;Espanol;Leganes;H;1;0;1;0;Espanyol;;6830;100
 171;04/01/2019;Levante;Girona;D;0;1;2;2;Levante;;5198;100
-172;05/01/2019;Alaves;Valencia;H;2;1;2;1;;;100;100
-173;05/01/2019;Huesca;Betis;H;0;0;2;1;;Real Betis;100;5879
-174;05/01/2019;Valladolid;Vallecano;A;0;1;0;1;Valladolid;;4109;100
+172;05/01/2019;Alaves;Valencia;H;2;1;2;1;;Valencia;100;12990
+173;05/01/2019;Huesca;Betis;H;0;0;2;1;;;100;100
+174;05/01/2019;Valladolid;Vallecano;A;0;1;0;1;RealValladolid;;4109;100
 175;06/01/2019;Eibar;Villarreal;D;0;0;0;0;Eibar;Villarreal;4455;7282
-176;06/01/2019;Getafe;Barcelona;A;1;2;1;2;Getafe;;8931;100
-177;06/01/2019;Real Madrid;Sociedad;A;0;1;0;2;Real Madrid;Real Sociedad;11475;6436
-178;06/01/2019;Sevilla;Ath Madrid;D;1;1;1;1;Sevilla FC;Real Madrid;9335;11475
-179;07/01/2019;Celta;Ath Bilbao;A;1;1;1;2;Celta;;3366;100
-180;11/01/2019;Vallecano;Celta;H;2;2;4;2;;Celta;100;3366
+176;06/01/2019;Getafe;Barcelona;A;1;2;1;2;Getafe;Barcelona;8931;15917
+177;06/01/2019;Real Madrid;Sociedad;A;0;1;0;2;RealMadrid;RealSociedad;11475;6436
+178;06/01/2019;Sevilla;Ath Madrid;D;1;1;1;1;Sevilla;AtléticoMadrid;9335;10169
+179;07/01/2019;Celta;Ath Bilbao;A;1;1;1;2;CeltadeVigo;AthleticClub;3366;6881
+180;11/01/2019;Vallecano;Celta;H;2;2;4;2;;CeltadeVigo;100;3366
 181;12/01/2019;Girona;Alaves;D;1;0;1;1;;;100;100
 182;12/01/2019;Leganes;Huesca;H;0;0;1;0;;;100;100
-183;12/01/2019;Valencia;Valladolid;D;0;0;1;1;;Valladolid;100;4109
+183;12/01/2019;Valencia;Valladolid;D;0;0;1;1;Valencia;RealValladolid;12990;4109
 184;12/01/2019;Villarreal;Getafe;A;0;0;1;2;Villarreal;Getafe;7282;8931
-185;13/01/2019;Ath Bilbao;Sevilla;H;1;0;2;0;;Sevilla FC;100;9335
-186;13/01/2019;Ath Madrid;Levante;H;0;0;1;0;Real Madrid;Levante;11475;5198
-187;13/01/2019;Barcelona;Eibar;H;1;0;3;0;;Eibar;100;4455
-188;13/01/2019;Betis;Real Madrid;A;0;1;1;2;Real Betis;Real Madrid;5879;11475
-189;14/01/2019;Sociedad;Espanol;H;2;2;3;2;Real Sociedad;;6436;100
+185;13/01/2019;Ath Bilbao;Sevilla;H;1;0;2;0;AthleticClub;Sevilla;6881;9335
+186;13/01/2019;Ath Madrid;Levante;H;0;0;1;0;AtléticoMadrid;Levante;10169;5198
+187;13/01/2019;Barcelona;Eibar;H;1;0;3;0;Barcelona;Eibar;15917;4455
+188;13/01/2019;Betis;Real Madrid;A;0;1;1;2;;RealMadrid;100;11475
+189;14/01/2019;Sociedad;Espanol;H;2;2;3;2;RealSociedad;Espanyol;6436;6830
 190;18/01/2019;Getafe;Alaves;H;1;0;4;0;Getafe;;8931;100
-191;19/01/2019;Celta;Valencia;A;1;0;1;2;Celta;;3366;100
-192;19/01/2019;Huesca;Ath Madrid;A;0;1;0;3;;Real Madrid;100;11475
-193;19/01/2019;Real Madrid;Sevilla;H;0;0;2;0;Real Madrid;Sevilla FC;11475;9335
-194;20/01/2019;Barcelona;Leganes;H;1;0;3;1;;;100;100
-195;20/01/2019;Betis;Girona;H;1;2;3;2;Real Betis;;5879;100
-196;20/01/2019;Levante;Valladolid;H;1;0;2;0;Levante;Valladolid;5198;4109
-197;20/01/2019;Vallecano;Sociedad;D;2;1;2;2;;Real Sociedad;100;6436
-198;20/01/2019;Villarreal;Ath Bilbao;D;0;1;1;1;Villarreal;;7282;100
-199;21/01/2019;Eibar;Espanol;H;1;0;3;0;Eibar;;4455;100
-200;26/01/2019;Ath Madrid;Getafe;H;2;0;2;0;Real Madrid;Getafe;11475;8931
+191;19/01/2019;Celta;Valencia;A;1;0;1;2;CeltadeVigo;Valencia;3366;12990
+192;19/01/2019;Huesca;Ath Madrid;A;0;1;0;3;;AtléticoMadrid;100;10169
+193;19/01/2019;Real Madrid;Sevilla;H;0;0;2;0;RealMadrid;Sevilla;11475;9335
+194;20/01/2019;Barcelona;Leganes;H;1;0;3;1;Barcelona;;15917;100
+195;20/01/2019;Betis;Girona;H;1;2;3;2;;;100;100
+196;20/01/2019;Levante;Valladolid;H;1;0;2;0;Levante;RealValladolid;5198;4109
+197;20/01/2019;Vallecano;Sociedad;D;2;1;2;2;;RealSociedad;100;6436
+198;20/01/2019;Villarreal;Ath Bilbao;D;0;1;1;1;Villarreal;AthleticClub;7282;6881
+199;21/01/2019;Eibar;Espanol;H;1;0;3;0;Eibar;Espanyol;4455;6830
+200;26/01/2019;Ath Madrid;Getafe;H;2;0;2;0;AtléticoMadrid;Getafe;10169;8931
 201;26/01/2019;Leganes;Eibar;D;0;2;2;2;;Eibar;100;4455
-202;26/01/2019;Sevilla;Levante;H;0;0;5;0;Sevilla FC;Levante;9335;5198
-203;26/01/2019;Valencia;Villarreal;H;1;0;3;0;;Villarreal;100;7282
-204;27/01/2019;Ath Bilbao;Betis;H;1;0;1;0;;Real Betis;100;5879
-205;27/01/2019;Espanol;Real Madrid;A;1;3;2;4;;Real Madrid;100;11475
-206;27/01/2019;Girona;Barcelona;A;0;1;0;2;;;100;100
-207;27/01/2019;Sociedad;Huesca;D;0;0;0;0;Real Sociedad;;6436;100
-208;27/01/2019;Valladolid;Celta;H;0;1;2;1;Valladolid;Celta;4109;3366
+202;26/01/2019;Sevilla;Levante;H;0;0;5;0;Sevilla;Levante;9335;5198
+203;26/01/2019;Valencia;Villarreal;H;1;0;3;0;Valencia;Villarreal;12990;7282
+204;27/01/2019;Ath Bilbao;Betis;H;1;0;1;0;AthleticClub;;6881;100
+205;27/01/2019;Espanol;Real Madrid;A;1;3;2;4;Espanyol;RealMadrid;6830;11475
+206;27/01/2019;Girona;Barcelona;A;0;1;0;2;;Barcelona;100;15917
+207;27/01/2019;Sociedad;Huesca;D;0;0;0;0;RealSociedad;;6436;100
+208;27/01/2019;Valladolid;Celta;H;0;1;2;1;RealValladolid;CeltadeVigo;4109;3366
 209;28/01/2019;Alaves;Vallecano;A;0;0;0;1;;;100;100
-210;01/02/2019;Huesca;Valladolid;H;1;0;4;0;;Valladolid;100;4109
-211;02/02/2019;Barcelona;Valencia;D;1;2;2;2;;;100;100
-212;02/02/2019;Celta;Sevilla;H;0;0;1;0;Celta;Sevilla FC;3366;9335
+210;01/02/2019;Huesca;Valladolid;H;1;0;4;0;;RealValladolid;100;4109
+211;02/02/2019;Barcelona;Valencia;D;1;2;2;2;Barcelona;Valencia;15917;12990
+212;02/02/2019;Celta;Sevilla;H;0;0;1;0;CeltadeVigo;Sevilla;3366;9335
 213;02/02/2019;Levante;Getafe;D;0;0;0;0;Levante;Getafe;5198;8931
-214;02/02/2019;Sociedad;Ath Bilbao;H;2;0;2;1;Real Sociedad;;6436;100
-215;03/02/2019;Betis;Ath Madrid;H;0;0;1;0;Real Betis;Real Madrid;5879;11475
+214;02/02/2019;Sociedad;Ath Bilbao;H;2;0;2;1;RealSociedad;AthleticClub;6436;6881
+215;03/02/2019;Betis;Ath Madrid;H;0;0;1;0;;AtléticoMadrid;100;10169
 216;03/02/2019;Eibar;Girona;H;1;0;3;0;Eibar;;4455;100
-217;03/02/2019;Real Madrid;Alaves;H;1;0;3;0;Real Madrid;;11475;100
-218;03/02/2019;Villarreal;Espanol;D;1;0;2;2;Villarreal;;7282;100
+217;03/02/2019;Real Madrid;Alaves;H;1;0;3;0;RealMadrid;;11475;100
+218;03/02/2019;Villarreal;Espanol;D;1;0;2;2;Villarreal;Espanyol;7282;6830
 219;04/02/2019;Vallecano;Leganes;A;0;1;1;2;;;100;100
-220;08/02/2019;Valladolid;Villarreal;D;0;0;0;0;Valladolid;Villarreal;4109;7282
-221;09/02/2019;Ath Madrid;Real Madrid;A;1;2;1;3;Real Madrid;Real Madrid;11475;11475
-222;09/02/2019;Espanol;Vallecano;H;0;1;2;1;;;100;100
-223;09/02/2019;Getafe;Celta;H;1;1;3;1;Getafe;Celta;8931;3366
+220;08/02/2019;Valladolid;Villarreal;D;0;0;0;0;RealValladolid;Villarreal;4109;7282
+221;09/02/2019;Ath Madrid;Real Madrid;A;1;2;1;3;AtléticoMadrid;RealMadrid;10169;11475
+222;09/02/2019;Espanol;Vallecano;H;0;1;2;1;Espanyol;;6830;100
+223;09/02/2019;Getafe;Celta;H;1;1;3;1;Getafe;CeltadeVigo;8931;3366
 224;09/02/2019;Girona;Huesca;A;0;2;0;2;;;100;100
-225;10/02/2019;Ath Bilbao;Barcelona;D;0;0;0;0;;;100;100
-226;10/02/2019;Leganes;Betis;H;2;0;3;0;;Real Betis;100;5879
-227;10/02/2019;Sevilla;Eibar;D;0;1;2;2;Sevilla FC;Eibar;9335;4455
-228;10/02/2019;Valencia;Sociedad;D;0;0;0;0;;Real Sociedad;100;6436
+225;10/02/2019;Ath Bilbao;Barcelona;D;0;0;0;0;AthleticClub;Barcelona;6881;15917
+226;10/02/2019;Leganes;Betis;H;2;0;3;0;;;100;100
+227;10/02/2019;Sevilla;Eibar;D;0;1;2;2;Sevilla;Eibar;9335;4455
+228;10/02/2019;Valencia;Sociedad;D;0;0;0;0;Valencia;RealSociedad;12990;6436
 229;11/02/2019;Alaves;Levante;H;1;0;2;0;;Levante;100;5198
 230;15/02/2019;Eibar;Getafe;D;0;1;2;2;Eibar;Getafe;4455;8931
-231;16/02/2019;Barcelona;Valladolid;H;1;0;1;0;;Valladolid;100;4109
-232;16/02/2019;Celta;Levante;A;0;2;1;4;Celta;Levante;3366;5198
-233;16/02/2019;Sociedad;Leganes;H;0;0;3;0;Real Sociedad;;6436;100
-234;16/02/2019;Vallecano;Ath Madrid;A;0;0;0;1;;Real Madrid;100;11475
-235;17/02/2019;Betis;Alaves;D;1;1;1;1;Real Betis;;5879;100
-236;17/02/2019;Real Madrid;Girona;A;1;0;1;2;Real Madrid;;11475;100
-237;17/02/2019;Valencia;Espanol;D;0;0;0;0;;;100;100
-238;17/02/2019;Villarreal;Sevilla;H;2;0;3;0;Villarreal;Sevilla FC;7282;9335
-239;18/02/2019;Huesca;Ath Bilbao;A;0;1;0;1;;;100;100
-240;22/02/2019;Espanol;Huesca;D;1;0;1;1;;;100;100
-241;23/02/2019;Alaves;Celta;D;0;0;0;0;;Celta;100;3366
-242;23/02/2019;Ath Bilbao;Eibar;H;1;0;1;0;;Eibar;100;4455
+231;16/02/2019;Barcelona;Valladolid;H;1;0;1;0;Barcelona;RealValladolid;15917;4109
+232;16/02/2019;Celta;Levante;A;0;2;1;4;CeltadeVigo;Levante;3366;5198
+233;16/02/2019;Sociedad;Leganes;H;0;0;3;0;RealSociedad;;6436;100
+234;16/02/2019;Vallecano;Ath Madrid;A;0;0;0;1;;AtléticoMadrid;100;10169
+235;17/02/2019;Betis;Alaves;D;1;1;1;1;;;100;100
+236;17/02/2019;Real Madrid;Girona;A;1;0;1;2;RealMadrid;;11475;100
+237;17/02/2019;Valencia;Espanol;D;0;0;0;0;Valencia;Espanyol;12990;6830
+238;17/02/2019;Villarreal;Sevilla;H;2;0;3;0;Villarreal;Sevilla;7282;9335
+239;18/02/2019;Huesca;Ath Bilbao;A;0;1;0;1;;AthleticClub;100;6881
+240;22/02/2019;Espanol;Huesca;D;1;0;1;1;Espanyol;;6830;100
+241;23/02/2019;Alaves;Celta;D;0;0;0;0;;CeltadeVigo;100;3366
+242;23/02/2019;Ath Bilbao;Eibar;H;1;0;1;0;AthleticClub;Eibar;6881;4455
 243;23/02/2019;Getafe;Vallecano;H;1;0;2;1;Getafe;;8931;100
-244;23/02/2019;Sevilla;Barcelona;A;2;1;2;4;Sevilla FC;;9335;100
-245;24/02/2019;Ath Madrid;Villarreal;H;1;0;2;0;Real Madrid;Villarreal;11475;7282
-246;24/02/2019;Leganes;Valencia;D;0;1;1;1;;;100;100
-247;24/02/2019;Levante;Real Madrid;A;0;1;1;2;Levante;Real Madrid;5198;11475
-248;24/02/2019;Valladolid;Betis;A;0;1;0;2;Valladolid;Real Betis;4109;5879
-249;25/02/2019;Girona;Sociedad;D;0;0;0;0;;Real Sociedad;100;6436
+244;23/02/2019;Sevilla;Barcelona;A;2;1;2;4;Sevilla;Barcelona;9335;15917
+245;24/02/2019;Ath Madrid;Villarreal;H;1;0;2;0;AtléticoMadrid;Villarreal;10169;7282
+246;24/02/2019;Leganes;Valencia;D;0;1;1;1;;Valencia;100;12990
+247;24/02/2019;Levante;Real Madrid;A;0;1;1;2;Levante;RealMadrid;5198;11475
+248;24/02/2019;Valladolid;Betis;A;0;1;0;2;RealValladolid;;4109;100
+249;25/02/2019;Girona;Sociedad;D;0;0;0;0;;RealSociedad;100;6436
 250;01/03/2019;Vallecano;Girona;A;0;1;0;2;;;100;100
-251;02/03/2019;Espanol;Valladolid;H;1;1;3;1;;Valladolid;100;4109
-252;02/03/2019;Huesca;Sevilla;H;1;0;2;1;;Sevilla FC;100;9335
-253;02/03/2019;Real Madrid;Barcelona;A;0;1;0;1;Real Madrid;;11475;100
+251;02/03/2019;Espanol;Valladolid;H;1;1;3;1;Espanyol;RealValladolid;6830;4109
+252;02/03/2019;Huesca;Sevilla;H;1;0;2;1;;Sevilla;100;9335
+253;02/03/2019;Real Madrid;Barcelona;A;0;1;0;1;RealMadrid;Barcelona;11475;15917
 254;02/03/2019;Villarreal;Alaves;A;0;0;1;2;Villarreal;;7282;100
-255;03/03/2019;Betis;Getafe;A;0;2;1;2;Real Betis;Getafe;5879;8931
-256;03/03/2019;Eibar;Celta;H;0;0;1;0;Eibar;Celta;4455;3366
-257;03/03/2019;Sociedad;Ath Madrid;A;0;2;0;2;Real Sociedad;Real Madrid;6436;11475
-258;03/03/2019;Valencia;Ath Bilbao;H;0;0;2;0;;;100;100
+255;03/03/2019;Betis;Getafe;A;0;2;1;2;;Getafe;100;8931
+256;03/03/2019;Eibar;Celta;H;0;0;1;0;Eibar;CeltadeVigo;4455;3366
+257;03/03/2019;Sociedad;Ath Madrid;A;0;2;0;2;RealSociedad;AtléticoMadrid;6436;10169
+258;03/03/2019;Valencia;Ath Bilbao;H;0;0;2;0;Valencia;AthleticClub;12990;6881
 259;04/03/2019;Leganes;Levante;H;1;0;1;0;;Levante;100;5198
-260;08/03/2019;Ath Bilbao;Espanol;D;0;1;1;1;;;100;100
+260;08/03/2019;Ath Bilbao;Espanol;D;0;1;1;1;AthleticClub;Espanyol;6881;6830
 261;09/03/2019;Alaves;Eibar;D;0;0;1;1;;Eibar;100;4455
-262;09/03/2019;Ath Madrid;Leganes;H;0;0;1;0;Real Madrid;;11475;100
-263;09/03/2019;Barcelona;Vallecano;H;1;1;3;1;;;100;100
+262;09/03/2019;Ath Madrid;Leganes;H;0;0;1;0;AtléticoMadrid;;10169;100
+263;09/03/2019;Barcelona;Vallecano;H;1;1;3;1;Barcelona;;15917;100
 264;09/03/2019;Getafe;Huesca;H;0;1;2;1;Getafe;;8931;100
-265;10/03/2019;Celta;Betis;A;0;0;0;1;Celta;Real Betis;3366;5879
-266;10/03/2019;Girona;Valencia;A;1;1;2;3;;;100;100
+265;10/03/2019;Celta;Betis;A;0;0;0;1;CeltadeVigo;;3366;100
+266;10/03/2019;Girona;Valencia;A;1;1;2;3;;Valencia;100;12990
 267;10/03/2019;Levante;Villarreal;A;0;0;0;2;Levante;Villarreal;5198;7282
-268;10/03/2019;Sevilla;Sociedad;H;1;1;5;2;Sevilla FC;Real Sociedad;9335;6436
-269;10/03/2019;Valladolid;Real Madrid;A;1;1;1;4;Valladolid;Real Madrid;4109;11475
-270;15/03/2019;Sociedad;Levante;D;1;0;1;1;Real Sociedad;Levante;6436;5198
-271;16/03/2019;Ath Bilbao;Ath Madrid;H;0;0;2;0;;Real Madrid;100;11475
+268;10/03/2019;Sevilla;Sociedad;H;1;1;5;2;Sevilla;RealSociedad;9335;6436
+269;10/03/2019;Valladolid;Real Madrid;A;1;1;1;4;RealValladolid;RealMadrid;4109;11475
+270;15/03/2019;Sociedad;Levante;D;1;0;1;1;RealSociedad;Levante;6436;5198
+271;16/03/2019;Ath Bilbao;Ath Madrid;H;0;0;2;0;AthleticClub;AtléticoMadrid;6881;10169
 272;16/03/2019;Huesca;Alaves;A;1;1;1;3;;;100;100
 273;16/03/2019;Leganes;Girona;A;0;2;0;2;;;100;100
-274;16/03/2019;Real Madrid;Celta;H;0;0;2;0;Real Madrid;Celta;11475;3366
-275;17/03/2019;Betis;Barcelona;A;0;2;1;4;Real Betis;;5879;100
-276;17/03/2019;Eibar;Valladolid;A;0;0;1;2;Eibar;Valladolid;4455;4109
-277;17/03/2019;Espanol;Sevilla;A;0;0;0;1;;Sevilla FC;100;9335
-278;17/03/2019;Valencia;Getafe;D;0;0;0;0;;Getafe;100;8931
+274;16/03/2019;Real Madrid;Celta;H;0;0;2;0;RealMadrid;CeltadeVigo;11475;3366
+275;17/03/2019;Betis;Barcelona;A;0;2;1;4;;Barcelona;100;15917
+276;17/03/2019;Eibar;Valladolid;A;0;0;1;2;Eibar;RealValladolid;4455;4109
+277;17/03/2019;Espanol;Sevilla;A;0;0;0;1;Espanyol;Sevilla;6830;9335
+278;17/03/2019;Valencia;Getafe;D;0;0;0;0;Valencia;Getafe;12990;8931
 279;17/03/2019;Villarreal;Vallecano;H;0;1;3;1;Villarreal;;7282;100
-280;29/03/2019;Girona;Ath Bilbao;A;1;0;1;2;;;100;100
-281;30/03/2019;Alaves;Ath Madrid;A;0;2;0;4;;Real Madrid;100;11475
-282;30/03/2019;Barcelona;Espanol;H;0;0;2;0;;;100;100
-283;30/03/2019;Celta;Villarreal;H;0;2;3;2;Celta;Villarreal;3366;7282
+280;29/03/2019;Girona;Ath Bilbao;A;1;0;1;2;;AthleticClub;100;6881
+281;30/03/2019;Alaves;Ath Madrid;A;0;2;0;4;;AtléticoMadrid;100;10169
+282;30/03/2019;Barcelona;Espanol;H;0;0;2;0;Barcelona;Espanyol;15917;6830
+283;30/03/2019;Celta;Villarreal;H;0;2;3;2;CeltadeVigo;Villarreal;3366;7282
 284;30/03/2019;Getafe;Leganes;A;0;0;0;2;Getafe;;8931;100
 285;31/03/2019;Levante;Eibar;D;2;1;2;2;Levante;Eibar;5198;4455
-286;31/03/2019;Real Madrid;Huesca;H;1;1;3;2;Real Madrid;;11475;100
-287;31/03/2019;Sevilla;Valencia;A;0;1;0;1;Sevilla FC;;9335;100
-288;31/03/2019;Valladolid;Sociedad;D;1;0;1;1;Valladolid;Real Sociedad;4109;6436
-289;31/03/2019;Vallecano;Betis;D;1;0;1;1;;Real Betis;100;5879
-290;02/04/2019;Ath Madrid;Girona;H;0;0;2;0;Real Madrid;;11475;100
-291;02/04/2019;Espanol;Getafe;D;0;0;1;1;;Getafe;100;8931
-292;02/04/2019;Villarreal;Barcelona;D;1;2;4;4;Villarreal;;7282;100
-293;03/04/2019;Ath Bilbao;Levante;H;2;0;3;2;;Levante;100;5198
+286;31/03/2019;Real Madrid;Huesca;H;1;1;3;2;RealMadrid;;11475;100
+287;31/03/2019;Sevilla;Valencia;A;0;1;0;1;Sevilla;Valencia;9335;12990
+288;31/03/2019;Valladolid;Sociedad;D;1;0;1;1;RealValladolid;RealSociedad;4109;6436
+289;31/03/2019;Vallecano;Betis;D;1;0;1;1;;;100;100
+290;02/04/2019;Ath Madrid;Girona;H;0;0;2;0;AtléticoMadrid;;10169;100
+291;02/04/2019;Espanol;Getafe;D;0;0;1;1;Espanyol;Getafe;6830;8931
+292;02/04/2019;Villarreal;Barcelona;D;1;2;4;4;Villarreal;Barcelona;7282;15917
+293;03/04/2019;Ath Bilbao;Levante;H;2;0;3;2;AthleticClub;Levante;6881;5198
 294;03/04/2019;Eibar;Vallecano;H;0;1;2;1;Eibar;;4455;100
-295;03/04/2019;Huesca;Celta;D;0;1;3;3;;Celta;100;3366
-296;03/04/2019;Valencia;Real Madrid;H;1;0;2;1;;Real Madrid;100;11475
-297;04/04/2019;Leganes;Valladolid;H;0;0;1;0;;Valladolid;100;4109
-298;04/04/2019;Sevilla;Alaves;H;1;0;2;0;Sevilla FC;;9335;100
-299;04/04/2019;Sociedad;Betis;H;1;0;2;1;Real Sociedad;Real Betis;6436;5879
-300;06/04/2019;Barcelona;Ath Madrid;H;0;0;2;0;;Real Madrid;100;11475
-301;06/04/2019;Girona;Espanol;A;0;0;1;2;;;100;100
-302;06/04/2019;Real Madrid;Eibar;H;0;1;2;1;Real Madrid;Eibar;11475;4455
-303;06/04/2019;Vallecano;Valencia;H;1;0;2;0;;;100;100
+295;03/04/2019;Huesca;Celta;D;0;1;3;3;;CeltadeVigo;100;3366
+296;03/04/2019;Valencia;Real Madrid;H;1;0;2;1;Valencia;RealMadrid;12990;11475
+297;04/04/2019;Leganes;Valladolid;H;0;0;1;0;;RealValladolid;100;4109
+298;04/04/2019;Sevilla;Alaves;H;1;0;2;0;Sevilla;;9335;100
+299;04/04/2019;Sociedad;Betis;H;1;0;2;1;RealSociedad;;6436;100
+300;06/04/2019;Barcelona;Ath Madrid;H;0;0;2;0;Barcelona;AtléticoMadrid;15917;10169
+301;06/04/2019;Girona;Espanol;A;0;0;1;2;;Espanyol;100;6830
+302;06/04/2019;Real Madrid;Eibar;H;0;1;2;1;RealMadrid;Eibar;11475;4455
+303;06/04/2019;Vallecano;Valencia;H;1;0;2;0;;Valencia;100;12990
 304;07/04/2019;Alaves;Leganes;D;1;0;1;1;;;100;100
-305;07/04/2019;Betis;Villarreal;H;1;1;2;1;Real Betis;Villarreal;5879;7282
-306;07/04/2019;Celta;Sociedad;H;0;1;3;1;Celta;Real Sociedad;3366;6436
-307;07/04/2019;Getafe;Ath Bilbao;H;0;0;1;0;Getafe;;8931;100
+305;07/04/2019;Betis;Villarreal;H;1;1;2;1;;Villarreal;100;7282
+306;07/04/2019;Celta;Sociedad;H;0;1;3;1;CeltadeVigo;RealSociedad;3366;6436
+307;07/04/2019;Getafe;Ath Bilbao;H;0;0;1;0;Getafe;AthleticClub;8931;6881
 308;07/04/2019;Levante;Huesca;D;1;0;2;2;Levante;;5198;100
-309;07/04/2019;Valladolid;Sevilla;A;0;0;0;2;Valladolid;Sevilla FC;4109;9335
-310;13/04/2019;Ath Madrid;Celta;H;1;0;2;0;Real Madrid;Celta;11475;3366
-311;13/04/2019;Espanol;Alaves;H;1;0;2;1;;;100;100
-312;13/04/2019;Huesca;Barcelona;D;0;0;0;0;;;100;100
-313;13/04/2019;Sevilla;Betis;H;1;0;3;2;Sevilla FC;Real Betis;9335;5879
-314;14/04/2019;Ath Bilbao;Vallecano;H;1;1;3;2;;;100;100
+309;07/04/2019;Valladolid;Sevilla;A;0;0;0;2;RealValladolid;Sevilla;4109;9335
+310;13/04/2019;Ath Madrid;Celta;H;1;0;2;0;AtléticoMadrid;CeltadeVigo;10169;3366
+311;13/04/2019;Espanol;Alaves;H;1;0;2;1;Espanyol;;6830;100
+312;13/04/2019;Huesca;Barcelona;D;0;0;0;0;;Barcelona;100;15917
+313;13/04/2019;Sevilla;Betis;H;1;0;3;2;Sevilla;;9335;100
+314;14/04/2019;Ath Bilbao;Vallecano;H;1;1;3;2;AthleticClub;;6881;100
 315;14/04/2019;Girona;Villarreal;A;0;1;0;1;;Villarreal;100;7282
-316;14/04/2019;Sociedad;Eibar;D;1;0;1;1;Real Sociedad;Eibar;6436;4455
-317;14/04/2019;Valencia;Levante;H;1;0;3;1;;Levante;100;5198
-318;14/04/2019;Valladolid;Getafe;D;1;1;2;2;Valladolid;Getafe;4109;8931
-319;15/04/2019;Leganes;Real Madrid;D;1;0;1;1;;Real Madrid;100;11475
-320;19/04/2019;Alaves;Valladolid;D;2;1;2;2;;Valladolid;100;4109
-321;20/04/2019;Barcelona;Sociedad;H;1;0;2;1;;Real Sociedad;100;6436
-322;20/04/2019;Celta;Girona;H;1;0;2;1;Celta;;3366;100
-323;20/04/2019;Eibar;Ath Madrid;A;0;0;0;1;Eibar;Real Madrid;4455;11475
+316;14/04/2019;Sociedad;Eibar;D;1;0;1;1;RealSociedad;Eibar;6436;4455
+317;14/04/2019;Valencia;Levante;H;1;0;3;1;Valencia;Levante;12990;5198
+318;14/04/2019;Valladolid;Getafe;D;1;1;2;2;RealValladolid;Getafe;4109;8931
+319;15/04/2019;Leganes;Real Madrid;D;1;0;1;1;;RealMadrid;100;11475
+320;19/04/2019;Alaves;Valladolid;D;2;1;2;2;;RealValladolid;100;4109
+321;20/04/2019;Barcelona;Sociedad;H;1;0;2;1;Barcelona;RealSociedad;15917;6436
+322;20/04/2019;Celta;Girona;H;1;0;2;1;CeltadeVigo;;3366;100
+323;20/04/2019;Eibar;Ath Madrid;A;0;0;0;1;Eibar;AtléticoMadrid;4455;10169
 324;20/04/2019;Vallecano;Huesca;D;0;0;0;0;;;100;100
-325;21/04/2019;Betis;Valencia;A;0;1;1;2;Real Betis;;5879;100
-326;21/04/2019;Getafe;Sevilla;H;2;0;3;0;Getafe;Sevilla FC;8931;9335
-327;21/04/2019;Levante;Espanol;D;0;1;2;2;Levante;;5198;100
-328;21/04/2019;Real Madrid;Ath Bilbao;H;0;0;3;0;Real Madrid;;11475;100
+325;21/04/2019;Betis;Valencia;A;0;1;1;2;;Valencia;100;12990
+326;21/04/2019;Getafe;Sevilla;H;2;0;3;0;Getafe;Sevilla;8931;9335
+327;21/04/2019;Levante;Espanol;D;0;1;2;2;Levante;Espanyol;5198;6830
+328;21/04/2019;Real Madrid;Ath Bilbao;H;0;0;3;0;RealMadrid;AthleticClub;11475;6881
 329;21/04/2019;Villarreal;Leganes;H;0;0;2;1;Villarreal;;7282;100
-330;23/04/2019;Alaves;Barcelona;A;0;0;0;2;;;100;100
+330;23/04/2019;Alaves;Barcelona;A;0;0;0;2;;Barcelona;100;15917
 331;23/04/2019;Huesca;Eibar;H;0;0;2;0;;Eibar;100;4455
-332;23/04/2019;Valladolid;Girona;H;0;0;1;0;Valladolid;;4109;100
-333;24/04/2019;Ath Madrid;Valencia;H;1;1;3;2;Real Madrid;;11475;100
-334;24/04/2019;Espanol;Celta;D;1;0;1;1;;Celta;100;3366
-335;24/04/2019;Leganes;Ath Bilbao;A;0;1;0;1;;;100;100
-336;24/04/2019;Levante;Betis;H;2;0;4;0;Levante;Real Betis;5198;5879
-337;25/04/2019;Getafe;Real Madrid;D;0;0;0;0;Getafe;Real Madrid;8931;11475
-338;25/04/2019;Sevilla;Vallecano;H;0;0;5;0;Sevilla FC;;9335;100
-339;25/04/2019;Sociedad;Villarreal;A;0;0;0;1;Real Sociedad;Villarreal;6436;7282
-340;27/04/2019;Ath Bilbao;Alaves;D;1;1;1;1;;;100;100
-341;27/04/2019;Ath Madrid;Valladolid;H;0;0;1;0;Real Madrid;Valladolid;11475;4109
-342;27/04/2019;Barcelona;Levante;H;0;0;1;0;;Levante;100;5198
-343;27/04/2019;Leganes;Celta;D;0;0;0;0;;Celta;100;3366
-344;28/04/2019;Girona;Sevilla;H;0;0;1;0;;Sevilla FC;100;9335
-345;28/04/2019;Sociedad;Getafe;H;1;0;2;1;Real Sociedad;Getafe;6436;8931
-346;28/04/2019;Valencia;Eibar;A;0;0;0;1;;Eibar;100;4455
-347;28/04/2019;Vallecano;Real Madrid;H;1;0;1;0;;Real Madrid;100;11475
+332;23/04/2019;Valladolid;Girona;H;0;0;1;0;RealValladolid;;4109;100
+333;24/04/2019;Ath Madrid;Valencia;H;1;1;3;2;AtléticoMadrid;Valencia;10169;12990
+334;24/04/2019;Espanol;Celta;D;1;0;1;1;Espanyol;CeltadeVigo;6830;3366
+335;24/04/2019;Leganes;Ath Bilbao;A;0;1;0;1;;AthleticClub;100;6881
+336;24/04/2019;Levante;Betis;H;2;0;4;0;Levante;;5198;100
+337;25/04/2019;Getafe;Real Madrid;D;0;0;0;0;Getafe;RealMadrid;8931;11475
+338;25/04/2019;Sevilla;Vallecano;H;0;0;5;0;Sevilla;;9335;100
+339;25/04/2019;Sociedad;Villarreal;A;0;0;0;1;RealSociedad;Villarreal;6436;7282
+340;27/04/2019;Ath Bilbao;Alaves;D;1;1;1;1;AthleticClub;;6881;100
+341;27/04/2019;Ath Madrid;Valladolid;H;0;0;1;0;AtléticoMadrid;RealValladolid;10169;4109
+342;27/04/2019;Barcelona;Levante;H;0;0;1;0;Barcelona;Levante;15917;5198
+343;27/04/2019;Leganes;Celta;D;0;0;0;0;;CeltadeVigo;100;3366
+344;28/04/2019;Girona;Sevilla;H;0;0;1;0;;Sevilla;100;9335
+345;28/04/2019;Sociedad;Getafe;H;1;0;2;1;RealSociedad;Getafe;6436;8931
+346;28/04/2019;Valencia;Eibar;A;0;0;0;1;Valencia;Eibar;12990;4455
+347;28/04/2019;Vallecano;Real Madrid;H;1;0;1;0;;RealMadrid;100;11475
 348;28/04/2019;Villarreal;Huesca;D;1;0;1;1;Villarreal;;7282;100
-349;29/04/2019;Betis;Espanol;D;0;1;1;1;Real Betis;;5879;100
-350;03/05/2019;Sevilla;Leganes;A;0;2;0;3;Sevilla FC;;9335;100
-351;04/05/2019;Alaves;Sociedad;A;0;1;0;1;;Real Sociedad;100;6436
-352;04/05/2019;Celta;Barcelona;H;0;0;2;0;Celta;;3366;100
-353;04/05/2019;Espanol;Ath Madrid;H;1;0;3;0;;Real Madrid;100;11475
+349;29/04/2019;Betis;Espanol;D;0;1;1;1;;Espanyol;100;6830
+350;03/05/2019;Sevilla;Leganes;A;0;2;0;3;Sevilla;;9335;100
+351;04/05/2019;Alaves;Sociedad;A;0;1;0;1;;RealSociedad;100;6436
+352;04/05/2019;Celta;Barcelona;H;0;0;2;0;CeltadeVigo;Barcelona;3366;15917
+353;04/05/2019;Espanol;Ath Madrid;H;1;0;3;0;Espanyol;AtléticoMadrid;6830;10169
 354;04/05/2019;Levante;Vallecano;H;2;0;4;1;Levante;;5198;100
-355;05/05/2019;Eibar;Betis;H;1;0;1;0;Eibar;Real Betis;4455;5879
+355;05/05/2019;Eibar;Betis;H;1;0;1;0;Eibar;;4455;100
 356;05/05/2019;Getafe;Girona;H;1;0;2;0;Getafe;;8931;100
-357;05/05/2019;Huesca;Valencia;A;0;5;2;6;;;100;100
-358;05/05/2019;Real Madrid;Villarreal;H;2;1;3;2;Real Madrid;Villarreal;11475;7282
-359;05/05/2019;Valladolid;Ath Bilbao;H;1;0;1;0;Valladolid;;4109;100
-360;12/05/2019;Ath Bilbao;Celta;H;3;0;3;1;;Celta;100;3366
-361;12/05/2019;Ath Madrid;Sevilla;D;1;0;1;1;Real Madrid;Sevilla FC;11475;9335
-362;12/05/2019;Barcelona;Getafe;H;1;0;2;0;;Getafe;100;8931
-363;12/05/2019;Betis;Huesca;H;1;0;2;1;Real Betis;;5879;100
+357;05/05/2019;Huesca;Valencia;A;0;5;2;6;;Valencia;100;12990
+358;05/05/2019;Real Madrid;Villarreal;H;2;1;3;2;RealMadrid;Villarreal;11475;7282
+359;05/05/2019;Valladolid;Ath Bilbao;H;1;0;1;0;RealValladolid;AthleticClub;4109;6881
+360;12/05/2019;Ath Bilbao;Celta;H;3;0;3;1;AthleticClub;CeltadeVigo;6881;3366
+361;12/05/2019;Ath Madrid;Sevilla;D;1;0;1;1;AtléticoMadrid;Sevilla;10169;9335
+362;12/05/2019;Barcelona;Getafe;H;1;0;2;0;Barcelona;Getafe;15917;8931
+363;12/05/2019;Betis;Huesca;H;1;0;2;1;;;100;100
 364;12/05/2019;Girona;Levante;A;0;0;1;2;;Levante;100;5198
-365;12/05/2019;Leganes;Espanol;A;0;1;0;2;;;100;100
-366;12/05/2019;Sociedad;Real Madrid;H;1;1;3;1;Real Sociedad;Real Madrid;6436;11475
-367;12/05/2019;Valencia;Alaves;H;2;1;3;1;;;100;100
-368;12/05/2019;Vallecano;Valladolid;A;0;1;1;2;;Valladolid;100;4109
+365;12/05/2019;Leganes;Espanol;A;0;1;0;2;;Espanyol;100;6830
+366;12/05/2019;Sociedad;Real Madrid;H;1;1;3;1;RealSociedad;RealMadrid;6436;11475
+367;12/05/2019;Valencia;Alaves;H;2;1;3;1;Valencia;;12990;100
+368;12/05/2019;Vallecano;Valladolid;A;0;1;1;2;;RealValladolid;100;4109
 369;12/05/2019;Villarreal;Eibar;H;0;0;1;0;Villarreal;Eibar;7282;4455
 370;18/05/2019;Alaves;Girona;H;1;0;2;1;;;100;100
-371;18/05/2019;Celta;Vallecano;D;0;1;2;2;Celta;;3366;100
-372;18/05/2019;Espanol;Sociedad;H;0;0;2;0;;Real Sociedad;100;6436
+371;18/05/2019;Celta;Vallecano;D;0;1;2;2;CeltadeVigo;;3366;100
+372;18/05/2019;Espanol;Sociedad;H;0;0;2;0;Espanyol;RealSociedad;6830;6436
 373;18/05/2019;Getafe;Villarreal;D;1;1;2;2;Getafe;Villarreal;8931;7282
 374;18/05/2019;Huesca;Leganes;H;0;1;2;1;;;100;100
-375;18/05/2019;Levante;Ath Madrid;D;2;0;2;2;Levante;Real Madrid;5198;11475
-376;18/05/2019;Sevilla;Ath Bilbao;H;1;0;2;0;Sevilla FC;;9335;100
-377;18/05/2019;Valladolid;Valencia;A;0;1;0;2;Valladolid;;4109;100
-378;19/05/2019;Eibar;Barcelona;D;2;2;2;2;Eibar;;4455;100
-379;19/05/2019;Real Madrid;Betis;A;0;0;0;2;Real Madrid;Real Betis;11475;5879
-0;10/08/2018;Marseille;Toulouse;H;1;0;4;0;Marseille;Toulouse;3818;1627
-1;11/08/2018;Angers;Nimes;A;1;1;3;4;Angers SCO;;2974;100
-2;11/08/2018;Lille;Rennes;H;1;1;3;1;Lille;Stade Rennais;4242;100
-3;11/08/2018;Montpellier;Dijon;A;1;0;1;2;Montpellier;Dijon FCO;2919;2106
+375;18/05/2019;Levante;Ath Madrid;D;2;0;2;2;Levante;AtléticoMadrid;5198;10169
+376;18/05/2019;Sevilla;Ath Bilbao;H;1;0;2;0;Sevilla;AthleticClub;9335;6881
+377;18/05/2019;Valladolid;Valencia;A;0;1;0;2;RealValladolid;Valencia;4109;12990
+378;19/05/2019;Eibar;Barcelona;D;2;2;2;2;Eibar;Barcelona;4455;15917
+379;19/05/2019;Real Madrid;Betis;A;0;0;0;2;RealMadrid;;11475;100
+0;10/08/2018;Benfica;Guimaraes;H;3;0;3;2;Benfica;;8059;100
+1;11/08/2018;Porto;Chaves;H;3;0;5;0;Porto;;7295;100
+2;11/08/2018;Setubal;Aves;H;1;0;2;0;;;100;100
+3;11/08/2018;Tondela;Belenenses;A;0;0;0;1;;;100;100
+4;12/08/2018;Feirense;Rio Ave;H;2;0;2;0;;;100;100
+5;12/08/2018;Maritimo;Santa Clara;H;0;0;1;0;;SantaFe;100;2852
+6;12/08/2018;Moreirense;Sp Lisbon;A;1;1;1;3;;;100;100
+7;12/08/2018;Sp Braga;Nacional;H;2;2;4;2;;;100;100
+8;13/08/2018;Portimonense;Boavista;A;0;0;0;2;;;100;100
+9;17/08/2018;Aves;Tondela;D;1;1;2;2;;;100;100
+10;18/08/2018;Boavista;Benfica;A;0;1;0;2;;Benfica;100;8059
+11;18/08/2018;Chaves;Portimonense;H;2;0;2;0;;;100;100
+12;18/08/2018;Sp Lisbon;Setubal;H;1;1;2;1;;;100;100
+13;19/08/2018;Belenenses;Porto;A;0;1;2;3;;Porto;100;7295
+14;19/08/2018;Nacional;Moreirense;A;0;1;1;2;;;100;100
+15;19/08/2018;Rio Ave;Maritimo;H;2;0;3;1;;;100;100
+16;19/08/2018;Santa Clara;Sp Braga;D;0;3;3;3;SantaFe;;2852;100
+17;20/08/2018;Guimaraes;Feirense;A;0;0;0;1;;;100;100
+18;24/08/2018;Maritimo;Chaves;H;0;1;2;1;;;100;100
+19;25/08/2018;Benfica;Sp Lisbon;D;0;0;1;1;Benfica;;8059;100
+20;25/08/2018;Portimonense;Santa Clara;D;0;1;2;2;;SantaFe;100;2852
+21;25/08/2018;Porto;Guimaraes;A;2;0;2;3;Porto;;7295;100
+22;26/08/2018;Feirense;Boavista;D;0;1;1;1;;;100;100
+23;26/08/2018;Setubal;Nacional;A;0;1;1;2;;;100;100
+24;26/08/2018;Sp Braga;Aves;H;0;0;3;1;;;100;100
+25;26/08/2018;Tondela;Rio Ave;D;0;1;1;1;;;100;100
+26;27/08/2018;Moreirense;Belenenses;D;0;0;1;1;;;100;100
+27;31/08/2018;Chaves;Sp Braga;A;0;1;0;1;;;100;100
+28;31/08/2018;Guimaraes;Tondela;H;1;0;1;0;;;100;100
+29;01/09/2018;Belenenses;Setubal;D;0;0;0;0;;;100;100
+30;01/09/2018;Santa Clara;Boavista;H;1;1;4;2;SantaFe;;2852;100
+31;01/09/2018;Sp Lisbon;Feirense;H;0;0;1;0;;;100;100
+32;02/09/2018;Aves;Maritimo;A;0;1;0;1;;;100;100
+33;02/09/2018;Nacional;Benfica;A;0;2;0;4;;Benfica;100;8059
+34;02/09/2018;Porto;Moreirense;H;2;0;3;0;Porto;;7295;100
+35;02/09/2018;Rio Ave;Portimonense;H;0;1;2;1;;;100;100
+36;21/09/2018;Boavista;Chaves;A;0;1;1;2;;;100;100
+37;22/09/2018;Maritimo;Belenenses;D;0;0;0;0;;;100;100
+38;22/09/2018;Santa Clara;Rio Ave;A;0;0;1;3;SantaFe;;2852;100
+39;22/09/2018;Setubal;Porto;A;0;1;0;2;;Porto;100;7295
+40;23/09/2018;Benfica;Aves;H;1;0;2;0;Benfica;;8059;100
+41;23/09/2018;Feirense;Nacional;D;0;0;0;0;;;100;100
+42;23/09/2018;Portimonense;Guimaraes;H;1;0;3;2;;;100;100
+43;23/09/2018;Tondela;Moreirense;H;1;0;2;0;;;100;100
+44;24/09/2018;Sp Braga;Sp Lisbon;H;0;0;1;0;;;100;100
+45;27/09/2018;Chaves;Benfica;D;0;1;2;2;;Benfica;100;8059
+46;28/09/2018;Porto;Tondela;H;0;0;1;0;Porto;;7295;100
+47;29/09/2018;Moreirense;Feirense;H;0;0;1;0;;;100;100
+48;29/09/2018;Rio Ave;Boavista;H;2;0;2;1;;;100;100
+49;29/09/2018;Sp Lisbon;Maritimo;H;2;0;2;0;;;100;100
+50;30/09/2018;Belenenses;Sp Braga;A;0;2;0;3;;;100;100
+51;30/09/2018;Guimaraes;Setubal;D;0;0;1;1;;;100;100
+52;30/09/2018;Nacional;Santa Clara;A;0;1;0;3;;SantaFe;100;2852
+53;01/10/2018;Aves;Portimonense;H;1;0;3;0;;;100;100
+54;05/10/2018;Feirense;Belenenses;D;0;0;0;0;;;100;100
+55;05/10/2018;Santa Clara;Chaves;H;0;0;1;0;SantaFe;;2852;100
+56;05/10/2018;Tondela;Nacional;D;0;0;1;1;;;100;100
+57;06/10/2018;Maritimo;Guimaraes;A;0;1;1;3;;;100;100
+58;06/10/2018;Setubal;Moreirense;H;1;0;3;0;;;100;100
+59;06/10/2018;Sp Braga;Rio Ave;D;1;1;1;1;;;100;100
+60;07/10/2018;Benfica;Porto;H;0;0;1;0;Benfica;Porto;8059;7295
+61;07/10/2018;Boavista;Aves;H;0;0;1;0;;;100;100
+62;07/10/2018;Portimonense;Sp Lisbon;H;2;0;4;2;;;100;100
+63;26/10/2018;Guimaraes;Sp Braga;D;1;1;1;1;;;100;100
+64;26/10/2018;Nacional;Portimonense;A;0;1;0;1;;;100;100
+65;27/10/2018;Aves;Santa Clara;A;0;2;1;2;;SantaFe;100;2852
+66;27/10/2018;Belenenses;Benfica;H;2;0;2;0;;Benfica;100;8059
+67;27/10/2018;Rio Ave;Chaves;H;0;0;1;0;;;100;100
+68;28/10/2018;Moreirense;Maritimo;H;0;0;1;0;;;100;100
+69;28/10/2018;Porto;Feirense;H;1;0;2;0;Porto;;7295;100
+70;28/10/2018;Sp Lisbon;Boavista;H;1;0;3;0;;;100;100
+71;28/10/2018;Tondela;Setubal;A;0;1;1;2;;;100;100
+72;02/11/2018;Benfica;Moreirense;A;1;3;1;3;Benfica;;8059;100
+73;03/11/2018;Boavista;Guimaraes;D;0;0;0;0;;;100;100
+74;03/11/2018;Maritimo;Porto;A;0;0;0;2;;Porto;100;7295
+75;03/11/2018;Portimonense;Belenenses;D;0;0;1;1;;;100;100
+76;04/11/2018;Feirense;Tondela;A;1;1;2;4;;;100;100
+77;04/11/2018;Santa Clara;Sp Lisbon;A;1;0;1;2;SantaFe;;2852;100
+78;04/11/2018;Sp Braga;Setubal;H;2;1;2;1;;;100;100
+79;05/11/2018;Chaves;Aves;A;0;1;1;2;;;100;100
+80;05/11/2018;Rio Ave;Nacional;D;2;1;3;3;;;100;100
+81;09/11/2018;Moreirense;Portimonense;H;1;0;2;0;;;100;100
+82;09/11/2018;Setubal;Feirense;H;1;1;2;1;;;100;100
+83;10/11/2018;Aves;Rio Ave;H;2;0;2;1;;;100;100
+84;10/11/2018;Belenenses;Boavista;D;0;0;0;0;;;100;100
+85;10/11/2018;Nacional;Maritimo;H;0;0;1;0;;;100;100
+86;10/11/2018;Porto;Sp Braga;H;0;0;1;0;Porto;;7295;100
+87;11/11/2018;Guimaraes;Santa Clara;H;1;0;2;0;;SantaFe;100;2852
+88;11/11/2018;Sp Lisbon;Chaves;H;1;0;2;1;;;100;100
+89;11/11/2018;Tondela;Benfica;A;1;1;1;3;;Benfica;100;8059
+90;30/11/2018;Santa Clara;Belenenses;A;1;1;2;3;SantaFe;;2852;100
+91;01/12/2018;Benfica;Feirense;H;0;0;4;0;Benfica;;8059;100
+92;01/12/2018;Maritimo;Setubal;A;0;0;0;1;;;100;100
+93;01/12/2018;Sp Braga;Moreirense;H;2;0;2;0;;;100;100
+94;02/12/2018;Aves;Nacional;A;1;1;2;3;;;100;100
+95;02/12/2018;Boavista;Porto;A;0;0;0;1;;Porto;100;7295
+96;02/12/2018;Chaves;Guimaraes;A;0;1;0;1;;;100;100
+97;02/12/2018;Portimonense;Tondela;H;3;1;3;2;;;100;100
+98;03/12/2018;Rio Ave;Sp Lisbon;A;1;2;1;3;;;100;100
+99;07/12/2018;Porto;Portimonense;H;1;1;4;1;Porto;;7295;100
+100;08/12/2018;Belenenses;Chaves;H;1;0;1;0;;;100;100
+101;08/12/2018;Setubal;Benfica;A;0;1;0;1;;Benfica;100;8059
+102;08/12/2018;Tondela;Sp Braga;A;0;1;0;1;;;100;100
+103;09/12/2018;Guimaraes;Rio Ave;H;2;1;3;2;;;100;100
+104;09/12/2018;Moreirense;Santa Clara;A;0;0;0;1;;SantaFe;100;2852
+105;09/12/2018;Nacional;Boavista;D;0;0;0;0;;;100;100
+106;09/12/2018;Sp Lisbon;Aves;H;2;1;4;1;;;100;100
+107;10/12/2018;Feirense;Maritimo;D;0;0;1;1;;;100;100
+108;14/12/2018;Portimonense;Setubal;H;2;0;3;1;;;100;100
+109;14/12/2018;Sp Braga;Feirense;H;2;0;4;0;;;100;100
+110;15/12/2018;Aves;Guimaraes;D;1;1;1;1;;;100;100
+111;15/12/2018;Boavista;Tondela;H;2;0;2;0;;;100;100
+112;15/12/2018;Chaves;Moreirense;A;0;0;1;2;;;100;100
+113;15/12/2018;Santa Clara;Porto;A;1;1;1;2;SantaFe;Porto;2852;7295
+114;16/12/2018;Maritimo;Benfica;A;0;1;0;1;;Benfica;100;8059
+115;16/12/2018;Rio Ave;Belenenses;D;1;0;2;2;;;100;100
+116;16/12/2018;Sp Lisbon;Nacional;H;1;2;5;2;;;100;100
+117;22/12/2018;Belenenses;Aves;H;2;2;5;2;;;100;100
+118;22/12/2018;Feirense;Portimonense;A;0;0;0;1;;;100;100
+119;22/12/2018;Moreirense;Boavista;H;2;1;2;1;;;100;100
+120;22/12/2018;Setubal;Santa Clara;A;0;1;0;2;;SantaFe;100;2852
+121;22/12/2018;Tondela;Maritimo;H;1;1;2;1;;;100;100
+122;23/12/2018;Benfica;Sp Braga;H;2;0;6;2;Benfica;;8059;100
+123;23/12/2018;Guimaraes;Sp Lisbon;H;1;0;1;0;;;100;100
+124;23/12/2018;Nacional;Chaves;H;1;0;2;0;;;100;100
+125;23/12/2018;Porto;Rio Ave;H;2;1;2;1;Porto;;7295;100
+126;02/01/2019;Boavista;Setubal;H;0;0;1;0;;;100;100
+127;02/01/2019;Nacional;Guimaraes;H;1;0;1;0;;;100;100
+128;02/01/2019;Portimonense;Benfica;H;2;0;2;0;;Benfica;100;8059
+129;02/01/2019;Rio Ave;Moreirense;A;1;0;1;2;;;100;100
+130;02/01/2019;Santa Clara;Tondela;A;0;0;1;2;SantaFe;;2852;100
+131;02/01/2019;Sp Braga;Maritimo;H;2;0;2;0;;;100;100
+132;03/01/2019;Aves;Porto;A;0;1;0;1;;Porto;100;7295
+133;03/01/2019;Chaves;Feirense;D;0;0;0;0;;;100;100
+134;03/01/2019;Sp Lisbon;Belenenses;H;0;0;2;1;;;100;100
+135;05/01/2019;Maritimo;Portimonense;H;1;0;2;1;;;100;100
+136;06/01/2019;Belenenses;Guimaraes;H;1;0;1;0;;;100;100
+137;06/01/2019;Benfica;Rio Ave;H;2;2;4;2;Benfica;;8059;100
+138;06/01/2019;Feirense;Santa Clara;D;0;1;2;2;;SantaFe;100;2852
+139;06/01/2019;Setubal;Chaves;D;0;0;0;0;;;100;100
+140;06/01/2019;Sp Braga;Boavista;H;1;0;1;0;;;100;100
+141;07/01/2019;Moreirense;Aves;H;0;0;1;0;;;100;100
+142;07/01/2019;Porto;Nacional;H;2;1;3;1;Porto;;7295;100
+143;07/01/2019;Tondela;Sp Lisbon;H;1;0;2;1;;;100;100
+144;10/01/2019;Portimonense;Sp Braga;D;1;0;1;1;;;100;100
+145;11/01/2019;Aves;Feirense;D;1;0;1;1;;;100;100
+146;11/01/2019;Guimaraes;Moreirense;H;0;0;1;0;;;100;100
+147;11/01/2019;Santa Clara;Benfica;A;0;1;0;2;SantaFe;Benfica;2852;8059
+148;12/01/2019;Boavista;Maritimo;A;0;0;0;1;;;100;100
+149;12/01/2019;Sp Lisbon;Porto;D;0;0;0;0;;Porto;100;7295
+150;13/01/2019;Chaves;Tondela;H;1;0;2;1;;;100;100
+151;13/01/2019;Nacional;Belenenses;A;0;0;0;1;;;100;100
+152;13/01/2019;Rio Ave;Setubal;D;1;0;1;1;;;100;100
+153;18/01/2019;Chaves;Porto;A;0;2;1;4;;Porto;100;7295
+154;18/01/2019;Guimaraes;Benfica;A;0;0;0;1;;Benfica;100;8059
+155;18/01/2019;Nacional;Sp Braga;A;0;0;0;3;;;100;100
+156;19/01/2019;Belenenses;Tondela;D;1;2;2;2;;;100;100
+157;19/01/2019;Santa Clara;Maritimo;A;0;1;0;1;SantaFe;;2852;100
+158;19/01/2019;Sp Lisbon;Moreirense;H;2;1;2;1;;;100;100
+159;20/01/2019;Aves;Setubal;H;1;0;2;1;;;100;100
+160;20/01/2019;Boavista;Portimonense;A;0;1;0;2;;;100;100
+161;20/01/2019;Rio Ave;Feirense;D;0;0;0;0;;;100;100
+162;28/01/2019;Feirense;Guimaraes;A;1;2;1;2;;;100;100
+163;28/01/2019;Maritimo;Rio Ave;A;0;0;0;2;;;100;100
+164;28/01/2019;Moreirense;Nacional;H;1;0;2;1;;;100;100
+165;28/01/2019;Tondela;Aves;A;0;0;0;2;;;100;100
+166;29/01/2019;Benfica;Boavista;H;2;1;5;1;Benfica;;8059;100
+167;29/01/2019;Portimonense;Chaves;A;0;1;0;1;;;100;100
+168;29/01/2019;Sp Braga;Santa Clara;H;0;0;1;0;;SantaFe;100;2852
+169;30/01/2019;Porto;Belenenses;H;2;0;3;0;Porto;;7295;100
+170;30/01/2019;Setubal;Sp Lisbon;D;1;0;1;1;;;100;100
+171;01/02/2019;Rio Ave;Tondela;D;1;1;2;2;;;100;100
+172;02/02/2019;Aves;Sp Braga;A;0;0;0;2;;;100;100
+173;02/02/2019;Boavista;Feirense;H;0;0;2;0;;;100;100
+174;02/02/2019;Chaves;Maritimo;H;0;0;1;0;;;100;100
+175;03/02/2019;Guimaraes;Porto;D;0;0;0;0;;Porto;100;7295
+176;03/02/2019;Nacional;Setubal;D;0;0;0;0;;;100;100
+177;03/02/2019;Santa Clara;Portimonense;H;1;1;2;1;SantaFe;;2852;100
+178;03/02/2019;Sp Lisbon;Benfica;A;1;2;2;4;;Benfica;100;8059
+179;04/02/2019;Belenenses;Moreirense;A;0;0;0;1;;;100;100
+180;08/02/2019;Moreirense;Porto;D;0;0;1;1;;Porto;100;7295
+181;09/02/2019;Maritimo;Aves;A;0;1;0;1;;;100;100
+182;09/02/2019;Portimonense;Rio Ave;A;0;1;0;1;;;100;100
+183;09/02/2019;Tondela;Guimaraes;H;0;0;1;0;;;100;100
+184;10/02/2019;Benfica;Nacional;H;3;0;10;0;Benfica;;8059;100
+185;10/02/2019;Boavista;Santa Clara;H;0;0;1;0;;SantaFe;100;2852
+186;10/02/2019;Feirense;Sp Lisbon;A;0;1;1;3;;;100;100
+187;10/02/2019;Sp Braga;Chaves;H;0;0;2;1;;;100;100
+188;11/02/2019;Setubal;Belenenses;D;0;0;0;0;;;100;100
+189;15/02/2019;Rio Ave;Santa Clara;A;1;1;1;2;;SantaFe;100;2852
+190;16/02/2019;Guimaraes;Portimonense;H;1;0;2;0;;;100;100
+191;16/02/2019;Nacional;Feirense;H;1;0;4;0;;;100;100
+192;16/02/2019;Porto;Setubal;H;1;0;2;0;Porto;;7295;100
+193;17/02/2019;Belenenses;Maritimo;A;0;0;0;1;;;100;100
+194;17/02/2019;Chaves;Boavista;D;1;0;1;1;;;100;100
+195;17/02/2019;Moreirense;Tondela;H;1;0;2;0;;;100;100
+196;17/02/2019;Sp Lisbon;Sp Braga;H;1;0;3;0;;;100;100
+197;18/02/2019;Aves;Benfica;A;0;2;0;3;;Benfica;100;8059
+198;22/02/2019;Sp Braga;Belenenses;A;0;1;0;2;;;100;100
+199;22/02/2019;Tondela;Porto;A;0;1;0;3;;Porto;100;7295
+200;23/02/2019;Feirense;Moreirense;A;0;2;1;3;;;100;100
+201;23/02/2019;Portimonense;Aves;D;0;1;1;1;;;100;100
+202;23/02/2019;Setubal;Guimaraes;D;0;1;1;1;;;100;100
+203;24/02/2019;Boavista;Rio Ave;H;1;0;1;0;;;100;100
+204;24/02/2019;Santa Clara;Nacional;H;0;0;2;0;SantaFe;;2852;100
+205;25/02/2019;Benfica;Chaves;H;3;0;4;0;Benfica;;8059;100
+206;25/02/2019;Maritimo;Sp Lisbon;D;0;0;0;0;;;100;100
+207;01/03/2019;Aves;Boavista;H;0;0;2;0;;;100;100
+208;02/03/2019;Moreirense;Setubal;D;1;1;1;1;;;100;100
+209;02/03/2019;Nacional;Tondela;H;1;1;3;2;;;100;100
+210;02/03/2019;Porto;Benfica;A;1;1;1;2;Porto;Benfica;7295;8059
+211;03/03/2019;Belenenses;Feirense;H;2;0;4;0;;;100;100
+212;03/03/2019;Chaves;Santa Clara;D;0;0;0;0;;SantaFe;100;2852
+213;03/03/2019;Rio Ave;Sp Braga;A;0;0;1;2;;;100;100
+214;03/03/2019;Sp Lisbon;Portimonense;H;2;1;3;1;;;100;100
+215;04/03/2019;Guimaraes;Maritimo;H;0;0;1;0;;;100;100
+216;08/03/2019;Chaves;Rio Ave;D;0;1;1;1;;;100;100
+217;09/03/2019;Boavista;Sp Lisbon;A;1;1;1;2;;;100;100
+218;09/03/2019;Maritimo;Moreirense;H;1;2;3;2;;;100;100
+219;09/03/2019;Sp Braga;Guimaraes;H;1;0;1;0;;;100;100
+220;10/03/2019;Feirense;Porto;A;1;2;1;2;;Porto;100;7295
+221;10/03/2019;Portimonense;Nacional;H;3;0;5;1;;;100;100
+222;10/03/2019;Santa Clara;Aves;D;0;0;0;0;SantaFe;;2852;100
+223;10/03/2019;Setubal;Tondela;D;0;0;0;0;;;100;100
+224;11/03/2019;Benfica;Belenenses;D;0;0;2;2;Benfica;;8059;100
+225;15/03/2019;Sp Lisbon;Santa Clara;H;0;0;1;0;;SantaFe;100;2852
+226;16/03/2019;Belenenses;Portimonense;D;0;2;2;2;;;100;100
+227;16/03/2019;Guimaraes;Boavista;H;1;0;3;1;;;100;100
+228;16/03/2019;Porto;Maritimo;H;0;0;3;0;Porto;;7295;100
+229;16/03/2019;Setubal;Sp Braga;A;0;1;0;1;;;100;100
+230;17/03/2019;Aves;Chaves;A;0;1;0;1;;;100;100
+231;17/03/2019;Moreirense;Benfica;A;0;2;0;4;;Benfica;100;8059
+232;17/03/2019;Nacional;Rio Ave;A;0;1;0;1;;;100;100
+233;17/03/2019;Tondela;Feirense;D;0;1;1;1;;;100;100
+234;29/03/2019;Portimonense;Moreirense;A;0;1;0;2;;;100;100
+235;30/03/2019;Benfica;Tondela;H;0;0;1;0;Benfica;;8059;100
+236;30/03/2019;Chaves;Sp Lisbon;A;0;1;1;3;;;100;100
+237;30/03/2019;Santa Clara;Guimaraes;H;1;0;1;0;SantaFe;;2852;100
+238;30/03/2019;Sp Braga;Porto;A;1;1;2;3;;Porto;100;7295
+239;31/03/2019;Boavista;Belenenses;H;0;0;2;0;;;100;100
+240;31/03/2019;Maritimo;Nacional;H;3;1;3;2;;;100;100
+241;31/03/2019;Rio Ave;Aves;A;0;1;0;2;;;100;100
+242;01/04/2019;Feirense;Setubal;A;0;0;0;1;;;100;100
+243;05/04/2019;Porto;Boavista;H;1;0;2;0;Porto;;7295;100
+244;06/04/2019;Belenenses;Santa Clara;D;1;1;1;1;;SantaFe;100;2852
+245;06/04/2019;Guimaraes;Chaves;H;3;0;4;0;;;100;100
+246;06/04/2019;Moreirense;Sp Braga;H;0;0;1;0;;;100;100
+247;06/04/2019;Nacional;Aves;D;0;0;0;0;;;100;100
+248;07/04/2019;Feirense;Benfica;A;1;2;1;4;;Benfica;100;8059
+249;07/04/2019;Setubal;Maritimo;H;1;0;1;0;;;100;100
+250;07/04/2019;Sp Lisbon;Rio Ave;H;2;0;3;0;;;100;100
+251;08/04/2019;Tondela;Portimonense;H;0;2;3;2;;;100;100
+252;12/04/2019;Chaves;Belenenses;D;1;1;2;2;;;100;100
+253;13/04/2019;Aves;Sp Lisbon;A;1;2;1;3;;;100;100
+254;13/04/2019;Portimonense;Porto;A;0;1;0;3;;Porto;100;7295
+255;13/04/2019;Santa Clara;Moreirense;D;1;1;1;1;SantaFe;;2852;100
+256;14/04/2019;Benfica;Setubal;H;2;1;4;2;Benfica;;8059;100
+257;14/04/2019;Boavista;Nacional;H;1;0;1;0;;;100;100
+258;14/04/2019;Maritimo;Feirense;H;2;0;2;0;;;100;100
+259;14/04/2019;Rio Ave;Guimaraes;H;1;0;2;1;;;100;100
+260;14/04/2019;Sp Braga;Tondela;H;1;0;3;0;;;100;100
+261;19/04/2019;Guimaraes;Aves;A;0;1;0;2;;;100;100
+262;19/04/2019;Nacional;Sp Lisbon;A;0;0;0;1;;;100;100
+263;19/04/2019;Setubal;Portimonense;D;0;0;1;1;;;100;100
+264;19/04/2019;Tondela;Boavista;H;1;0;1;0;;;100;100
+265;20/04/2019;Belenenses;Rio Ave;A;0;2;1;3;;;100;100
+266;20/04/2019;Feirense;Sp Braga;A;0;0;0;2;;;100;100
+267;20/04/2019;Moreirense;Chaves;A;0;0;0;1;;;100;100
+268;20/04/2019;Porto;Santa Clara;H;1;0;1;0;Porto;SantaFe;7295;2852
+269;22/04/2019;Benfica;Maritimo;H;1;0;6;0;Benfica;;8059;100
+270;26/04/2019;Rio Ave;Porto;D;0;2;2;2;;Porto;100;7295
+271;27/04/2019;Aves;Belenenses;H;0;0;3;0;;;100;100
+272;27/04/2019;Portimonense;Feirense;H;1;0;1;0;;;100;100
+273;27/04/2019;Santa Clara;Setubal;D;0;0;0;0;SantaFe;;2852;100
+274;27/04/2019;Sp Lisbon;Guimaraes;H;1;0;2;0;;;100;100
+275;28/04/2019;Boavista;Moreirense;H;1;0;3;1;;;100;100
+276;28/04/2019;Chaves;Nacional;H;2;1;4;1;;;100;100
+277;28/04/2019;Maritimo;Tondela;H;1;0;2;0;;;100;100
+278;28/04/2019;Sp Braga;Benfica;A;1;0;1;4;;Benfica;100;8059
+279;03/05/2019;Moreirense;Rio Ave;A;1;1;1;2;;;100;100
+280;04/05/2019;Benfica;Portimonense;H;0;0;5;1;Benfica;;8059;100
+281;04/05/2019;Feirense;Chaves;D;2;1;4;4;;;100;100
+282;04/05/2019;Maritimo;Sp Braga;H;0;0;1;0;;;100;100
+283;04/05/2019;Porto;Aves;H;2;0;4;0;Porto;;7295;100
+284;05/05/2019;Belenenses;Sp Lisbon;A;0;2;1;8;;;100;100
+285;05/05/2019;Guimaraes;Nacional;D;1;0;2;2;;;100;100
+286;05/05/2019;Tondela;Santa Clara;A;0;1;1;3;;SantaFe;100;2852
+287;06/05/2019;Setubal;Boavista;A;0;0;0;3;;;100;100
+288;10/05/2019;Aves;Moreirense;A;0;0;0;1;;;100;100
+289;11/05/2019;Boavista;Sp Braga;H;3;2;4;2;;;100;100
+290;11/05/2019;Portimonense;Maritimo;H;1;2;3;2;;;100;100
+291;11/05/2019;Santa Clara;Feirense;D;2;3;4;4;SantaFe;;2852;100
+292;11/05/2019;Sp Lisbon;Tondela;D;1;0;1;1;;;100;100
+293;12/05/2019;Chaves;Setubal;A;0;2;1;2;;;100;100
+294;12/05/2019;Guimaraes;Belenenses;H;0;0;5;1;;;100;100
+295;12/05/2019;Nacional;Porto;A;0;2;0;4;;Porto;100;7295
+296;12/05/2019;Rio Ave;Benfica;A;0;2;2;3;;Benfica;100;8059
+297;16/05/2019;Belenenses;Nacional;H;1;0;3;0;;;100;100
+298;17/05/2019;Sp Braga;Portimonense;H;1;0;2;0;;;100;100
+299;18/05/2019;Benfica;Santa Clara;H;3;0;4;1;Benfica;SantaFe;8059;2852
+300;18/05/2019;Feirense;Aves;H;0;1;2;1;;;100;100
+301;18/05/2019;Maritimo;Boavista;A;0;1;0;1;;;100;100
+302;18/05/2019;Porto;Sp Lisbon;H;0;0;2;1;Porto;;7295;100
+303;18/05/2019;Setubal;Rio Ave;A;0;0;1;3;;;100;100
+304;19/05/2019;Moreirense;Guimaraes;A;1;1;1;3;;;100;100
+305;19/05/2019;Tondela;Chaves;H;4;2;5;2;;;100;100
+0;18/08/2018;Chievo;Juventus;A;1;1;2;3;;Juventus;100;10265
+1;18/08/2018;Lazio;Napoli;A;1;1;1;2;Lazio;Napoli;6791;8340
+2;19/08/2018;Bologna;Spal;A;0;0;0;1;Bologna;;3840;100
+3;19/08/2018;Empoli;Cagliari;H;1;0;2;0;;Cagliari;100;3826
+4;19/08/2018;Parma;Udinese;D;1;0;2;2;Parma;Udinese;3173;3408
+5;19/08/2018;Sassuolo;Inter;H;1;0;1;0;Sassuolo;Internacional;2671;8352
+6;19/08/2018;Torino;Roma;A;0;0;0;1;Torino;Roma;4928;7686
+7;20/08/2018;Atalanta;Frosinone;H;1;0;4;0;Atalanta;;7753;100
+8;25/08/2018;Juventus;Lazio;H;1;0;2;0;Juventus;Lazio;10265;6791
+9;25/08/2018;Napoli;Milan;H;0;1;3;2;Napoli;Milan;8340;4942
+10;26/08/2018;Cagliari;Sassuolo;D;1;0;2;2;Cagliari;Sassuolo;3826;2671
+11;26/08/2018;Fiorentina;Chievo;H;2;0;6;1;Fiorentina;;3151;100
+12;26/08/2018;Frosinone;Bologna;D;0;0;0;0;;Bologna;100;3840
+13;26/08/2018;Genoa;Empoli;H;2;0;2;1;Genoa;;2173;100
+14;26/08/2018;Inter;Torino;D;2;0;2;2;Internacional;Torino;8352;4928
+15;26/08/2018;Spal;Parma;H;0;0;1;0;;Parma;100;3173
+16;26/08/2018;Udinese;Sampdoria;H;1;0;1;0;Udinese;Sampdoria;3408;3048
+17;27/08/2018;Roma;Atalanta;D;1;3;3;3;Roma;Atalanta;7686;7753
+18;31/08/2018;Milan;Roma;H;1;0;2;1;Milan;Roma;4942;7686
+19;01/09/2018;Bologna;Inter;A;0;0;0;3;Bologna;Internacional;3840;8352
+20;01/09/2018;Parma;Juventus;A;1;1;1;2;Parma;Juventus;3173;10265
+21;02/09/2018;Atalanta;Cagliari;A;0;1;0;1;Atalanta;Cagliari;7753;3826
+22;02/09/2018;Chievo;Empoli;D;0;0;0;0;;;100;100
+23;02/09/2018;Fiorentina;Udinese;H;0;0;1;0;Fiorentina;Udinese;3151;3408
+24;02/09/2018;Lazio;Frosinone;H;0;0;1;0;Lazio;;6791;100
+25;02/09/2018;Sampdoria;Napoli;H;2;0;3;0;Sampdoria;Napoli;3048;8340
+26;02/09/2018;Sassuolo;Genoa;H;4;1;5;3;Sassuolo;Genoa;2671;2173
+27;02/09/2018;Torino;Spal;H;0;0;1;0;Torino;;4928;100
+28;15/09/2018;Frosinone;Sampdoria;A;0;1;0;5;;Sampdoria;100;3048
+29;15/09/2018;Inter;Parma;A;0;0;0;1;Internacional;Parma;8352;3173
+30;15/09/2018;Napoli;Fiorentina;H;0;0;1;0;Napoli;Fiorentina;8340;3151
+31;16/09/2018;Cagliari;Milan;D;1;0;1;1;Cagliari;Milan;3826;4942
+32;16/09/2018;Empoli;Lazio;A;0;0;0;1;;Lazio;100;6791
+33;16/09/2018;Genoa;Bologna;H;0;0;1;0;Genoa;Bologna;2173;3840
+34;16/09/2018;Juventus;Sassuolo;H;0;0;2;1;Juventus;Sassuolo;10265;2671
+35;16/09/2018;Roma;Chievo;D;2;0;2;2;Roma;;7686;100
+36;16/09/2018;Udinese;Torino;D;1;0;1;1;Udinese;Torino;3408;4928
+37;17/09/2018;Spal;Atalanta;H;0;0;2;0;;Atalanta;100;7753
+38;19/09/2018;Sampdoria;Fiorentina;D;0;1;1;1;Sampdoria;Fiorentina;3048;3151
+39;21/09/2018;Sassuolo;Empoli;H;1;1;3;1;Sassuolo;;2671;100
+40;22/09/2018;Fiorentina;Spal;H;2;0;3;0;Fiorentina;;3151;100
+41;22/09/2018;Parma;Cagliari;H;1;0;2;0;Parma;Cagliari;3173;3826
+42;22/09/2018;Sampdoria;Inter;A;0;0;0;1;Sampdoria;Internacional;3048;8352
+43;23/09/2018;Bologna;Roma;H;1;0;2;0;Bologna;Roma;3840;7686
+44;23/09/2018;Chievo;Udinese;A;0;0;0;2;;Udinese;100;3408
+45;23/09/2018;Frosinone;Juventus;A;0;0;0;2;;Juventus;100;10265
+46;23/09/2018;Lazio;Genoa;H;2;0;4;1;Lazio;Genoa;6791;2173
+47;23/09/2018;Milan;Atalanta;D;1;0;2;2;Milan;Atalanta;4942;7753
+48;23/09/2018;Torino;Napoli;A;0;2;1;3;Torino;Napoli;4928;8340
+49;25/09/2018;Inter;Fiorentina;H;1;0;2;1;Internacional;Fiorentina;8352;3151
+50;26/09/2018;Atalanta;Torino;D;0;0;0;0;Atalanta;Torino;7753;4928
+51;26/09/2018;Cagliari;Sampdoria;D;0;0;0;0;Cagliari;Sampdoria;3826;3048
+52;26/09/2018;Genoa;Chievo;H;1;0;2;0;Genoa;;2173;100
+53;26/09/2018;Juventus;Bologna;H;2;0;2;0;Juventus;Bologna;10265;3840
+54;26/09/2018;Napoli;Parma;H;1;0;3;0;Napoli;Parma;8340;3173
+55;26/09/2018;Roma;Frosinone;H;3;0;4;0;Roma;;7686;100
+56;26/09/2018;Udinese;Lazio;A;0;0;1;2;Udinese;Lazio;3408;6791
+57;27/09/2018;Empoli;Milan;D;0;1;1;1;;Milan;100;4942
+58;27/09/2018;Spal;Sassuolo;A;0;0;0;2;;Sassuolo;100;2671
+59;29/09/2018;Inter;Cagliari;H;1;0;2;0;Internacional;Cagliari;8352;3826
+60;29/09/2018;Juventus;Napoli;H;1;1;3;1;Juventus;Napoli;10265;8340
+61;29/09/2018;Roma;Lazio;H;1;0;3;1;Roma;Lazio;7686;6791
+62;30/09/2018;Bologna;Udinese;H;1;1;2;1;Bologna;Udinese;3840;3408
+63;30/09/2018;Chievo;Torino;A;0;0;0;1;;Torino;100;4928
+64;30/09/2018;Fiorentina;Atalanta;H;0;0;2;0;Fiorentina;Atalanta;3151;7753
+65;30/09/2018;Frosinone;Genoa;A;1;2;1;2;;Genoa;100;2173
+66;30/09/2018;Parma;Empoli;H;1;0;1;0;Parma;;3173;100
+67;30/09/2018;Sassuolo;Milan;A;0;1;1;4;Sassuolo;Milan;2671;4942
+68;01/10/2018;Sampdoria;Spal;H;1;1;2;1;Sampdoria;;3048;100
+69;05/10/2018;Torino;Frosinone;H;1;0;3;2;Torino;;4928;100
+70;06/10/2018;Cagliari;Bologna;H;1;0;2;0;Cagliari;Bologna;3826;3840
+71;06/10/2018;Empoli;Roma;A;0;1;0;2;;Roma;100;7686
+72;06/10/2018;Udinese;Juventus;A;0;2;0;2;Udinese;Juventus;3408;10265
+73;07/10/2018;Atalanta;Sampdoria;A;0;0;0;1;Atalanta;Sampdoria;7753;3048
+74;07/10/2018;Genoa;Parma;A;1;3;1;3;Genoa;Parma;2173;3173
+75;07/10/2018;Lazio;Fiorentina;H;1;0;1;0;Lazio;Fiorentina;6791;3151
+76;07/10/2018;Milan;Chievo;H;2;0;3;1;Milan;;4942;100
+77;07/10/2018;Napoli;Sassuolo;H;1;0;2;0;Napoli;Sassuolo;8340;2671
+78;07/10/2018;Spal;Inter;A;0;1;1;2;;Internacional;100;8352
+79;20/10/2018;Juventus;Genoa;D;1;0;1;1;Juventus;Genoa;10265;2173
+80;20/10/2018;Roma;Spal;A;0;1;0;2;Roma;;7686;100
+81;20/10/2018;Udinese;Napoli;A;0;1;0;3;Udinese;Napoli;3408;8340
+82;21/10/2018;Bologna;Torino;D;0;1;2;2;Bologna;Torino;3840;4928
+83;21/10/2018;Chievo;Atalanta;A;0;2;1;5;;Atalanta;100;7753
+84;21/10/2018;Fiorentina;Cagliari;D;0;0;1;1;Fiorentina;Cagliari;3151;3826
+85;21/10/2018;Frosinone;Empoli;D;1;1;3;3;;;100;100
+86;21/10/2018;Inter;Milan;H;0;0;1;0;Internacional;Milan;8352;4942
+87;21/10/2018;Parma;Lazio;A;0;0;0;2;Parma;Lazio;3173;6791
+88;22/10/2018;Sampdoria;Sassuolo;D;0;0;0;0;Sampdoria;Sassuolo;3048;2671
+89;27/10/2018;Atalanta;Parma;H;0;0;3;0;Atalanta;Parma;7753;3173
+90;27/10/2018;Empoli;Juventus;A;1;0;1;2;;Juventus;100;10265
+91;27/10/2018;Torino;Fiorentina;D;1;1;1;1;Torino;Fiorentina;4928;3151
+92;28/10/2018;Cagliari;Chievo;H;1;0;2;1;Cagliari;;3826;100
+93;28/10/2018;Genoa;Udinese;D;1;0;2;2;Genoa;Udinese;2173;3408
+94;28/10/2018;Milan;Sampdoria;H;2;2;3;2;Milan;Sampdoria;4942;3048
+95;28/10/2018;Napoli;Roma;D;0;1;1;1;Napoli;Roma;8340;7686
+96;28/10/2018;Sassuolo;Bologna;D;1;1;2;2;Sassuolo;Bologna;2671;3840
+97;28/10/2018;Spal;Frosinone;A;0;1;0;3;;;100;100
+98;29/10/2018;Lazio;Inter;A;0;2;0;3;Lazio;Internacional;6791;8352
+99;31/10/2018;Milan;Genoa;H;1;0;2;1;Milan;Genoa;4942;2173
+100;02/11/2018;Napoli;Empoli;H;2;0;5;1;Napoli;;8340;100
+101;03/11/2018;Fiorentina;Roma;D;1;0;1;1;Fiorentina;Roma;3151;7686
+102;03/11/2018;Inter;Genoa;H;2;0;5;0;Internacional;Genoa;8352;2173
+103;03/11/2018;Juventus;Cagliari;H;2;1;3;1;Juventus;Cagliari;10265;3826
+104;04/11/2018;Bologna;Atalanta;A;1;0;1;2;Bologna;Atalanta;3840;7753
+105;04/11/2018;Chievo;Sassuolo;A;0;1;0;2;;Sassuolo;100;2671
+106;04/11/2018;Lazio;Spal;H;2;1;4;1;Lazio;;6791;100
+107;04/11/2018;Parma;Frosinone;D;0;0;0;0;Parma;;3173;100
+108;04/11/2018;Sampdoria;Torino;A;0;2;1;4;Sampdoria;Torino;3048;4928
+109;04/11/2018;Udinese;Milan;A;0;0;0;1;Udinese;Milan;3408;4942
+110;09/11/2018;Frosinone;Fiorentina;D;0;0;1;1;;Fiorentina;100;3151
+111;10/11/2018;Genoa;Napoli;A;1;0;1;2;Genoa;Napoli;2173;8340
+112;10/11/2018;Spal;Cagliari;D;1;0;2;2;;Cagliari;100;3826
+113;10/11/2018;Torino;Parma;A;1;2;1;2;Torino;Parma;4928;3173
+114;11/11/2018;Atalanta;Inter;H;1;0;4;1;Atalanta;Internacional;7753;8352
+115;11/11/2018;Chievo;Bologna;D;2;1;2;2;;Bologna;100;3840
+116;11/11/2018;Empoli;Udinese;H;1;0;2;1;;Udinese;100;3408
+117;11/11/2018;Milan;Juventus;A;0;1;0;2;Milan;Juventus;4942;10265
+118;11/11/2018;Roma;Sampdoria;H;1;0;4;1;Roma;Sampdoria;7686;3048
+119;11/11/2018;Sassuolo;Lazio;D;1;1;1;1;Sassuolo;Lazio;2671;6791
+120;24/11/2018;Inter;Frosinone;H;1;0;3;0;Internacional;;8352;100
+121;24/11/2018;Juventus;Spal;H;1;0;2;0;Juventus;;10265;100
+122;24/11/2018;Udinese;Roma;H;0;0;1;0;Udinese;Roma;3408;7686
+123;25/11/2018;Bologna;Fiorentina;D;0;0;0;0;Bologna;Fiorentina;3840;3151
+124;25/11/2018;Empoli;Atalanta;H;1;2;3;2;;Atalanta;100;7753
+125;25/11/2018;Genoa;Sampdoria;D;1;1;1;1;Genoa;Sampdoria;2173;3048
+126;25/11/2018;Lazio;Milan;D;0;0;1;1;Lazio;Milan;6791;4942
+127;25/11/2018;Napoli;Chievo;D;0;0;0;0;Napoli;;8340;100
+128;25/11/2018;Parma;Sassuolo;H;2;1;2;1;Parma;Sassuolo;3173;2671
+129;26/11/2018;Cagliari;Torino;D;0;0;0;0;Cagliari;Torino;3826;4928
+130;01/12/2018;Fiorentina;Juventus;A;0;1;0;3;Fiorentina;Juventus;3151;10265
+131;01/12/2018;Sampdoria;Bologna;H;3;1;4;1;Sampdoria;Bologna;3048;3840
+132;01/12/2018;Spal;Empoli;D;1;2;2;2;;;100;100
+133;02/12/2018;Chievo;Lazio;D;1;0;1;1;;Lazio;100;6791
+134;02/12/2018;Frosinone;Cagliari;D;1;0;1;1;;Cagliari;100;3826
+135;02/12/2018;Milan;Parma;H;0;0;2;1;Milan;Parma;4942;3173
+136;02/12/2018;Roma;Inter;D;0;1;2;2;Roma;Internacional;7686;8352
+137;02/12/2018;Sassuolo;Udinese;D;0;0;0;0;Sassuolo;Udinese;2671;3408
+138;02/12/2018;Torino;Genoa;H;2;1;2;1;Torino;Genoa;4928;2173
+139;03/12/2018;Atalanta;Napoli;A;0;1;1;2;Atalanta;Napoli;7753;8340
+140;07/12/2018;Juventus;Inter;H;0;0;1;0;Juventus;Internacional;10265;8352
+141;08/12/2018;Cagliari;Roma;D;0;2;2;2;Cagliari;Roma;3826;7686
+142;08/12/2018;Lazio;Sampdoria;D;0;1;2;2;Lazio;Sampdoria;6791;3048
+143;08/12/2018;Napoli;Frosinone;H;2;0;4;0;Napoli;;8340;100
+144;09/12/2018;Empoli;Bologna;H;1;1;2;1;;Bologna;100;3840
+145;09/12/2018;Genoa;Spal;D;1;1;1;1;Genoa;;2173;100
+146;09/12/2018;Milan;Torino;D;0;0;0;0;Milan;Torino;4942;4928
+147;09/12/2018;Parma;Chievo;D;0;0;1;1;Parma;;3173;100
+148;09/12/2018;Sassuolo;Fiorentina;D;0;0;3;3;Sassuolo;Fiorentina;2671;3151
+149;09/12/2018;Udinese;Atalanta;A;1;1;1;3;Udinese;Atalanta;3408;7753
+150;15/12/2018;Inter;Udinese;H;0;0;1;0;Internacional;Udinese;8352;3408
+151;15/12/2018;Torino;Juventus;A;0;0;0;1;Torino;Juventus;4928;10265
+152;16/12/2018;Cagliari;Napoli;A;0;0;0;1;Cagliari;Napoli;3826;8340
+153;16/12/2018;Fiorentina;Empoli;H;1;1;3;1;Fiorentina;;3151;100
+154;16/12/2018;Frosinone;Sassuolo;A;0;1;0;2;;Sassuolo;100;2671
+155;16/12/2018;Roma;Genoa;H;2;2;3;2;Roma;Genoa;7686;2173
+156;16/12/2018;Sampdoria;Parma;H;0;0;2;0;Sampdoria;Parma;3048;3173
+157;16/12/2018;Spal;Chievo;D;0;0;0;0;;;100;100
+158;17/12/2018;Atalanta;Lazio;H;1;0;1;0;Atalanta;Lazio;7753;6791
+159;18/12/2018;Bologna;Milan;D;0;0;0;0;Bologna;Milan;3840;4942
+160;22/12/2018;Chievo;Inter;D;0;1;1;1;;Internacional;100;8352
+161;22/12/2018;Empoli;Sampdoria;A;1;1;2;4;;Sampdoria;100;3048
+162;22/12/2018;Genoa;Atalanta;H;1;0;3;1;Genoa;Atalanta;2173;7753
+163;22/12/2018;Juventus;Roma;H;1;0;1;0;Juventus;Roma;10265;7686
+164;22/12/2018;Lazio;Cagliari;H;2;0;3;1;Lazio;Cagliari;6791;3826
+165;22/12/2018;Milan;Fiorentina;A;0;0;0;1;Milan;Fiorentina;4942;3151
+166;22/12/2018;Napoli;Spal;H;1;0;1;0;Napoli;;8340;100
+167;22/12/2018;Parma;Bologna;D;0;0;0;0;Parma;Bologna;3173;3840
+168;22/12/2018;Sassuolo;Torino;D;0;0;1;1;Sassuolo;Torino;2671;4928
+169;22/12/2018;Udinese;Frosinone;D;1;0;1;1;Udinese;;3408;100
+170;26/12/2018;Atalanta;Juventus;D;1;1;2;2;Atalanta;Juventus;7753;10265
+171;26/12/2018;Bologna;Lazio;A;0;1;0;2;Bologna;Lazio;3840;6791
+172;26/12/2018;Cagliari;Genoa;H;1;0;1;0;Cagliari;Genoa;3826;2173
+173;26/12/2018;Fiorentina;Parma;A;0;1;0;1;Fiorentina;Parma;3151;3173
+174;26/12/2018;Frosinone;Milan;D;0;0;0;0;;Milan;100;4942
+175;26/12/2018;Inter;Napoli;H;0;0;1;0;Internacional;Napoli;8352;8340
+176;26/12/2018;Roma;Sassuolo;H;2;0;3;1;Roma;Sassuolo;7686;2671
+177;26/12/2018;Sampdoria;Chievo;H;0;0;2;0;Sampdoria;;3048;100
+178;26/12/2018;Spal;Udinese;D;0;0;0;0;;Udinese;100;3408
+179;26/12/2018;Torino;Empoli;H;1;0;3;0;Torino;;4928;100
+180;29/12/2018;Chievo;Frosinone;H;0;0;1;0;;;100;100
+181;29/12/2018;Empoli;Inter;A;0;0;0;1;;Internacional;100;8352
+182;29/12/2018;Genoa;Fiorentina;D;0;0;0;0;Genoa;Fiorentina;2173;3151
+183;29/12/2018;Juventus;Sampdoria;H;1;1;2;1;Juventus;Sampdoria;10265;3048
+184;29/12/2018;Lazio;Torino;D;0;1;1;1;Lazio;Torino;6791;4928
+185;29/12/2018;Milan;Spal;H;1;1;2;1;Milan;;4942;100
+186;29/12/2018;Napoli;Bologna;H;1;1;3;2;Napoli;Bologna;8340;3840
+187;29/12/2018;Parma;Roma;A;0;0;0;2;Parma;Roma;3173;7686
+188;29/12/2018;Sassuolo;Atalanta;A;0;2;2;6;Sassuolo;Atalanta;2671;7753
+189;29/12/2018;Udinese;Cagliari;H;1;0;2;0;Udinese;Cagliari;3408;3826
+190;19/01/2019;Inter;Sassuolo;D;0;0;0;0;Internacional;Sassuolo;8352;2671
+191;19/01/2019;Roma;Torino;H;2;0;3;2;Roma;Torino;7686;4928
+192;19/01/2019;Udinese;Parma;A;0;1;1;2;Udinese;Parma;3408;3173
+193;20/01/2019;Cagliari;Empoli;D;1;0;2;2;Cagliari;;3826;100
+194;20/01/2019;Fiorentina;Sampdoria;D;1;1;3;3;Fiorentina;Sampdoria;3151;3048
+195;20/01/2019;Frosinone;Atalanta;A;0;2;0;5;;Atalanta;100;7753
+196;20/01/2019;Napoli;Lazio;H;2;0;2;1;Napoli;Lazio;8340;6791
+197;20/01/2019;Spal;Bologna;D;0;1;1;1;;Bologna;100;3840
+198;21/01/2019;Genoa;Milan;A;0;0;0;2;Genoa;Milan;2173;4942
+199;21/01/2019;Juventus;Chievo;H;2;0;3;0;Juventus;;10265;100
+200;26/01/2019;Milan;Napoli;D;0;0;0;0;Milan;Napoli;4942;8340
+201;26/01/2019;Sampdoria;Udinese;H;1;0;4;0;Sampdoria;Udinese;3048;3408
+202;26/01/2019;Sassuolo;Cagliari;H;2;0;3;0;Sassuolo;Cagliari;2671;3826
+203;27/01/2019;Atalanta;Roma;D;1;3;3;3;Atalanta;Roma;7753;7686
+204;27/01/2019;Bologna;Frosinone;A;0;2;0;4;Bologna;;3840;100
+205;27/01/2019;Chievo;Fiorentina;A;1;2;3;4;;Fiorentina;100;3151
+206;27/01/2019;Lazio;Juventus;A;0;0;1;2;Lazio;Juventus;6791;10265
+207;27/01/2019;Parma;Spal;A;1;0;2;3;Parma;;3173;100
+208;27/01/2019;Torino;Inter;H;1;0;1;0;Torino;Internacional;4928;8352
+209;28/01/2019;Empoli;Genoa;A;0;1;1;3;;Genoa;100;2173
+210;02/02/2019;Empoli;Chievo;D;1;2;2;2;;;100;100
+211;02/02/2019;Juventus;Parma;D;1;0;3;3;Juventus;Parma;10265;3173
+212;02/02/2019;Napoli;Sampdoria;H;2;0;3;0;Napoli;Sampdoria;8340;3048
+213;03/02/2019;Genoa;Sassuolo;D;1;1;1;1;Genoa;Sassuolo;2173;2671
+214;03/02/2019;Inter;Bologna;A;0;1;0;1;Internacional;Bologna;8352;3840
+215;03/02/2019;Roma;Milan;D;0;1;1;1;Roma;Milan;7686;4942
+216;03/02/2019;Spal;Torino;D;0;0;0;0;;Torino;100;4928
+217;03/02/2019;Udinese;Fiorentina;D;0;0;1;1;Udinese;Fiorentina;3408;3151
+218;04/02/2019;Cagliari;Atalanta;A;0;0;0;1;Cagliari;Atalanta;3826;7753
+219;04/02/2019;Frosinone;Lazio;A;0;1;0;1;;Lazio;100;6791
+220;07/02/2019;Lazio;Empoli;H;1;0;1;0;Lazio;;6791;100
+221;08/02/2019;Chievo;Roma;A;0;2;0;3;;Roma;100;7686
+222;09/02/2019;Fiorentina;Napoli;D;0;0;0;0;Fiorentina;Napoli;3151;8340
+223;09/02/2019;Parma;Inter;A;0;0;0;1;Parma;Internacional;3173;8352
+224;10/02/2019;Atalanta;Spal;H;0;1;2;1;Atalanta;;7753;100
+225;10/02/2019;Bologna;Genoa;D;1;1;1;1;Bologna;Genoa;3840;2173
+226;10/02/2019;Milan;Cagliari;H;2;0;3;0;Milan;Cagliari;4942;3826
+227;10/02/2019;Sampdoria;Frosinone;A;0;1;0;1;Sampdoria;;3048;100
+228;10/02/2019;Sassuolo;Juventus;A;0;1;0;3;Sassuolo;Juventus;2671;10265
+229;10/02/2019;Torino;Udinese;H;1;0;1;0;Torino;Udinese;4928;3408
+230;15/02/2019;Juventus;Frosinone;H;2;0;3;0;Juventus;;10265;100
+231;16/02/2019;Atalanta;Milan;A;1;1;1;3;Atalanta;Milan;7753;4942
+232;16/02/2019;Cagliari;Parma;H;0;1;2;1;Cagliari;Parma;3826;3173
+233;17/02/2019;Empoli;Sassuolo;H;2;0;3;0;;Sassuolo;100;2671
+234;17/02/2019;Genoa;Lazio;H;0;1;2;1;Genoa;Lazio;2173;6791
+235;17/02/2019;Inter;Sampdoria;H;0;0;2;1;Internacional;Sampdoria;8352;3048
+236;17/02/2019;Napoli;Torino;D;0;0;0;0;Napoli;Torino;8340;4928
+237;17/02/2019;Spal;Fiorentina;A;1;1;1;4;;Fiorentina;100;3151
+238;17/02/2019;Udinese;Chievo;H;0;0;1;0;Udinese;;3408;100
+239;18/02/2019;Roma;Bologna;H;0;0;2;1;Roma;Bologna;7686;3840
+240;22/02/2019;Milan;Empoli;H;0;0;3;0;Milan;;4942;100
+241;23/02/2019;Frosinone;Roma;A;1;2;2;3;;Roma;100;7686
+242;23/02/2019;Torino;Atalanta;H;1;0;2;0;Torino;Atalanta;4928;7753
+243;24/02/2019;Bologna;Juventus;A;0;0;0;1;Bologna;Juventus;3840;10265
+244;24/02/2019;Chievo;Genoa;D;0;0;0;0;;Genoa;100;2173
+245;24/02/2019;Fiorentina;Inter;D;1;2;3;3;Fiorentina;Internacional;3151;8352
+246;24/02/2019;Parma;Napoli;A;0;2;0;4;Parma;Napoli;3173;8340
+247;24/02/2019;Sampdoria;Cagliari;H;0;0;1;0;Sampdoria;Cagliari;3048;3826
+248;24/02/2019;Sassuolo;Spal;D;1;0;1;1;Sassuolo;;2671;100
+249;01/03/2019;Cagliari;Inter;H;2;1;2;1;Cagliari;Internacional;3826;8352
+250;02/03/2019;Empoli;Parma;D;1;2;3;3;;Parma;100;3173
+251;02/03/2019;Lazio;Roma;H;1;0;3;0;Lazio;Roma;6791;7686
+252;02/03/2019;Milan;Sassuolo;H;1;0;1;0;Milan;Sassuolo;4942;2671
+253;03/03/2019;Atalanta;Fiorentina;H;2;1;3;1;Atalanta;Fiorentina;7753;3151
+254;03/03/2019;Genoa;Frosinone;D;0;0;0;0;Genoa;;2173;100
+255;03/03/2019;Napoli;Juventus;A;0;2;1;2;Napoli;Juventus;8340;10265
+256;03/03/2019;Spal;Sampdoria;A;0;2;1;2;;Sampdoria;100;3048
+257;03/03/2019;Torino;Chievo;H;0;0;3;0;Torino;;4928;100
+258;03/03/2019;Udinese;Bologna;H;1;1;2;1;Udinese;Bologna;3408;3840
+259;08/03/2019;Juventus;Udinese;H;2;0;4;1;Juventus;Udinese;10265;3408
+260;09/03/2019;Chievo;Milan;A;1;1;1;2;;Milan;100;4942
+261;09/03/2019;Parma;Genoa;H;0;0;1;0;Parma;Genoa;3173;2173
+262;10/03/2019;Bologna;Cagliari;H;1;0;2;0;Bologna;Cagliari;3840;3826
+263;10/03/2019;Fiorentina;Lazio;D;0;1;1;1;Fiorentina;Lazio;3151;6791
+264;10/03/2019;Frosinone;Torino;A;1;0;1;2;;Torino;100;4928
+265;10/03/2019;Inter;Spal;H;0;0;2;0;Internacional;;8352;100
+266;10/03/2019;Sampdoria;Atalanta;A;0;0;1;2;Sampdoria;Atalanta;3048;7753
+267;10/03/2019;Sassuolo;Napoli;D;0;0;1;1;Sassuolo;Napoli;2671;8340
+268;11/03/2019;Roma;Empoli;H;2;1;2;1;Roma;;7686;100
+269;15/03/2019;Cagliari;Fiorentina;H;0;0;2;1;Cagliari;Fiorentina;3826;3151
+270;16/03/2019;Sassuolo;Sampdoria;A;1;3;3;5;Sassuolo;Sampdoria;2671;3048
+271;16/03/2019;Spal;Roma;H;1;0;2;1;;Roma;100;7686
+272;16/03/2019;Torino;Bologna;A;1;2;2;3;Torino;Bologna;4928;3840
+273;17/03/2019;Atalanta;Chievo;D;0;1;1;1;Atalanta;;7753;100
+274;17/03/2019;Empoli;Frosinone;H;2;0;2;1;;;100;100
+275;17/03/2019;Genoa;Juventus;H;0;0;2;0;Genoa;Juventus;2173;10265
+276;17/03/2019;Lazio;Parma;H;4;0;4;1;Lazio;Parma;6791;3173
+277;17/03/2019;Milan;Inter;A;0;1;2;3;Milan;Internacional;4942;8352
+278;17/03/2019;Napoli;Udinese;H;2;2;4;2;Napoli;Udinese;8340;3408
+279;29/03/2019;Chievo;Cagliari;A;0;3;0;3;;Cagliari;100;3826
+280;30/03/2019;Juventus;Empoli;H;0;0;1;0;Juventus;;10265;100
+281;30/03/2019;Sampdoria;Milan;H;1;0;1;0;Sampdoria;Milan;3048;4942
+282;30/03/2019;Udinese;Genoa;H;1;0;2;0;Udinese;Genoa;3408;2173
+283;31/03/2019;Bologna;Sassuolo;H;0;0;2;1;Bologna;Sassuolo;3840;2671
+284;31/03/2019;Fiorentina;Torino;D;1;1;1;1;Fiorentina;Torino;3151;4928
+285;31/03/2019;Frosinone;Spal;A;0;1;0;1;;;100;100
+286;31/03/2019;Inter;Lazio;A;0;1;0;1;Internacional;Lazio;8352;6791
+287;31/03/2019;Parma;Atalanta;A;1;1;1;3;Parma;Atalanta;3173;7753
+288;31/03/2019;Roma;Napoli;A;1;1;1;4;Roma;Napoli;7686;8340
+289;02/04/2019;Cagliari;Juventus;A;0;1;0;2;Cagliari;Juventus;3826;10265
+290;02/04/2019;Milan;Udinese;D;1;0;1;1;Milan;Udinese;4942;3408
+291;03/04/2019;Empoli;Napoli;H;1;1;2;1;;Napoli;100;8340
+292;03/04/2019;Frosinone;Parma;H;2;1;3;2;;Parma;100;3173
+293;03/04/2019;Genoa;Inter;A;0;2;0;4;Genoa;Internacional;2173;8352
+294;03/04/2019;Roma;Fiorentina;D;1;1;2;2;Roma;Fiorentina;7686;3151
+295;03/04/2019;Spal;Lazio;H;0;0;1;0;;Lazio;100;6791
+296;03/04/2019;Torino;Sampdoria;H;2;0;2;1;Torino;Sampdoria;4928;3048
+297;04/04/2019;Atalanta;Bologna;H;4;0;4;1;Atalanta;Bologna;7753;3840
+298;04/04/2019;Sassuolo;Chievo;H;2;0;4;0;Sassuolo;;2671;100
+299;06/04/2019;Juventus;Milan;H;0;1;2;1;Juventus;Milan;10265;4942
+300;06/04/2019;Parma;Torino;D;0;0;0;0;Parma;Torino;3173;4928
+301;06/04/2019;Sampdoria;Roma;A;0;0;0;1;Sampdoria;Roma;3048;7686
+302;07/04/2019;Cagliari;Spal;H;1;1;2;1;Cagliari;;3826;100
+303;07/04/2019;Fiorentina;Frosinone;A;0;0;0;1;Fiorentina;;3151;100
+304;07/04/2019;Inter;Atalanta;D;0;0;0;0;Internacional;Atalanta;8352;7753
+305;07/04/2019;Lazio;Sassuolo;D;0;0;2;2;Lazio;Sassuolo;6791;2671
+306;07/04/2019;Napoli;Genoa;D;1;1;1;1;Napoli;Genoa;8340;2173
+307;07/04/2019;Udinese;Empoli;H;3;2;3;2;Udinese;;3408;100
+308;08/04/2019;Bologna;Chievo;H;0;0;3;0;Bologna;;3840;100
+309;13/04/2019;Milan;Lazio;H;0;0;1;0;Milan;Lazio;4942;6791
+310;13/04/2019;Roma;Udinese;H;0;0;1;0;Roma;Udinese;7686;3408
+311;13/04/2019;Spal;Juventus;H;0;1;2;1;;Juventus;100;10265
+312;14/04/2019;Chievo;Napoli;A;0;1;1;3;;Napoli;100;8340
+313;14/04/2019;Fiorentina;Bologna;D;0;0;0;0;Fiorentina;Bologna;3151;3840
+314;14/04/2019;Frosinone;Inter;A;0;2;1;3;;Internacional;100;8352
+315;14/04/2019;Sampdoria;Genoa;H;1;0;2;0;Sampdoria;Genoa;3048;2173
+316;14/04/2019;Sassuolo;Parma;D;0;0;0;0;Sassuolo;Parma;2671;3173
+317;14/04/2019;Torino;Cagliari;D;0;0;1;1;Torino;Cagliari;4928;3826
+318;15/04/2019;Atalanta;Empoli;D;0;0;0;0;Atalanta;;7753;100
+319;17/04/2019;Lazio;Udinese;H;2;0;2;0;Lazio;Udinese;6791;3408
+320;20/04/2019;Bologna;Sampdoria;H;0;0;3;0;Bologna;Sampdoria;3840;3048
+321;20/04/2019;Cagliari;Frosinone;H;1;0;1;0;Cagliari;;3826;100
+322;20/04/2019;Empoli;Spal;A;1;2;2;4;;;100;100
+323;20/04/2019;Genoa;Torino;A;0;0;0;1;Genoa;Torino;2173;4928
+324;20/04/2019;Inter;Roma;D;0;1;1;1;Internacional;Roma;8352;7686
+325;20/04/2019;Juventus;Fiorentina;H;1;1;2;1;Juventus;Fiorentina;10265;3151
+326;20/04/2019;Lazio;Chievo;A;0;0;1;2;Lazio;;6791;100
+327;20/04/2019;Parma;Milan;D;0;0;1;1;Parma;Milan;3173;4942
+328;20/04/2019;Udinese;Sassuolo;D;0;1;1;1;Udinese;Sassuolo;3408;2671
+329;22/04/2019;Napoli;Atalanta;A;1;0;1;2;Napoli;Atalanta;8340;7753
+330;27/04/2019;Bologna;Empoli;H;0;1;3;1;Bologna;;3840;100
+331;27/04/2019;Inter;Juventus;D;1;0;1;1;Internacional;Juventus;8352;10265
+332;27/04/2019;Roma;Cagliari;H;2;0;3;0;Roma;Cagliari;7686;3826
+333;28/04/2019;Chievo;Parma;D;0;1;1;1;;Parma;100;3173
+334;28/04/2019;Frosinone;Napoli;A;0;1;0;2;;Napoli;100;8340
+335;28/04/2019;Sampdoria;Lazio;A;0;2;1;2;Sampdoria;Lazio;3048;6791
+336;28/04/2019;Spal;Genoa;D;1;0;1;1;;Genoa;100;2173
+337;28/04/2019;Torino;Milan;H;0;0;2;0;Torino;Milan;4928;4942
+338;29/04/2019;Atalanta;Udinese;H;0;0;2;0;Atalanta;Udinese;7753;3408
+339;29/04/2019;Fiorentina;Sassuolo;A;0;1;0;1;Fiorentina;Sassuolo;3151;2671
+340;03/05/2019;Juventus;Torino;D;0;1;1;1;Juventus;Torino;10265;4928
+341;04/05/2019;Chievo;Spal;A;0;1;0;4;;;100;100
+342;04/05/2019;Udinese;Inter;D;0;0;0;0;Udinese;Internacional;3408;8352
+343;05/05/2019;Empoli;Fiorentina;H;0;0;1;0;;Fiorentina;100;3151
+344;05/05/2019;Genoa;Roma;D;0;0;1;1;Genoa;Roma;2173;7686
+345;05/05/2019;Lazio;Atalanta;A;1;1;1;3;Lazio;Atalanta;6791;7753
+346;05/05/2019;Napoli;Cagliari;H;0;0;2;1;Napoli;Cagliari;8340;3826
+347;05/05/2019;Parma;Sampdoria;D;1;2;3;3;Parma;Sampdoria;3173;3048
+348;05/05/2019;Sassuolo;Frosinone;D;0;2;2;2;Sassuolo;;2671;100
+349;06/05/2019;Milan;Bologna;H;1;0;2;1;Milan;Bologna;4942;3840
+350;11/05/2019;Atalanta;Genoa;H;0;0;2;1;Atalanta;Genoa;7753;2173
+351;11/05/2019;Cagliari;Lazio;A;0;1;1;2;Cagliari;Lazio;3826;6791
+352;11/05/2019;Fiorentina;Milan;A;0;1;0;1;Fiorentina;Milan;3151;4942
+353;12/05/2019;Frosinone;Udinese;A;0;3;1;3;;Udinese;100;3408
+354;12/05/2019;Roma;Juventus;H;0;0;2;0;Roma;Juventus;7686;10265
+355;12/05/2019;Sampdoria;Empoli;A;0;0;1;2;Sampdoria;;3048;100
+356;12/05/2019;Spal;Napoli;A;0;0;1;2;;Napoli;100;8340
+357;12/05/2019;Torino;Sassuolo;H;0;1;3;2;Torino;Sassuolo;4928;2671
+358;13/05/2019;Bologna;Parma;H;0;0;4;1;Bologna;Parma;3840;3173
+359;13/05/2019;Inter;Chievo;H;1;0;2;0;Internacional;;8352;100
+360;18/05/2019;Genoa;Cagliari;D;0;1;1;1;Genoa;Cagliari;2173;3826
+361;18/05/2019;Sassuolo;Roma;D;0;0;0;0;Sassuolo;Roma;2671;7686
+362;18/05/2019;Udinese;Spal;H;3;0;3;2;Udinese;;3408;100
+363;19/05/2019;Chievo;Sampdoria;D;0;0;0;0;;Sampdoria;100;3048
+364;19/05/2019;Empoli;Torino;H;1;0;4;1;;Torino;100;4928
+365;19/05/2019;Juventus;Atalanta;D;0;1;1;1;Juventus;Atalanta;10265;7753
+366;19/05/2019;Milan;Frosinone;H;0;0;2;0;Milan;;4942;100
+367;19/05/2019;Napoli;Inter;H;1;0;4;1;Napoli;Internacional;8340;8352
+368;19/05/2019;Parma;Fiorentina;H;0;0;1;0;Parma;Fiorentina;3173;3151
+369;20/05/2019;Lazio;Bologna;D;1;0;3;3;Lazio;Bologna;6791;3840
+370;25/05/2019;Bologna;Napoli;H;2;0;3;2;Bologna;Napoli;3840;8340
+371;25/05/2019;Frosinone;Chievo;D;0;0;0;0;;;100;100
+372;26/05/2019;Atalanta;Sassuolo;H;1;1;3;1;Atalanta;Sassuolo;7753;2671
+373;26/05/2019;Cagliari;Udinese;A;1;0;1;2;Cagliari;Udinese;3826;3408
+374;26/05/2019;Fiorentina;Genoa;D;0;0;0;0;Fiorentina;Genoa;3151;2173
+375;26/05/2019;Inter;Empoli;H;0;0;2;1;Internacional;;8352;100
+376;26/05/2019;Roma;Parma;H;1;0;2;1;Roma;Parma;7686;3173
+377;26/05/2019;Sampdoria;Juventus;H;0;0;2;0;Sampdoria;Juventus;3048;10265
+378;26/05/2019;Spal;Milan;A;1;2;2;3;;Milan;100;4942
+379;26/05/2019;Torino;Lazio;H;0;0;3;1;Torino;Lazio;4928;6791
+0;10/08/2018;Marseille;Toulouse;H;1;0;4;0;OlympiqueMarseille;Toulouse;3818;1627
+1;11/08/2018;Angers;Nimes;A;1;1;3;4;AngersSCO;;2974;100
+2;11/08/2018;Lille;Rennes;H;1;1;3;1;Lille;Rennes;4242;6085
+3;11/08/2018;Montpellier;Dijon;A;1;0;1;2;Montpellier;Dijon;2919;2106
 4;11/08/2018;Nantes;Monaco;A;0;0;1;3;Nantes;Monaco;3708;3030
-5;11/08/2018;Nice;Reims;A;0;1;0;1;Nice;Stade de Reims;2975;3339
+5;11/08/2018;Nice;Reims;A;0;1;0;1;Nice;Reims;2975;3339
 6;11/08/2018;St Etienne;Guingamp;H;1;0;2;1;Saint-Étienne;;3866;100
 7;12/08/2018;Bordeaux;Strasbourg;A;0;0;0;2;Bordeaux;Strasbourg;2611;4249
-8;12/08/2018;Lyon;Amiens;H;1;0;2;0;Olympique Lyon;Amiens SC;6005;2440
+8;12/08/2018;Lyon;Amiens;H;1;0;2;0;OlympiqueLyonnais;AmiensSC;6005;2440
 9;12/08/2018;Paris SG;Caen;H;2;0;3;0;PSG;;9395;100
-10;17/08/2018;Reims;Lyon;H;1;0;1;0;Stade de Reims;Olympique Lyon;3339;6005
-11;18/08/2018;Amiens;Montpellier;A;0;0;1;2;Amiens SC;Montpellier;2440;2919
+10;17/08/2018;Reims;Lyon;H;1;0;1;0;Reims;OlympiqueLyonnais;3339;6005
+11;18/08/2018;Amiens;Montpellier;A;0;0;1;2;AmiensSC;Montpellier;2440;2919
 12;18/08/2018;Caen;Nice;D;0;0;1;1;;Nice;100;2975
-13;18/08/2018;Dijon;Nantes;H;1;0;2;0;Dijon FCO;Nantes;2106;3708
+13;18/08/2018;Dijon;Nantes;H;1;0;2;0;Dijon;Nantes;2106;3708
 14;18/08/2018;Guingamp;Paris SG;A;1;0;1;3;;PSG;100;9395
 15;18/08/2018;Monaco;Lille;D;0;0;0;0;Monaco;Lille;3030;4242
-16;18/08/2018;Rennes;Angers;H;0;0;1;0;Stade Rennais;Angers SCO;100;2974
-17;19/08/2018;Nimes;Marseille;H;1;0;3;1;;Marseille;100;3818
+16;18/08/2018;Rennes;Angers;H;0;0;1;0;Rennes;AngersSCO;6085;2974
+17;19/08/2018;Nimes;Marseille;H;1;0;3;1;;OlympiqueMarseille;100;3818
 18;19/08/2018;Strasbourg;St Etienne;D;0;0;1;1;Strasbourg;Saint-Étienne;4249;3866
 19;19/08/2018;Toulouse;Bordeaux;H;1;0;2;1;Toulouse;Bordeaux;1627;2611
-20;24/08/2018;Lyon;Strasbourg;H;1;0;2;0;Olympique Lyon;Strasbourg;6005;4249
-21;25/08/2018;Amiens;Reims;H;1;0;4;1;Amiens SC;Stade de Reims;2440;3339
+20;24/08/2018;Lyon;Strasbourg;H;1;0;2;0;OlympiqueLyonnais;Strasbourg;6005;4249
+21;25/08/2018;Amiens;Reims;H;1;0;4;1;AmiensSC;Reims;2440;3339
 22;25/08/2018;Montpellier;St Etienne;D;0;0;0;0;Montpellier;Saint-Étienne;2919;3866
 23;25/08/2018;Nantes;Caen;D;0;1;1;1;Nantes;;3708;100
-24;25/08/2018;Nice;Dijon;A;0;0;0;4;Nice;Dijon FCO;2975;2106
-25;25/08/2018;Paris SG;Angers;H;1;1;3;1;PSG;Angers SCO;9395;2974
+24;25/08/2018;Nice;Dijon;A;0;0;0;4;Nice;Dijon;2975;2106
+25;25/08/2018;Paris SG;Angers;H;1;1;3;1;PSG;AngersSCO;9395;2974
 26;25/08/2018;Toulouse;Nimes;H;0;0;1;0;Toulouse;;1627;100
 27;26/08/2018;Bordeaux;Monaco;H;0;0;2;1;Bordeaux;Monaco;2611;3030
 28;26/08/2018;Lille;Guingamp;H;2;0;3;0;Lille;;4242;100
-29;26/08/2018;Marseille;Rennes;D;0;2;2;2;Marseille;Stade Rennais;3818;100
-30;31/08/2018;Lyon;Nice;A;0;0;0;1;Olympique Lyon;Nice;6005;2975
-31;01/09/2018;Angers;Lille;H;0;0;1;0;Angers SCO;Lille;2974;4242
-32;01/09/2018;Dijon;Caen;A;0;1;0;2;Dijon FCO;;2106;100
+29;26/08/2018;Marseille;Rennes;D;0;2;2;2;OlympiqueMarseille;Rennes;3818;6085
+30;31/08/2018;Lyon;Nice;A;0;0;0;1;OlympiqueLyonnais;Nice;6005;2975
+31;01/09/2018;Angers;Lille;H;0;0;1;0;AngersSCO;Lille;2974;4242
+32;01/09/2018;Dijon;Caen;A;0;1;0;2;Dijon;;2106;100
 33;01/09/2018;Guingamp;Toulouse;A;1;2;1;2;;Toulouse;100;1627
 34;01/09/2018;Nimes;Paris SG;A;0;2;2;4;;PSG;100;9395
-35;01/09/2018;Reims;Montpellier;A;0;0;0;1;Stade de Reims;Montpellier;3339;2919
+35;01/09/2018;Reims;Montpellier;A;0;0;0;1;Reims;Montpellier;3339;2919
 36;01/09/2018;Strasbourg;Nantes;A;1;2;2;3;Strasbourg;Nantes;4249;3708
-37;02/09/2018;Monaco;Marseille;A;0;1;2;3;Monaco;Marseille;3030;3818
-38;02/09/2018;Rennes;Bordeaux;H;2;0;2;0;Stade Rennais;Bordeaux;100;2611
-39;02/09/2018;St Etienne;Amiens;D;0;0;0;0;Saint-Étienne;Amiens SC;3866;2440
-40;14/09/2018;Nice;Rennes;H;0;0;2;1;Nice;Stade Rennais;2975;100
+37;02/09/2018;Monaco;Marseille;A;0;1;2;3;Monaco;OlympiqueMarseille;3030;3818
+38;02/09/2018;Rennes;Bordeaux;H;2;0;2;0;Rennes;Bordeaux;6085;2611
+39;02/09/2018;St Etienne;Amiens;D;0;0;0;0;Saint-Étienne;AmiensSC;3866;2440
+40;14/09/2018;Nice;Rennes;H;0;0;2;1;Nice;Rennes;2975;6085
 41;14/09/2018;Paris SG;St Etienne;H;1;0;4;0;PSG;Saint-Étienne;9395;3866
-42;15/09/2018;Amiens;Lille;A;0;1;2;3;Amiens SC;Lille;2440;4242
-43;15/09/2018;Caen;Lyon;D;0;1;2;2;;Olympique Lyon;100;6005
-44;15/09/2018;Dijon;Angers;A;1;3;1;3;Dijon FCO;Angers SCO;2106;2974
+42;15/09/2018;Amiens;Lille;A;0;1;2;3;AmiensSC;Lille;2440;4242
+43;15/09/2018;Caen;Lyon;D;0;1;2;2;;OlympiqueLyonnais;100;6005
+44;15/09/2018;Dijon;Angers;A;1;3;1;3;Dijon;AngersSCO;2106;2974
 45;15/09/2018;Montpellier;Strasbourg;D;0;0;1;1;Montpellier;Strasbourg;2919;4249
 46;15/09/2018;Toulouse;Monaco;D;0;0;1;1;Toulouse;Monaco;1627;3030
 47;16/09/2018;Bordeaux;Nimes;D;1;2;3;3;Bordeaux;;2611;100
-48;16/09/2018;Marseille;Guingamp;H;0;0;4;0;Marseille;;3818;100
-49;16/09/2018;Nantes;Reims;D;0;0;0;0;Nantes;Stade de Reims;3708;3339
+48;16/09/2018;Marseille;Guingamp;H;0;0;4;0;OlympiqueMarseille;;3818;100
+49;16/09/2018;Nantes;Reims;D;0;0;0;0;Nantes;Reims;3708;3339
 50;21/09/2018;Monaco;Nimes;D;1;1;1;1;Monaco;;3030;100
-51;22/09/2018;Angers;Toulouse;D;0;0;0;0;Angers SCO;Toulouse;2974;1627
+51;22/09/2018;Angers;Toulouse;D;0;0;0;0;AngersSCO;Toulouse;2974;1627
 52;22/09/2018;Lille;Nantes;H;1;0;2;1;Lille;Nantes;4242;3708
 53;22/09/2018;Montpellier;Nice;H;1;0;1;0;Montpellier;Nice;2919;2975
-54;22/09/2018;Reims;Dijon;D;0;0;0;0;Stade de Reims;Dijon FCO;3339;2106
+54;22/09/2018;Reims;Dijon;D;0;0;0;0;Reims;Dijon;3339;2106
 55;22/09/2018;St Etienne;Caen;H;0;1;2;1;Saint-Étienne;;3866;100
-56;22/09/2018;Strasbourg;Amiens;H;0;1;3;1;Strasbourg;Amiens SC;4249;2440
+56;22/09/2018;Strasbourg;Amiens;H;0;1;3;1;Strasbourg;AmiensSC;4249;2440
 57;23/09/2018;Guingamp;Bordeaux;A;0;0;1;3;;Bordeaux;100;2611
-58;23/09/2018;Lyon;Marseille;H;1;1;4;2;Olympique Lyon;Marseille;6005;3818
-59;23/09/2018;Rennes;Paris SG;A;1;1;1;3;Stade Rennais;PSG;100;9395
-60;25/09/2018;Monaco;Angers;A;0;1;0;1;Monaco;Angers SCO;3030;2974
+58;23/09/2018;Lyon;Marseille;H;1;1;4;2;OlympiqueLyonnais;OlympiqueMarseille;6005;3818
+59;23/09/2018;Rennes;Paris SG;A;1;1;1;3;Rennes;PSG;6085;9395
+60;25/09/2018;Monaco;Angers;A;0;1;0;1;Monaco;AngersSCO;3030;2974
 61;25/09/2018;Nantes;Nice;A;0;1;1;2;Nantes;Nice;3708;2975
 62;25/09/2018;Toulouse;St Etienne;A;0;1;2;3;Toulouse;Saint-Étienne;1627;3866
-63;26/09/2018;Amiens;Rennes;H;0;0;2;1;Amiens SC;Stade Rennais;2440;100
+63;26/09/2018;Amiens;Rennes;H;0;0;2;1;AmiensSC;Rennes;2440;6085
 64;26/09/2018;Bordeaux;Lille;H;1;0;1;0;Bordeaux;Lille;2611;4242
 65;26/09/2018;Caen;Montpellier;D;1;1;2;2;;Montpellier;100;2919
-66;26/09/2018;Dijon;Lyon;A;0;3;0;3;Dijon FCO;Olympique Lyon;2106;6005
-67;26/09/2018;Marseille;Strasbourg;H;2;1;3;2;Marseille;Strasbourg;3818;4249
+66;26/09/2018;Dijon;Lyon;A;0;3;0;3;Dijon;OlympiqueLyonnais;2106;6005
+67;26/09/2018;Marseille;Strasbourg;H;2;1;3;2;OlympiqueMarseille;Strasbourg;3818;4249
 68;26/09/2018;Nimes;Guingamp;D;0;0;0;0;;;100;100
-69;26/09/2018;Paris SG;Reims;H;3;1;4;1;PSG;Stade de Reims;9395;3339
+69;26/09/2018;Paris SG;Reims;H;3;1;4;1;PSG;Reims;9395;3339
 70;28/09/2018;St Etienne;Monaco;H;1;0;2;0;Saint-Étienne;Monaco;3866;3030
-71;29/09/2018;Angers;Guingamp;A;0;1;0;1;Angers SCO;;2974;100
-72;29/09/2018;Caen;Amiens;H;1;0;1;0;;Amiens SC;100;2440
-73;29/09/2018;Lyon;Nantes;D;1;0;1;1;Olympique Lyon;Nantes;6005;3708
+71;29/09/2018;Angers;Guingamp;A;0;1;0;1;AngersSCO;;2974;100
+72;29/09/2018;Caen;Amiens;H;1;0;1;0;;AmiensSC;100;2440
+73;29/09/2018;Lyon;Nantes;D;1;0;1;1;OlympiqueLyonnais;Nantes;6005;3708
 74;29/09/2018;Nice;Paris SG;A;0;1;0;3;Nice;PSG;2975;9395
-75;29/09/2018;Reims;Bordeaux;D;0;0;0;0;Stade de Reims;Bordeaux;3339;2611
-76;29/09/2018;Strasbourg;Dijon;H;1;0;3;0;Strasbourg;Dijon FCO;4249;2106
-77;30/09/2018;Lille;Marseille;H;0;0;3;0;Lille;Marseille;4242;3818
+75;29/09/2018;Reims;Bordeaux;D;0;0;0;0;Reims;Bordeaux;3339;2611
+76;29/09/2018;Strasbourg;Dijon;H;1;0;3;0;Strasbourg;Dijon;4249;2106
+77;30/09/2018;Lille;Marseille;H;0;0;3;0;Lille;OlympiqueMarseille;4242;3818
 78;30/09/2018;Montpellier;Nimes;H;2;0;3;0;Montpellier;;2919;100
-79;30/09/2018;Rennes;Toulouse;D;0;0;1;1;Stade Rennais;Toulouse;100;1627
+79;30/09/2018;Rennes;Toulouse;D;0;0;1;1;Rennes;Toulouse;6085;1627
 80;05/10/2018;Toulouse;Nice;D;0;1;1;1;Toulouse;Nice;1627;2975
-81;06/10/2018;Amiens;Dijon;H;1;0;1;0;Amiens SC;Dijon FCO;2440;2106
-82;06/10/2018;Angers;Strasbourg;D;0;2;2;2;Angers SCO;Strasbourg;2974;4249
+81;06/10/2018;Amiens;Dijon;H;1;0;1;0;AmiensSC;Dijon;2440;2106
+82;06/10/2018;Angers;Strasbourg;D;0;2;2;2;AngersSCO;Strasbourg;2974;4249
 83;06/10/2018;Guingamp;Montpellier;D;0;1;1;1;;Montpellier;100;2919
 84;06/10/2018;Lille;St Etienne;H;1;1;3;1;Lille;Saint-Étienne;4242;3866
-85;06/10/2018;Nimes;Reims;D;0;0;0;0;;Stade de Reims;100;3339
+85;06/10/2018;Nimes;Reims;D;0;0;0;0;;Reims;100;3339
 86;07/10/2018;Bordeaux;Nantes;H;3;0;3;0;Bordeaux;Nantes;2611;3708
-87;07/10/2018;Marseille;Caen;H;2;0;2;0;Marseille;;3818;100
-88;07/10/2018;Monaco;Rennes;A;0;1;1;2;Monaco;Stade Rennais;3030;100
-89;07/10/2018;Paris SG;Lyon;H;1;0;5;0;PSG;Olympique Lyon;9395;6005
-90;19/10/2018;Lyon;Nimes;H;1;0;2;0;Olympique Lyon;;6005;100
+87;07/10/2018;Marseille;Caen;H;2;0;2;0;OlympiqueMarseille;;3818;100
+88;07/10/2018;Monaco;Rennes;A;0;1;1;2;Monaco;Rennes;3030;6085
+89;07/10/2018;Paris SG;Lyon;H;1;0;5;0;PSG;OlympiqueLyonnais;9395;6005
+90;19/10/2018;Lyon;Nimes;H;1;0;2;0;OlympiqueLyonnais;;6005;100
 91;20/10/2018;Caen;Guingamp;D;0;0;0;0;;;100;100
-92;20/10/2018;Dijon;Lille;A;0;2;1;2;Dijon FCO;Lille;2106;4242
+92;20/10/2018;Dijon;Lille;A;0;2;1;2;Dijon;Lille;2106;4242
 93;20/10/2018;Nantes;Toulouse;H;2;0;4;0;Nantes;Toulouse;3708;1627
-94;20/10/2018;Paris SG;Amiens;H;2;0;5;0;PSG;Amiens SC;9395;2440
-95;20/10/2018;Reims;Angers;D;0;1;1;1;Stade de Reims;Angers SCO;3339;2974
+94;20/10/2018;Paris SG;Amiens;H;2;0;5;0;PSG;AmiensSC;9395;2440
+95;20/10/2018;Reims;Angers;D;0;1;1;1;Reims;AngersSCO;3339;2974
 96;20/10/2018;Strasbourg;Monaco;H;1;0;2;1;Strasbourg;Monaco;4249;3030
 97;21/10/2018;Montpellier;Bordeaux;H;1;0;2;0;Montpellier;Bordeaux;2919;2611
-98;21/10/2018;Nice;Marseille;A;0;1;0;1;Nice;Marseille;2975;3818
-99;21/10/2018;St Etienne;Rennes;D;1;1;1;1;Saint-Étienne;Stade Rennais;3866;100
+98;21/10/2018;Nice;Marseille;A;0;1;0;1;Nice;OlympiqueMarseille;2975;3818
+99;21/10/2018;St Etienne;Rennes;D;1;1;1;1;Saint-Étienne;Rennes;3866;6085
 100;26/10/2018;Nimes;St Etienne;D;0;1;1;1;;Saint-Étienne;100;3866
-101;27/10/2018;Amiens;Nantes;A;0;1;1;2;Amiens SC;Nantes;2440;3708
-102;27/10/2018;Angers;Lyon;A;0;0;1;2;Angers SCO;Olympique Lyon;2974;6005
+101;27/10/2018;Amiens;Nantes;A;0;1;1;2;AmiensSC;Nantes;2440;3708
+102;27/10/2018;Angers;Lyon;A;0;0;1;2;AngersSCO;OlympiqueLyonnais;2974;6005
 103;27/10/2018;Guingamp;Strasbourg;D;1;0;1;1;;Strasbourg;100;4249
 104;27/10/2018;Lille;Caen;H;0;0;1;0;Lille;;4242;100
-105;27/10/2018;Monaco;Dijon;D;1;1;2;2;Monaco;Dijon FCO;3030;2106
+105;27/10/2018;Monaco;Dijon;D;1;1;2;2;Monaco;Dijon;3030;2106
 106;27/10/2018;Toulouse;Montpellier;A;0;2;0;3;Toulouse;Montpellier;1627;2919
 107;28/10/2018;Bordeaux;Nice;A;0;0;0;1;Bordeaux;Nice;2611;2975
-108;28/10/2018;Marseille;Paris SG;A;0;0;0;2;Marseille;PSG;3818;9395
-109;28/10/2018;Rennes;Reims;A;0;1;0;2;Stade Rennais;Stade de Reims;100;3339
+108;28/10/2018;Marseille;Paris SG;A;0;0;0;2;OlympiqueMarseille;PSG;3818;9395
+109;28/10/2018;Rennes;Reims;A;0;1;0;2;Rennes;Reims;6085;3339
 110;02/11/2018;Paris SG;Lille;H;0;0;2;1;PSG;Lille;9395;4242
-111;03/11/2018;Caen;Rennes;A;0;0;1;2;;Stade Rennais;100;100
-112;03/11/2018;Dijon;Nimes;A;0;2;0;4;Dijon FCO;;2106;100
-113;03/11/2018;Lyon;Bordeaux;D;1;0;1;1;Olympique Lyon;Bordeaux;6005;2611
-114;03/11/2018;Nice;Amiens;H;1;0;1;0;Nice;Amiens SC;2975;2440
-115;03/11/2018;Reims;Monaco;H;1;0;1;0;Stade de Reims;Monaco;3339;3030
+111;03/11/2018;Caen;Rennes;A;0;0;1;2;;Rennes;100;6085
+112;03/11/2018;Dijon;Nimes;A;0;2;0;4;Dijon;;2106;100
+113;03/11/2018;Lyon;Bordeaux;D;1;0;1;1;OlympiqueLyonnais;Bordeaux;6005;2611
+114;03/11/2018;Nice;Amiens;H;1;0;1;0;Nice;AmiensSC;2975;2440
+115;03/11/2018;Reims;Monaco;H;1;0;1;0;Reims;Monaco;3339;3030
 116;03/11/2018;Strasbourg;Toulouse;D;0;0;1;1;Strasbourg;Toulouse;4249;1627
-117;04/11/2018;Montpellier;Marseille;H;0;0;3;0;Montpellier;Marseille;2919;3818
+117;04/11/2018;Montpellier;Marseille;H;0;0;3;0;Montpellier;OlympiqueMarseille;2919;3818
 118;04/11/2018;Nantes;Guingamp;H;1;0;5;0;Nantes;;3708;100
-119;04/11/2018;St Etienne;Angers;H;2;2;4;3;Saint-Étienne;Angers SCO;3866;2974
+119;04/11/2018;St Etienne;Angers;H;2;2;4;3;Saint-Étienne;AngersSCO;3866;2974
 120;09/11/2018;Lille;Strasbourg;D;0;0;0;0;Lille;Strasbourg;4242;4249
-121;10/11/2018;Angers;Montpellier;H;0;0;1;0;Angers SCO;Montpellier;2974;2919
-122;10/11/2018;Guingamp;Lyon;A;1;0;2;4;;Olympique Lyon;100;6005
+121;10/11/2018;Angers;Montpellier;H;0;0;1;0;AngersSCO;Montpellier;2974;2919
+122;10/11/2018;Guingamp;Lyon;A;1;0;2;4;;OlympiqueLyonnais;100;6005
 123;10/11/2018;Nimes;Nice;A;0;0;0;1;;Nice;100;2975
-124;10/11/2018;St Etienne;Reims;H;2;0;2;0;Saint-Étienne;Stade de Reims;3866;3339
-125;10/11/2018;Toulouse;Amiens;A;0;1;0;1;Toulouse;Amiens SC;1627;2440
+124;10/11/2018;St Etienne;Reims;H;2;0;2;0;Saint-Étienne;Reims;3866;3339
+125;10/11/2018;Toulouse;Amiens;A;0;1;0;1;Toulouse;AmiensSC;1627;2440
 126;11/11/2018;Bordeaux;Caen;D;0;0;0;0;Bordeaux;;2611;100
-127;11/11/2018;Marseille;Dijon;H;1;0;2;0;Marseille;Dijon FCO;3818;2106
+127;11/11/2018;Marseille;Dijon;H;1;0;2;0;OlympiqueMarseille;Dijon;3818;2106
 128;11/11/2018;Monaco;Paris SG;A;0;2;0;4;Monaco;PSG;3030;9395
-129;11/11/2018;Rennes;Nantes;D;1;1;1;1;Stade Rennais;Nantes;100;3708
-130;23/11/2018;Lyon;St Etienne;H;0;0;1;0;Olympique Lyon;Saint-Étienne;6005;3866
+129;11/11/2018;Rennes;Nantes;D;1;1;1;1;Rennes;Nantes;6085;3708
+130;23/11/2018;Lyon;St Etienne;H;0;0;1;0;OlympiqueLyonnais;Saint-Étienne;6005;3866
 131;24/11/2018;Caen;Monaco;A;0;0;0;1;;Monaco;100;3030
-132;24/11/2018;Dijon;Bordeaux;D;0;0;0;0;Dijon FCO;Bordeaux;2106;2611
-133;24/11/2018;Nantes;Angers;D;0;1;1;1;Nantes;Angers SCO;3708;2974
+132;24/11/2018;Dijon;Bordeaux;D;0;0;0;0;Dijon;Bordeaux;2106;2611
+133;24/11/2018;Nantes;Angers;D;0;1;1;1;Nantes;AngersSCO;3708;2974
 134;24/11/2018;Paris SG;Toulouse;H;1;0;1;0;PSG;Toulouse;9395;1627
-135;24/11/2018;Reims;Guingamp;H;1;0;2;1;Stade de Reims;;3339;100
+135;24/11/2018;Reims;Guingamp;H;1;0;2;1;Reims;;3339;100
 136;24/11/2018;Strasbourg;Nimes;A;0;0;0;1;Strasbourg;;4249;100
-137;25/11/2018;Amiens;Marseille;A;1;1;1;3;Amiens SC;Marseille;2440;3818
-138;25/11/2018;Montpellier;Rennes;D;1;1;2;2;Montpellier;Stade Rennais;2919;100
+137;25/11/2018;Amiens;Marseille;A;1;1;1;3;AmiensSC;OlympiqueMarseille;2440;3818
+138;25/11/2018;Montpellier;Rennes;D;1;1;2;2;Montpellier;Rennes;2919;6085
 139;25/11/2018;Nice;Lille;H;1;0;2;0;Nice;Lille;2975;4242
 140;30/11/2018;St Etienne;Nantes;H;0;0;3;0;Saint-Étienne;Nantes;3866;3708
-141;01/12/2018;Angers;Caen;D;0;0;1;1;Angers SCO;;2974;100
+141;01/12/2018;Angers;Caen;D;0;0;1;1;AngersSCO;;2974;100
 142;01/12/2018;Guingamp;Nice;D;0;0;0;0;;Nice;100;2975
-143;01/12/2018;Lille;Lyon;D;2;0;2;2;Lille;Olympique Lyon;4242;6005
+143;01/12/2018;Lille;Lyon;D;2;0;2;2;Lille;OlympiqueLyonnais;4242;6005
 144;01/12/2018;Monaco;Montpellier;A;1;0;1;2;Monaco;Montpellier;3030;2919
-145;01/12/2018;Nimes;Amiens;H;1;0;3;0;;Amiens SC;100;2440
+145;01/12/2018;Nimes;Amiens;H;1;0;3;0;;AmiensSC;100;2440
 146;02/12/2018;Bordeaux;Paris SG;D;0;1;2;2;Bordeaux;PSG;2611;9395
-147;02/12/2018;Marseille;Reims;D;0;0;0;0;Marseille;Stade de Reims;3818;3339
-148;02/12/2018;Rennes;Strasbourg;A;1;2;1;4;Stade Rennais;Strasbourg;100;4249
-149;02/12/2018;Toulouse;Dijon;D;0;1;2;2;Toulouse;Dijon FCO;1627;2106
-150;04/12/2018;Amiens;Monaco;A;0;1;0;2;Amiens SC;Monaco;2440;3030
+147;02/12/2018;Marseille;Reims;D;0;0;0;0;OlympiqueMarseille;Reims;3818;3339
+148;02/12/2018;Rennes;Strasbourg;A;1;2;1;4;Rennes;Strasbourg;6085;4249
+149;02/12/2018;Toulouse;Dijon;D;0;1;2;2;Toulouse;Dijon;1627;2106
+150;04/12/2018;Amiens;Monaco;A;0;1;0;2;AmiensSC;Monaco;2440;3030
 151;04/12/2018;Montpellier;Lille;A;0;1;0;1;Montpellier;Lille;2919;4242
-152;04/12/2018;Nice;Angers;D;0;0;0;0;Nice;Angers SCO;2975;2974
+152;04/12/2018;Nice;Angers;D;0;0;0;0;Nice;AngersSCO;2975;2974
 153;05/12/2018;Bordeaux;St Etienne;H;1;1;3;2;Bordeaux;Saint-Étienne;2611;3866
 154;05/12/2018;Caen;Nimes;A;0;1;1;2;;;100;100
-155;05/12/2018;Dijon;Guingamp;H;1;0;2;1;Dijon FCO;;2106;100
-156;05/12/2018;Lyon;Rennes;A;0;2;0;2;Olympique Lyon;Stade Rennais;6005;100
-157;05/12/2018;Nantes;Marseille;H;2;2;3;2;Nantes;Marseille;3708;3818
-158;05/12/2018;Reims;Toulouse;A;0;1;0;1;Stade de Reims;Toulouse;3339;1627
+155;05/12/2018;Dijon;Guingamp;H;1;0;2;1;Dijon;;2106;100
+156;05/12/2018;Lyon;Rennes;A;0;2;0;2;OlympiqueLyonnais;Rennes;6005;6085
+157;05/12/2018;Nantes;Marseille;H;2;2;3;2;Nantes;OlympiqueMarseille;3708;3818
+158;05/12/2018;Reims;Toulouse;A;0;1;0;1;Reims;Toulouse;3339;1627
 159;05/12/2018;Strasbourg;Paris SG;D;1;0;1;1;Strasbourg;PSG;4249;9395
-160;08/12/2018;Guingamp;Amiens;A;0;0;1;2;;Amiens SC;100;2440
-161;08/12/2018;Rennes;Dijon;H;0;0;2;0;Stade Rennais;Dijon FCO;100;2106
-162;09/12/2018;Lille;Reims;D;0;0;1;1;Lille;Stade de Reims;4242;3339
+160;08/12/2018;Guingamp;Amiens;A;0;0;1;2;;AmiensSC;100;2440
+161;08/12/2018;Rennes;Dijon;H;0;0;2;0;Rennes;Dijon;6085;2106
+162;09/12/2018;Lille;Reims;D;0;0;1;1;Lille;Reims;4242;3339
 163;09/12/2018;Strasbourg;Caen;D;2;1;2;2;Strasbourg;;4249;100
-164;15/12/2018;Reims;Strasbourg;H;1;0;2;1;Stade de Reims;Strasbourg;3339;4249
-165;16/12/2018;Lyon;Monaco;H;2;0;3;0;Olympique Lyon;Monaco;6005;3030
+164;15/12/2018;Reims;Strasbourg;H;1;0;2;1;Reims;Strasbourg;3339;4249
+165;16/12/2018;Lyon;Monaco;H;2;0;3;0;OlympiqueLyonnais;Monaco;6005;3030
 166;16/12/2018;Nice;St Etienne;D;0;0;1;1;Nice;Saint-Étienne;2975;3866
 167;16/12/2018;Nimes;Lille;A;0;2;2;3;;Lille;100;4242
 168;18/12/2018;Caen;Toulouse;H;1;1;2;1;;Toulouse;100;1627
-169;22/12/2018;Angers;Marseille;D;1;0;1;1;Angers SCO;Marseille;2974;3818
+169;22/12/2018;Angers;Marseille;D;1;0;1;1;AngersSCO;OlympiqueMarseille;2974;3818
 170;22/12/2018;Lille;Toulouse;A;1;0;1;2;Lille;Toulouse;4242;1627
 171;22/12/2018;Monaco;Guingamp;A;0;0;0;2;Monaco;;3030;100
-172;22/12/2018;Montpellier;Lyon;D;0;0;1;1;Montpellier;Olympique Lyon;2919;6005
+172;22/12/2018;Montpellier;Lyon;D;0;0;1;1;Montpellier;OlympiqueLyonnais;2919;6005
 173;22/12/2018;Paris SG;Nantes;H;0;0;1;0;PSG;Nantes;9395;3708
-174;22/12/2018;Reims;Caen;D;1;2;2;2;Stade de Reims;;3339;100
-175;22/12/2018;Rennes;Nimes;H;2;0;4;0;Stade Rennais;;100;100
-176;22/12/2018;St Etienne;Dijon;H;1;0;3;0;Saint-Étienne;Dijon FCO;3866;2106
+174;22/12/2018;Reims;Caen;D;1;2;2;2;Reims;;3339;100
+175;22/12/2018;Rennes;Nimes;H;2;0;4;0;Rennes;;6085;100
+176;22/12/2018;St Etienne;Dijon;H;1;0;3;0;Saint-Étienne;Dijon;3866;2106
 177;22/12/2018;Strasbourg;Nice;H;2;0;2;0;Strasbourg;Nice;4249;2975
-178;23/12/2018;Bordeaux;Amiens;D;1;0;1;1;Bordeaux;Amiens SC;2611;2440
-179;08/01/2019;Amiens;Angers;D;0;0;0;0;Amiens SC;Angers SCO;2440;2974
+178;23/12/2018;Bordeaux;Amiens;D;1;0;1;1;Bordeaux;AmiensSC;2611;2440
+179;08/01/2019;Amiens;Angers;D;0;0;0;0;AmiensSC;AngersSCO;2440;2974
 180;08/01/2019;Nantes;Montpellier;H;0;0;2;0;Nantes;Montpellier;3708;2919
 181;11/01/2019;Caen;Lille;A;0;2;1;3;;Lille;100;4242
-182;11/01/2019;Lyon;Reims;D;0;1;1;1;Olympique Lyon;Stade de Reims;6005;3339
-183;12/01/2019;Amiens;Paris SG;A;0;0;0;3;Amiens SC;PSG;2440;9395
+182;11/01/2019;Lyon;Reims;D;0;1;1;1;OlympiqueLyonnais;Reims;6005;3339
+183;12/01/2019;Amiens;Paris SG;A;0;0;0;3;AmiensSC;PSG;2440;9395
 184;12/01/2019;Guingamp;St Etienne;A;0;1;0;1;;Saint-Étienne;100;3866
 185;12/01/2019;Nice;Bordeaux;H;1;0;1;0;Nice;Bordeaux;2975;2611
-186;13/01/2019;Dijon;Montpellier;D;0;0;1;1;Dijon FCO;Montpellier;2106;2919
-187;13/01/2019;Marseille;Monaco;D;1;1;1;1;Marseille;Monaco;3818;3030
-188;13/01/2019;Nantes;Rennes;A;0;1;0;1;Nantes;Stade Rennais;3708;100
+186;13/01/2019;Dijon;Montpellier;D;0;0;1;1;Dijon;Montpellier;2106;2919
+187;13/01/2019;Marseille;Monaco;D;1;1;1;1;OlympiqueMarseille;Monaco;3818;3030
+188;13/01/2019;Nantes;Rennes;A;0;1;0;1;Nantes;Rennes;3708;6085
 189;13/01/2019;Toulouse;Strasbourg;A;1;1;1;2;Toulouse;Strasbourg;1627;4249
-190;15/01/2019;Angers;Bordeaux;A;0;1;1;2;Angers SCO;Bordeaux;2974;2611
-191;16/01/2019;Guingamp;Rennes;H;1;0;2;1;;Stade Rennais;100;100
+190;15/01/2019;Angers;Bordeaux;A;0;1;1;2;AngersSCO;Bordeaux;2974;2611
+191;16/01/2019;Guingamp;Rennes;H;1;0;2;1;;Rennes;100;6085
 192;16/01/2019;Monaco;Nice;D;0;1;1;1;Monaco;Nice;3030;2975
 193;16/01/2019;Nimes;Nantes;H;0;0;1;0;;Nantes;100;3708
-194;16/01/2019;St Etienne;Marseille;H;0;1;2;1;Saint-Étienne;Marseille;3866;3818
-195;16/01/2019;Toulouse;Lyon;D;1;0;2;2;Toulouse;Olympique Lyon;1627;6005
-196;18/01/2019;Lille;Amiens;H;1;1;2;1;Lille;Amiens SC;4242;2440
+194;16/01/2019;St Etienne;Marseille;H;0;1;2;1;Saint-Étienne;OlympiqueMarseille;3866;3818
+195;16/01/2019;Toulouse;Lyon;D;1;0;2;2;Toulouse;OlympiqueLyonnais;1627;6005
+196;18/01/2019;Lille;Amiens;H;1;1;2;1;Lille;AmiensSC;4242;2440
 197;19/01/2019;Monaco;Strasbourg;A;1;2;1;5;Monaco;Strasbourg;3030;4249
 198;19/01/2019;Nimes;Toulouse;A;0;1;0;1;;Toulouse;100;1627
 199;19/01/2019;Paris SG;Guingamp;H;3;0;9;0;PSG;;9395;100
-200;19/01/2019;Reims;Nice;D;1;0;1;1;Stade de Reims;Nice;3339;2975
-201;20/01/2019;Angers;Nantes;H;0;0;1;0;Angers SCO;Nantes;2974;3708
-202;20/01/2019;Bordeaux;Dijon;H;0;0;1;0;Bordeaux;Dijon FCO;2611;2106
-203;20/01/2019;Caen;Marseille;A;0;0;0;1;;Marseille;100;3818
-204;20/01/2019;Rennes;Montpellier;D;0;0;0;0;Stade Rennais;Montpellier;100;2919
-205;20/01/2019;St Etienne;Lyon;A;1;0;1;2;Saint-Étienne;Olympique Lyon;3866;6005
-206;23/01/2019;Nimes;Angers;H;2;0;3;1;;Angers SCO;100;2974
-207;25/01/2019;Marseille;Lille;A;0;1;1;2;Marseille;Lille;3818;4242
-208;26/01/2019;Dijon;Monaco;H;1;0;2;0;Dijon FCO;Monaco;2106;3030
-209;26/01/2019;Guingamp;Reims;A;0;1;0;1;;Stade de Reims;100;3339
+200;19/01/2019;Reims;Nice;D;1;0;1;1;Reims;Nice;3339;2975
+201;20/01/2019;Angers;Nantes;H;0;0;1;0;AngersSCO;Nantes;2974;3708
+202;20/01/2019;Bordeaux;Dijon;H;0;0;1;0;Bordeaux;Dijon;2611;2106
+203;20/01/2019;Caen;Marseille;A;0;0;0;1;;OlympiqueMarseille;100;3818
+204;20/01/2019;Rennes;Montpellier;D;0;0;0;0;Rennes;Montpellier;6085;2919
+205;20/01/2019;St Etienne;Lyon;A;1;0;1;2;Saint-Étienne;OlympiqueLyonnais;3866;6005
+206;23/01/2019;Nimes;Angers;H;2;0;3;1;;AngersSCO;100;2974
+207;25/01/2019;Marseille;Lille;A;0;1;1;2;OlympiqueMarseille;Lille;3818;4242
+208;26/01/2019;Dijon;Monaco;H;1;0;2;0;Dijon;Monaco;2106;3030
+209;26/01/2019;Guingamp;Reims;A;0;1;0;1;;Reims;100;3339
 210;26/01/2019;Nice;Nimes;H;1;0;2;0;Nice;;2975;100
 211;26/01/2019;Strasbourg;Bordeaux;H;0;0;1;0;Strasbourg;Bordeaux;4249;2611
-212;27/01/2019;Amiens;Lyon;A;0;0;0;1;Amiens SC;Olympique Lyon;2440;6005
+212;27/01/2019;Amiens;Lyon;A;0;0;0;1;AmiensSC;OlympiqueLyonnais;2440;6005
 213;27/01/2019;Montpellier;Caen;H;0;0;2;0;Montpellier;;2919;100
-214;27/01/2019;Paris SG;Rennes;H;1;1;4;1;PSG;Stade Rennais;9395;100
-215;27/01/2019;Toulouse;Angers;D;0;0;0;0;Toulouse;Angers SCO;1627;2974
+214;27/01/2019;Paris SG;Rennes;H;1;1;4;1;PSG;Rennes;9395;6085
+215;27/01/2019;Toulouse;Angers;D;0;0;0;0;Toulouse;AngersSCO;1627;2974
 216;30/01/2019;Nantes;St Etienne;D;0;0;1;1;Nantes;Saint-Étienne;3708;3866
 217;01/02/2019;Lille;Nice;H;2;0;4;0;Lille;Nice;4242;2975
-218;02/02/2019;Angers;Dijon;H;1;0;1;0;Angers SCO;Dijon FCO;2974;2106
+218;02/02/2019;Angers;Dijon;H;1;0;1;0;AngersSCO;Dijon;2974;2106
 219;02/02/2019;Monaco;Toulouse;H;1;1;2;1;Monaco;Toulouse;3030;1627
-220;02/02/2019;Reims;Marseille;H;1;0;2;1;Stade de Reims;Marseille;3339;3818
-221;02/02/2019;Rennes;Amiens;H;0;0;1;0;Stade Rennais;Amiens SC;100;2440
-222;03/02/2019;Lyon;Paris SG;H;1;1;2;1;Olympique Lyon;PSG;6005;9395
+220;02/02/2019;Reims;Marseille;H;1;0;2;1;Reims;OlympiqueMarseille;3339;3818
+221;02/02/2019;Rennes;Amiens;H;0;0;1;0;Rennes;AmiensSC;6085;2440
+222;03/02/2019;Lyon;Paris SG;H;1;1;2;1;OlympiqueLyonnais;PSG;6005;9395
 223;03/02/2019;Nimes;Montpellier;D;1;0;1;1;;Montpellier;100;2919
-224;05/02/2019;Marseille;Bordeaux;H;1;0;1;0;Marseille;Bordeaux;3818;2611
-225;08/02/2019;Dijon;Marseille;A;1;0;1;2;Dijon FCO;Marseille;2106;3818
-226;09/02/2019;Amiens;Caen;H;0;0;1;0;Amiens SC;;2440;100
+224;05/02/2019;Marseille;Bordeaux;H;1;0;1;0;OlympiqueMarseille;Bordeaux;3818;2611
+225;08/02/2019;Dijon;Marseille;A;1;0;1;2;Dijon;OlympiqueMarseille;2106;3818
+226;09/02/2019;Amiens;Caen;H;0;0;1;0;AmiensSC;;2440;100
 227;09/02/2019;Paris SG;Bordeaux;H;1;0;1;0;PSG;Bordeaux;9395;2611
-228;09/02/2019;Strasbourg;Angers;A;0;1;1;2;Strasbourg;Angers SCO;4249;2974
+228;09/02/2019;Strasbourg;Angers;A;0;1;1;2;Strasbourg;AngersSCO;4249;2974
 229;10/02/2019;Guingamp;Lille;A;0;0;0;2;;Lille;100;4242
 230;10/02/2019;Montpellier;Monaco;D;0;1;2;2;Montpellier;Monaco;2919;3030
 231;10/02/2019;Nantes;Nimes;A;2;0;2;4;Nantes;;3708;100
-232;10/02/2019;Nice;Lyon;H;0;0;1;0;Nice;Olympique Lyon;2975;6005
-233;10/02/2019;Rennes;St Etienne;H;1;0;3;0;Stade Rennais;Saint-Étienne;100;3866
-234;10/02/2019;Toulouse;Reims;D;0;0;1;1;Toulouse;Stade de Reims;1627;3339
+232;10/02/2019;Nice;Lyon;H;0;0;1;0;Nice;OlympiqueLyonnais;2975;6005
+233;10/02/2019;Rennes;St Etienne;H;1;0;3;0;Rennes;Saint-Étienne;6085;3866
+234;10/02/2019;Toulouse;Reims;D;0;0;1;1;Toulouse;Reims;1627;3339
 235;13/02/2019;Caen;Nantes;A;0;0;0;1;;Nantes;100;3708
 236;13/02/2019;St Etienne;Strasbourg;H;2;0;2;1;Saint-Étienne;Strasbourg;3866;4249
-237;15/02/2019;Lyon;Guingamp;H;2;1;2;1;Olympique Lyon;;6005;100
-238;15/02/2019;Nimes;Dijon;H;1;0;2;0;;Dijon FCO;100;2106
-239;16/02/2019;Angers;Nice;H;1;0;3;0;Angers SCO;Nice;2974;2975
-240;16/02/2019;Marseille;Amiens;H;2;0;2;0;Marseille;Amiens SC;3818;2440
+237;15/02/2019;Lyon;Guingamp;H;2;1;2;1;OlympiqueLyonnais;;6005;100
+238;15/02/2019;Nimes;Dijon;H;1;0;2;0;;Dijon;100;2106
+239;16/02/2019;Angers;Nice;H;1;0;3;0;AngersSCO;Nice;2974;2975
+240;16/02/2019;Marseille;Amiens;H;2;0;2;0;OlympiqueMarseille;AmiensSC;3818;2440
 241;16/02/2019;Monaco;Nantes;H;1;0;1;0;Monaco;Nantes;3030;3708
 242;17/02/2019;Bordeaux;Toulouse;H;1;0;2;1;Bordeaux;Toulouse;2611;1627
 243;17/02/2019;Caen;Strasbourg;D;0;0;0;0;;Strasbourg;100;4249
 244;17/02/2019;Lille;Montpellier;D;0;0;0;0;Lille;Montpellier;4242;2919
-245;17/02/2019;Reims;Rennes;H;1;0;2;0;Stade de Reims;Stade Rennais;3339;100
+245;17/02/2019;Reims;Rennes;H;1;0;2;0;Reims;Rennes;3339;6085
 246;17/02/2019;St Etienne;Paris SG;A;0;0;0;1;Saint-Étienne;PSG;3866;9395
 247;20/02/2019;Bordeaux;Guingamp;D;0;0;0;0;Bordeaux;;2611;100
 248;20/02/2019;Paris SG;Montpellier;H;2;1;5;1;PSG;Montpellier;9395;2919
-249;22/02/2019;Dijon;St Etienne;A;0;0;0;1;Dijon FCO;Saint-Étienne;2106;3866
+249;22/02/2019;Dijon;St Etienne;A;0;0;0;1;Dijon;Saint-Étienne;2106;3866
 250;22/02/2019;Strasbourg;Lille;D;0;1;1;1;Strasbourg;Lille;4249;4242
-251;23/02/2019;Amiens;Nice;H;1;0;1;0;Amiens SC;Nice;2440;2975
-252;23/02/2019;Guingamp;Angers;H;0;0;1;0;;Angers SCO;100;2974
+251;23/02/2019;Amiens;Nice;H;1;0;1;0;AmiensSC;Nice;2440;2975
+252;23/02/2019;Guingamp;Angers;H;0;0;1;0;;AngersSCO;100;2974
 253;23/02/2019;Paris SG;Nimes;H;1;0;3;0;PSG;;9395;100
-254;24/02/2019;Monaco;Lyon;H;2;0;2;0;Monaco;Olympique Lyon;3030;6005
-255;24/02/2019;Montpellier;Reims;A;1;1;2;4;Montpellier;Stade de Reims;2919;3339
+254;24/02/2019;Monaco;Lyon;H;2;0;2;0;Monaco;OlympiqueLyonnais;3030;6005
+255;24/02/2019;Montpellier;Reims;A;1;1;2;4;Montpellier;Reims;2919;3339
 256;24/02/2019;Nantes;Bordeaux;H;0;0;1;0;Nantes;Bordeaux;3708;2611
-257;24/02/2019;Rennes;Marseille;D;1;0;1;1;Stade Rennais;Marseille;100;3818
+257;24/02/2019;Rennes;Marseille;D;1;0;1;1;Rennes;OlympiqueMarseille;6085;3818
 258;24/02/2019;Toulouse;Caen;D;0;1;1;1;Toulouse;;1627;100
-259;02/03/2019;Angers;Monaco;D;2;0;2;2;Angers SCO;Monaco;2974;3030
+259;02/03/2019;Angers;Monaco;D;2;0;2;2;AngersSCO;Monaco;2974;3030
 260;02/03/2019;Caen;Paris SG;A;0;0;1;2;;PSG;100;9395
-261;02/03/2019;Reims;Amiens;D;0;2;2;2;Stade de Reims;Amiens SC;3339;2440
+261;02/03/2019;Reims;Amiens;D;0;2;2;2;Reims;AmiensSC;3339;2440
 262;03/03/2019;Guingamp;Nantes;D;0;0;0;0;;Nantes;100;3708
-263;03/03/2019;Lille;Dijon;H;0;0;1;0;Lille;Dijon FCO;4242;2106
-264;03/03/2019;Lyon;Toulouse;H;3;1;5;1;Olympique Lyon;Toulouse;6005;1627
-265;03/03/2019;Marseille;St Etienne;H;2;0;2;0;Marseille;Saint-Étienne;3818;3866
+263;03/03/2019;Lille;Dijon;H;0;0;1;0;Lille;Dijon;4242;2106
+264;03/03/2019;Lyon;Toulouse;H;3;1;5;1;OlympiqueLyonnais;Toulouse;6005;1627
+265;03/03/2019;Marseille;St Etienne;H;2;0;2;0;OlympiqueMarseille;Saint-Étienne;3818;3866
 266;03/03/2019;Nice;Strasbourg;H;1;0;1;0;Nice;Strasbourg;2975;4249
 267;05/03/2019;Bordeaux;Montpellier;A;1;1;1;2;Bordeaux;Montpellier;2611;2919
-268;09/03/2019;Amiens;Nimes;H;0;0;2;1;Amiens SC;;2440;100
-269;09/03/2019;Dijon;Reims;D;1;1;1;1;Dijon FCO;Stade de Reims;2106;3339
+268;09/03/2019;Amiens;Nimes;H;0;0;2;1;AmiensSC;;2440;100
+269;09/03/2019;Dijon;Reims;D;1;1;1;1;Dijon;Reims;2106;3339
 270;09/03/2019;Monaco;Bordeaux;D;0;0;1;1;Monaco;Bordeaux;3030;2611
-271;09/03/2019;Strasbourg;Lyon;D;0;1;2;2;Strasbourg;Olympique Lyon;4249;6005
-272;10/03/2019;Marseille;Nice;H;0;0;1;0;Marseille;Nice;3818;2975
-273;10/03/2019;Montpellier;Angers;D;2;0;2;2;Montpellier;Angers SCO;2919;2974
-274;10/03/2019;Rennes;Caen;H;1;1;3;1;Stade Rennais;;100;100
+271;09/03/2019;Strasbourg;Lyon;D;0;1;2;2;Strasbourg;OlympiqueLyonnais;4249;6005
+272;10/03/2019;Marseille;Nice;H;0;0;1;0;OlympiqueMarseille;Nice;3818;2975
+273;10/03/2019;Montpellier;Angers;D;2;0;2;2;Montpellier;AngersSCO;2919;2974
+274;10/03/2019;Rennes;Caen;H;1;1;3;1;Rennes;;6085;100
 275;10/03/2019;St Etienne;Lille;A;0;0;0;1;Saint-Étienne;Lille;3866;4242
 276;10/03/2019;Toulouse;Guingamp;H;1;0;1;0;Toulouse;;1627;100
-277;12/03/2019;Dijon;Paris SG;A;0;2;0;4;Dijon FCO;PSG;2106;9395
+277;12/03/2019;Dijon;Paris SG;A;0;2;0;4;Dijon;PSG;2106;9395
 278;15/03/2019;Lille;Monaco;A;0;0;0;1;Lille;Monaco;4242;3030
 279;15/03/2019;Nice;Toulouse;D;1;0;1;1;Nice;Toulouse;2975;1627
-280;16/03/2019;Angers;Amiens;D;0;0;0;0;Angers SCO;Amiens SC;2974;2440
+280;16/03/2019;Angers;Amiens;D;0;0;0;0;AngersSCO;AmiensSC;2974;2440
 281;16/03/2019;Caen;St Etienne;A;0;3;0;5;;Saint-Étienne;100;3866
-282;16/03/2019;Guingamp;Dijon;H;0;0;1;0;;Dijon FCO;100;2106
+282;16/03/2019;Guingamp;Dijon;H;0;0;1;0;;Dijon;100;2106
 283;16/03/2019;Nimes;Strasbourg;D;0;1;2;2;;Strasbourg;100;4249
-284;17/03/2019;Bordeaux;Rennes;D;0;0;1;1;Bordeaux;Stade Rennais;2611;100
-285;17/03/2019;Lyon;Montpellier;H;1;1;3;2;Olympique Lyon;Montpellier;6005;2919
-286;17/03/2019;Paris SG;Marseille;H;1;0;3;1;PSG;Marseille;9395;3818
-287;17/03/2019;Reims;Nantes;H;0;0;1;0;Stade de Reims;Nantes;3339;3708
-288;29/03/2019;Rennes;Lyon;A;0;0;0;1;Stade Rennais;Olympique Lyon;100;6005
-289;30/03/2019;Marseille;Angers;D;2;1;2;2;Marseille;Angers SCO;3818;2974
-290;31/03/2019;Amiens;Bordeaux;D;0;0;0;0;Amiens SC;Bordeaux;2440;2611
-291;31/03/2019;Dijon;Nice;A;0;0;0;1;Dijon FCO;Nice;2106;2975
+284;17/03/2019;Bordeaux;Rennes;D;0;0;1;1;Bordeaux;Rennes;2611;6085
+285;17/03/2019;Lyon;Montpellier;H;1;1;3;2;OlympiqueLyonnais;Montpellier;6005;2919
+286;17/03/2019;Paris SG;Marseille;H;1;0;3;1;PSG;OlympiqueMarseille;9395;3818
+287;17/03/2019;Reims;Nantes;H;0;0;1;0;Reims;Nantes;3339;3708
+288;29/03/2019;Rennes;Lyon;A;0;0;0;1;Rennes;OlympiqueLyonnais;6085;6005
+289;30/03/2019;Marseille;Angers;D;2;1;2;2;OlympiqueMarseille;AngersSCO;3818;2974
+290;31/03/2019;Amiens;Bordeaux;D;0;0;0;0;AmiensSC;Bordeaux;2440;2611
+291;31/03/2019;Dijon;Nice;A;0;0;0;1;Dijon;Nice;2106;2975
 292;31/03/2019;Monaco;Caen;A;0;1;0;1;Monaco;;3030;100
 293;31/03/2019;Nantes;Lille;A;0;0;2;3;Nantes;Lille;3708;4242
 294;31/03/2019;Toulouse;Paris SG;A;0;0;0;1;Toulouse;PSG;1627;9395
 295;01/04/2019;St Etienne;Nimes;H;1;1;2;1;Saint-Étienne;;3866;100
 296;03/04/2019;Montpellier;Guingamp;H;1;0;2;0;Montpellier;;2919;100
-297;03/04/2019;Strasbourg;Reims;H;1;0;4;0;Strasbourg;Stade de Reims;4249;3339
-298;05/04/2019;Bordeaux;Marseille;H;1;0;2;0;Bordeaux;Marseille;2611;3818
-299;06/04/2019;Amiens;St Etienne;D;1;1;2;2;Amiens SC;Saint-Étienne;2440;3866
-300;06/04/2019;Angers;Rennes;D;0;1;3;3;Angers SCO;Stade Rennais;2974;100
+297;03/04/2019;Strasbourg;Reims;H;1;0;4;0;Strasbourg;Reims;4249;3339
+298;05/04/2019;Bordeaux;Marseille;H;1;0;2;0;Bordeaux;OlympiqueMarseille;2611;3818
+299;06/04/2019;Amiens;St Etienne;D;1;1;2;2;AmiensSC;Saint-Étienne;2440;3866
+300;06/04/2019;Angers;Rennes;D;0;1;3;3;AngersSCO;Rennes;2974;6085
 301;06/04/2019;Guingamp;Monaco;D;1;0;1;1;;Monaco;100;3030
-302;06/04/2019;Lyon;Dijon;A;1;2;1;3;Olympique Lyon;Dijon FCO;6005;2106
+302;06/04/2019;Lyon;Dijon;A;1;2;1;3;OlympiqueLyonnais;Dijon;6005;2106
 303;06/04/2019;Nimes;Caen;H;0;0;2;0;;;100;100
 304;07/04/2019;Nice;Montpellier;H;1;0;1;0;Nice;Montpellier;2975;2919
 305;07/04/2019;Paris SG;Strasbourg;D;1;2;2;2;PSG;Strasbourg;9395;4249
-306;07/04/2019;Reims;Lille;D;0;0;1;1;Stade de Reims;Lille;3339;4242
+306;07/04/2019;Reims;Lille;D;0;0;1;1;Reims;Lille;3339;4242
 307;07/04/2019;Toulouse;Nantes;H;0;0;1;0;Toulouse;Nantes;1627;3708
-308;09/04/2019;Nimes;Rennes;H;1;1;3;1;;Stade Rennais;100;100
-309;12/04/2019;Dijon;Amiens;D;0;0;0;0;Dijon FCO;Amiens SC;2106;2440
-310;12/04/2019;Nantes;Lyon;H;1;1;2;1;Nantes;Olympique Lyon;3708;6005
-311;13/04/2019;Caen;Angers;A;0;0;0;1;;Angers SCO;100;2974
-312;13/04/2019;Marseille;Nimes;H;0;0;2;1;Marseille;;3818;100
-313;13/04/2019;Monaco;Reims;D;0;0;0;0;Monaco;Stade de Reims;3030;3339
+308;09/04/2019;Nimes;Rennes;H;1;1;3;1;;Rennes;100;6085
+309;12/04/2019;Dijon;Amiens;D;0;0;0;0;Dijon;AmiensSC;2106;2440
+310;12/04/2019;Nantes;Lyon;H;1;1;2;1;Nantes;OlympiqueLyonnais;3708;6005
+311;13/04/2019;Caen;Angers;A;0;0;0;1;;AngersSCO;100;2974
+312;13/04/2019;Marseille;Nimes;H;0;0;2;1;OlympiqueMarseille;;3818;100
+313;13/04/2019;Monaco;Reims;D;0;0;0;0;Monaco;Reims;3030;3339
 314;13/04/2019;Strasbourg;Guingamp;D;1;1;3;3;Strasbourg;;4249;100
 315;14/04/2019;Lille;Paris SG;H;1;1;5;1;Lille;PSG;4242;9395
 316;14/04/2019;Montpellier;Toulouse;H;0;0;2;1;Montpellier;Toulouse;2919;1627
-317;14/04/2019;Rennes;Nice;D;0;0;0;0;Stade Rennais;Nice;100;2975
+317;14/04/2019;Rennes;Nice;D;0;0;0;0;Rennes;Nice;6085;2975
 318;14/04/2019;St Etienne;Bordeaux;H;0;0;3;0;Saint-Étienne;Bordeaux;3866;2611
 319;17/04/2019;Nantes;Paris SG;H;2;1;3;2;Nantes;PSG;3708;9395
-320;19/04/2019;Dijon;Rennes;H;1;0;3;2;Dijon FCO;Stade Rennais;2106;100
-321;19/04/2019;Lyon;Angers;H;2;0;2;1;Olympique Lyon;Angers SCO;6005;2974
-322;20/04/2019;Guingamp;Marseille;A;0;2;1;3;;Marseille;100;3818
+320;19/04/2019;Dijon;Rennes;H;1;0;3;2;Dijon;Rennes;2106;6085
+321;19/04/2019;Lyon;Angers;H;2;0;2;1;OlympiqueLyonnais;AngersSCO;6005;2974
+322;20/04/2019;Guingamp;Marseille;A;0;2;1;3;;OlympiqueMarseille;100;3818
 323;20/04/2019;Nice;Caen;A;0;0;0;1;Nice;;2975;100
 324;20/04/2019;Nimes;Bordeaux;H;1;1;2;1;;Bordeaux;100;2611
 325;20/04/2019;Strasbourg;Montpellier;A;1;2;1;3;Strasbourg;Montpellier;4249;2919
-326;21/04/2019;Nantes;Amiens;H;0;0;3;2;Nantes;Amiens SC;3708;2440
+326;21/04/2019;Nantes;Amiens;H;0;0;3;2;Nantes;AmiensSC;3708;2440
 327;21/04/2019;Paris SG;Monaco;H;2;0;3;1;PSG;Monaco;9395;3030
-328;21/04/2019;Reims;St Etienne;A;0;1;0;2;Stade de Reims;Saint-Étienne;3339;3866
+328;21/04/2019;Reims;St Etienne;A;0;1;0;2;Reims;Saint-Étienne;3339;3866
 329;21/04/2019;Toulouse;Lille;D;0;0;0;0;Toulouse;Lille;1627;4242
-330;26/04/2019;Bordeaux;Lyon;A;2;1;2;3;Bordeaux;Olympique Lyon;2611;6005
-331;28/04/2019;Amiens;Strasbourg;D;0;0;0;0;Amiens SC;Strasbourg;2440;4249
-332;28/04/2019;Angers;Reims;D;0;0;1;1;Angers SCO;Stade de Reims;2974;3339
-333;28/04/2019;Caen;Dijon;H;0;0;1;0;;Dijon FCO;100;2106
+330;26/04/2019;Bordeaux;Lyon;A;2;1;2;3;Bordeaux;OlympiqueLyonnais;2611;6005
+331;28/04/2019;Amiens;Strasbourg;D;0;0;0;0;AmiensSC;Strasbourg;2440;4249
+332;28/04/2019;Angers;Reims;D;0;0;1;1;AngersSCO;Reims;2974;3339
+333;28/04/2019;Caen;Dijon;H;0;0;1;0;;Dijon;100;2106
 334;28/04/2019;Lille;Nimes;H;0;0;5;0;Lille;;4242;100
-335;28/04/2019;Marseille;Nantes;A;1;1;1;2;Marseille;Nantes;3818;3708
+335;28/04/2019;Marseille;Nantes;A;1;1;1;2;OlympiqueMarseille;Nantes;3818;3708
 336;28/04/2019;Nice;Guingamp;H;1;0;3;0;Nice;;2975;100
 337;28/04/2019;St Etienne;Toulouse;H;2;0;2;0;Saint-Étienne;Toulouse;3866;1627
 338;30/04/2019;Montpellier;Paris SG;H;1;1;3;2;Montpellier;PSG;2919;9395
-339;01/05/2019;Rennes;Monaco;D;2;0;2;2;Stade Rennais;Monaco;100;3030
-340;03/05/2019;Strasbourg;Marseille;D;0;0;1;1;Strasbourg;Marseille;4249;3818
-341;04/05/2019;Bordeaux;Angers;A;0;1;0;1;Bordeaux;Angers SCO;2611;2974
+339;01/05/2019;Rennes;Monaco;D;2;0;2;2;Rennes;Monaco;6085;3030
+340;03/05/2019;Strasbourg;Marseille;D;0;0;1;1;Strasbourg;OlympiqueMarseille;4249;3818
+341;04/05/2019;Bordeaux;Angers;A;0;1;0;1;Bordeaux;AngersSCO;2611;2974
 342;04/05/2019;Guingamp;Caen;D;0;0;0;0;;;100;100
 343;04/05/2019;Paris SG;Nice;D;0;0;1;1;PSG;Nice;9395;2975
-344;04/05/2019;Reims;Nimes;A;0;2;0;3;Stade de Reims;;3339;100
-345;05/05/2019;Lyon;Lille;D;1;0;2;2;Olympique Lyon;Lille;6005;4242
+344;04/05/2019;Reims;Nimes;A;0;2;0;3;Reims;;3339;100
+345;05/05/2019;Lyon;Lille;D;1;0;2;2;OlympiqueLyonnais;Lille;6005;4242
 346;05/05/2019;Monaco;St Etienne;A;1;0;2;3;Monaco;Saint-Étienne;3030;3866
-347;05/05/2019;Montpellier;Amiens;D;0;0;1;1;Montpellier;Amiens SC;2919;2440
-348;05/05/2019;Nantes;Dijon;H;0;0;3;0;Nantes;Dijon FCO;3708;2106
-349;05/05/2019;Toulouse;Rennes;D;1;1;2;2;Toulouse;Stade Rennais;1627;100
+347;05/05/2019;Montpellier;Amiens;D;0;0;1;1;Montpellier;AmiensSC;2919;2440
+348;05/05/2019;Nantes;Dijon;H;0;0;3;0;Nantes;Dijon;3708;2106
+349;05/05/2019;Toulouse;Rennes;D;1;1;2;2;Toulouse;Rennes;1627;6085
 350;10/05/2019;St Etienne;Montpellier;A;0;0;0;1;Saint-Étienne;Montpellier;3866;2919
-351;11/05/2019;Amiens;Toulouse;D;0;0;0;0;Amiens SC;Toulouse;2440;1627
-352;11/05/2019;Angers;Paris SG;A;0;1;1;2;Angers SCO;PSG;2974;9395
-353;11/05/2019;Caen;Reims;H;3;1;3;2;;Stade de Reims;100;3339
-354;11/05/2019;Dijon;Strasbourg;H;1;0;2;1;Dijon FCO;Strasbourg;2106;4249
+351;11/05/2019;Amiens;Toulouse;D;0;0;0;0;AmiensSC;Toulouse;2440;1627
+352;11/05/2019;Angers;Paris SG;A;0;1;1;2;AngersSCO;PSG;2974;9395
+353;11/05/2019;Caen;Reims;H;3;1;3;2;;Reims;100;3339
+354;11/05/2019;Dijon;Strasbourg;H;1;0;2;1;Dijon;Strasbourg;2106;4249
 355;11/05/2019;Nice;Nantes;D;0;1;1;1;Nice;Nantes;2975;3708
 356;11/05/2019;Nimes;Monaco;H;1;0;1;0;;Monaco;100;3030
 357;12/05/2019;Lille;Bordeaux;H;1;0;1;0;Lille;Bordeaux;4242;2611
-358;12/05/2019;Marseille;Lyon;A;0;1;0;3;Marseille;Olympique Lyon;3818;6005
-359;12/05/2019;Rennes;Guingamp;D;1;0;1;1;Stade Rennais;;100;100
-360;18/05/2019;Bordeaux;Reims;A;0;1;0;1;Bordeaux;Stade de Reims;2611;3339
+358;12/05/2019;Marseille;Lyon;A;0;1;0;3;OlympiqueMarseille;OlympiqueLyonnais;3818;6005
+359;12/05/2019;Rennes;Guingamp;D;1;0;1;1;Rennes;;6085;100
+360;18/05/2019;Bordeaux;Reims;A;0;1;0;1;Bordeaux;Reims;2611;3339
 361;18/05/2019;Guingamp;Nimes;D;2;0;2;2;;;100;100
-362;18/05/2019;Lille;Angers;H;2;0;5;0;Lille;Angers SCO;4242;2974
-363;18/05/2019;Lyon;Caen;H;0;0;4;0;Olympique Lyon;;6005;100
-364;18/05/2019;Monaco;Amiens;H;1;0;2;0;Monaco;Amiens SC;3030;2440
+362;18/05/2019;Lille;Angers;H;2;0;5;0;Lille;AngersSCO;4242;2974
+363;18/05/2019;Lyon;Caen;H;0;0;4;0;OlympiqueLyonnais;;6005;100
+364;18/05/2019;Monaco;Amiens;H;1;0;2;0;Monaco;AmiensSC;3030;2440
 365;18/05/2019;Montpellier;Nantes;D;0;1;1;1;Montpellier;Nantes;2919;3708
-366;18/05/2019;Paris SG;Dijon;H;3;0;4;0;PSG;Dijon FCO;9395;2106
+366;18/05/2019;Paris SG;Dijon;H;3;0;4;0;PSG;Dijon;9395;2106
 367;18/05/2019;St Etienne;Nice;H;1;0;3;0;Saint-Étienne;Nice;3866;2975
-368;18/05/2019;Strasbourg;Rennes;A;0;1;0;2;Strasbourg;Stade Rennais;4249;100
-369;18/05/2019;Toulouse;Marseille;A;1;1;2;5;Toulouse;Marseille;1627;3818
-370;24/05/2019;Amiens;Guingamp;H;1;0;2;1;Amiens SC;;2440;100
-371;24/05/2019;Angers;St Etienne;D;0;0;1;1;Angers SCO;Saint-Étienne;2974;3866
+368;18/05/2019;Strasbourg;Rennes;A;0;1;0;2;Strasbourg;Rennes;4249;6085
+369;18/05/2019;Toulouse;Marseille;A;1;1;2;5;Toulouse;OlympiqueMarseille;1627;3818
+370;24/05/2019;Amiens;Guingamp;H;1;0;2;1;AmiensSC;;2440;100
+371;24/05/2019;Angers;St Etienne;D;0;0;1;1;AngersSCO;Saint-Étienne;2974;3866
 372;24/05/2019;Caen;Bordeaux;A;0;1;0;1;;Bordeaux;100;2611
-373;24/05/2019;Dijon;Toulouse;H;0;1;2;1;Dijon FCO;Toulouse;2106;1627
-374;24/05/2019;Marseille;Montpellier;H;0;0;1;0;Marseille;Montpellier;3818;2919
+373;24/05/2019;Dijon;Toulouse;H;0;1;2;1;Dijon;Toulouse;2106;1627
+374;24/05/2019;Marseille;Montpellier;H;0;0;1;0;OlympiqueMarseille;Montpellier;3818;2919
 375;24/05/2019;Nantes;Strasbourg;A;0;0;0;1;Nantes;Strasbourg;3708;4249
 376;24/05/2019;Nice;Monaco;H;1;0;2;0;Nice;Monaco;2975;3030
-377;24/05/2019;Nimes;Lyon;A;2;1;2;3;;Olympique Lyon;100;6005
-378;24/05/2019;Reims;Paris SG;H;1;0;3;1;Stade de Reims;PSG;3339;9395
-379;24/05/2019;Rennes;Lille;H;1;1;3;1;Stade Rennais;Lille;100;4242
+377;24/05/2019;Nimes;Lyon;A;2;1;2;3;;OlympiqueLyonnais;100;6005
+378;24/05/2019;Reims;Paris SG;H;1;0;3;1;Reims;PSG;3339;9395
+379;24/05/2019;Rennes;Lille;H;1;1;3;1;Rennes;Lille;6085;4242
