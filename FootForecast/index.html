@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+  <head>
+    <meta charset="utf-8">
+    <title>Foot Forcast</title>
+    <link rel="icon" type="images/png" href="images/icon-color-simple.png">
+    <meta name="description" content="Foot Forcast, Application de prédiction sportive.">
+		<meta name="keywords" content="Foot Forcast, Foot, Prédiction, Sport, Sportive">
+    <!-- Import -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/color/mdb.min.css">
+    <link rel="stylesheet" href="css/animate/animate.css">
+	<link rel="stylesheet" href="css/custom.css">
+    <!-- Responsive -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+
+	<body class="success-color-dark">
+
+		<div id="welcome" class="box">
+			<img src="images/icon-blank.png" class="animated bounce" alt="Responsive image"/>
+		</div>
+
+		<div id="page" style="display:none;">
+			<!-- NAVBAR -->
+			<nav class="navbar justify-content-md-center sticky-top navbar-light success-color">
+				<a class="navbar-brand" href="listcompare.html" target="_blank">
+					<img src="images/icon-blank-min.png" height="40" class="d-inline-block align-top" alt="Responsive image"/>
+				</a>
+			</nav>
+			
+			
+
+			<!-- FILTER -->
+			<div class="container mt-4">
+				<div class="row">
+					<div class="dropdown">
+						<button type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown"><img src="images/filter.png" class="mr-1" width="25" alt="Responsive image"/></button>
+						
+						<div class="dropdown-menu dropright">
+		
+							<div class="dropdown-submenu">
+								<a class="dropdown-item dropdown-toggle" href="#" data-toggle="dropdown">Compétitions</a>
+								<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+									  <div class="dropdown-item form-check">
+										<input class="form-check-input" type="checkbox" value="PL" id="defaultCheck1" name="ligue">
+										<label class="form-check-label" for="defaultCheck1"><span class="col text-center"><b>England :</b> Premier League</span></label>
+									  </div>
+									  <div class="dropdown-item form-check">
+										<input class="form-check-input" type="checkbox" value="FL1" id="defaultCheck2" name="ligue">
+										<label class="form-check-label" for="defaultCheck2"><span class="col text-center"><b>France :</b> Ligue 1</span></label>
+									  </div>
+									  <div class="dropdown-item form-check">
+										<input class="form-check-input" type="checkbox" value="BL1" id="defaultCheck3" name="ligue">
+										<label class="form-check-label" for="defaultCheck3"><span class="col text-center"><b>Germany :</b> 1. Bundesliga</span></label>
+									  </div>
+									  <div class="dropdown-item form-check">
+										<input class="form-check-input" type="checkbox" value="SA" id="defaultCheck4" name="ligue">
+										<label class="form-check-label" for="defaultCheck4"><span class="col text-center"><b>Italy :</b> Serie A</span></label>
+									  </div>
+									  <div class="dropdown-item form-check">
+										<input class="form-check-input" type="checkbox" value="PPL" id="defaultCheck5" name="ligue">
+										<label class="form-check-label" for="defaultCheck5"><span class="col text-center"><b>Portugal :</b> Primeira Liga</span></label>
+									  </div>
+									  <div class="dropdown-item form-check">
+										<input class="form-check-input" type="checkbox" value="PD" id="defaultCheck6" name="ligue">
+										<label class="form-check-label" for="defaultCheck6"><span class="col text-center"><b>Spain :</b> LA LIGA</span></label>
+									  </div>
+									  <div class="dropdown-item form-check col text-center">
+										<button id="submitligue" class="btn btn-success btn-sm" type="submit">ok</button>
+									  </div>
+								</div>
+							</div>
+					
+							<div class="dropdown-submenu">
+								<a class="dropdown-item dropdown-toggle" href="#" data-toggle="dropdown">Equipe</a>
+								<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+									<div class="dropdown-submenu">
+										<a class="dropdown-item dropdown-toggle" href="#" data-toggle="dropdown"><b>England :</b> Premier League</a>
+										<div class="dropdown-menu">
+											<div id ="PLteam">
+											</div>
+											<div class="dropdown-item form-check col text-center">
+												<button id="submitPLteam" class="btn btn-success btn-sm" type="submit">ok</button>
+											</div>
+										</div>
+									</div>
+									<div class="dropdown-submenu">
+										<a class="dropdown-item dropdown-toggle" href="#" data-toggle="dropdown"><b>France :</b> Ligue 1</a>
+										<div class="dropdown-menu">
+											<div id ="FL1team">
+											</div>
+											<div class="dropdown-item form-check col text-center">
+												<button id="submitFL1team" class="btn btn-success btn-sm" type="submit">ok</button>
+											</div>
+										</div>
+									</div>
+									<div class="dropdown-submenu">
+										<a class="dropdown-item dropdown-toggle" href="#" data-toggle="dropdown"><b>Germany :</b> 1. Bundesliga</a>
+										<div class="dropdown-menu">
+											<div id ="BL1team">
+											</div>
+											<div class="dropdown-item form-check col text-center">
+												<button id="submitBL1team" class="btn btn-success btn-sm" type="submit">ok</button>
+											</div>
+										</div>
+									</div>
+									<div class="dropdown-submenu">
+										<a class="dropdown-item dropdown-toggle" href="#" data-toggle="dropdown"><b>Italy :</b> Serie A</a>
+										<div class="dropdown-menu">
+											<div id ="SAteam">
+											</div>
+											<div class="dropdown-item form-check col text-center">
+												<button id="submitSAteam" class="btn btn-success btn-sm" type="submit">ok</button>
+											</div>
+										</div>
+									</div>
+									<div class="dropdown-submenu">
+										<a class="dropdown-item dropdown-toggle" href="#" data-toggle="dropdown"><b>Portugal :</b> Primeira Liga</a>
+										<div class="dropdown-menu">
+											<div id ="PPLteam">
+											</div>
+											<div class="dropdown-item form-check col text-center">
+												<button id="submitPPLteam" class="btn btn-success btn-sm" type="submit">ok</button>
+											</div>
+										</div>
+									</div>
+									<div class="dropdown-submenu">
+										<a class="dropdown-item dropdown-toggle" href="#" data-toggle="dropdown"><b>Spain :</b> LA LIGA</a>
+										<div class="dropdown-menu">
+											<div id ="PDteam">
+											</div>
+											<div class="dropdown-item form-check col text-center">
+												<button id="submitPDteam" class="btn btn-success btn-sm" type="submit">ok</button>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+					<input class="form-control mt-3 ml-2" type="text" id="myInput" onkeyup="myFunction()" placeholder="Rechercher un match" aria-label="Search" style="width:30%">
+				</div>
+				<div class="row">
+					<div id="filtercompet"></div>
+					<div id="filterteam"></div>			
+				</div>
+			</div>	  
+			
+			<div id="app"></div>
+			<script type="text/javascript">var link = 'https://api.football-data.org/v2/competitions/FL1/matches'</script>
+			<script src="js/api.js"></script>
+		</div>
+	</body>
+
+	<script type="text/javascript">
+		// Welcome page
+		window.setTimeout("animateCloseWelcome();", 2000);
+		function animateCloseWelcome(){
+			$('#welcome').addClass('animated zoomOut');
+			window.setTimeout("closeWelcome();", 540);
+		}
+		function closeWelcome(){
+			document.getElementById("welcome").style.display="none";
+			document.getElementById("page").style.display="inline";
+		}
+		
+		function justclosefilterteam(){
+			var tmp = document.getElementById("btnfilterteam");
+			if(tmp){
+				document.getElementById("btnfilterteam").style.display="none";
+			}
+		}
+		
+		function closefilterteam(){
+			document.getElementById("btnfilterteam").style.display="none";
+			link = 'https://api.football-data.org/v2/competitions/FL1/matches'
+			load_js();
+		}
+		
+		function closefiltercompet(){
+			document.getElementById("btnfiltercompet").style.display="none";
+			link = 'https://api.football-data.org/v2/competitions/FL1/matches'
+			load_js();
+		}
+		
+		function justclosefiltercompet(){
+			var tmp = document.getElementById("btnfiltercompet");
+			if(tmp){
+				document.getElementById("btnfiltercompet").style.display="none";
+			}
+		}
+		
+		 function load_js()
+		{
+			var head= document.getElementsByTagName('head')[0];
+			var script= document.createElement('script');
+			script.src= 'js/api.js';
+			head.appendChild(script);
+		}
+		
+		//filter compet
+		$(document).ready(function() {
+			$("#submitligue").click(function(){
+				var favorite = [];
+				$.each($("input[name='ligue']:checked"), function(){
+					favorite.push($(this).val());
+				});
+				if(favorite == ""){
+					link = 'https://api.football-data.org/v2/competitions/FL1/matches'
+				}
+				else{
+					link = 'https://api.football-data.org/v2/competitions/'+favorite.join("& ")+'/matches'
+					
+					var name = favorite.join("& ");
+					if (name == "PL"){
+						name = "Premier League";
+					}
+					else if (name == "FL1"){
+						name = "Ligue 1";
+					}
+					else if (name == "BL1"){
+						name = "Bundesliga";
+					}
+					else if (name == "SA"){
+						name = "Serie A";
+					}
+					else if (name == "PPL"){
+						name = "Primeira Liga";
+					}
+					else if (name == "PD"){
+						name = "LA LIGA";
+					}
+					
+					justclosefilterteam();
+					document.getElementById("filtercompet").innerHTML = `<button id="btnfiltercompet" type="button" class="btn btn-success"></button>`
+					document.getElementById("btnfiltercompet").innerHTML = `${name} <i class="fa fa-close" style="font-size:15px;color:red" onclick="closefiltercompet()"></i>`
+				}
+				
+				load_js();
+				
+			});
+		});
+		
+		//filter PLteam
+		$(document).ready(function() {
+			$("#submitPLteam").click(function(){
+				var favorite = [];
+				$.each($("input[name='PLteam']:checked"), function(){
+					favorite.push($(this).val());
+				});
+				
+				if(favorite == ""){
+					link = 'https://api.football-data.org/v2/competitions/FL1/matches'
+				}
+				else{
+					link = 'http://api.football-data.org/v2/teams/'+favorite.join("& ")+'/matches'
+					
+					justclosefiltercompet();
+					var id = favorite.join("& ");
+					var name = document.getElementById(id).getAttribute('data-content');
+					document.getElementById("filterteam").innerHTML = `<button id="btnfilterteam" type="button" class="btn btn-success"></button>`
+					document.getElementById("btnfilterteam").innerHTML = `${name} <i class="fa fa-close" style="font-size:15px;color:red" onclick="closefilterteam()"></i>`
+				}
+				
+				load_js();
+				
+			});
+		});
+		
+		//filter FL1team
+		$(document).ready(function() {
+			$("#submitFL1team").click(function(){
+				var favorite = [];
+				$.each($("input[name='FL1team']:checked"), function(){
+					favorite.push($(this).val());
+				});
+				
+				if(favorite == ""){
+					link = 'https://api.football-data.org/v2/competitions/FL1/matches'
+				}
+				else{
+					link = 'http://api.football-data.org/v2/teams/'+favorite.join("& ")+'/matches'
+					
+					justclosefiltercompet();
+					var id = favorite.join("& ");
+					var name = document.getElementById(id).getAttribute('data-content');
+					document.getElementById("filterteam").innerHTML = `<button id="btnfilterteam" type="button" class="btn btn-success"></button>`
+					document.getElementById("btnfilterteam").innerHTML = `${name} <i class="fa fa-close" style="font-size:15px;color:red" onclick="closefilterteam()"></i>`
+				}
+				
+				load_js();
+				
+			});
+		});
+		
+		//filter BL1team
+		$(document).ready(function() {
+			$("#submitBL1team").click(function(){
+				var favorite = [];
+				$.each($("input[name='BL1team']:checked"), function(){
+					favorite.push($(this).val());
+				});
+				
+				if(favorite == ""){
+					link = 'https://api.football-data.org/v2/competitions/FL1/matches'
+				}
+				else{
+					link = 'http://api.football-data.org/v2/teams/'+favorite.join("& ")+'/matches'
+					
+					justclosefiltercompet();
+					var id = favorite.join("& ");
+					var name = document.getElementById(id).getAttribute('data-content');
+					document.getElementById("filterteam").innerHTML = `<button id="btnfilterteam" type="button" class="btn btn-success"></button>`
+					document.getElementById("btnfilterteam").innerHTML = `${name} <i class="fa fa-close" style="font-size:15px;color:red" onclick="closefilterteam()"></i>`
+				}
+				
+				load_js();
+				
+			});
+		});
+		
+		//filter SAteam
+		$(document).ready(function() {
+			$("#submitSAteam").click(function(){
+				var favorite = [];
+				$.each($("input[name='SAteam']:checked"), function(){
+					favorite.push($(this).val());
+				});
+				
+				if(favorite == ""){
+					link = 'https://api.football-data.org/v2/competitions/FL1/matches'
+				}
+				else{
+					link = 'http://api.football-data.org/v2/teams/'+favorite.join("& ")+'/matches'
+					
+					justclosefiltercompet();
+					var id = favorite.join("& ");
+					var name = document.getElementById(id).getAttribute('data-content');
+					document.getElementById("filterteam").innerHTML = `<button id="btnfilterteam" type="button" class="btn btn-success"></button>`
+					document.getElementById("btnfilterteam").innerHTML = `${name} <i class="fa fa-close" style="font-size:15px;color:red" onclick="closefilterteam()"></i>`
+				}
+				
+				load_js();
+				
+			});
+		});
+		
+		//filter PPLteam
+		$(document).ready(function() {
+			$("#submitPPLteam").click(function(){
+				var favorite = [];
+				$.each($("input[name='PPLteam']:checked"), function(){
+					favorite.push($(this).val());
+				});
+				
+				if(favorite == ""){
+					link = 'https://api.football-data.org/v2/competitions/FL1/matches'
+				}
+				else{
+					link = 'http://api.football-data.org/v2/teams/'+favorite.join("& ")+'/matches'
+					
+					justclosefiltercompet();
+					var id = favorite.join("& ");
+					var name = document.getElementById(id).getAttribute('data-content');
+					document.getElementById("filterteam").innerHTML = `<button id="btnfilterteam" type="button" class="btn btn-success"></button>`
+					document.getElementById("btnfilterteam").innerHTML = `${name} <i class="fa fa-close" style="font-size:15px;color:red" onclick="closefilterteam()"></i>`
+				}
+				
+				load_js();
+				
+			});
+		});
+		
+		//filter PDteam
+		$(document).ready(function() {
+			$("#submitPDteam").click(function(){
+				var favorite = [];
+				$.each($("input[name='PDteam']:checked"), function(){
+					favorite.push($(this).val());
+				});
+				
+				if(favorite == ""){
+					link = 'https://api.football-data.org/v2/competitions/FL1/matches'
+				}
+				else{
+					link = 'http://api.football-data.org/v2/teams/'+favorite.join("& ")+'/matches'
+					
+					justclosefiltercompet();
+					var id = favorite.join("& ");
+					var name = document.getElementById(id).getAttribute('data-content');
+					document.getElementById("filterteam").innerHTML = `<button id="btnfilterteam" type="button" class="btn btn-success"></button>`
+					document.getElementById("btnfilterteam").innerHTML = `${name} <i class="fa fa-close" style="font-size:15px;color:red" onclick="closefilterteam()"></i>`
+				}
+				
+				load_js();
+				
+			});
+		});
+		
+		function myFunction() {
+			var input, filter, ul, li, a, i, txtValue;
+			input = document.getElementById("myInput");
+			filter = input.value.toUpperCase();
+			ul = document.getElementById("app");
+			li = ul.getElementsByClassName("search");
+			for (i = 0; i < li.length; i++) {
+				a = li[i].getElementsByTagName("a")[0];
+				txtValue = a.textContent || a.innerText;
+				if (txtValue.toUpperCase().indexOf(filter) > -1) {
+					li[i].style.display = "";
+				} else {
+					li[i].style.display = "none";
+				}
+			}
+		}
+		
+		function sendidmatch(clicked_id, oddsawaywin, oddsdraw, oddshomewin, awayteam, hometeam) {
+			var getidmatch = document.getElementById(clicked_id).id,
+				getoddsawaywin = oddsawaywin,
+				getoddsdraw = oddsdraw,
+				getoddshomewin = oddshomewin,
+				getawayteam = awayteam,
+				gethometeam = hometeam,
+				url = 'predict.html?idmatch=' + encodeURIComponent(getidmatch) + '&awayteam=' + encodeURIComponent(getawayteam) + '&hometeam=' + encodeURIComponent(gethometeam) + '&oddsawaywin=' + encodeURIComponent(getoddsawaywin) + '&oddsdraw=' + encodeURIComponent(getoddsdraw) + '&oddshomewin=' + encodeURIComponent(getoddshomewin);
+				
+			window.open(url,'_blank');
+		}
+	</script>
+
+</html>

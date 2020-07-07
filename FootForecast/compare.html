@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+	<head>
+		<meta charset="utf-8">
+		<title>Foot Forcast</title>
+		<link rel="icon" type="images/png" href="images/icon-color-simple.png">
+		<meta name="description" content="Foot Forcast, Application de prédiction sportive.">
+		<meta name="keywords" content="Foot Forcast, Foot, Prédiction, Sport, Sportive">
+		<!-- Import -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+		<link rel="stylesheet" href="css/color/mdb.min.css">
+		<link rel="stylesheet" href="css/animate/animate.css">
+		<link rel="stylesheet" href="css/bar/bar.css">
+		<link rel="stylesheet" href="css/custom.css">
+		<!-- Responsive -->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
+	
+	<body class="success-color-dark">
+	
+		<!-- NAVBAR -->
+		<nav class="navbar justify-content-md-center sticky-top navbar-light success-color">
+			<a class="navbar-brand" href="#">
+			<img src="images/icon-blank-min.png" height="40" class="d-inline-block align-top" alt="Responsive image"/>
+			</a>
+		</nav>
+		
+		<div class="row">
+		
+			<div class="container card success-color mt-4">
+				<h1 class="text-white font-weight-bold text-center mt-4">REEL</h1>
+				<img class="mx-auto d-block mt-3" src="images/cup.png" style="width:12%">
+				<div class="container-sm">
+					<div class="row">
+						<div id="awayteamnamereel" class="col">
+						</div>
+						<div class="col">
+						</div>
+						<div id="hometeamnamereel" class="col">
+						</div>
+					</div>
+					<h4 class="text-white font-weight-bold text-center mt-4">Winner</h4>
+					<div class="card success-color-dark">
+						<div class="row">
+							<div id="winnerreel" class="col"></div>
+						</div>
+					</div>
+					<br>
+					<h4 class="text-white font-weight-bold text-center mt-4">FullTime</h4>
+					<div class="card success-color-dark mt-3">
+						<div class="row">
+							<div id="awayteamscorereelfull" class="col">
+							</div>
+							<div class="col">
+								<h1 class="text-white font-weight-bold text-center mt-2">-</h1>
+							</div>
+							<div id="hometeamscorereelfull" class="col">
+							</div>
+						</div>
+					</div>
+					<br>
+					<h4 class="text-white font-weight-bold text-center mt-4">HalfTime</h4>
+					<div class="card success-color-dark">
+						<div class="row">
+							<div id="awayteamscorereelhalf" class="col">
+							</div>
+							<div class="col">
+								<h1 class="text-white font-weight-bold text-center mt-2">-</h1>
+							</div>
+							<div id="hometeamscorereelhalf" class="col">
+							</div>
+						</div>
+					</div>
+					<br>
+				</div>
+			</div>
+		
+			<div class="container card success-color mt-4">
+				<h1 class="text-white font-weight-bold text-center mt-4">PREDICTION</h1>
+				<img class="mx-auto d-block mt-3" src="images/cup.png" style="width:12%">
+				<div class="container-sm">
+					<div class="row">
+						<div id="awayteamname" class="col">
+						</div>
+						<div class="col">
+						</div>
+						<div id="hometeamname" class="col">
+						</div>
+					</div>
+					<h4 class="text-white font-weight-bold text-center mt-4">FullTime</h4>
+					<div class="card success-color-dark mt-3">
+						<div class="row">
+							<div id="awayteamscore" class="col">
+							</div>
+							<div class="col">
+								<h1 class="text-white font-weight-bold text-center mt-2">-</h1>
+							</div>
+							<div id="hometeamscore" class="col">
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<br>
+				<div class="container-sm">
+					<div class="row">
+						<div id="awayteamwin%" class="col"></div>
+						<h4 class="text-white font-weight-bold text-center mt-2 col">Draw</h4>
+						<div id="hometeamwin%" class="col"></div>
+					</div>
+					
+					<div class="row">
+						<div class="col">
+							<div id="predictawayteam" class="progress progress-bar-vertical mt-2 ml-2" title="AwayTeam win %" data-toggle="popover" data-trigger="hover" data-placement="bottom" data-content="" style="width:310px;height:180px"></div>
+						</div>
+						<div class="col">
+							<div id="predictdraw" class="progress progress-bar-vertical mt-2 ml-2" title="Draw %" data-toggle="popover" data-trigger="hover" data-placement="bottom" data-content="" style="width:310px;height:180px"></div>
+						</div>
+						<div class="col">
+							<div id="predicthometeam" class="progress progress-bar-vertical mt-2 ml-2" title="HomeTeam win %" data-toggle="popover" data-trigger="hover" data-placement="bottom" data-content="" style="width:310px;height:180px"></div>
+						</div>
+					</div>
+				</div>
+				<br>
+			</div>
+			
+		</div>
+	
+	</body>
+
+	<script type="text/javascript">
+	function $_GET(param) {
+		var vars = {};
+		window.location.href.replace( location.hash, '' ).replace( 
+			/[?&]+([^=&]+)=?([^&]*)?/gi, // regexp
+			function( m, key, value ) { // callback
+				vars[key] = value !== undefined ? value : '';
+			}
+		);
+
+		if ( param ) {
+			return vars[param] ? vars[param] : null;	
+		}
+		return vars;
+	}
+
+	var idmatch = decodeURI( $_GET( 'idmatch' ) );
+	var awayteam = decodeURI( $_GET( 'awayteam' ) );
+	var hometeam = decodeURI( $_GET( 'hometeam' ) );
+	
+	//popover
+	$(document).ready(function(){
+		$('[data-toggle="popover"]').popover();   
+	});
+	
+	//matches
+	$.getJSON("predict.json", function(json) {
+		console.log(json);
+	
+		var count = Object.keys(json.id_match).length;
+		
+		for(var i = 0; i < count; i++){
+			if(json.id_match[i] == idmatch){
+				document.getElementById("hometeamname").innerHTML = `<h2 class="text-white font-weight-bold text-center mt-4">${json.homeTeam[i]}</h2>`
+				document.getElementById("awayteamname").innerHTML = `<h2 class="text-white font-weight-bold text-center mt-4">${json.AwayTeam[i]}</h2>`
+				
+				document.getElementById("awayteamwin%").innerHTML = `<h4 class="text-white font-weight-bold text-center mt-2">${json.AwayTeam[i]}</h4>`
+				document.getElementById("predictawayteam").innerHTML = `<div id="barAT" class="progress-bar progress-bar success-color-dark " role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="height:${json.prediction_awayTeam_victory[i]}%;"><h5>${json.prediction_awayTeam_victory[i]}%</h5></div>`
+				
+				document.getElementById("predictdraw").innerHTML = `<div class="progress-bar progress-bar success-color-dark" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="height:${json.prediction_egalite[i]}%;"><h5>${json.prediction_egalite[i]}%</h5></div>`
+				
+				document.getElementById("hometeamwin%").innerHTML = `<h4 class="text-white font-weight-bold text-center mt-2">${json.homeTeam[i]}</h4>`
+				document.getElementById("predicthometeam").innerHTML = `<div class="progress-bar progress-bar success-color-dark" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="height:${json.prediction_homeTeam_victory[i]}%;"><h5>${json.prediction_homeTeam_victory[i]}%</h5></div>`
+				
+				var winrateat = `${json.prediction_awayTeam_victory[i]}%`
+				document.getElementById("predictawayteam").setAttribute('data-content', winrateat);
+				
+				var winratedraw = `${json.prediction_egalite[i]}%`
+				document.getElementById("predictdraw").setAttribute('data-content', winratedraw);
+				
+				var winrateht = `${json.prediction_homeTeam_victory[i]}%`
+				document.getElementById("predicthometeam").setAttribute('data-content', winrateht);
+				
+			}
+		}
+		
+	});
+	
+	$.ajaxSetup({
+	  headers : {
+		'X-Auth-Token' : '569771c37d684195853778124ab853fc'
+	  }
+	});
+
+
+	$.getJSON(
+	'https://api.football-data.org/v2/matches/'+idmatch, 
+	function(data) { 
+		console.log(data); 
+		
+		function win(x){
+			if(x == "AWAY_TEAM"){
+				name = awayteam;
+				return name;
+			}
+			else if(x == "HOME_TEAM"){
+				name = hometeam;
+				return name;
+			}
+			else {
+				name = 'draw';
+				return name;
+			}
+		}
+		
+		document.getElementById("winnerreel").innerHTML = `<h2 class="text-warning font-weight-bold text-center mt-3 mb-3">${win(data.match.score.winner)}</h2>`
+		
+		document.getElementById("awayteamnamereel").innerHTML = `<h2 class="text-white font-weight-bold text-center mt-4">${data.match.awayTeam.name}</h2>`
+		document.getElementById("hometeamnamereel").innerHTML = `<h2 class="text-white font-weight-bold text-center mt-4">${data.match.homeTeam.name}</h2>`
+	
+		document.getElementById("awayteamscorereelfull").innerHTML = `<h1 class="text-white font-weight-bold text-center mt-3 mb-3">${data.match.score.fullTime.awayTeam}</h1>`
+		document.getElementById("hometeamscorereelfull").innerHTML = `<h1 class="text-white font-weight-bold text-center mt-3 mb-3">${data.match.score.fullTime.homeTeam}</h1>`
+		
+		document.getElementById("awayteamscorereelhalf").innerHTML = `<h1 class="text-white font-weight-bold text-center mt-3 mb-3">${data.match.score.halfTime.awayTeam}</h1>`
+		document.getElementById("hometeamscorereelhalf").innerHTML = `<h1 class="text-white font-weight-bold text-center mt-3 mb-3">${data.match.score.halfTime.homeTeam}</h1>`
+	
+	});
+	
+	</script>
+	
+</html>
