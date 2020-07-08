@@ -1,4 +1,384 @@
 ;Date;HomeTeam;AwayTeam;FTR;HTHG;HTAG;FTHG;FTAG;NameHome;NameAway;puissanceHomeTeam;puissanceAwayTeam
+0;16/08/14;Arsenal;Crystal Palace;H;1.0;1.0;2.0;1.0;Arsenal;CrystalPalace;9962;5005
+1;16/08/14;Leicester;Everton;D;1.0;2.0;2.0;2.0;LeicesterCity;Everton;5388;5420
+2;16/08/14;Man United;Swansea;A;0.0;1.0;1.0;2.0;ManchesterUnited;;8222;100
+3;16/08/14;QPR;Hull;A;0.0;0.0;0.0;1.0;;;100;100
+4;16/08/14;Stoke;Aston Villa;A;0.0;0.0;0.0;1.0;;AstonVilla;100;2624
+5;16/08/14;West Brom;Sunderland;D;1.0;1.0;2.0;2.0;WestBromwichAlbion;;4152;100
+6;16/08/14;West Ham;Tottenham;A;0.0;0.0;0.0;1.0;WestBromwichAlbion;TottenhamHotspur;4152;6835
+7;17/08/14;Liverpool;Southampton;H;1.0;0.0;2.0;1.0;Liverpool;Southampton;7056;4780
+8;17/08/14;Newcastle;Man City;A;0.0;1.0;0.0;2.0;NewcastleUnited;ManchesterCity;2752;8043
+9;18/08/14;Burnley;Chelsea;A;1.0;3.0;1.0;3.0;Burnley;Chelsea;1562;7849
+10;23/08/14;Aston Villa;Newcastle;D;0.0;0.0;0.0;0.0;AstonVilla;NewcastleUnited;2624;2752
+11;23/08/14;Chelsea;Leicester;H;0.0;0.0;2.0;0.0;Chelsea;LeicesterCity;7849;5388
+12;23/08/14;Crystal Palace;West Ham;A;0.0;2.0;1.0;3.0;CrystalPalace;WestBromwichAlbion;5005;4152
+13;23/08/14;Everton;Arsenal;D;2.0;0.0;2.0;2.0;Everton;Arsenal;5420;9962
+14;23/08/14;Southampton;West Brom;D;0.0;0.0;0.0;0.0;Southampton;WestBromwichAlbion;4780;4152
+15;23/08/14;Swansea;Burnley;H;1.0;0.0;1.0;0.0;;Burnley;100;1562
+16;24/08/14;Hull;Stoke;D;1.0;0.0;1.0;1.0;;;100;100
+17;24/08/14;Sunderland;Man United;D;1.0;1.0;1.0;1.0;;ManchesterUnited;100;8222
+18;24/08/14;Tottenham;QPR;H;3.0;0.0;4.0;0.0;TottenhamHotspur;;6835;100
+19;25/08/14;Man City;Liverpool;H;1.0;0.0;3.0;1.0;ManchesterCity;Liverpool;8043;7056
+20;30/08/14;Burnley;Man United;D;0.0;0.0;0.0;0.0;Burnley;ManchesterUnited;1562;8222
+21;30/08/14;Everton;Chelsea;A;1.0;2.0;3.0;6.0;Everton;Chelsea;5420;7849
+22;30/08/14;Man City;Stoke;A;0.0;0.0;0.0;1.0;ManchesterCity;;8043;100
+23;30/08/14;Newcastle;Crystal Palace;D;1.0;1.0;3.0;3.0;NewcastleUnited;CrystalPalace;2752;5005
+24;30/08/14;QPR;Sunderland;H;1.0;0.0;1.0;0.0;;;100;100
+25;30/08/14;Swansea;West Brom;H;2.0;0.0;3.0;0.0;;WestBromwichAlbion;100;4152
+26;30/08/14;West Ham;Southampton;A;1.0;1.0;1.0;3.0;WestBromwichAlbion;Southampton;4152;4780
+27;31/08/14;Aston Villa;Hull;H;2.0;0.0;2.0;1.0;AstonVilla;;2624;100
+28;31/08/14;Leicester;Arsenal;D;1.0;1.0;1.0;1.0;LeicesterCity;Arsenal;5388;9962
+29;31/08/14;Tottenham;Liverpool;A;0.0;1.0;0.0;3.0;TottenhamHotspur;Liverpool;6835;7056
+30;13/09/14;Arsenal;Man City;D;0.0;1.0;2.0;2.0;Arsenal;ManchesterCity;9962;8043
+31;13/09/14;Chelsea;Swansea;H;1.0;1.0;4.0;2.0;Chelsea;;7849;100
+32;13/09/14;Crystal Palace;Burnley;D;0.0;0.0;0.0;0.0;CrystalPalace;Burnley;5005;1562
+33;13/09/14;Liverpool;Aston Villa;A;0.0;1.0;0.0;1.0;Liverpool;AstonVilla;7056;2624
+34;13/09/14;Southampton;Newcastle;H;2.0;0.0;4.0;0.0;Southampton;NewcastleUnited;4780;2752
+35;13/09/14;Stoke;Leicester;A;0.0;0.0;0.0;1.0;;LeicesterCity;100;5388
+36;13/09/14;Sunderland;Tottenham;D;1.0;1.0;2.0;2.0;;TottenhamHotspur;100;6835
+37;13/09/14;West Brom;Everton;A;0.0;1.0;0.0;2.0;WestBromwichAlbion;Everton;4152;5420
+38;14/09/14;Man United;QPR;H;3.0;0.0;4.0;0.0;ManchesterUnited;;8222;100
+39;15/09/14;Hull;West Ham;D;1.0;0.0;2.0;2.0;;WestBromwichAlbion;100;4152
+40;20/09/14;Aston Villa;Arsenal;A;0.0;3.0;0.0;3.0;AstonVilla;Arsenal;2624;9962
+41;20/09/14;Burnley;Sunderland;D;0.0;0.0;0.0;0.0;Burnley;;1562;100
+42;20/09/14;Newcastle;Hull;D;0.0;0.0;2.0;2.0;NewcastleUnited;;2752;100
+43;20/09/14;QPR;Stoke;D;1.0;1.0;2.0;2.0;;;100;100
+44;20/09/14;Swansea;Southampton;A;0.0;0.0;0.0;1.0;;Southampton;100;4780
+45;20/09/14;West Ham;Liverpool;H;2.0;1.0;3.0;1.0;WestBromwichAlbion;Liverpool;4152;7056
+46;21/09/14;Everton;Crystal Palace;A;1.0;1.0;2.0;3.0;Everton;CrystalPalace;5420;5005
+47;21/09/14;Leicester;Man United;H;1.0;2.0;5.0;3.0;LeicesterCity;ManchesterUnited;5388;8222
+48;21/09/14;Man City;Chelsea;D;0.0;0.0;1.0;1.0;ManchesterCity;Chelsea;8043;7849
+49;21/09/14;Tottenham;West Brom;A;0.0;0.0;0.0;1.0;TottenhamHotspur;WestBromwichAlbion;6835;4152
+50;27/09/14;Arsenal;Tottenham;D;0.0;0.0;1.0;1.0;Arsenal;TottenhamHotspur;9962;6835
+51;27/09/14;Chelsea;Aston Villa;H;1.0;0.0;3.0;0.0;Chelsea;AstonVilla;7849;2624
+52;27/09/14;Crystal Palace;Leicester;H;0.0;0.0;2.0;0.0;CrystalPalace;LeicesterCity;5005;5388
+53;27/09/14;Hull;Man City;A;2.0;2.0;2.0;4.0;;ManchesterCity;100;8043
+54;27/09/14;Liverpool;Everton;D;0.0;0.0;1.0;1.0;Liverpool;Everton;7056;5420
+55;27/09/14;Man United;West Ham;H;2.0;1.0;2.0;1.0;ManchesterUnited;WestBromwichAlbion;8222;4152
+56;27/09/14;Southampton;QPR;H;0.0;0.0;2.0;1.0;Southampton;;4780;100
+57;27/09/14;Sunderland;Swansea;D;0.0;0.0;0.0;0.0;;;100;100
+58;28/09/14;West Brom;Burnley;H;2.0;0.0;4.0;0.0;WestBromwichAlbion;Burnley;4152;1562
+59;29/09/14;Stoke;Newcastle;H;1.0;0.0;1.0;0.0;;NewcastleUnited;100;2752
+60;04/10/14;Aston Villa;Man City;A;0.0;0.0;0.0;2.0;AstonVilla;ManchesterCity;2624;8043
+61;04/10/14;Hull;Crystal Palace;H;0.0;0.0;2.0;0.0;;CrystalPalace;100;5005
+62;04/10/14;Leicester;Burnley;D;2.0;1.0;2.0;2.0;LeicesterCity;Burnley;5388;1562
+63;04/10/14;Liverpool;West Brom;H;1.0;0.0;2.0;1.0;Liverpool;WestBromwichAlbion;7056;4152
+64;04/10/14;Sunderland;Stoke;H;2.0;1.0;3.0;1.0;;;100;100
+65;04/10/14;Swansea;Newcastle;D;1.0;1.0;2.0;2.0;;NewcastleUnited;100;2752
+66;05/10/14;Chelsea;Arsenal;H;1.0;0.0;2.0;0.0;Chelsea;Arsenal;7849;9962
+67;05/10/14;Man United;Everton;H;1.0;0.0;2.0;1.0;ManchesterUnited;Everton;8222;5420
+68;05/10/14;Tottenham;Southampton;H;1.0;0.0;1.0;0.0;TottenhamHotspur;Southampton;6835;4780
+69;05/10/14;West Ham;QPR;H;1.0;0.0;2.0;0.0;WestBromwichAlbion;;4152;100
+70;18/10/14;Arsenal;Hull;D;1.0;1.0;2.0;2.0;Arsenal;;9962;100
+71;18/10/14;Burnley;West Ham;A;0.0;0.0;1.0;3.0;Burnley;WestBromwichAlbion;1562;4152
+72;18/10/14;Crystal Palace;Chelsea;A;0.0;1.0;1.0;2.0;CrystalPalace;Chelsea;5005;7849
+73;18/10/14;Everton;Aston Villa;H;1.0;0.0;3.0;0.0;Everton;AstonVilla;5420;2624
+74;18/10/14;Man City;Tottenham;H;2.0;1.0;4.0;1.0;ManchesterCity;TottenhamHotspur;8043;6835
+75;18/10/14;Newcastle;Leicester;H;0.0;0.0;1.0;0.0;NewcastleUnited;LeicesterCity;2752;5388
+76;18/10/14;Southampton;Sunderland;H;3.0;0.0;8.0;0.0;Southampton;;4780;100
+77;19/10/14;QPR;Liverpool;A;0.0;0.0;2.0;3.0;;Liverpool;100;7056
+78;19/10/14;Stoke;Swansea;H;1.0;1.0;2.0;1.0;;;100;100
+79;20/10/14;West Brom;Man United;D;1.0;0.0;2.0;2.0;WestBromwichAlbion;ManchesterUnited;4152;8222
+80;25/10/14;Liverpool;Hull;D;0.0;0.0;0.0;0.0;Liverpool;;7056;100
+81;25/10/14;Southampton;Stoke;H;1.0;0.0;1.0;0.0;Southampton;;4780;100
+82;25/10/14;Sunderland;Arsenal;A;0.0;1.0;0.0;2.0;;Arsenal;100;9962
+83;25/10/14;Swansea;Leicester;H;1.0;0.0;2.0;0.0;;LeicesterCity;100;5388
+84;25/10/14;West Brom;Crystal Palace;D;0.0;2.0;2.0;2.0;WestBromwichAlbion;CrystalPalace;4152;5005
+85;25/10/14;West Ham;Man City;H;1.0;0.0;2.0;1.0;WestBromwichAlbion;ManchesterCity;4152;8043
+86;26/10/14;Burnley;Everton;A;1.0;2.0;1.0;3.0;Burnley;Everton;1562;5420
+87;26/10/14;Man United;Chelsea;D;0.0;0.0;1.0;1.0;ManchesterUnited;Chelsea;8222;7849
+88;26/10/14;Tottenham;Newcastle;A;1.0;0.0;1.0;2.0;TottenhamHotspur;NewcastleUnited;6835;2752
+89;27/10/14;QPR;Aston Villa;H;1.0;0.0;2.0;0.0;;AstonVilla;100;2624
+90;01/11/14;Arsenal;Burnley;H;0.0;0.0;3.0;0.0;Arsenal;Burnley;9962;1562
+91;01/11/14;Chelsea;QPR;H;1.0;0.0;2.0;1.0;Chelsea;;7849;100
+92;01/11/14;Everton;Swansea;D;0.0;0.0;0.0;0.0;Everton;;5420;100
+93;01/11/14;Hull;Southampton;A;0.0;1.0;0.0;1.0;;Southampton;100;4780
+94;01/11/14;Leicester;West Brom;A;0.0;0.0;0.0;1.0;LeicesterCity;WestBromwichAlbion;5388;4152
+95;01/11/14;Newcastle;Liverpool;H;0.0;0.0;1.0;0.0;NewcastleUnited;Liverpool;2752;7056
+96;01/11/14;Stoke;West Ham;D;1.0;0.0;2.0;2.0;;WestBromwichAlbion;100;4152
+97;02/11/14;Aston Villa;Tottenham;A;1.0;0.0;1.0;2.0;AstonVilla;TottenhamHotspur;2624;6835
+98;02/11/14;Man City;Man United;H;0.0;0.0;1.0;0.0;ManchesterCity;ManchesterUnited;8043;8222
+99;03/11/14;Crystal Palace;Sunderland;A;0.0;1.0;1.0;3.0;CrystalPalace;;5005;100
+100;08/11/14;Burnley;Hull;H;0.0;0.0;1.0;0.0;Burnley;;1562;100
+101;08/11/14;Liverpool;Chelsea;A;1.0;1.0;1.0;2.0;Liverpool;Chelsea;7056;7849
+102;08/11/14;Man United;Crystal Palace;H;0.0;0.0;1.0;0.0;ManchesterUnited;CrystalPalace;8222;5005
+103;08/11/14;QPR;Man City;D;1.0;1.0;2.0;2.0;;ManchesterCity;100;8043
+104;08/11/14;Southampton;Leicester;H;0.0;0.0;2.0;0.0;Southampton;LeicesterCity;4780;5388
+105;08/11/14;West Ham;Aston Villa;D;0.0;0.0;0.0;0.0;WestBromwichAlbion;AstonVilla;4152;2624
+106;09/11/14;Sunderland;Everton;D;0.0;0.0;1.0;1.0;;Everton;100;5420
+107;09/11/14;Swansea;Arsenal;H;0.0;0.0;2.0;1.0;;Arsenal;100;9962
+108;09/11/14;Tottenham;Stoke;A;0.0;2.0;1.0;2.0;TottenhamHotspur;;6835;100
+109;09/11/14;West Brom;Newcastle;A;0.0;1.0;0.0;2.0;WestBromwichAlbion;NewcastleUnited;4152;2752
+110;22/11/14;Arsenal;Man United;A;0.0;0.0;1.0;2.0;Arsenal;ManchesterUnited;9962;8222
+111;22/11/14;Chelsea;West Brom;H;2.0;0.0;2.0;0.0;Chelsea;WestBromwichAlbion;7849;4152
+112;22/11/14;Everton;West Ham;H;1.0;0.0;2.0;1.0;Everton;WestBromwichAlbion;5420;4152
+113;22/11/14;Leicester;Sunderland;D;0.0;0.0;0.0;0.0;LeicesterCity;;5388;100
+114;22/11/14;Man City;Swansea;H;1.0;1.0;2.0;1.0;ManchesterCity;;8043;100
+115;22/11/14;Newcastle;QPR;H;0.0;0.0;1.0;0.0;NewcastleUnited;;2752;100
+116;22/11/14;Stoke;Burnley;A;1.0;2.0;1.0;2.0;;Burnley;100;1562
+117;23/11/14;Crystal Palace;Liverpool;H;1.0;1.0;3.0;1.0;CrystalPalace;Liverpool;5005;7056
+118;23/11/14;Hull;Tottenham;A;1.0;0.0;1.0;2.0;;TottenhamHotspur;100;6835
+119;24/11/14;Aston Villa;Southampton;D;1.0;0.0;1.0;1.0;AstonVilla;Southampton;2624;4780
+120;29/11/14;Burnley;Aston Villa;D;0.0;1.0;1.0;1.0;Burnley;AstonVilla;1562;2624
+121;29/11/14;Liverpool;Stoke;H;0.0;0.0;1.0;0.0;Liverpool;;7056;100
+122;29/11/14;Man United;Hull;H;2.0;0.0;3.0;0.0;ManchesterUnited;;8222;100
+123;29/11/14;QPR;Leicester;H;2.0;1.0;3.0;2.0;;LeicesterCity;100;5388
+124;29/11/14;Sunderland;Chelsea;D;0.0;0.0;0.0;0.0;;Chelsea;100;7849
+125;29/11/14;Swansea;Crystal Palace;D;1.0;1.0;1.0;1.0;;CrystalPalace;100;5005
+126;29/11/14;West Brom;Arsenal;A;0.0;0.0;0.0;1.0;WestBromwichAlbion;Arsenal;4152;9962
+127;29/11/14;West Ham;Newcastle;H;0.0;0.0;1.0;0.0;WestBromwichAlbion;NewcastleUnited;4152;2752
+128;30/11/14;Southampton;Man City;A;0.0;0.0;0.0;3.0;Southampton;ManchesterCity;4780;8043
+129;30/11/14;Tottenham;Everton;H;2.0;1.0;2.0;1.0;TottenhamHotspur;Everton;6835;5420
+130;02/12/14;Burnley;Newcastle;D;1.0;0.0;1.0;1.0;Burnley;NewcastleUnited;1562;2752
+131;02/12/14;Crystal Palace;Aston Villa;A;0.0;1.0;0.0;1.0;CrystalPalace;AstonVilla;5005;2624
+132;02/12/14;Leicester;Liverpool;A;1.0;1.0;1.0;3.0;LeicesterCity;Liverpool;5388;7056
+133;02/12/14;Man United;Stoke;H;1.0;1.0;2.0;1.0;ManchesterUnited;;8222;100
+134;02/12/14;Swansea;QPR;H;0.0;0.0;2.0;0.0;;;100;100
+135;02/12/14;West Brom;West Ham;A;1.0;2.0;1.0;2.0;WestBromwichAlbion;WestBromwichAlbion;4152;4152
+136;03/12/14;Arsenal;Southampton;H;0.0;0.0;1.0;0.0;Arsenal;Southampton;9962;4780
+137;03/12/14;Chelsea;Tottenham;H;2.0;0.0;3.0;0.0;Chelsea;TottenhamHotspur;7849;6835
+138;03/12/14;Everton;Hull;D;1.0;0.0;1.0;1.0;Everton;;5420;100
+139;03/12/14;Sunderland;Man City;A;1.0;2.0;1.0;4.0;;ManchesterCity;100;8043
+140;06/12/14;Hull;West Brom;D;0.0;0.0;0.0;0.0;;WestBromwichAlbion;100;4152
+141;06/12/14;Liverpool;Sunderland;D;0.0;0.0;0.0;0.0;Liverpool;;7056;100
+142;06/12/14;Man City;Everton;H;1.0;0.0;1.0;0.0;ManchesterCity;Everton;8043;5420
+143;06/12/14;Newcastle;Chelsea;H;0.0;0.0;2.0;1.0;NewcastleUnited;Chelsea;2752;7849
+144;06/12/14;QPR;Burnley;H;0.0;0.0;2.0;0.0;;Burnley;100;1562
+145;06/12/14;Stoke;Arsenal;H;3.0;0.0;3.0;2.0;;Arsenal;100;9962
+146;06/12/14;Tottenham;Crystal Palace;D;0.0;0.0;0.0;0.0;TottenhamHotspur;CrystalPalace;6835;5005
+147;07/12/14;Aston Villa;Leicester;H;1.0;1.0;2.0;1.0;AstonVilla;LeicesterCity;2624;5388
+148;07/12/14;West Ham;Swansea;H;1.0;1.0;3.0;1.0;WestBromwichAlbion;;4152;100
+149;08/12/14;Southampton;Man United;A;1.0;1.0;1.0;2.0;Southampton;ManchesterUnited;4780;8222
+150;13/12/14;Arsenal;Newcastle;H;1.0;0.0;4.0;1.0;Arsenal;NewcastleUnited;9962;2752
+151;13/12/14;Burnley;Southampton;H;0.0;0.0;1.0;0.0;Burnley;Southampton;1562;4780
+152;13/12/14;Chelsea;Hull;H;1.0;0.0;2.0;0.0;Chelsea;;7849;100
+153;13/12/14;Crystal Palace;Stoke;D;1.0;1.0;1.0;1.0;CrystalPalace;;5005;100
+154;13/12/14;Leicester;Man City;A;0.0;1.0;0.0;1.0;LeicesterCity;ManchesterCity;5388;8043
+155;13/12/14;Sunderland;West Ham;D;1.0;1.0;1.0;1.0;;WestBromwichAlbion;100;4152
+156;13/12/14;West Brom;Aston Villa;H;0.0;0.0;1.0;0.0;WestBromwichAlbion;AstonVilla;4152;2624
+157;14/12/14;Man United;Liverpool;H;2.0;0.0;3.0;0.0;ManchesterUnited;Liverpool;8222;7056
+158;14/12/14;Swansea;Tottenham;A;0.0;1.0;1.0;2.0;;TottenhamHotspur;100;6835
+159;15/12/14;Everton;QPR;H;2.0;0.0;3.0;1.0;Everton;;5420;100
+160;20/12/14;Aston Villa;Man United;D;1.0;0.0;1.0;1.0;AstonVilla;ManchesterUnited;2624;8222
+161;20/12/14;Hull;Swansea;A;0.0;1.0;0.0;1.0;;;100;100
+162;20/12/14;Man City;Crystal Palace;H;0.0;0.0;3.0;0.0;ManchesterCity;CrystalPalace;8043;5005
+163;20/12/14;QPR;West Brom;H;1.0;2.0;3.0;2.0;;WestBromwichAlbion;100;4152
+164;20/12/14;Southampton;Everton;H;1.0;0.0;3.0;0.0;Southampton;Everton;4780;5420
+165;20/12/14;Tottenham;Burnley;H;2.0;1.0;2.0;1.0;TottenhamHotspur;Burnley;6835;1562
+166;20/12/14;West Ham;Leicester;H;1.0;0.0;2.0;0.0;WestBromwichAlbion;LeicesterCity;4152;5388
+167;21/12/14;Liverpool;Arsenal;D;1.0;1.0;2.0;2.0;Liverpool;Arsenal;7056;9962
+168;21/12/14;Newcastle;Sunderland;A;0.0;0.0;0.0;1.0;NewcastleUnited;;2752;100
+169;22/12/14;Stoke;Chelsea;A;0.0;1.0;0.0;2.0;;Chelsea;100;7849
+170;26/12/14;Arsenal;QPR;H;1.0;0.0;2.0;1.0;Arsenal;;9962;100
+171;26/12/14;Burnley;Liverpool;A;0.0;0.0;0.0;1.0;Burnley;Liverpool;1562;7056
+172;26/12/14;Chelsea;West Ham;H;1.0;0.0;2.0;0.0;Chelsea;WestBromwichAlbion;7849;4152
+173;26/12/14;Crystal Palace;Southampton;A;0.0;1.0;1.0;3.0;CrystalPalace;Southampton;5005;4780
+174;26/12/14;Everton;Stoke;A;0.0;1.0;0.0;1.0;Everton;;5420;100
+175;26/12/14;Leicester;Tottenham;A;0.0;1.0;1.0;2.0;LeicesterCity;TottenhamHotspur;5388;6835
+176;26/12/14;Man United;Newcastle;H;2.0;0.0;3.0;1.0;ManchesterUnited;NewcastleUnited;8222;2752
+177;26/12/14;Sunderland;Hull;A;1.0;1.0;1.0;3.0;;;100;100
+178;26/12/14;Swansea;Aston Villa;H;1.0;0.0;1.0;0.0;;AstonVilla;100;2624
+179;26/12/14;West Brom;Man City;A;0.0;3.0;1.0;3.0;WestBromwichAlbion;ManchesterCity;4152;8043
+180;28/12/14;Aston Villa;Sunderland;D;0.0;0.0;0.0;0.0;AstonVilla;;2624;100
+181;28/12/14;Hull;Leicester;A;0.0;1.0;0.0;1.0;;LeicesterCity;100;5388
+182;28/12/14;Man City;Burnley;D;2.0;0.0;2.0;2.0;ManchesterCity;Burnley;8043;1562
+183;28/12/14;Newcastle;Everton;H;1.0;1.0;3.0;2.0;NewcastleUnited;Everton;2752;5420
+184;28/12/14;QPR;Crystal Palace;D;0.0;0.0;0.0;0.0;;CrystalPalace;100;5005
+185;28/12/14;Southampton;Chelsea;D;1.0;1.0;1.0;1.0;Southampton;Chelsea;4780;7849
+186;28/12/14;Stoke;West Brom;H;0.0;0.0;2.0;0.0;;WestBromwichAlbion;100;4152
+187;28/12/14;Tottenham;Man United;D;0.0;0.0;0.0;0.0;TottenhamHotspur;ManchesterUnited;6835;8222
+188;28/12/14;West Ham;Arsenal;A;0.0;2.0;1.0;2.0;WestBromwichAlbion;Arsenal;4152;9962
+189;29/12/14;Liverpool;Swansea;H;1.0;0.0;4.0;1.0;Liverpool;;7056;100
+190;01/01/15;Aston Villa;Crystal Palace;D;0.0;0.0;0.0;0.0;AstonVilla;CrystalPalace;2624;5005
+191;01/01/15;Hull;Everton;H;2.0;0.0;2.0;0.0;;Everton;100;5420
+192;01/01/15;Liverpool;Leicester;D;2.0;0.0;2.0;2.0;Liverpool;LeicesterCity;7056;5388
+193;01/01/15;Man City;Sunderland;H;0.0;0.0;3.0;2.0;ManchesterCity;;8043;100
+194;01/01/15;Newcastle;Burnley;D;2.0;1.0;3.0;3.0;NewcastleUnited;Burnley;2752;1562
+195;01/01/15;QPR;Swansea;D;1.0;0.0;1.0;1.0;;;100;100
+196;01/01/15;Southampton;Arsenal;H;1.0;0.0;2.0;0.0;Southampton;Arsenal;4780;9962
+197;01/01/15;Stoke;Man United;D;1.0;1.0;1.0;1.0;;ManchesterUnited;100;8222
+198;01/01/15;Tottenham;Chelsea;H;3.0;1.0;5.0;3.0;TottenhamHotspur;Chelsea;6835;7849
+199;01/01/15;West Ham;West Brom;D;1.0;1.0;1.0;1.0;WestBromwichAlbion;WestBromwichAlbion;4152;4152
+200;10/01/15;Burnley;QPR;H;2.0;1.0;2.0;1.0;Burnley;;1562;100
+201;10/01/15;Chelsea;Newcastle;H;1.0;0.0;2.0;0.0;Chelsea;NewcastleUnited;7849;2752
+202;10/01/15;Crystal Palace;Tottenham;H;0.0;0.0;2.0;1.0;CrystalPalace;TottenhamHotspur;5005;6835
+203;10/01/15;Everton;Man City;D;0.0;0.0;1.0;1.0;Everton;ManchesterCity;5420;8043
+204;10/01/15;Leicester;Aston Villa;H;1.0;0.0;1.0;0.0;LeicesterCity;AstonVilla;5388;2624
+205;10/01/15;Sunderland;Liverpool;A;0.0;1.0;0.0;1.0;;Liverpool;100;7056
+206;10/01/15;Swansea;West Ham;D;0.0;1.0;1.0;1.0;;WestBromwichAlbion;100;4152
+207;10/01/15;West Brom;Hull;H;0.0;0.0;1.0;0.0;WestBromwichAlbion;;4152;100
+208;11/01/15;Arsenal;Stoke;H;2.0;0.0;3.0;0.0;Arsenal;;9962;100
+209;11/01/15;Man United;Southampton;A;0.0;0.0;0.0;1.0;ManchesterUnited;Southampton;8222;4780
+210;17/01/15;Aston Villa;Liverpool;A;0.0;1.0;0.0;2.0;AstonVilla;Liverpool;2624;7056
+211;17/01/15;Burnley;Crystal Palace;A;2.0;1.0;2.0;3.0;Burnley;CrystalPalace;1562;5005
+212;17/01/15;Leicester;Stoke;A;0.0;0.0;0.0;1.0;LeicesterCity;;5388;100
+213;17/01/15;Newcastle;Southampton;A;1.0;1.0;1.0;2.0;NewcastleUnited;Southampton;2752;4780
+214;17/01/15;QPR;Man United;A;0.0;0.0;0.0;2.0;;ManchesterUnited;100;8222
+215;17/01/15;Swansea;Chelsea;A;0.0;4.0;0.0;5.0;;Chelsea;100;7849
+216;17/01/15;Tottenham;Sunderland;H;1.0;1.0;2.0;1.0;TottenhamHotspur;;6835;100
+217;18/01/15;Man City;Arsenal;A;0.0;1.0;0.0;2.0;ManchesterCity;Arsenal;8043;9962
+218;18/01/15;West Ham;Hull;H;0.0;0.0;3.0;0.0;WestBromwichAlbion;;4152;100
+219;19/01/15;Everton;West Brom;D;0.0;0.0;0.0;0.0;Everton;WestBromwichAlbion;5420;4152
+220;31/01/15;Chelsea;Man City;D;1.0;1.0;1.0;1.0;Chelsea;ManchesterCity;7849;8043
+221;31/01/15;Crystal Palace;Everton;A;0.0;1.0;0.0;1.0;CrystalPalace;Everton;5005;5420
+222;31/01/15;Hull;Newcastle;A;0.0;1.0;0.0;3.0;;NewcastleUnited;100;2752
+223;31/01/15;Liverpool;West Ham;H;0.0;0.0;2.0;0.0;Liverpool;WestBromwichAlbion;7056;4152
+224;31/01/15;Man United;Leicester;H;3.0;0.0;3.0;1.0;ManchesterUnited;LeicesterCity;8222;5388
+225;31/01/15;Stoke;QPR;H;2.0;1.0;3.0;1.0;;;100;100
+226;31/01/15;Sunderland;Burnley;H;2.0;0.0;2.0;0.0;;Burnley;100;1562
+227;31/01/15;West Brom;Tottenham;A;0.0;2.0;0.0;3.0;WestBromwichAlbion;TottenhamHotspur;4152;6835
+228;01/02/15;Arsenal;Aston Villa;H;1.0;0.0;5.0;0.0;Arsenal;AstonVilla;9962;2624
+229;01/02/15;Southampton;Swansea;A;0.0;0.0;0.0;1.0;Southampton;;4780;100
+230;07/02/15;Aston Villa;Chelsea;A;0.0;1.0;1.0;2.0;AstonVilla;Chelsea;2624;7849
+231;07/02/15;Everton;Liverpool;D;0.0;0.0;0.0;0.0;Everton;Liverpool;5420;7056
+232;07/02/15;Leicester;Crystal Palace;A;0.0;0.0;0.0;1.0;LeicesterCity;CrystalPalace;5388;5005
+233;07/02/15;Man City;Hull;D;0.0;1.0;1.0;1.0;ManchesterCity;;8043;100
+234;07/02/15;QPR;Southampton;A;0.0;0.0;0.0;1.0;;Southampton;100;4780
+235;07/02/15;Swansea;Sunderland;D;0.0;1.0;1.0;1.0;;;100;100
+236;07/02/15;Tottenham;Arsenal;H;0.0;1.0;2.0;1.0;TottenhamHotspur;Arsenal;6835;9962
+237;08/02/15;Burnley;West Brom;D;2.0;1.0;2.0;2.0;Burnley;WestBromwichAlbion;1562;4152
+238;08/02/15;Newcastle;Stoke;D;0.0;0.0;1.0;1.0;NewcastleUnited;;2752;100
+239;08/02/15;West Ham;Man United;D;0.0;0.0;1.0;1.0;WestBromwichAlbion;ManchesterUnited;4152;8222
+240;10/02/15;Arsenal;Leicester;H;2.0;0.0;2.0;1.0;Arsenal;LeicesterCity;9962;5388
+241;10/02/15;Hull;Aston Villa;H;1.0;0.0;2.0;0.0;;AstonVilla;100;2624
+242;10/02/15;Liverpool;Tottenham;H;1.0;1.0;3.0;2.0;Liverpool;TottenhamHotspur;7056;6835
+243;10/02/15;Sunderland;QPR;A;0.0;2.0;0.0;2.0;;;100;100
+244;11/02/15;Chelsea;Everton;H;0.0;0.0;1.0;0.0;Chelsea;Everton;7849;5420
+245;11/02/15;Crystal Palace;Newcastle;D;0.0;1.0;1.0;1.0;CrystalPalace;NewcastleUnited;5005;2752
+246;11/02/15;Man United;Burnley;H;2.0;1.0;3.0;1.0;ManchesterUnited;Burnley;8222;1562
+247;11/02/15;Southampton;West Ham;D;0.0;0.0;0.0;0.0;Southampton;WestBromwichAlbion;4780;4152
+248;11/02/15;Stoke;Man City;A;1.0;1.0;1.0;4.0;;ManchesterCity;100;8043
+249;11/02/15;West Brom;Swansea;H;0.0;0.0;2.0;0.0;WestBromwichAlbion;;4152;100
+250;21/02/15;Aston Villa;Stoke;A;1.0;1.0;1.0;2.0;AstonVilla;;2624;100
+251;21/02/15;Chelsea;Burnley;D;1.0;0.0;1.0;1.0;Chelsea;Burnley;7849;1562
+252;21/02/15;Crystal Palace;Arsenal;A;0.0;2.0;1.0;2.0;CrystalPalace;Arsenal;5005;9962
+253;21/02/15;Hull;QPR;H;1.0;1.0;2.0;1.0;;;100;100
+254;21/02/15;Man City;Newcastle;H;3.0;0.0;5.0;0.0;ManchesterCity;NewcastleUnited;8043;2752
+255;21/02/15;Sunderland;West Brom;D;0.0;0.0;0.0;0.0;;WestBromwichAlbion;100;4152
+256;21/02/15;Swansea;Man United;H;1.0;1.0;2.0;1.0;;ManchesterUnited;100;8222
+257;22/02/15;Everton;Leicester;D;0.0;0.0;2.0;2.0;Everton;LeicesterCity;5420;5388
+258;22/02/15;Southampton;Liverpool;A;0.0;1.0;0.0;2.0;Southampton;Liverpool;4780;7056
+259;22/02/15;Tottenham;West Ham;D;0.0;1.0;2.0;2.0;TottenhamHotspur;WestBromwichAlbion;6835;4152
+260;28/02/15;Burnley;Swansea;A;0.0;0.0;0.0;1.0;Burnley;;1562;100
+261;28/02/15;Man United;Sunderland;H;0.0;0.0;2.0;0.0;ManchesterUnited;;8222;100
+262;28/02/15;Newcastle;Aston Villa;H;1.0;0.0;1.0;0.0;NewcastleUnited;AstonVilla;2752;2624
+263;28/02/15;Stoke;Hull;H;0.0;0.0;1.0;0.0;;;100;100
+264;28/02/15;West Brom;Southampton;H;1.0;0.0;1.0;0.0;WestBromwichAlbion;Southampton;4152;4780
+265;28/02/15;West Ham;Crystal Palace;A;0.0;1.0;1.0;3.0;WestBromwichAlbion;CrystalPalace;4152;5005
+266;01/03/15;Arsenal;Everton;H;1.0;0.0;2.0;0.0;Arsenal;Everton;9962;5420
+267;01/03/15;Liverpool;Man City;H;1.0;1.0;2.0;1.0;Liverpool;ManchesterCity;7056;8043
+268;03/03/15;Aston Villa;West Brom;H;1.0;0.0;2.0;1.0;AstonVilla;WestBromwichAlbion;2624;4152
+269;03/03/15;Hull;Sunderland;D;1.0;0.0;1.0;1.0;;;100;100
+270;03/03/15;Southampton;Crystal Palace;H;0.0;0.0;1.0;0.0;Southampton;CrystalPalace;4780;5005
+271;04/03/15;Liverpool;Burnley;H;1.0;0.0;2.0;0.0;Liverpool;Burnley;7056;1562
+272;04/03/15;Man City;Leicester;H;1.0;0.0;2.0;0.0;ManchesterCity;LeicesterCity;8043;5388
+273;04/03/15;Newcastle;Man United;A;0.0;0.0;0.0;1.0;NewcastleUnited;ManchesterUnited;2752;8222
+274;04/03/15;QPR;Arsenal;A;0.0;0.0;1.0;2.0;;Arsenal;100;9962
+275;04/03/15;Stoke;Everton;H;1.0;0.0;2.0;0.0;;Everton;100;5420
+276;04/03/15;Tottenham;Swansea;H;1.0;1.0;3.0;2.0;TottenhamHotspur;;6835;100
+277;04/03/15;West Ham;Chelsea;A;0.0;1.0;0.0;1.0;WestBromwichAlbion;Chelsea;4152;7849
+278;07/03/15;QPR;Tottenham;A;0.0;1.0;1.0;2.0;;TottenhamHotspur;100;6835
+279;14/03/15;Arsenal;West Ham;H;1.0;0.0;3.0;0.0;Arsenal;WestBromwichAlbion;9962;4152
+280;14/03/15;Burnley;Man City;H;0.0;0.0;1.0;0.0;Burnley;ManchesterCity;1562;8043
+281;14/03/15;Crystal Palace;QPR;H;3.0;0.0;3.0;1.0;CrystalPalace;;5005;100
+282;14/03/15;Leicester;Hull;D;0.0;0.0;0.0;0.0;LeicesterCity;;5388;100
+283;14/03/15;Sunderland;Aston Villa;A;0.0;4.0;0.0;4.0;;AstonVilla;100;2624
+284;14/03/15;West Brom;Stoke;H;1.0;0.0;1.0;0.0;WestBromwichAlbion;;4152;100
+285;15/03/15;Chelsea;Southampton;D;1.0;1.0;1.0;1.0;Chelsea;Southampton;7849;4780
+286;15/03/15;Everton;Newcastle;H;1.0;0.0;3.0;0.0;Everton;NewcastleUnited;5420;2752
+287;15/03/15;Man United;Tottenham;H;3.0;0.0;3.0;0.0;ManchesterUnited;TottenhamHotspur;8222;6835
+288;16/03/15;Swansea;Liverpool;A;0.0;0.0;0.0;1.0;;Liverpool;100;7056
+289;21/03/15;Aston Villa;Swansea;A;0.0;0.0;0.0;1.0;AstonVilla;;2624;100
+290;21/03/15;Man City;West Brom;H;2.0;0.0;3.0;0.0;ManchesterCity;WestBromwichAlbion;8043;4152
+291;21/03/15;Newcastle;Arsenal;A;0.0;2.0;1.0;2.0;NewcastleUnited;Arsenal;2752;9962
+292;21/03/15;Southampton;Burnley;H;1.0;0.0;2.0;0.0;Southampton;Burnley;4780;1562
+293;21/03/15;Stoke;Crystal Palace;A;1.0;2.0;1.0;2.0;;CrystalPalace;100;5005
+294;21/03/15;Tottenham;Leicester;H;2.0;1.0;4.0;3.0;TottenhamHotspur;LeicesterCity;6835;5388
+295;21/03/15;West Ham;Sunderland;H;0.0;0.0;1.0;0.0;WestBromwichAlbion;;4152;100
+296;22/03/15;Hull;Chelsea;A;2.0;2.0;2.0;3.0;;Chelsea;100;7849
+297;22/03/15;Liverpool;Man United;A;0.0;1.0;1.0;2.0;Liverpool;ManchesterUnited;7056;8222
+298;22/03/15;QPR;Everton;A;0.0;1.0;1.0;2.0;;Everton;100;5420
+299;04/04/15;Arsenal;Liverpool;H;3.0;0.0;4.0;1.0;Arsenal;Liverpool;9962;7056
+300;04/04/15;Chelsea;Stoke;H;1.0;1.0;2.0;1.0;Chelsea;;7849;100
+301;04/04/15;Everton;Southampton;H;1.0;0.0;1.0;0.0;Everton;Southampton;5420;4780
+302;04/04/15;Leicester;West Ham;H;1.0;1.0;2.0;1.0;LeicesterCity;WestBromwichAlbion;5388;4152
+303;04/04/15;Man United;Aston Villa;H;1.0;0.0;3.0;1.0;ManchesterUnited;AstonVilla;8222;2624
+304;04/04/15;Swansea;Hull;H;2.0;0.0;3.0;1.0;;;100;100
+305;04/04/15;West Brom;QPR;A;0.0;3.0;1.0;4.0;WestBromwichAlbion;;4152;100
+306;05/04/15;Burnley;Tottenham;D;0.0;0.0;0.0;0.0;Burnley;TottenhamHotspur;1562;6835
+307;05/04/15;Sunderland;Newcastle;H;1.0;0.0;1.0;0.0;;NewcastleUnited;100;2752
+308;06/04/15;Crystal Palace;Man City;H;1.0;0.0;2.0;1.0;CrystalPalace;ManchesterCity;5005;8043
+309;07/04/15;Aston Villa;QPR;D;2.0;1.0;3.0;3.0;AstonVilla;;2624;100
+310;11/04/15;Burnley;Arsenal;A;0.0;1.0;0.0;1.0;Burnley;Arsenal;1562;9962
+311;11/04/15;Southampton;Hull;H;0.0;0.0;2.0;0.0;Southampton;;4780;100
+312;11/04/15;Sunderland;Crystal Palace;A;0.0;0.0;1.0;4.0;;CrystalPalace;100;5005
+313;11/04/15;Swansea;Everton;D;0.0;1.0;1.0;1.0;;Everton;100;5420
+314;11/04/15;Tottenham;Aston Villa;A;0.0;1.0;0.0;1.0;TottenhamHotspur;AstonVilla;6835;2624
+315;11/04/15;West Brom;Leicester;A;2.0;1.0;2.0;3.0;WestBromwichAlbion;LeicesterCity;4152;5388
+316;11/04/15;West Ham;Stoke;D;1.0;0.0;1.0;1.0;WestBromwichAlbion;;4152;100
+317;12/04/15;Man United;Man City;H;2.0;1.0;4.0;2.0;ManchesterUnited;ManchesterCity;8222;8043
+318;12/04/15;QPR;Chelsea;A;0.0;0.0;0.0;1.0;;Chelsea;100;7849
+319;13/04/15;Liverpool;Newcastle;H;1.0;0.0;2.0;0.0;Liverpool;NewcastleUnited;7056;2752
+320;18/04/15;Chelsea;Man United;H;1.0;0.0;1.0;0.0;Chelsea;ManchesterUnited;7849;8222
+321;18/04/15;Crystal Palace;West Brom;A;0.0;1.0;0.0;2.0;CrystalPalace;WestBromwichAlbion;5005;4152
+322;18/04/15;Everton;Burnley;H;1.0;0.0;1.0;0.0;Everton;Burnley;5420;1562
+323;18/04/15;Leicester;Swansea;H;1.0;0.0;2.0;0.0;LeicesterCity;;5388;100
+324;18/04/15;Stoke;Southampton;H;0.0;1.0;2.0;1.0;;Southampton;100;4780
+325;19/04/15;Man City;West Ham;H;2.0;0.0;2.0;0.0;ManchesterCity;WestBromwichAlbion;8043;4152
+326;19/04/15;Newcastle;Tottenham;A;0.0;1.0;1.0;3.0;NewcastleUnited;TottenhamHotspur;2752;6835
+327;25/04/15;Burnley;Leicester;A;0.0;0.0;0.0;1.0;Burnley;LeicesterCity;1562;5388
+328;25/04/15;Crystal Palace;Hull;A;0.0;0.0;0.0;2.0;CrystalPalace;;5005;100
+329;25/04/15;Man City;Aston Villa;H;1.0;0.0;3.0;2.0;ManchesterCity;AstonVilla;8043;2624
+330;25/04/15;Newcastle;Swansea;A;1.0;1.0;2.0;3.0;NewcastleUnited;;2752;100
+331;25/04/15;QPR;West Ham;D;0.0;0.0;0.0;0.0;;WestBromwichAlbion;100;4152
+332;25/04/15;Southampton;Tottenham;D;1.0;1.0;2.0;2.0;Southampton;TottenhamHotspur;4780;6835
+333;25/04/15;Stoke;Sunderland;D;1.0;1.0;1.0;1.0;;;100;100
+334;25/04/15;West Brom;Liverpool;D;0.0;0.0;0.0;0.0;WestBromwichAlbion;Liverpool;4152;7056
+335;26/04/15;Arsenal;Chelsea;D;0.0;0.0;0.0;0.0;Arsenal;Chelsea;9962;7849
+336;26/04/15;Everton;Man United;H;2.0;0.0;3.0;0.0;Everton;ManchesterUnited;5420;8222
+337;28/04/15;Hull;Liverpool;H;1.0;0.0;1.0;0.0;;Liverpool;100;7056
+338;29/04/15;Leicester;Chelsea;A;1.0;0.0;1.0;3.0;LeicesterCity;Chelsea;5388;7849
+339;02/05/15;Aston Villa;Everton;H;2.0;0.0;3.0;2.0;AstonVilla;Everton;2624;5420
+340;02/05/15;Leicester;Newcastle;H;2.0;0.0;3.0;0.0;LeicesterCity;NewcastleUnited;5388;2752
+341;02/05/15;Liverpool;QPR;H;1.0;0.0;2.0;1.0;Liverpool;;7056;100
+342;02/05/15;Man United;West Brom;A;0.0;0.0;0.0;1.0;ManchesterUnited;WestBromwichAlbion;8222;4152
+343;02/05/15;Sunderland;Southampton;H;1.0;1.0;2.0;1.0;;Southampton;100;4780
+344;02/05/15;Swansea;Stoke;H;0.0;0.0;2.0;0.0;;;100;100
+345;02/05/15;West Ham;Burnley;H;1.0;0.0;1.0;0.0;WestBromwichAlbion;Burnley;4152;1562
+346;03/05/15;Chelsea;Crystal Palace;H;1.0;0.0;1.0;0.0;Chelsea;CrystalPalace;7849;5005
+347;03/05/15;Tottenham;Man City;A;0.0;1.0;0.0;1.0;TottenhamHotspur;ManchesterCity;6835;8043
+348;04/05/15;Hull;Arsenal;A;0.0;3.0;1.0;3.0;;Arsenal;100;9962
+349;09/05/15;Aston Villa;West Ham;H;1.0;0.0;1.0;0.0;AstonVilla;WestBromwichAlbion;2624;4152
+350;09/05/15;Crystal Palace;Man United;A;0.0;1.0;1.0;2.0;CrystalPalace;ManchesterUnited;5005;8222
+351;09/05/15;Everton;Sunderland;A;0.0;0.0;0.0;2.0;Everton;;5420;100
+352;09/05/15;Hull;Burnley;A;0.0;0.0;0.0;1.0;;Burnley;100;1562
+353;09/05/15;Leicester;Southampton;H;2.0;0.0;2.0;0.0;LeicesterCity;Southampton;5388;4780
+354;09/05/15;Newcastle;West Brom;D;1.0;1.0;1.0;1.0;NewcastleUnited;WestBromwichAlbion;2752;4152
+355;09/05/15;Stoke;Tottenham;H;2.0;0.0;3.0;0.0;;TottenhamHotspur;100;6835
+356;10/05/15;Chelsea;Liverpool;D;1.0;1.0;1.0;1.0;Chelsea;Liverpool;7849;7056
+357;10/05/15;Man City;QPR;H;2.0;0.0;6.0;0.0;ManchesterCity;;8043;100
+358;11/05/15;Arsenal;Swansea;A;0.0;0.0;0.0;1.0;Arsenal;;9962;100
+359;16/05/15;Burnley;Stoke;D;0.0;0.0;0.0;0.0;Burnley;;1562;100
+360;16/05/15;Liverpool;Crystal Palace;A;1.0;1.0;1.0;3.0;Liverpool;CrystalPalace;7056;5005
+361;16/05/15;QPR;Newcastle;H;0.0;1.0;2.0;1.0;;NewcastleUnited;100;2752
+362;16/05/15;Southampton;Aston Villa;H;5.0;1.0;6.0;1.0;Southampton;AstonVilla;4780;2624
+363;16/05/15;Sunderland;Leicester;D;0.0;0.0;0.0;0.0;;LeicesterCity;100;5388
+364;16/05/15;Tottenham;Hull;H;0.0;0.0;2.0;0.0;TottenhamHotspur;;6835;100
+365;16/05/15;West Ham;Everton;A;0.0;0.0;1.0;2.0;WestBromwichAlbion;Everton;4152;5420
+366;17/05/15;Man United;Arsenal;D;1.0;0.0;1.0;1.0;ManchesterUnited;Arsenal;8222;9962
+367;17/05/15;Swansea;Man City;A;1.0;2.0;2.0;4.0;;ManchesterCity;100;8043
+368;18/05/15;West Brom;Chelsea;H;1.0;0.0;3.0;0.0;WestBromwichAlbion;Chelsea;4152;7849
+369;20/05/15;Arsenal;Sunderland;D;0.0;0.0;0.0;0.0;Arsenal;;9962;100
+370;24/05/15;Arsenal;West Brom;H;4.0;0.0;4.0;1.0;Arsenal;WestBromwichAlbion;9962;4152
+371;24/05/15;Aston Villa;Burnley;A;0.0;1.0;0.0;1.0;AstonVilla;Burnley;2624;1562
+372;24/05/15;Chelsea;Sunderland;H;1.0;1.0;3.0;1.0;Chelsea;;7849;100
+373;24/05/15;Crystal Palace;Swansea;H;0.0;0.0;1.0;0.0;CrystalPalace;;5005;100
+374;24/05/15;Everton;Tottenham;A;0.0;1.0;0.0;1.0;Everton;TottenhamHotspur;5420;6835
+375;24/05/15;Hull;Man United;D;0.0;0.0;0.0;0.0;;ManchesterUnited;100;8222
+376;24/05/15;Leicester;QPR;H;2.0;0.0;5.0;1.0;LeicesterCity;;5388;100
+377;24/05/15;Man City;Southampton;H;1.0;0.0;2.0;0.0;ManchesterCity;Southampton;8043;4780
+378;24/05/15;Newcastle;West Ham;H;0.0;0.0;2.0;0.0;NewcastleUnited;WestBromwichAlbion;2752;4152
+379;24/05/15;Stoke;Liverpool;H;5.0;0.0;6.0;1.0;;Liverpool;100;7056
 0;08/08/14;Reims;Paris SG;D;2.0;1.0;2.0;2.0;Reims;PSG;2021;9482
 1;09/08/14;Bastia;Marseille;D;1.0;2.0;3.0;3.0;;OlympiqueMarseille;100;4683
 2;09/08/14;Evian Thonon Gaillard;Caen;A;0.0;3.0;0.0;3.0;;;100;100
@@ -1065,386 +1445,6 @@
 303;23/05/15;Nacional;Pacos Ferreira;H;2.0;0.0;3.0;0.0;;;100;100
 304;23/05/15;Rio Ave;Sp Lisbon;A;0.0;0.0;0.0;1.0;;;100;100
 305;23/05/15;Sp Braga;Setubal;H;3.0;0.0;5.0;0.0;;;100;100
-0;16/08/14;Arsenal;Crystal Palace;H;1.0;1.0;2.0;1.0;Arsenal;CrystalPalace;9962;5005
-1;16/08/14;Leicester;Everton;D;1.0;2.0;2.0;2.0;LeicesterCity;Everton;5388;5420
-2;16/08/14;Man United;Swansea;A;0.0;1.0;1.0;2.0;ManchesterUnited;;8222;100
-3;16/08/14;QPR;Hull;A;0.0;0.0;0.0;1.0;;;100;100
-4;16/08/14;Stoke;Aston Villa;A;0.0;0.0;0.0;1.0;;AstonVilla;100;2624
-5;16/08/14;West Brom;Sunderland;D;1.0;1.0;2.0;2.0;WestBromwichAlbion;;4152;100
-6;16/08/14;West Ham;Tottenham;A;0.0;0.0;0.0;1.0;WestBromwichAlbion;TottenhamHotspur;4152;6835
-7;17/08/14;Liverpool;Southampton;H;1.0;0.0;2.0;1.0;Liverpool;Southampton;7056;4780
-8;17/08/14;Newcastle;Man City;A;0.0;1.0;0.0;2.0;NewcastleUnited;ManchesterCity;2752;8043
-9;18/08/14;Burnley;Chelsea;A;1.0;3.0;1.0;3.0;Burnley;Chelsea;1562;7849
-10;23/08/14;Aston Villa;Newcastle;D;0.0;0.0;0.0;0.0;AstonVilla;NewcastleUnited;2624;2752
-11;23/08/14;Chelsea;Leicester;H;0.0;0.0;2.0;0.0;Chelsea;LeicesterCity;7849;5388
-12;23/08/14;Crystal Palace;West Ham;A;0.0;2.0;1.0;3.0;CrystalPalace;WestBromwichAlbion;5005;4152
-13;23/08/14;Everton;Arsenal;D;2.0;0.0;2.0;2.0;Everton;Arsenal;5420;9962
-14;23/08/14;Southampton;West Brom;D;0.0;0.0;0.0;0.0;Southampton;WestBromwichAlbion;4780;4152
-15;23/08/14;Swansea;Burnley;H;1.0;0.0;1.0;0.0;;Burnley;100;1562
-16;24/08/14;Hull;Stoke;D;1.0;0.0;1.0;1.0;;;100;100
-17;24/08/14;Sunderland;Man United;D;1.0;1.0;1.0;1.0;;ManchesterUnited;100;8222
-18;24/08/14;Tottenham;QPR;H;3.0;0.0;4.0;0.0;TottenhamHotspur;;6835;100
-19;25/08/14;Man City;Liverpool;H;1.0;0.0;3.0;1.0;ManchesterCity;Liverpool;8043;7056
-20;30/08/14;Burnley;Man United;D;0.0;0.0;0.0;0.0;Burnley;ManchesterUnited;1562;8222
-21;30/08/14;Everton;Chelsea;A;1.0;2.0;3.0;6.0;Everton;Chelsea;5420;7849
-22;30/08/14;Man City;Stoke;A;0.0;0.0;0.0;1.0;ManchesterCity;;8043;100
-23;30/08/14;Newcastle;Crystal Palace;D;1.0;1.0;3.0;3.0;NewcastleUnited;CrystalPalace;2752;5005
-24;30/08/14;QPR;Sunderland;H;1.0;0.0;1.0;0.0;;;100;100
-25;30/08/14;Swansea;West Brom;H;2.0;0.0;3.0;0.0;;WestBromwichAlbion;100;4152
-26;30/08/14;West Ham;Southampton;A;1.0;1.0;1.0;3.0;WestBromwichAlbion;Southampton;4152;4780
-27;31/08/14;Aston Villa;Hull;H;2.0;0.0;2.0;1.0;AstonVilla;;2624;100
-28;31/08/14;Leicester;Arsenal;D;1.0;1.0;1.0;1.0;LeicesterCity;Arsenal;5388;9962
-29;31/08/14;Tottenham;Liverpool;A;0.0;1.0;0.0;3.0;TottenhamHotspur;Liverpool;6835;7056
-30;13/09/14;Arsenal;Man City;D;0.0;1.0;2.0;2.0;Arsenal;ManchesterCity;9962;8043
-31;13/09/14;Chelsea;Swansea;H;1.0;1.0;4.0;2.0;Chelsea;;7849;100
-32;13/09/14;Crystal Palace;Burnley;D;0.0;0.0;0.0;0.0;CrystalPalace;Burnley;5005;1562
-33;13/09/14;Liverpool;Aston Villa;A;0.0;1.0;0.0;1.0;Liverpool;AstonVilla;7056;2624
-34;13/09/14;Southampton;Newcastle;H;2.0;0.0;4.0;0.0;Southampton;NewcastleUnited;4780;2752
-35;13/09/14;Stoke;Leicester;A;0.0;0.0;0.0;1.0;;LeicesterCity;100;5388
-36;13/09/14;Sunderland;Tottenham;D;1.0;1.0;2.0;2.0;;TottenhamHotspur;100;6835
-37;13/09/14;West Brom;Everton;A;0.0;1.0;0.0;2.0;WestBromwichAlbion;Everton;4152;5420
-38;14/09/14;Man United;QPR;H;3.0;0.0;4.0;0.0;ManchesterUnited;;8222;100
-39;15/09/14;Hull;West Ham;D;1.0;0.0;2.0;2.0;;WestBromwichAlbion;100;4152
-40;20/09/14;Aston Villa;Arsenal;A;0.0;3.0;0.0;3.0;AstonVilla;Arsenal;2624;9962
-41;20/09/14;Burnley;Sunderland;D;0.0;0.0;0.0;0.0;Burnley;;1562;100
-42;20/09/14;Newcastle;Hull;D;0.0;0.0;2.0;2.0;NewcastleUnited;;2752;100
-43;20/09/14;QPR;Stoke;D;1.0;1.0;2.0;2.0;;;100;100
-44;20/09/14;Swansea;Southampton;A;0.0;0.0;0.0;1.0;;Southampton;100;4780
-45;20/09/14;West Ham;Liverpool;H;2.0;1.0;3.0;1.0;WestBromwichAlbion;Liverpool;4152;7056
-46;21/09/14;Everton;Crystal Palace;A;1.0;1.0;2.0;3.0;Everton;CrystalPalace;5420;5005
-47;21/09/14;Leicester;Man United;H;1.0;2.0;5.0;3.0;LeicesterCity;ManchesterUnited;5388;8222
-48;21/09/14;Man City;Chelsea;D;0.0;0.0;1.0;1.0;ManchesterCity;Chelsea;8043;7849
-49;21/09/14;Tottenham;West Brom;A;0.0;0.0;0.0;1.0;TottenhamHotspur;WestBromwichAlbion;6835;4152
-50;27/09/14;Arsenal;Tottenham;D;0.0;0.0;1.0;1.0;Arsenal;TottenhamHotspur;9962;6835
-51;27/09/14;Chelsea;Aston Villa;H;1.0;0.0;3.0;0.0;Chelsea;AstonVilla;7849;2624
-52;27/09/14;Crystal Palace;Leicester;H;0.0;0.0;2.0;0.0;CrystalPalace;LeicesterCity;5005;5388
-53;27/09/14;Hull;Man City;A;2.0;2.0;2.0;4.0;;ManchesterCity;100;8043
-54;27/09/14;Liverpool;Everton;D;0.0;0.0;1.0;1.0;Liverpool;Everton;7056;5420
-55;27/09/14;Man United;West Ham;H;2.0;1.0;2.0;1.0;ManchesterUnited;WestBromwichAlbion;8222;4152
-56;27/09/14;Southampton;QPR;H;0.0;0.0;2.0;1.0;Southampton;;4780;100
-57;27/09/14;Sunderland;Swansea;D;0.0;0.0;0.0;0.0;;;100;100
-58;28/09/14;West Brom;Burnley;H;2.0;0.0;4.0;0.0;WestBromwichAlbion;Burnley;4152;1562
-59;29/09/14;Stoke;Newcastle;H;1.0;0.0;1.0;0.0;;NewcastleUnited;100;2752
-60;04/10/14;Aston Villa;Man City;A;0.0;0.0;0.0;2.0;AstonVilla;ManchesterCity;2624;8043
-61;04/10/14;Hull;Crystal Palace;H;0.0;0.0;2.0;0.0;;CrystalPalace;100;5005
-62;04/10/14;Leicester;Burnley;D;2.0;1.0;2.0;2.0;LeicesterCity;Burnley;5388;1562
-63;04/10/14;Liverpool;West Brom;H;1.0;0.0;2.0;1.0;Liverpool;WestBromwichAlbion;7056;4152
-64;04/10/14;Sunderland;Stoke;H;2.0;1.0;3.0;1.0;;;100;100
-65;04/10/14;Swansea;Newcastle;D;1.0;1.0;2.0;2.0;;NewcastleUnited;100;2752
-66;05/10/14;Chelsea;Arsenal;H;1.0;0.0;2.0;0.0;Chelsea;Arsenal;7849;9962
-67;05/10/14;Man United;Everton;H;1.0;0.0;2.0;1.0;ManchesterUnited;Everton;8222;5420
-68;05/10/14;Tottenham;Southampton;H;1.0;0.0;1.0;0.0;TottenhamHotspur;Southampton;6835;4780
-69;05/10/14;West Ham;QPR;H;1.0;0.0;2.0;0.0;WestBromwichAlbion;;4152;100
-70;18/10/14;Arsenal;Hull;D;1.0;1.0;2.0;2.0;Arsenal;;9962;100
-71;18/10/14;Burnley;West Ham;A;0.0;0.0;1.0;3.0;Burnley;WestBromwichAlbion;1562;4152
-72;18/10/14;Crystal Palace;Chelsea;A;0.0;1.0;1.0;2.0;CrystalPalace;Chelsea;5005;7849
-73;18/10/14;Everton;Aston Villa;H;1.0;0.0;3.0;0.0;Everton;AstonVilla;5420;2624
-74;18/10/14;Man City;Tottenham;H;2.0;1.0;4.0;1.0;ManchesterCity;TottenhamHotspur;8043;6835
-75;18/10/14;Newcastle;Leicester;H;0.0;0.0;1.0;0.0;NewcastleUnited;LeicesterCity;2752;5388
-76;18/10/14;Southampton;Sunderland;H;3.0;0.0;8.0;0.0;Southampton;;4780;100
-77;19/10/14;QPR;Liverpool;A;0.0;0.0;2.0;3.0;;Liverpool;100;7056
-78;19/10/14;Stoke;Swansea;H;1.0;1.0;2.0;1.0;;;100;100
-79;20/10/14;West Brom;Man United;D;1.0;0.0;2.0;2.0;WestBromwichAlbion;ManchesterUnited;4152;8222
-80;25/10/14;Liverpool;Hull;D;0.0;0.0;0.0;0.0;Liverpool;;7056;100
-81;25/10/14;Southampton;Stoke;H;1.0;0.0;1.0;0.0;Southampton;;4780;100
-82;25/10/14;Sunderland;Arsenal;A;0.0;1.0;0.0;2.0;;Arsenal;100;9962
-83;25/10/14;Swansea;Leicester;H;1.0;0.0;2.0;0.0;;LeicesterCity;100;5388
-84;25/10/14;West Brom;Crystal Palace;D;0.0;2.0;2.0;2.0;WestBromwichAlbion;CrystalPalace;4152;5005
-85;25/10/14;West Ham;Man City;H;1.0;0.0;2.0;1.0;WestBromwichAlbion;ManchesterCity;4152;8043
-86;26/10/14;Burnley;Everton;A;1.0;2.0;1.0;3.0;Burnley;Everton;1562;5420
-87;26/10/14;Man United;Chelsea;D;0.0;0.0;1.0;1.0;ManchesterUnited;Chelsea;8222;7849
-88;26/10/14;Tottenham;Newcastle;A;1.0;0.0;1.0;2.0;TottenhamHotspur;NewcastleUnited;6835;2752
-89;27/10/14;QPR;Aston Villa;H;1.0;0.0;2.0;0.0;;AstonVilla;100;2624
-90;01/11/14;Arsenal;Burnley;H;0.0;0.0;3.0;0.0;Arsenal;Burnley;9962;1562
-91;01/11/14;Chelsea;QPR;H;1.0;0.0;2.0;1.0;Chelsea;;7849;100
-92;01/11/14;Everton;Swansea;D;0.0;0.0;0.0;0.0;Everton;;5420;100
-93;01/11/14;Hull;Southampton;A;0.0;1.0;0.0;1.0;;Southampton;100;4780
-94;01/11/14;Leicester;West Brom;A;0.0;0.0;0.0;1.0;LeicesterCity;WestBromwichAlbion;5388;4152
-95;01/11/14;Newcastle;Liverpool;H;0.0;0.0;1.0;0.0;NewcastleUnited;Liverpool;2752;7056
-96;01/11/14;Stoke;West Ham;D;1.0;0.0;2.0;2.0;;WestBromwichAlbion;100;4152
-97;02/11/14;Aston Villa;Tottenham;A;1.0;0.0;1.0;2.0;AstonVilla;TottenhamHotspur;2624;6835
-98;02/11/14;Man City;Man United;H;0.0;0.0;1.0;0.0;ManchesterCity;ManchesterUnited;8043;8222
-99;03/11/14;Crystal Palace;Sunderland;A;0.0;1.0;1.0;3.0;CrystalPalace;;5005;100
-100;08/11/14;Burnley;Hull;H;0.0;0.0;1.0;0.0;Burnley;;1562;100
-101;08/11/14;Liverpool;Chelsea;A;1.0;1.0;1.0;2.0;Liverpool;Chelsea;7056;7849
-102;08/11/14;Man United;Crystal Palace;H;0.0;0.0;1.0;0.0;ManchesterUnited;CrystalPalace;8222;5005
-103;08/11/14;QPR;Man City;D;1.0;1.0;2.0;2.0;;ManchesterCity;100;8043
-104;08/11/14;Southampton;Leicester;H;0.0;0.0;2.0;0.0;Southampton;LeicesterCity;4780;5388
-105;08/11/14;West Ham;Aston Villa;D;0.0;0.0;0.0;0.0;WestBromwichAlbion;AstonVilla;4152;2624
-106;09/11/14;Sunderland;Everton;D;0.0;0.0;1.0;1.0;;Everton;100;5420
-107;09/11/14;Swansea;Arsenal;H;0.0;0.0;2.0;1.0;;Arsenal;100;9962
-108;09/11/14;Tottenham;Stoke;A;0.0;2.0;1.0;2.0;TottenhamHotspur;;6835;100
-109;09/11/14;West Brom;Newcastle;A;0.0;1.0;0.0;2.0;WestBromwichAlbion;NewcastleUnited;4152;2752
-110;22/11/14;Arsenal;Man United;A;0.0;0.0;1.0;2.0;Arsenal;ManchesterUnited;9962;8222
-111;22/11/14;Chelsea;West Brom;H;2.0;0.0;2.0;0.0;Chelsea;WestBromwichAlbion;7849;4152
-112;22/11/14;Everton;West Ham;H;1.0;0.0;2.0;1.0;Everton;WestBromwichAlbion;5420;4152
-113;22/11/14;Leicester;Sunderland;D;0.0;0.0;0.0;0.0;LeicesterCity;;5388;100
-114;22/11/14;Man City;Swansea;H;1.0;1.0;2.0;1.0;ManchesterCity;;8043;100
-115;22/11/14;Newcastle;QPR;H;0.0;0.0;1.0;0.0;NewcastleUnited;;2752;100
-116;22/11/14;Stoke;Burnley;A;1.0;2.0;1.0;2.0;;Burnley;100;1562
-117;23/11/14;Crystal Palace;Liverpool;H;1.0;1.0;3.0;1.0;CrystalPalace;Liverpool;5005;7056
-118;23/11/14;Hull;Tottenham;A;1.0;0.0;1.0;2.0;;TottenhamHotspur;100;6835
-119;24/11/14;Aston Villa;Southampton;D;1.0;0.0;1.0;1.0;AstonVilla;Southampton;2624;4780
-120;29/11/14;Burnley;Aston Villa;D;0.0;1.0;1.0;1.0;Burnley;AstonVilla;1562;2624
-121;29/11/14;Liverpool;Stoke;H;0.0;0.0;1.0;0.0;Liverpool;;7056;100
-122;29/11/14;Man United;Hull;H;2.0;0.0;3.0;0.0;ManchesterUnited;;8222;100
-123;29/11/14;QPR;Leicester;H;2.0;1.0;3.0;2.0;;LeicesterCity;100;5388
-124;29/11/14;Sunderland;Chelsea;D;0.0;0.0;0.0;0.0;;Chelsea;100;7849
-125;29/11/14;Swansea;Crystal Palace;D;1.0;1.0;1.0;1.0;;CrystalPalace;100;5005
-126;29/11/14;West Brom;Arsenal;A;0.0;0.0;0.0;1.0;WestBromwichAlbion;Arsenal;4152;9962
-127;29/11/14;West Ham;Newcastle;H;0.0;0.0;1.0;0.0;WestBromwichAlbion;NewcastleUnited;4152;2752
-128;30/11/14;Southampton;Man City;A;0.0;0.0;0.0;3.0;Southampton;ManchesterCity;4780;8043
-129;30/11/14;Tottenham;Everton;H;2.0;1.0;2.0;1.0;TottenhamHotspur;Everton;6835;5420
-130;02/12/14;Burnley;Newcastle;D;1.0;0.0;1.0;1.0;Burnley;NewcastleUnited;1562;2752
-131;02/12/14;Crystal Palace;Aston Villa;A;0.0;1.0;0.0;1.0;CrystalPalace;AstonVilla;5005;2624
-132;02/12/14;Leicester;Liverpool;A;1.0;1.0;1.0;3.0;LeicesterCity;Liverpool;5388;7056
-133;02/12/14;Man United;Stoke;H;1.0;1.0;2.0;1.0;ManchesterUnited;;8222;100
-134;02/12/14;Swansea;QPR;H;0.0;0.0;2.0;0.0;;;100;100
-135;02/12/14;West Brom;West Ham;A;1.0;2.0;1.0;2.0;WestBromwichAlbion;WestBromwichAlbion;4152;4152
-136;03/12/14;Arsenal;Southampton;H;0.0;0.0;1.0;0.0;Arsenal;Southampton;9962;4780
-137;03/12/14;Chelsea;Tottenham;H;2.0;0.0;3.0;0.0;Chelsea;TottenhamHotspur;7849;6835
-138;03/12/14;Everton;Hull;D;1.0;0.0;1.0;1.0;Everton;;5420;100
-139;03/12/14;Sunderland;Man City;A;1.0;2.0;1.0;4.0;;ManchesterCity;100;8043
-140;06/12/14;Hull;West Brom;D;0.0;0.0;0.0;0.0;;WestBromwichAlbion;100;4152
-141;06/12/14;Liverpool;Sunderland;D;0.0;0.0;0.0;0.0;Liverpool;;7056;100
-142;06/12/14;Man City;Everton;H;1.0;0.0;1.0;0.0;ManchesterCity;Everton;8043;5420
-143;06/12/14;Newcastle;Chelsea;H;0.0;0.0;2.0;1.0;NewcastleUnited;Chelsea;2752;7849
-144;06/12/14;QPR;Burnley;H;0.0;0.0;2.0;0.0;;Burnley;100;1562
-145;06/12/14;Stoke;Arsenal;H;3.0;0.0;3.0;2.0;;Arsenal;100;9962
-146;06/12/14;Tottenham;Crystal Palace;D;0.0;0.0;0.0;0.0;TottenhamHotspur;CrystalPalace;6835;5005
-147;07/12/14;Aston Villa;Leicester;H;1.0;1.0;2.0;1.0;AstonVilla;LeicesterCity;2624;5388
-148;07/12/14;West Ham;Swansea;H;1.0;1.0;3.0;1.0;WestBromwichAlbion;;4152;100
-149;08/12/14;Southampton;Man United;A;1.0;1.0;1.0;2.0;Southampton;ManchesterUnited;4780;8222
-150;13/12/14;Arsenal;Newcastle;H;1.0;0.0;4.0;1.0;Arsenal;NewcastleUnited;9962;2752
-151;13/12/14;Burnley;Southampton;H;0.0;0.0;1.0;0.0;Burnley;Southampton;1562;4780
-152;13/12/14;Chelsea;Hull;H;1.0;0.0;2.0;0.0;Chelsea;;7849;100
-153;13/12/14;Crystal Palace;Stoke;D;1.0;1.0;1.0;1.0;CrystalPalace;;5005;100
-154;13/12/14;Leicester;Man City;A;0.0;1.0;0.0;1.0;LeicesterCity;ManchesterCity;5388;8043
-155;13/12/14;Sunderland;West Ham;D;1.0;1.0;1.0;1.0;;WestBromwichAlbion;100;4152
-156;13/12/14;West Brom;Aston Villa;H;0.0;0.0;1.0;0.0;WestBromwichAlbion;AstonVilla;4152;2624
-157;14/12/14;Man United;Liverpool;H;2.0;0.0;3.0;0.0;ManchesterUnited;Liverpool;8222;7056
-158;14/12/14;Swansea;Tottenham;A;0.0;1.0;1.0;2.0;;TottenhamHotspur;100;6835
-159;15/12/14;Everton;QPR;H;2.0;0.0;3.0;1.0;Everton;;5420;100
-160;20/12/14;Aston Villa;Man United;D;1.0;0.0;1.0;1.0;AstonVilla;ManchesterUnited;2624;8222
-161;20/12/14;Hull;Swansea;A;0.0;1.0;0.0;1.0;;;100;100
-162;20/12/14;Man City;Crystal Palace;H;0.0;0.0;3.0;0.0;ManchesterCity;CrystalPalace;8043;5005
-163;20/12/14;QPR;West Brom;H;1.0;2.0;3.0;2.0;;WestBromwichAlbion;100;4152
-164;20/12/14;Southampton;Everton;H;1.0;0.0;3.0;0.0;Southampton;Everton;4780;5420
-165;20/12/14;Tottenham;Burnley;H;2.0;1.0;2.0;1.0;TottenhamHotspur;Burnley;6835;1562
-166;20/12/14;West Ham;Leicester;H;1.0;0.0;2.0;0.0;WestBromwichAlbion;LeicesterCity;4152;5388
-167;21/12/14;Liverpool;Arsenal;D;1.0;1.0;2.0;2.0;Liverpool;Arsenal;7056;9962
-168;21/12/14;Newcastle;Sunderland;A;0.0;0.0;0.0;1.0;NewcastleUnited;;2752;100
-169;22/12/14;Stoke;Chelsea;A;0.0;1.0;0.0;2.0;;Chelsea;100;7849
-170;26/12/14;Arsenal;QPR;H;1.0;0.0;2.0;1.0;Arsenal;;9962;100
-171;26/12/14;Burnley;Liverpool;A;0.0;0.0;0.0;1.0;Burnley;Liverpool;1562;7056
-172;26/12/14;Chelsea;West Ham;H;1.0;0.0;2.0;0.0;Chelsea;WestBromwichAlbion;7849;4152
-173;26/12/14;Crystal Palace;Southampton;A;0.0;1.0;1.0;3.0;CrystalPalace;Southampton;5005;4780
-174;26/12/14;Everton;Stoke;A;0.0;1.0;0.0;1.0;Everton;;5420;100
-175;26/12/14;Leicester;Tottenham;A;0.0;1.0;1.0;2.0;LeicesterCity;TottenhamHotspur;5388;6835
-176;26/12/14;Man United;Newcastle;H;2.0;0.0;3.0;1.0;ManchesterUnited;NewcastleUnited;8222;2752
-177;26/12/14;Sunderland;Hull;A;1.0;1.0;1.0;3.0;;;100;100
-178;26/12/14;Swansea;Aston Villa;H;1.0;0.0;1.0;0.0;;AstonVilla;100;2624
-179;26/12/14;West Brom;Man City;A;0.0;3.0;1.0;3.0;WestBromwichAlbion;ManchesterCity;4152;8043
-180;28/12/14;Aston Villa;Sunderland;D;0.0;0.0;0.0;0.0;AstonVilla;;2624;100
-181;28/12/14;Hull;Leicester;A;0.0;1.0;0.0;1.0;;LeicesterCity;100;5388
-182;28/12/14;Man City;Burnley;D;2.0;0.0;2.0;2.0;ManchesterCity;Burnley;8043;1562
-183;28/12/14;Newcastle;Everton;H;1.0;1.0;3.0;2.0;NewcastleUnited;Everton;2752;5420
-184;28/12/14;QPR;Crystal Palace;D;0.0;0.0;0.0;0.0;;CrystalPalace;100;5005
-185;28/12/14;Southampton;Chelsea;D;1.0;1.0;1.0;1.0;Southampton;Chelsea;4780;7849
-186;28/12/14;Stoke;West Brom;H;0.0;0.0;2.0;0.0;;WestBromwichAlbion;100;4152
-187;28/12/14;Tottenham;Man United;D;0.0;0.0;0.0;0.0;TottenhamHotspur;ManchesterUnited;6835;8222
-188;28/12/14;West Ham;Arsenal;A;0.0;2.0;1.0;2.0;WestBromwichAlbion;Arsenal;4152;9962
-189;29/12/14;Liverpool;Swansea;H;1.0;0.0;4.0;1.0;Liverpool;;7056;100
-190;01/01/15;Aston Villa;Crystal Palace;D;0.0;0.0;0.0;0.0;AstonVilla;CrystalPalace;2624;5005
-191;01/01/15;Hull;Everton;H;2.0;0.0;2.0;0.0;;Everton;100;5420
-192;01/01/15;Liverpool;Leicester;D;2.0;0.0;2.0;2.0;Liverpool;LeicesterCity;7056;5388
-193;01/01/15;Man City;Sunderland;H;0.0;0.0;3.0;2.0;ManchesterCity;;8043;100
-194;01/01/15;Newcastle;Burnley;D;2.0;1.0;3.0;3.0;NewcastleUnited;Burnley;2752;1562
-195;01/01/15;QPR;Swansea;D;1.0;0.0;1.0;1.0;;;100;100
-196;01/01/15;Southampton;Arsenal;H;1.0;0.0;2.0;0.0;Southampton;Arsenal;4780;9962
-197;01/01/15;Stoke;Man United;D;1.0;1.0;1.0;1.0;;ManchesterUnited;100;8222
-198;01/01/15;Tottenham;Chelsea;H;3.0;1.0;5.0;3.0;TottenhamHotspur;Chelsea;6835;7849
-199;01/01/15;West Ham;West Brom;D;1.0;1.0;1.0;1.0;WestBromwichAlbion;WestBromwichAlbion;4152;4152
-200;10/01/15;Burnley;QPR;H;2.0;1.0;2.0;1.0;Burnley;;1562;100
-201;10/01/15;Chelsea;Newcastle;H;1.0;0.0;2.0;0.0;Chelsea;NewcastleUnited;7849;2752
-202;10/01/15;Crystal Palace;Tottenham;H;0.0;0.0;2.0;1.0;CrystalPalace;TottenhamHotspur;5005;6835
-203;10/01/15;Everton;Man City;D;0.0;0.0;1.0;1.0;Everton;ManchesterCity;5420;8043
-204;10/01/15;Leicester;Aston Villa;H;1.0;0.0;1.0;0.0;LeicesterCity;AstonVilla;5388;2624
-205;10/01/15;Sunderland;Liverpool;A;0.0;1.0;0.0;1.0;;Liverpool;100;7056
-206;10/01/15;Swansea;West Ham;D;0.0;1.0;1.0;1.0;;WestBromwichAlbion;100;4152
-207;10/01/15;West Brom;Hull;H;0.0;0.0;1.0;0.0;WestBromwichAlbion;;4152;100
-208;11/01/15;Arsenal;Stoke;H;2.0;0.0;3.0;0.0;Arsenal;;9962;100
-209;11/01/15;Man United;Southampton;A;0.0;0.0;0.0;1.0;ManchesterUnited;Southampton;8222;4780
-210;17/01/15;Aston Villa;Liverpool;A;0.0;1.0;0.0;2.0;AstonVilla;Liverpool;2624;7056
-211;17/01/15;Burnley;Crystal Palace;A;2.0;1.0;2.0;3.0;Burnley;CrystalPalace;1562;5005
-212;17/01/15;Leicester;Stoke;A;0.0;0.0;0.0;1.0;LeicesterCity;;5388;100
-213;17/01/15;Newcastle;Southampton;A;1.0;1.0;1.0;2.0;NewcastleUnited;Southampton;2752;4780
-214;17/01/15;QPR;Man United;A;0.0;0.0;0.0;2.0;;ManchesterUnited;100;8222
-215;17/01/15;Swansea;Chelsea;A;0.0;4.0;0.0;5.0;;Chelsea;100;7849
-216;17/01/15;Tottenham;Sunderland;H;1.0;1.0;2.0;1.0;TottenhamHotspur;;6835;100
-217;18/01/15;Man City;Arsenal;A;0.0;1.0;0.0;2.0;ManchesterCity;Arsenal;8043;9962
-218;18/01/15;West Ham;Hull;H;0.0;0.0;3.0;0.0;WestBromwichAlbion;;4152;100
-219;19/01/15;Everton;West Brom;D;0.0;0.0;0.0;0.0;Everton;WestBromwichAlbion;5420;4152
-220;31/01/15;Chelsea;Man City;D;1.0;1.0;1.0;1.0;Chelsea;ManchesterCity;7849;8043
-221;31/01/15;Crystal Palace;Everton;A;0.0;1.0;0.0;1.0;CrystalPalace;Everton;5005;5420
-222;31/01/15;Hull;Newcastle;A;0.0;1.0;0.0;3.0;;NewcastleUnited;100;2752
-223;31/01/15;Liverpool;West Ham;H;0.0;0.0;2.0;0.0;Liverpool;WestBromwichAlbion;7056;4152
-224;31/01/15;Man United;Leicester;H;3.0;0.0;3.0;1.0;ManchesterUnited;LeicesterCity;8222;5388
-225;31/01/15;Stoke;QPR;H;2.0;1.0;3.0;1.0;;;100;100
-226;31/01/15;Sunderland;Burnley;H;2.0;0.0;2.0;0.0;;Burnley;100;1562
-227;31/01/15;West Brom;Tottenham;A;0.0;2.0;0.0;3.0;WestBromwichAlbion;TottenhamHotspur;4152;6835
-228;01/02/15;Arsenal;Aston Villa;H;1.0;0.0;5.0;0.0;Arsenal;AstonVilla;9962;2624
-229;01/02/15;Southampton;Swansea;A;0.0;0.0;0.0;1.0;Southampton;;4780;100
-230;07/02/15;Aston Villa;Chelsea;A;0.0;1.0;1.0;2.0;AstonVilla;Chelsea;2624;7849
-231;07/02/15;Everton;Liverpool;D;0.0;0.0;0.0;0.0;Everton;Liverpool;5420;7056
-232;07/02/15;Leicester;Crystal Palace;A;0.0;0.0;0.0;1.0;LeicesterCity;CrystalPalace;5388;5005
-233;07/02/15;Man City;Hull;D;0.0;1.0;1.0;1.0;ManchesterCity;;8043;100
-234;07/02/15;QPR;Southampton;A;0.0;0.0;0.0;1.0;;Southampton;100;4780
-235;07/02/15;Swansea;Sunderland;D;0.0;1.0;1.0;1.0;;;100;100
-236;07/02/15;Tottenham;Arsenal;H;0.0;1.0;2.0;1.0;TottenhamHotspur;Arsenal;6835;9962
-237;08/02/15;Burnley;West Brom;D;2.0;1.0;2.0;2.0;Burnley;WestBromwichAlbion;1562;4152
-238;08/02/15;Newcastle;Stoke;D;0.0;0.0;1.0;1.0;NewcastleUnited;;2752;100
-239;08/02/15;West Ham;Man United;D;0.0;0.0;1.0;1.0;WestBromwichAlbion;ManchesterUnited;4152;8222
-240;10/02/15;Arsenal;Leicester;H;2.0;0.0;2.0;1.0;Arsenal;LeicesterCity;9962;5388
-241;10/02/15;Hull;Aston Villa;H;1.0;0.0;2.0;0.0;;AstonVilla;100;2624
-242;10/02/15;Liverpool;Tottenham;H;1.0;1.0;3.0;2.0;Liverpool;TottenhamHotspur;7056;6835
-243;10/02/15;Sunderland;QPR;A;0.0;2.0;0.0;2.0;;;100;100
-244;11/02/15;Chelsea;Everton;H;0.0;0.0;1.0;0.0;Chelsea;Everton;7849;5420
-245;11/02/15;Crystal Palace;Newcastle;D;0.0;1.0;1.0;1.0;CrystalPalace;NewcastleUnited;5005;2752
-246;11/02/15;Man United;Burnley;H;2.0;1.0;3.0;1.0;ManchesterUnited;Burnley;8222;1562
-247;11/02/15;Southampton;West Ham;D;0.0;0.0;0.0;0.0;Southampton;WestBromwichAlbion;4780;4152
-248;11/02/15;Stoke;Man City;A;1.0;1.0;1.0;4.0;;ManchesterCity;100;8043
-249;11/02/15;West Brom;Swansea;H;0.0;0.0;2.0;0.0;WestBromwichAlbion;;4152;100
-250;21/02/15;Aston Villa;Stoke;A;1.0;1.0;1.0;2.0;AstonVilla;;2624;100
-251;21/02/15;Chelsea;Burnley;D;1.0;0.0;1.0;1.0;Chelsea;Burnley;7849;1562
-252;21/02/15;Crystal Palace;Arsenal;A;0.0;2.0;1.0;2.0;CrystalPalace;Arsenal;5005;9962
-253;21/02/15;Hull;QPR;H;1.0;1.0;2.0;1.0;;;100;100
-254;21/02/15;Man City;Newcastle;H;3.0;0.0;5.0;0.0;ManchesterCity;NewcastleUnited;8043;2752
-255;21/02/15;Sunderland;West Brom;D;0.0;0.0;0.0;0.0;;WestBromwichAlbion;100;4152
-256;21/02/15;Swansea;Man United;H;1.0;1.0;2.0;1.0;;ManchesterUnited;100;8222
-257;22/02/15;Everton;Leicester;D;0.0;0.0;2.0;2.0;Everton;LeicesterCity;5420;5388
-258;22/02/15;Southampton;Liverpool;A;0.0;1.0;0.0;2.0;Southampton;Liverpool;4780;7056
-259;22/02/15;Tottenham;West Ham;D;0.0;1.0;2.0;2.0;TottenhamHotspur;WestBromwichAlbion;6835;4152
-260;28/02/15;Burnley;Swansea;A;0.0;0.0;0.0;1.0;Burnley;;1562;100
-261;28/02/15;Man United;Sunderland;H;0.0;0.0;2.0;0.0;ManchesterUnited;;8222;100
-262;28/02/15;Newcastle;Aston Villa;H;1.0;0.0;1.0;0.0;NewcastleUnited;AstonVilla;2752;2624
-263;28/02/15;Stoke;Hull;H;0.0;0.0;1.0;0.0;;;100;100
-264;28/02/15;West Brom;Southampton;H;1.0;0.0;1.0;0.0;WestBromwichAlbion;Southampton;4152;4780
-265;28/02/15;West Ham;Crystal Palace;A;0.0;1.0;1.0;3.0;WestBromwichAlbion;CrystalPalace;4152;5005
-266;01/03/15;Arsenal;Everton;H;1.0;0.0;2.0;0.0;Arsenal;Everton;9962;5420
-267;01/03/15;Liverpool;Man City;H;1.0;1.0;2.0;1.0;Liverpool;ManchesterCity;7056;8043
-268;03/03/15;Aston Villa;West Brom;H;1.0;0.0;2.0;1.0;AstonVilla;WestBromwichAlbion;2624;4152
-269;03/03/15;Hull;Sunderland;D;1.0;0.0;1.0;1.0;;;100;100
-270;03/03/15;Southampton;Crystal Palace;H;0.0;0.0;1.0;0.0;Southampton;CrystalPalace;4780;5005
-271;04/03/15;Liverpool;Burnley;H;1.0;0.0;2.0;0.0;Liverpool;Burnley;7056;1562
-272;04/03/15;Man City;Leicester;H;1.0;0.0;2.0;0.0;ManchesterCity;LeicesterCity;8043;5388
-273;04/03/15;Newcastle;Man United;A;0.0;0.0;0.0;1.0;NewcastleUnited;ManchesterUnited;2752;8222
-274;04/03/15;QPR;Arsenal;A;0.0;0.0;1.0;2.0;;Arsenal;100;9962
-275;04/03/15;Stoke;Everton;H;1.0;0.0;2.0;0.0;;Everton;100;5420
-276;04/03/15;Tottenham;Swansea;H;1.0;1.0;3.0;2.0;TottenhamHotspur;;6835;100
-277;04/03/15;West Ham;Chelsea;A;0.0;1.0;0.0;1.0;WestBromwichAlbion;Chelsea;4152;7849
-278;07/03/15;QPR;Tottenham;A;0.0;1.0;1.0;2.0;;TottenhamHotspur;100;6835
-279;14/03/15;Arsenal;West Ham;H;1.0;0.0;3.0;0.0;Arsenal;WestBromwichAlbion;9962;4152
-280;14/03/15;Burnley;Man City;H;0.0;0.0;1.0;0.0;Burnley;ManchesterCity;1562;8043
-281;14/03/15;Crystal Palace;QPR;H;3.0;0.0;3.0;1.0;CrystalPalace;;5005;100
-282;14/03/15;Leicester;Hull;D;0.0;0.0;0.0;0.0;LeicesterCity;;5388;100
-283;14/03/15;Sunderland;Aston Villa;A;0.0;4.0;0.0;4.0;;AstonVilla;100;2624
-284;14/03/15;West Brom;Stoke;H;1.0;0.0;1.0;0.0;WestBromwichAlbion;;4152;100
-285;15/03/15;Chelsea;Southampton;D;1.0;1.0;1.0;1.0;Chelsea;Southampton;7849;4780
-286;15/03/15;Everton;Newcastle;H;1.0;0.0;3.0;0.0;Everton;NewcastleUnited;5420;2752
-287;15/03/15;Man United;Tottenham;H;3.0;0.0;3.0;0.0;ManchesterUnited;TottenhamHotspur;8222;6835
-288;16/03/15;Swansea;Liverpool;A;0.0;0.0;0.0;1.0;;Liverpool;100;7056
-289;21/03/15;Aston Villa;Swansea;A;0.0;0.0;0.0;1.0;AstonVilla;;2624;100
-290;21/03/15;Man City;West Brom;H;2.0;0.0;3.0;0.0;ManchesterCity;WestBromwichAlbion;8043;4152
-291;21/03/15;Newcastle;Arsenal;A;0.0;2.0;1.0;2.0;NewcastleUnited;Arsenal;2752;9962
-292;21/03/15;Southampton;Burnley;H;1.0;0.0;2.0;0.0;Southampton;Burnley;4780;1562
-293;21/03/15;Stoke;Crystal Palace;A;1.0;2.0;1.0;2.0;;CrystalPalace;100;5005
-294;21/03/15;Tottenham;Leicester;H;2.0;1.0;4.0;3.0;TottenhamHotspur;LeicesterCity;6835;5388
-295;21/03/15;West Ham;Sunderland;H;0.0;0.0;1.0;0.0;WestBromwichAlbion;;4152;100
-296;22/03/15;Hull;Chelsea;A;2.0;2.0;2.0;3.0;;Chelsea;100;7849
-297;22/03/15;Liverpool;Man United;A;0.0;1.0;1.0;2.0;Liverpool;ManchesterUnited;7056;8222
-298;22/03/15;QPR;Everton;A;0.0;1.0;1.0;2.0;;Everton;100;5420
-299;04/04/15;Arsenal;Liverpool;H;3.0;0.0;4.0;1.0;Arsenal;Liverpool;9962;7056
-300;04/04/15;Chelsea;Stoke;H;1.0;1.0;2.0;1.0;Chelsea;;7849;100
-301;04/04/15;Everton;Southampton;H;1.0;0.0;1.0;0.0;Everton;Southampton;5420;4780
-302;04/04/15;Leicester;West Ham;H;1.0;1.0;2.0;1.0;LeicesterCity;WestBromwichAlbion;5388;4152
-303;04/04/15;Man United;Aston Villa;H;1.0;0.0;3.0;1.0;ManchesterUnited;AstonVilla;8222;2624
-304;04/04/15;Swansea;Hull;H;2.0;0.0;3.0;1.0;;;100;100
-305;04/04/15;West Brom;QPR;A;0.0;3.0;1.0;4.0;WestBromwichAlbion;;4152;100
-306;05/04/15;Burnley;Tottenham;D;0.0;0.0;0.0;0.0;Burnley;TottenhamHotspur;1562;6835
-307;05/04/15;Sunderland;Newcastle;H;1.0;0.0;1.0;0.0;;NewcastleUnited;100;2752
-308;06/04/15;Crystal Palace;Man City;H;1.0;0.0;2.0;1.0;CrystalPalace;ManchesterCity;5005;8043
-309;07/04/15;Aston Villa;QPR;D;2.0;1.0;3.0;3.0;AstonVilla;;2624;100
-310;11/04/15;Burnley;Arsenal;A;0.0;1.0;0.0;1.0;Burnley;Arsenal;1562;9962
-311;11/04/15;Southampton;Hull;H;0.0;0.0;2.0;0.0;Southampton;;4780;100
-312;11/04/15;Sunderland;Crystal Palace;A;0.0;0.0;1.0;4.0;;CrystalPalace;100;5005
-313;11/04/15;Swansea;Everton;D;0.0;1.0;1.0;1.0;;Everton;100;5420
-314;11/04/15;Tottenham;Aston Villa;A;0.0;1.0;0.0;1.0;TottenhamHotspur;AstonVilla;6835;2624
-315;11/04/15;West Brom;Leicester;A;2.0;1.0;2.0;3.0;WestBromwichAlbion;LeicesterCity;4152;5388
-316;11/04/15;West Ham;Stoke;D;1.0;0.0;1.0;1.0;WestBromwichAlbion;;4152;100
-317;12/04/15;Man United;Man City;H;2.0;1.0;4.0;2.0;ManchesterUnited;ManchesterCity;8222;8043
-318;12/04/15;QPR;Chelsea;A;0.0;0.0;0.0;1.0;;Chelsea;100;7849
-319;13/04/15;Liverpool;Newcastle;H;1.0;0.0;2.0;0.0;Liverpool;NewcastleUnited;7056;2752
-320;18/04/15;Chelsea;Man United;H;1.0;0.0;1.0;0.0;Chelsea;ManchesterUnited;7849;8222
-321;18/04/15;Crystal Palace;West Brom;A;0.0;1.0;0.0;2.0;CrystalPalace;WestBromwichAlbion;5005;4152
-322;18/04/15;Everton;Burnley;H;1.0;0.0;1.0;0.0;Everton;Burnley;5420;1562
-323;18/04/15;Leicester;Swansea;H;1.0;0.0;2.0;0.0;LeicesterCity;;5388;100
-324;18/04/15;Stoke;Southampton;H;0.0;1.0;2.0;1.0;;Southampton;100;4780
-325;19/04/15;Man City;West Ham;H;2.0;0.0;2.0;0.0;ManchesterCity;WestBromwichAlbion;8043;4152
-326;19/04/15;Newcastle;Tottenham;A;0.0;1.0;1.0;3.0;NewcastleUnited;TottenhamHotspur;2752;6835
-327;25/04/15;Burnley;Leicester;A;0.0;0.0;0.0;1.0;Burnley;LeicesterCity;1562;5388
-328;25/04/15;Crystal Palace;Hull;A;0.0;0.0;0.0;2.0;CrystalPalace;;5005;100
-329;25/04/15;Man City;Aston Villa;H;1.0;0.0;3.0;2.0;ManchesterCity;AstonVilla;8043;2624
-330;25/04/15;Newcastle;Swansea;A;1.0;1.0;2.0;3.0;NewcastleUnited;;2752;100
-331;25/04/15;QPR;West Ham;D;0.0;0.0;0.0;0.0;;WestBromwichAlbion;100;4152
-332;25/04/15;Southampton;Tottenham;D;1.0;1.0;2.0;2.0;Southampton;TottenhamHotspur;4780;6835
-333;25/04/15;Stoke;Sunderland;D;1.0;1.0;1.0;1.0;;;100;100
-334;25/04/15;West Brom;Liverpool;D;0.0;0.0;0.0;0.0;WestBromwichAlbion;Liverpool;4152;7056
-335;26/04/15;Arsenal;Chelsea;D;0.0;0.0;0.0;0.0;Arsenal;Chelsea;9962;7849
-336;26/04/15;Everton;Man United;H;2.0;0.0;3.0;0.0;Everton;ManchesterUnited;5420;8222
-337;28/04/15;Hull;Liverpool;H;1.0;0.0;1.0;0.0;;Liverpool;100;7056
-338;29/04/15;Leicester;Chelsea;A;1.0;0.0;1.0;3.0;LeicesterCity;Chelsea;5388;7849
-339;02/05/15;Aston Villa;Everton;H;2.0;0.0;3.0;2.0;AstonVilla;Everton;2624;5420
-340;02/05/15;Leicester;Newcastle;H;2.0;0.0;3.0;0.0;LeicesterCity;NewcastleUnited;5388;2752
-341;02/05/15;Liverpool;QPR;H;1.0;0.0;2.0;1.0;Liverpool;;7056;100
-342;02/05/15;Man United;West Brom;A;0.0;0.0;0.0;1.0;ManchesterUnited;WestBromwichAlbion;8222;4152
-343;02/05/15;Sunderland;Southampton;H;1.0;1.0;2.0;1.0;;Southampton;100;4780
-344;02/05/15;Swansea;Stoke;H;0.0;0.0;2.0;0.0;;;100;100
-345;02/05/15;West Ham;Burnley;H;1.0;0.0;1.0;0.0;WestBromwichAlbion;Burnley;4152;1562
-346;03/05/15;Chelsea;Crystal Palace;H;1.0;0.0;1.0;0.0;Chelsea;CrystalPalace;7849;5005
-347;03/05/15;Tottenham;Man City;A;0.0;1.0;0.0;1.0;TottenhamHotspur;ManchesterCity;6835;8043
-348;04/05/15;Hull;Arsenal;A;0.0;3.0;1.0;3.0;;Arsenal;100;9962
-349;09/05/15;Aston Villa;West Ham;H;1.0;0.0;1.0;0.0;AstonVilla;WestBromwichAlbion;2624;4152
-350;09/05/15;Crystal Palace;Man United;A;0.0;1.0;1.0;2.0;CrystalPalace;ManchesterUnited;5005;8222
-351;09/05/15;Everton;Sunderland;A;0.0;0.0;0.0;2.0;Everton;;5420;100
-352;09/05/15;Hull;Burnley;A;0.0;0.0;0.0;1.0;;Burnley;100;1562
-353;09/05/15;Leicester;Southampton;H;2.0;0.0;2.0;0.0;LeicesterCity;Southampton;5388;4780
-354;09/05/15;Newcastle;West Brom;D;1.0;1.0;1.0;1.0;NewcastleUnited;WestBromwichAlbion;2752;4152
-355;09/05/15;Stoke;Tottenham;H;2.0;0.0;3.0;0.0;;TottenhamHotspur;100;6835
-356;10/05/15;Chelsea;Liverpool;D;1.0;1.0;1.0;1.0;Chelsea;Liverpool;7849;7056
-357;10/05/15;Man City;QPR;H;2.0;0.0;6.0;0.0;ManchesterCity;;8043;100
-358;11/05/15;Arsenal;Swansea;A;0.0;0.0;0.0;1.0;Arsenal;;9962;100
-359;16/05/15;Burnley;Stoke;D;0.0;0.0;0.0;0.0;Burnley;;1562;100
-360;16/05/15;Liverpool;Crystal Palace;A;1.0;1.0;1.0;3.0;Liverpool;CrystalPalace;7056;5005
-361;16/05/15;QPR;Newcastle;H;0.0;1.0;2.0;1.0;;NewcastleUnited;100;2752
-362;16/05/15;Southampton;Aston Villa;H;5.0;1.0;6.0;1.0;Southampton;AstonVilla;4780;2624
-363;16/05/15;Sunderland;Leicester;D;0.0;0.0;0.0;0.0;;LeicesterCity;100;5388
-364;16/05/15;Tottenham;Hull;H;0.0;0.0;2.0;0.0;TottenhamHotspur;;6835;100
-365;16/05/15;West Ham;Everton;A;0.0;0.0;1.0;2.0;WestBromwichAlbion;Everton;4152;5420
-366;17/05/15;Man United;Arsenal;D;1.0;0.0;1.0;1.0;ManchesterUnited;Arsenal;8222;9962
-367;17/05/15;Swansea;Man City;A;1.0;2.0;2.0;4.0;;ManchesterCity;100;8043
-368;18/05/15;West Brom;Chelsea;H;1.0;0.0;3.0;0.0;WestBromwichAlbion;Chelsea;4152;7849
-369;20/05/15;Arsenal;Sunderland;D;0.0;0.0;0.0;0.0;Arsenal;;9962;100
-370;24/05/15;Arsenal;West Brom;H;4.0;0.0;4.0;1.0;Arsenal;WestBromwichAlbion;9962;4152
-371;24/05/15;Aston Villa;Burnley;A;0.0;1.0;0.0;1.0;AstonVilla;Burnley;2624;1562
-372;24/05/15;Chelsea;Sunderland;H;1.0;1.0;3.0;1.0;Chelsea;;7849;100
-373;24/05/15;Crystal Palace;Swansea;H;0.0;0.0;1.0;0.0;CrystalPalace;;5005;100
-374;24/05/15;Everton;Tottenham;A;0.0;1.0;0.0;1.0;Everton;TottenhamHotspur;5420;6835
-375;24/05/15;Hull;Man United;D;0.0;0.0;0.0;0.0;;ManchesterUnited;100;8222
-376;24/05/15;Leicester;QPR;H;2.0;0.0;5.0;1.0;LeicesterCity;;5388;100
-377;24/05/15;Man City;Southampton;H;1.0;0.0;2.0;0.0;ManchesterCity;Southampton;8043;4780
-378;24/05/15;Newcastle;West Ham;H;0.0;0.0;2.0;0.0;NewcastleUnited;WestBromwichAlbion;2752;4152
-379;24/05/15;Stoke;Liverpool;H;5.0;0.0;6.0;1.0;;Liverpool;100;7056
 0;23/08/14;Almeria;Espanol;D;0.0;0.0;1.0;1.0;;Espanyol;100;5500
 1;23/08/14;Granada;La Coruna;H;0.0;1.0;2.0;1.0;Granada;;3600;100
 2;23/08/14;Malaga;Ath Bilbao;H;1.0;0.0;1.0;0.0;;AthleticClub;100;9182
