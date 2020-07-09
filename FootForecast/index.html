@@ -155,7 +155,7 @@
 			</div>	  
 			
 			<div id="app"></div>
-			<script type="text/javascript">var link = 'https://api.football-data.org/v2/competitions/FL1/matches'</script>
+			<script type="text/javascript">var link = 'https://api.football-data.org/v2/competitions/PL/matches?status=SCHEDULED'</script>
 			<script src="js/api.js"></script>
 		</div>
 	</body>
@@ -181,13 +181,13 @@
 		
 		function closefilterteam(){
 			document.getElementById("btnfilterteam").style.display="none";
-			link = 'https://api.football-data.org/v2/competitions/FL1/matches'
+			link = 'https://api.football-data.org/v2/competitions/PL/matches?status=SCHEDULED'
 			load_js();
 		}
 		
 		function closefiltercompet(){
 			document.getElementById("btnfiltercompet").style.display="none";
-			link = 'https://api.football-data.org/v2/competitions/FL1/matches'
+			link = 'https://api.football-data.org/v2/competitions/PL/matches?status=SCHEDULED'
 			load_js();
 		}
 		
@@ -214,10 +214,10 @@
 					favorite.push($(this).val());
 				});
 				if(favorite == ""){
-					link = 'https://api.football-data.org/v2/competitions/FL1/matches'
+					link = 'https://api.football-data.org/v2/competitions/PL/matches?status=SCHEDULED'
 				}
 				else{
-					link = 'https://api.football-data.org/v2/competitions/'+favorite.join("& ")+'/matches'
+					link = 'https://api.football-data.org/v2/competitions/'+favorite.join("& ")+'/matches?status=SCHEDULED'
 					
 					var name = favorite.join("& ");
 					if (name == "PL"){
@@ -258,10 +258,10 @@
 				});
 				
 				if(favorite == ""){
-					link = 'https://api.football-data.org/v2/competitions/FL1/matches'
+					link = 'https://api.football-data.org/v2/competitions/FL1/matches?status=SCHEDULED'
 				}
 				else{
-					link = 'http://api.football-data.org/v2/teams/'+favorite.join("& ")+'/matches'
+					link = 'http://api.football-data.org/v2/teams/'+favorite.join("& ")+'/matches?status=SCHEDULED'
 					
 					justclosefiltercompet();
 					var id = favorite.join("& ");
@@ -284,10 +284,10 @@
 				});
 				
 				if(favorite == ""){
-					link = 'https://api.football-data.org/v2/competitions/FL1/matches'
+					link = 'https://api.football-data.org/v2/competitions/PL/matches?status=SCHEDULED'
 				}
 				else{
-					link = 'http://api.football-data.org/v2/teams/'+favorite.join("& ")+'/matches'
+					link = 'http://api.football-data.org/v2/teams/'+favorite.join("& ")+'/matches?status=SCHEDULED'
 					
 					justclosefiltercompet();
 					var id = favorite.join("& ");
@@ -310,10 +310,10 @@
 				});
 				
 				if(favorite == ""){
-					link = 'https://api.football-data.org/v2/competitions/FL1/matches'
+					link = 'https://api.football-data.org/v2/competitions/PL/matches?status=SCHEDULED'
 				}
 				else{
-					link = 'http://api.football-data.org/v2/teams/'+favorite.join("& ")+'/matches'
+					link = 'http://api.football-data.org/v2/teams/'+favorite.join("& ")+'/matches?status=SCHEDULED'
 					
 					justclosefiltercompet();
 					var id = favorite.join("& ");
@@ -336,10 +336,10 @@
 				});
 				
 				if(favorite == ""){
-					link = 'https://api.football-data.org/v2/competitions/FL1/matches'
+					link = 'https://api.football-data.org/v2/competitions/PL/matches?status=SCHEDULED'
 				}
 				else{
-					link = 'http://api.football-data.org/v2/teams/'+favorite.join("& ")+'/matches'
+					link = 'http://api.football-data.org/v2/teams/'+favorite.join("& ")+'/matches?status=SCHEDULED'
 					
 					justclosefiltercompet();
 					var id = favorite.join("& ");
@@ -362,10 +362,10 @@
 				});
 				
 				if(favorite == ""){
-					link = 'https://api.football-data.org/v2/competitions/FL1/matches'
+					link = 'https://api.football-data.org/v2/competitions/PL/matches?status=SCHEDULED'
 				}
 				else{
-					link = 'http://api.football-data.org/v2/teams/'+favorite.join("& ")+'/matches'
+					link = 'http://api.football-data.org/v2/teams/'+favorite.join("& ")+'/matches?status=SCHEDULED'
 					
 					justclosefiltercompet();
 					var id = favorite.join("& ");
@@ -388,10 +388,10 @@
 				});
 				
 				if(favorite == ""){
-					link = 'https://api.football-data.org/v2/competitions/FL1/matches'
+					link = 'https://api.football-data.org/v2/competitions/PL/matches?status=SCHEDULED'
 				}
 				else{
-					link = 'http://api.football-data.org/v2/teams/'+favorite.join("& ")+'/matches'
+					link = 'http://api.football-data.org/v2/teams/'+favorite.join("& ")+'/matches?status=SCHEDULED'
 					
 					justclosefiltercompet();
 					var id = favorite.join("& ");

@@ -92,21 +92,8 @@
 						<div id="hometeamname" class="col">
 						</div>
 					</div>
-					<h4 class="text-white font-weight-bold text-center mt-4">FullTime</h4>
-					<div class="card success-color-dark mt-3">
-						<div class="row">
-							<div id="awayteamscore" class="col">
-							</div>
-							<div class="col">
-								<h1 class="text-white font-weight-bold text-center mt-2">-</h1>
-							</div>
-							<div id="hometeamscore" class="col">
-							</div>
-						</div>
-					</div>
 				</div>
-
-				<br>
+				
 				<div class="container-sm">
 					<div class="row">
 						<div id="awayteamwin%" class="col"></div>
@@ -126,6 +113,21 @@
 						</div>
 					</div>
 				</div>
+				<br>
+				
+				<h4 class="text-white font-weight-bold text-center mt-4">FullTime</h4>
+				<div class="card success-color-dark mt-3">
+					<div class="row">
+						<div id="awayteamscore" class="col">
+						</div>
+						<div class="col">
+							<h1 class="text-white font-weight-bold text-center mt-2">-</h1>
+						</div>
+						<div id="hometeamscore" class="col">
+						</div>
+					</div>
+				</div>
+
 				<br>
 			</div>
 			
@@ -159,7 +161,7 @@
 	});
 	
 	//matches
-	$.getJSON("predict.json", function(json) {
+	$.getJSON("predictions_gain_perte_finished.json", function(json) {
 		console.log(json);
 	
 		var count = Object.keys(json.id_match).length;
@@ -169,12 +171,10 @@
 				document.getElementById("hometeamname").innerHTML = `<h2 class="text-white font-weight-bold text-center mt-4">${json.homeTeam[i]}</h2>`
 				document.getElementById("awayteamname").innerHTML = `<h2 class="text-white font-weight-bold text-center mt-4">${json.AwayTeam[i]}</h2>`
 				
-				document.getElementById("awayteamwin%").innerHTML = `<h4 class="text-white font-weight-bold text-center mt-2">${json.AwayTeam[i]}</h4>`
 				document.getElementById("predictawayteam").innerHTML = `<div id="barAT" class="progress-bar progress-bar success-color-dark " role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="height:${json.prediction_awayTeam_victory[i]}%;"><h5>${json.prediction_awayTeam_victory[i]}%</h5></div>`
 				
 				document.getElementById("predictdraw").innerHTML = `<div class="progress-bar progress-bar success-color-dark" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="height:${json.prediction_egalite[i]}%;"><h5>${json.prediction_egalite[i]}%</h5></div>`
 				
-				document.getElementById("hometeamwin%").innerHTML = `<h4 class="text-white font-weight-bold text-center mt-2">${json.homeTeam[i]}</h4>`
 				document.getElementById("predicthometeam").innerHTML = `<div class="progress-bar progress-bar success-color-dark" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="height:${json.prediction_homeTeam_victory[i]}%;"><h5>${json.prediction_homeTeam_victory[i]}%</h5></div>`
 				
 				var winrateat = `${json.prediction_awayTeam_victory[i]}%`
