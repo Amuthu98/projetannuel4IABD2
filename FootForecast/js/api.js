@@ -47,13 +47,13 @@ function(data) {
 						</div>
 					</div>
 					<div class="card-body white mb-2 rounded">
-						<img src="images/fire.png" class="mr-2" width="30" alt="Responsive image"/><b><a>${matchlist.awayTeam.name} - ${matchlist.homeTeam.name}</a></b>
+						<img src="images/fire.png" class="mr-2" width="30" alt="Responsive image"/><b><a>${matchlist.homeTeam.name} - ${matchlist.awayTeam.name}</a></b>
 						<button id="${matchlist.id}" onClick="sendidmatch(this.id, ${matchlist.odds.awayWin}, ${matchlist.odds.draw}, ${matchlist.odds.homeWin}, '${matchlist.awayTeam.name}', '${matchlist.homeTeam.name}')" type="button" class="btn btn-circle btn-md success-color-dark float-right"><span class="text-white fa fa-caret-right"  style="font-size:30px;"></span></button>
 						<br>
 						<br>
-						<button type="button" class="btn btn-success">${matchlist.odds.awayWin}</button>
-						<button type="button" class="btn btn-warning">${matchlist.odds.draw}</button>
 						<button type="button" class="btn btn-success">${matchlist.odds.homeWin}</button>
+						<button type="button" class="btn btn-warning">${matchlist.odds.draw}</button>
+						<button type="button" class="btn btn-success">${matchlist.odds.awayWin}</button>
 					</div>
 				</div>
 				`

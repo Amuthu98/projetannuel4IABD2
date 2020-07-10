@@ -37,13 +37,20 @@
 				<img class="mx-auto d-block mt-3" src="images/cup.png" style="width:12%">
 				<div class="container-sm">
 					<div class="row">
-						<div id="awayteamnamereel" class="col">
+						<div id="hometeamnamereel" class="col">
 						</div>
 						<div class="col">
 						</div>
-						<div id="hometeamnamereel" class="col">
+						<div id="awayteamnamereel" class="col">
 						</div>
 					</div>
+					<h4 class="text-white font-weight-bold text-center mt-4">Cotes</h4>
+					<div class="text-center">
+						<button id="htodd" type="button" class="btn btn-success"></button>
+						<button id="drawodd" type="button" class="btn btn-warning"></button>
+						<button id="atodd" type="button" class="btn btn-success"></button>
+					</div>
+					<br>
 					<h4 class="text-white font-weight-bold text-center mt-4">Winner</h4>
 					<div class="card success-color-dark">
 						<div class="row">
@@ -54,12 +61,12 @@
 					<h4 class="text-white font-weight-bold text-center mt-4">FullTime</h4>
 					<div class="card success-color-dark mt-3">
 						<div class="row">
-							<div id="awayteamscorereelfull" class="col">
+							<div id="hometeamscorereelfull" class="col">
 							</div>
 							<div class="col">
 								<h1 class="text-white font-weight-bold text-center mt-2">-</h1>
 							</div>
-							<div id="hometeamscorereelfull" class="col">
+							<div id="awayteamscorereelfull" class="col">
 							</div>
 						</div>
 					</div>
@@ -67,12 +74,12 @@
 					<h4 class="text-white font-weight-bold text-center mt-4">HalfTime</h4>
 					<div class="card success-color-dark">
 						<div class="row">
-							<div id="awayteamscorereelhalf" class="col">
+							<div id="hometeamscorereelhalf" class="col">
 							</div>
 							<div class="col">
 								<h1 class="text-white font-weight-bold text-center mt-2">-</h1>
 							</div>
-							<div id="hometeamscorereelhalf" class="col">
+							<div id="awayteamscorereelhalf" class="col">
 							</div>
 						</div>
 					</div>
@@ -85,31 +92,31 @@
 				<img class="mx-auto d-block mt-3" src="images/cup.png" style="width:12%">
 				<div class="container-sm">
 					<div class="row">
-						<div id="awayteamname" class="col">
+						<div id="hometeamname" class="col">
 						</div>
 						<div class="col">
 						</div>
-						<div id="hometeamname" class="col">
+						<div id="awayteamname" class="col">
 						</div>
 					</div>
 				</div>
 				
 				<div class="container-sm">
 					<div class="row">
-						<div id="awayteamwin%" class="col"></div>
-						<h4 class="text-white font-weight-bold text-center mt-2 col">Draw</h4>
 						<div id="hometeamwin%" class="col"></div>
+						<h4 class="text-white font-weight-bold text-center mt-2 col">Draw</h4>
+						<div id="awayteamwin%" class="col"></div>
 					</div>
 					
 					<div class="row">
 						<div class="col">
-							<div id="predictawayteam" class="progress progress-bar-vertical mt-2 ml-2" title="AwayTeam win %" data-toggle="popover" data-trigger="hover" data-placement="bottom" data-content="" style="width:310px;height:180px"></div>
+							<div id="predicthometeam" class="progress progress-bar-vertical mt-2 ml-2" title="HomeTeam win %" data-toggle="popover" data-trigger="hover" data-placement="bottom" data-content="" style="width:310px;height:180px"></div>
 						</div>
 						<div class="col">
 							<div id="predictdraw" class="progress progress-bar-vertical mt-2 ml-2" title="Draw %" data-toggle="popover" data-trigger="hover" data-placement="bottom" data-content="" style="width:310px;height:180px"></div>
 						</div>
 						<div class="col">
-							<div id="predicthometeam" class="progress progress-bar-vertical mt-2 ml-2" title="HomeTeam win %" data-toggle="popover" data-trigger="hover" data-placement="bottom" data-content="" style="width:310px;height:180px"></div>
+							<div id="predictawayteam" class="progress progress-bar-vertical mt-2 ml-2" title="AwayTeam win %" data-toggle="popover" data-trigger="hover" data-placement="bottom" data-content="" style="width:310px;height:180px"></div>
 						</div>
 					</div>
 				</div>
@@ -118,12 +125,12 @@
 				<h4 class="text-white font-weight-bold text-center mt-4">FullTime</h4>
 				<div class="card success-color-dark mt-3">
 					<div class="row">
-						<div id="awayteamscore" class="col">
+						<div id="hometeamscore" class="col">
 						</div>
 						<div class="col">
 							<h1 class="text-white font-weight-bold text-center mt-2">-</h1>
 						</div>
-						<div id="hometeamscore" class="col">
+						<div id="awayteamscore" class="col">
 						</div>
 					</div>
 				</div>
@@ -185,6 +192,20 @@
 				
 				var winrateht = `${json.prediction_homeTeam_victory[i]}%`
 				document.getElementById("predicthometeam").setAttribute('data-content', winrateht);
+			}
+		}
+		
+	});
+	
+	$.getJSON("predictions_score_exact_finished.json", function(jsonscore) {
+		console.log(jsonscore);
+	
+		var count = Object.keys(jsonscore.id_match).length;
+		
+		for(var i = 0; i < count; i++){
+			if(jsonscore.id_match[i] == idmatch){
+				document.getElementById("hometeamscore").innerHTML = `<h1 class="text-white font-weight-bold text-center mt-3 mb-3">${jsonscore.prediction_score_HomeTeam[i]}</h1>`
+				document.getElementById("awayteamscore").innerHTML = `<h1 class="text-white font-weight-bold text-center mt-3 mb-3">${jsonscore.prediction_score_AwayTeam[i]}</h1>`
 				
 			}
 		}
@@ -228,6 +249,10 @@
 		
 		document.getElementById("awayteamscorereelhalf").innerHTML = `<h1 class="text-white font-weight-bold text-center mt-3 mb-3">${data.match.score.halfTime.awayTeam}</h1>`
 		document.getElementById("hometeamscorereelhalf").innerHTML = `<h1 class="text-white font-weight-bold text-center mt-3 mb-3">${data.match.score.halfTime.homeTeam}</h1>`
+		
+		document.getElementById("htodd").innerHTML = `${data.match.odds.homeWin}`
+		document.getElementById("drawodd").innerHTML = `${data.match.odds.draw}`
+		document.getElementById("atodd").innerHTML = `${data.match.odds.awayWin}`
 	
 	});
 	
