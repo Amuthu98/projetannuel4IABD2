@@ -1,4 +1,4 @@
-date,id_match,status,id_HomeTeam,id_AwayTeam,homeTeam,AwayTeam,mi_temps_gagnante
+date,id_match,status,id_HomeTeam,id_AwayTeam,homeTeam,AwayTeam,buts_class
 2020-07-01,279508,FINISHED,99,471,ACF Fiorentina,US Sassuolo Calcio,2
 2020-07-01,273889,FINISHED,90,94,Real Betis Balompié,Villarreal CF,2
 2020-07-01,279512,FINISHED,103,104,Bologna FC 1909,Cagliari Calcio,2
