@@ -1,4 +1,4 @@
-date,id_match,status,id_HomeTeam,id_AwayTeam,homeTeam,AwayTeam,"probabilité < 2,5 buts","probabilité > 2,5 buts"
+date,id_match,status,id_HomeTeam,id_AwayTeam,homeTeam,AwayTeam,"probabilité_inf_2,5 buts","probabilité_sup_2,5 buts"
 2020-07-02,279509,FINISHED,100,115,AS Roma,Udinese Calcio,0.0,1.0
 2020-07-03,274443,FINISHED,5530,5575,CD Santa Clara,CS Marítimo,0.0,1.0
 2020-07-03,273894,FINISHED,78,89,Club Atlético de Madrid,RCD Mallorca,0.9900000095367432,0.009999999776482582
