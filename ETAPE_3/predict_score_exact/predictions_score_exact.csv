@@ -30,7 +30,7 @@ date,id_match,status,id_HomeTeam,id_AwayTeam,homeTeam,AwayTeam,prediction_score_
 2020-07-05,279524,FINISHED,104,102,Cagliari Calcio,Atalanta BC,1.0,2.0
 2020-07-05,279525,FINISHED,449,450,Brescia Calcio,Hellas Verona FC,1.0,1.0
 2020-07-05,279518,FINISHED,113,100,SSC Napoli,AS Roma,2.0,1.0
-2020-07-05,273898,FINISHED,77,86,Athletic Club,Real Madrid CF,2.0,1.0
+2020-07-05,273898,FINISHED,77,86,Athletic Club,Real Madrid CF,1.0,1.0
 2020-07-05,273899,FINISHED,80,745,RCD Espanyol de Barcelona,CD Leganés,2.0,1.0
 2020-07-05,273896,FINISHED,79,82,CA Osasuna,Getafe CF,1.0,2.0
 2020-07-05,273903,FINISHED,94,81,Villarreal CF,FC Barcelona,1.0,2.0
