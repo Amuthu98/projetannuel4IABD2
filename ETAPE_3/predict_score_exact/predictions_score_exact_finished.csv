@@ -15,7 +15,7 @@ date,id_match,status,id_HomeTeam,id_AwayTeam,homeTeam,AwayTeam,prediction_score_
 2020-07-10,274446,FINISHED,507,5613,FC Paços de Ferreira,Sporting Clube de Braga,1.0,1.0
 2020-07-10,274449,FINISHED,5543,5533,Vitória SC,Gil Vicente FC,2.0,1.0
 2020-07-09,273908,FINISHED,77,559,Athletic Club,Sevilla FC,2.0,1.0
-2020-07-09,274452,FINISHED,5531,1903,FC Famalicão,Sport Lisboa e Benfica,1.0,2.0
+2020-07-09,274452,FINISHED,5531,1903,FC Famalicão,Sport Lisboa e Benfica,1.0,1.0
 2020-07-09,274454,FINISHED,1049,503,CD Tondela,FC Porto,1.0,2.0
 2020-07-09,274447,FINISHED,496,5601,Rio Ave FC,Portimonense SC,1.0,1.0
 2020-07-09,264680,FINISHED,1044,73,AFC Bournemouth,Tottenham Hotspur FC,1.0,1.0
@@ -85,5 +85,5 @@ date,id_match,status,id_HomeTeam,id_AwayTeam,homeTeam,AwayTeam,prediction_score_
 2020-07-04,264666,FINISHED,66,1044,Manchester United FC,AFC Bournemouth,2.0,1.0
 2020-07-04,279520,FINISHED,110,98,SS Lazio,AC Milan,2.0,1.0
 2020-07-03,273894,FINISHED,78,89,Club Atlético de Madrid,RCD Mallorca,2.0,1.0
-2020-07-03,274443,FINISHED,5530,5575,CD Santa Clara,CS Marítimo,1.0,1.0
+2020-07-03,274443,FINISHED,5530,5575,CD Santa Clara,CS Marítimo,2.0,1.0
 2020-07-02,279509,FINISHED,100,115,AS Roma,Udinese Calcio,2.0,1.0

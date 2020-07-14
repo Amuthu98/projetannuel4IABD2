@@ -1,7 +1,7 @@
 date,id_match,status,id_HomeTeam,id_AwayTeam,homeTeam,AwayTeam,prediction_score_HomeTeam,prediction_score_AwayTeam
 2020-07-12,264682,SCHEDULED,58,354,Aston Villa FC,Crystal Palace FC,1.0,1.0
 2020-07-12,279542,SCHEDULED,112,103,Parma Calcio 1913,Bologna FC 1909,2.0,1.0
-2020-07-12,279543,SCHEDULED,115,584,Udinese Calcio,UC Sampdoria,1.0,1.0
+2020-07-12,279543,SCHEDULED,115,584,Udinese Calcio,UC Sampdoria,2.0,1.0
 2020-07-12,279544,SCHEDULED,104,5890,Cagliari Calcio,US Lecce,2.0,1.0
 2020-07-12,279538,SCHEDULED,113,98,SSC Napoli,AC Milan,2.0,1.0
 2020-07-12,273917,SCHEDULED,559,89,Sevilla FC,RCD Mallorca,2.0,1.0
@@ -66,14 +66,14 @@ date,id_match,status,id_HomeTeam,id_AwayTeam,homeTeam,AwayTeam,prediction_score_
 2020-07-19,279560,SCHEDULED,100,108,AS Roma,FC Internazionale Milano,2.0,1.0
 2020-07-19,279565,SCHEDULED,449,1107,Brescia Calcio,SPAL 2013,1.0,1.0
 2020-07-19,279564,SCHEDULED,107,5890,Genoa CFC,US Lecce,2.0,1.0
-2020-07-19,279559,SCHEDULED,99,586,ACF Fiorentina,Torino FC,1.0,1.0
+2020-07-19,279559,SCHEDULED,99,586,ACF Fiorentina,Torino FC,2.0,1.0
 2020-07-19,279558,SCHEDULED,113,115,SSC Napoli,Udinese Calcio,2.0,1.0
 2020-07-19,279562,SCHEDULED,112,584,Parma Calcio 1913,UC Sampdoria,2.0,1.0
 2020-07-19,274469,SCHEDULED,5568,5533,Os Belenenses Futebol,Gil Vicente FC,1.0,1.0
 2020-07-19,264710,SCHEDULED,1044,340,AFC Bournemouth,Southampton FC,1.0,1.0
 2020-07-19,264704,SCHEDULED,73,338,Tottenham Hotspur FC,Leicester City FC,2.0,1.0
 2020-07-19,273942,SCHEDULED,263,81,Deportivo Alavés,FC Barcelona,1.0,2.0
-2020-07-19,273938,SCHEDULED,80,558,RCD Espanyol de Barcelona,RC Celta de Vigo,2.0,1.0
+2020-07-19,273938,SCHEDULED,80,558,RCD Espanyol de Barcelona,RC Celta de Vigo,1.0,1.0
 2020-07-19,273941,SCHEDULED,94,278,Villarreal CF,SD Eibar,2.0,1.0
 2020-07-19,273940,SCHEDULED,250,90,Real Valladolid CF,Real Betis Balompié,1.0,2.0
 2020-07-19,273934,SCHEDULED,78,92,Club Atlético de Madrid,Real Sociedad de Fútbol,2.0,1.0

@@ -1,6 +1,6 @@
 date,id_match,status,id_HomeTeam,id_AwayTeam,homeTeam,AwayTeam,prediction_score_HomeTeam,prediction_score_AwayTeam
 2020-07-02,279509,FINISHED,100,115,AS Roma,Udinese Calcio,2.0,1.0
-2020-07-03,274443,FINISHED,5530,5575,CD Santa Clara,CS Marítimo,1.0,1.0
+2020-07-03,274443,FINISHED,5530,5575,CD Santa Clara,CS Marítimo,2.0,1.0
 2020-07-03,273894,FINISHED,78,89,Club Atlético de Madrid,RCD Mallorca,2.0,1.0
 2020-07-04,279520,FINISHED,110,98,SS Lazio,AC Milan,2.0,1.0
 2020-07-04,279526,FINISHED,471,5890,US Sassuolo Calcio,US Lecce,2.0,1.0
@@ -61,7 +61,7 @@ date,id_match,status,id_HomeTeam,id_AwayTeam,homeTeam,AwayTeam,prediction_score_
 2020-07-08,264672,FINISHED,65,67,Manchester City FC,Newcastle United FC,2.0,1.0
 2020-07-08,264675,FINISHED,356,76,Sheffield United FC,Wolverhampton Wanderers FC,1.0,1.0
 2020-07-08,279530,FINISHED,102,584,Atalanta BC,UC Sampdoria,2.0,1.0
-2020-07-09,274452,FINISHED,5531,1903,FC Famalicão,Sport Lisboa e Benfica,1.0,2.0
+2020-07-09,274452,FINISHED,5531,1903,FC Famalicão,Sport Lisboa e Benfica,1.0,1.0
 2020-07-09,274454,FINISHED,1049,503,CD Tondela,FC Porto,1.0,2.0
 2020-07-09,274447,FINISHED,496,5601,Rio Ave FC,Portimonense SC,1.0,1.0
 2020-07-09,264680,FINISHED,1044,73,AFC Bournemouth,Tottenham Hotspur FC,1.0,1.0
@@ -141,7 +141,7 @@ date,id_match,status,id_HomeTeam,id_AwayTeam,homeTeam,AwayTeam,prediction_score_
 2020-07-19,273935,SCHEDULED,88,82,Levante UD,Getafe CF,1.0,1.0
 2020-07-19,273936,SCHEDULED,79,89,CA Osasuna,RCD Mallorca,2.0,1.0
 2020-07-19,273937,SCHEDULED,559,95,Sevilla FC,Valencia CF,2.0,1.0
-2020-07-19,273938,SCHEDULED,80,558,RCD Espanyol de Barcelona,RC Celta de Vigo,2.0,1.0
+2020-07-19,273938,SCHEDULED,80,558,RCD Espanyol de Barcelona,RC Celta de Vigo,1.0,1.0
 2020-07-19,273939,SCHEDULED,83,77,Granada CF,Athletic Club,1.0,2.0
 2020-07-19,273940,SCHEDULED,250,90,Real Valladolid CF,Real Betis Balompié,1.0,2.0
 2020-07-19,273941,SCHEDULED,94,278,Villarreal CF,SD Eibar,2.0,1.0
@@ -150,7 +150,7 @@ date,id_match,status,id_HomeTeam,id_AwayTeam,homeTeam,AwayTeam,prediction_score_
 2020-07-12,279545,SCHEDULED,107,1107,Genoa CFC,SPAL 2013,2.0,1.0
 2020-07-12,279540,SCHEDULED,99,450,ACF Fiorentina,Hellas Verona FC,1.0,1.0
 2020-07-12,279542,SCHEDULED,112,103,Parma Calcio 1913,Bologna FC 1909,2.0,1.0
-2020-07-12,279543,SCHEDULED,115,584,Udinese Calcio,UC Sampdoria,1.0,1.0
+2020-07-12,279543,SCHEDULED,115,584,Udinese Calcio,UC Sampdoria,2.0,1.0
 2020-07-12,279544,SCHEDULED,104,5890,Cagliari Calcio,US Lecce,2.0,1.0
 2020-07-12,279538,SCHEDULED,113,98,SSC Napoli,AC Milan,2.0,1.0
 2020-07-13,279539,SCHEDULED,108,586,FC Internazionale Milano,Torino FC,2.0,1.0
@@ -169,7 +169,7 @@ date,id_match,status,id_HomeTeam,id_AwayTeam,homeTeam,AwayTeam,prediction_score_
 2020-07-18,279561,SCHEDULED,98,103,AC Milan,Bologna FC 1909,2.0,1.0
 2020-07-19,279562,SCHEDULED,112,584,Parma Calcio 1913,UC Sampdoria,2.0,1.0
 2020-07-19,279558,SCHEDULED,113,115,SSC Napoli,Udinese Calcio,2.0,1.0
-2020-07-19,279559,SCHEDULED,99,586,ACF Fiorentina,Torino FC,1.0,1.0
+2020-07-19,279559,SCHEDULED,99,586,ACF Fiorentina,Torino FC,2.0,1.0
 2020-07-19,279564,SCHEDULED,107,5890,Genoa CFC,US Lecce,2.0,1.0
 2020-07-19,279565,SCHEDULED,449,1107,Brescia Calcio,SPAL 2013,1.0,1.0
 2020-07-19,279560,SCHEDULED,100,108,AS Roma,FC Internazionale Milano,2.0,1.0
