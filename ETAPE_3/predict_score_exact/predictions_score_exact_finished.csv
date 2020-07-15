@@ -9,14 +9,14 @@ date,id_match,status,id_HomeTeam,id_AwayTeam,homeTeam,AwayTeam,prediction_score_
 2020-07-13,274457,FINISHED,5575,496,CS Marítimo,Rio Ave FC,1.0,1.0
 2020-07-13,274461,FINISHED,5620,5531,Vitória FC,FC Famalicão,1.0,1.0
 2020-07-13,273921,FINISHED,94,92,Villarreal CF,Real Sociedad de Fútbol,2.0,1.0
-2020-07-13,273922,FINISHED,263,82,Deportivo Alavés,Getafe CF,1.0,2.0
+2020-07-13,273922,FINISHED,263,82,Deportivo Alavés,Getafe CF,1.0,1.0
 2020-07-13,273919,FINISHED,83,86,Granada CF,Real Madrid CF,1.0,2.0
 2020-07-13,264685,FINISHED,66,340,Manchester United FC,Southampton FC,2.0,1.0
 2020-07-12,279542,FINISHED,112,103,Parma Calcio 1913,Bologna FC 1909,2.0,1.0
 2020-07-12,264682,FINISHED,58,354,Aston Villa FC,Crystal Palace FC,1.0,1.0
 2020-07-12,273917,FINISHED,559,89,Sevilla FC,RCD Mallorca,2.0,1.0
 2020-07-12,273923,FINISHED,745,95,CD Leganés,Valencia CF,1.0,2.0
-2020-07-12,273915,FINISHED,88,77,Levante UD,Athletic Club,1.0,2.0
+2020-07-12,273915,FINISHED,88,77,Levante UD,Athletic Club,1.0,1.0
 2020-07-12,273918,FINISHED,80,278,RCD Espanyol de Barcelona,SD Eibar,2.0,1.0
 2020-07-12,279540,FINISHED,99,450,ACF Fiorentina,Hellas Verona FC,1.0,1.0
 2020-07-12,279545,FINISHED,107,1107,Genoa CFC,SPAL 2013,2.0,1.0
@@ -32,7 +32,7 @@ date,id_match,status,id_HomeTeam,id_AwayTeam,homeTeam,AwayTeam,prediction_score_
 2020-07-11,273914,FINISHED,78,90,Club Atlético de Madrid,Real Betis Balompié,2.0,1.0
 2020-07-11,273916,FINISHED,79,558,CA Osasuna,RC Celta de Vigo,1.0,1.0
 2020-07-11,279541,FINISHED,110,471,SS Lazio,US Sassuolo Calcio,2.0,1.0
-2020-07-11,279537,FINISHED,109,102,Juventus FC,Atalanta BC,2.0,1.0
+2020-07-11,279537,FINISHED,109,102,Juventus FC,Atalanta BC,2.0,2.0
 2020-07-11,264688,FINISHED,397,65,Brighton & Hove Albion FC,Manchester City FC,1.0,2.0
 2020-07-11,264687,FINISHED,356,61,Sheffield United FC,Chelsea FC,1.0,2.0
 2020-07-11,264683,FINISHED,64,328,Liverpool FC,Burnley FC,3.0,1.0
@@ -41,15 +41,15 @@ date,id_match,status,id_HomeTeam,id_AwayTeam,homeTeam,AwayTeam,prediction_score_
 2020-07-10,273904,FINISHED,86,263,Real Madrid CF,Deportivo Alavés,2.0,1.0
 2020-07-10,274448,FINISHED,498,5530,Sporting Clube de Portugal,CD Santa Clara,2.0,1.0
 2020-07-10,274449,FINISHED,5543,5533,Vitória SC,Gil Vicente FC,2.0,1.0
-2020-07-10,274446,FINISHED,507,5613,FC Paços de Ferreira,Sporting Clube de Braga,1.0,1.0
+2020-07-10,274446,FINISHED,507,5613,FC Paços de Ferreira,Sporting Clube de Braga,1.0,2.0
 2020-07-09,273907,FINISHED,89,88,RCD Mallorca,Levante UD,1.0,1.0
 2020-07-09,273913,FINISHED,278,745,SD Eibar,CD Leganés,1.0,1.0
-2020-07-09,264680,FINISHED,1044,73,AFC Bournemouth,Tottenham Hotspur FC,1.0,1.0
+2020-07-09,264680,FINISHED,1044,73,AFC Bournemouth,Tottenham Hotspur FC,1.0,2.0
 2020-07-09,264674,FINISHED,62,340,Everton FC,Southampton FC,2.0,1.0
 2020-07-09,274454,FINISHED,1049,503,CD Tondela,FC Porto,1.0,2.0
 2020-07-09,279534,FINISHED,450,108,Hellas Verona FC,FC Internazionale Milano,1.0,2.0
 2020-07-09,273908,FINISHED,77,559,Athletic Club,Sevilla FC,2.0,1.0
-2020-07-09,274452,FINISHED,5531,1903,FC Famalicão,Sport Lisboa e Benfica,1.0,1.0
+2020-07-09,274452,FINISHED,5531,1903,FC Famalicão,Sport Lisboa e Benfica,1.0,2.0
 2020-07-09,279535,FINISHED,1107,115,SPAL 2013,Udinese Calcio,1.0,1.0
 2020-07-09,274447,FINISHED,496,5601,Rio Ave FC,Portimonense SC,1.0,1.0
 2020-07-09,264671,FINISHED,58,66,Aston Villa FC,Manchester United FC,1.0,2.0
