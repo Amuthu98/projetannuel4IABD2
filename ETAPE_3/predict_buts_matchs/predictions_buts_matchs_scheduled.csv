@@ -1,4 +1,4 @@
-date,id_match,status,id_HomeTeam,id_AwayTeam,homeTeam,AwayTeam,inferieur_a_0.5_buts,supérieur_a_0.5_buts,inferieur_a_1.5_buts,superieur_a_1.5_buts,inferieur_a_2.5_buts,superieur_a_2.5_buts
+date,id_match,status,id_HomeTeam,id_AwayTeam,homeTeam,AwayTeam,inferieur_a_0_5_buts,superieur_a_0_5_buts,inferieur_a_1_5_buts,superieur_a_1_5_buts,inferieur_a_2_5_buts,superieur_a_2_5_buts
 2020-07-15,264691,SCHEDULED,65,1044,Manchester City FC,AFC Bournemouth,5.26,94.74,0.02,99.98,44.03,55.97
 2020-07-15,274459,SCHEDULED,583,507,Moreirense FC,FC Paços de Ferreira,22.06,77.94,27.26,72.74,56.3,43.7
 2020-07-15,274456,SCHEDULED,5613,5568,Sporting Clube de Braga,Os Belenenses Futebol,12.77,87.23,2.01,97.99,50.65,49.35

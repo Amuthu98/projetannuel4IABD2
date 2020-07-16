@@ -1,4 +1,4 @@
-date,id_match,status,id_HomeTeam,id_AwayTeam,homeTeam,AwayTeam,inferieur_a_0.5_buts,supérieur_a_0.5_buts,inferieur_a_1.5_buts,superieur_a_1.5_buts,inferieur_a_2.5_buts,superieur_a_2.5_buts
+date,id_match,status,id_HomeTeam,id_AwayTeam,homeTeam,AwayTeam,inferieur_a_0_5_buts,superieur_a_0_5_buts,inferieur_a_1_5_buts,superieur_a_1_5_buts,inferieur_a_2_5_buts,superieur_a_2_5_buts
 2020-07-14,274460,FINISHED,1903,5543,Sport Lisboa e Benfica,Vitória SC,9.95,90.05,7.66,92.34,50.36,49.64
 2020-07-14,274463,FINISHED,5601,810,Portimonense SC,Boavista FC,13.77,86.23,25.94,74.06,56.5,43.5
 2020-07-14,274462,FINISHED,5530,5544,CD Santa Clara,CD Aves,17.24,82.76,12.44,87.56,53.96,46.04
