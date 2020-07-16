@@ -3,7 +3,7 @@
 
 	<head>
 		<meta charset="utf-8">
-		<title>Foot Forcast</title>
+		<title>Foot Forecast</title>
 		<link rel="icon" type="images/png" href="images/icon-color-simple.png">
 		<meta name="description" content="Foot Forcast, Application de prédiction sportive.">
 		<meta name="keywords" content="Foot Forcast, Foot, Prédiction, Sport, Sportive">
@@ -25,9 +25,7 @@
 	
 		<!-- NAVBAR -->
 		<nav class="navbar justify-content-md-center sticky-top navbar-light success-color">
-			<a class="navbar-brand" href="#">
 			<img src="images/icon-blank-min.png" height="40" class="d-inline-block align-top" alt="Responsive image"/>
-			</a>
 		</nav>
 		
 		<div class="row">
@@ -51,14 +49,14 @@
 						<button id="atodd" type="button" class="btn btn-success"></button>
 					</div>
 					<br>
-					<h4 class="text-white font-weight-bold text-center mt-4">Winner</h4>
+					<h4 class="text-white font-weight-bold text-center mt-4">Gagnant</h4>
 					<div class="card success-color-dark">
 						<div class="row">
 							<div id="winnerreel" class="col"></div>
 						</div>
 					</div>
 					<br>
-					<h4 class="text-white font-weight-bold text-center mt-4">FullTime</h4>
+					<h4 class="text-white font-weight-bold text-center mt-4">Score fin de match</h4>
 					<div class="card success-color-dark mt-3">
 						<div class="row">
 							<div id="hometeamscorereelfull" class="col">
@@ -71,7 +69,7 @@
 						</div>
 					</div>
 					<br>
-					<h4 class="text-white font-weight-bold text-center mt-4">HalfTime</h4>
+					<h4 class="text-white font-weight-bold text-center mt-4">Score mi-temps</h4>
 					<div class="card success-color-dark">
 						<div class="row">
 							<div id="hometeamscorereelhalf" class="col">
@@ -101,13 +99,8 @@
 					</div>
 				</div>
 				
-				<div class="container-sm">
-					<div class="row">
-						<div id="hometeamwin%" class="col"></div>
-						<h4 class="text-white font-weight-bold text-center mt-2 col">Draw</h4>
-						<div id="awayteamwin%" class="col"></div>
-					</div>
-					
+				<h4 class="text-white font-weight-bold text-center mt-4 mr-1">Gagnant</h4>
+				<div class="container-sm mt-3">
 					<div class="row">
 						<div class="col">
 							<div id="predicthometeam" class="progress progress-bar-vertical mt-2 ml-2" title="HomeTeam win %" data-toggle="popover" data-trigger="hover" data-placement="bottom" data-content="" style="width:310px;height:180px"></div>
@@ -122,7 +115,34 @@
 				</div>
 				<br>
 				
-				<h4 class="text-white font-weight-bold text-center mt-4">FullTime</h4>
+				<h4 class="text-white font-weight-bold text-center mt-4 mr-1">Nombre de but sur l'ensemble du match</h4>
+			<div class="card success-color-dark mt-3">
+				<div class="row">
+					<div class="col">
+						<h2 class="text-white font-weight-bold text-center mt-3 mb-3">0.5 but</h2>
+					</div>
+					<div class="col">
+						<h2 class="text-white font-weight-bold text-center mt-3 mb-3">1.5 but</h2>
+					</div>
+					<div class="col">
+						<h2 class="text-white font-weight-bold text-center mt-3 mb-3">2.5 but</h2>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col">
+						<div id="predictbut05" title="< a 0.5 but | > a 0.5 but" data-toggle="popover" data-trigger="hover" data-placement="bottom" data-content=""></div>
+					</div>
+					<div class="col">
+						<div id="predictbut15" title="< a 1.5 but | > a 1.5 but" data-toggle="popover" data-trigger="hover" data-placement="bottom" data-content=""></div>
+					</div>
+					<div class="col">
+						<div id="predictbut25" title="< a 2.5 but | > a 2.5 but" data-toggle="popover" data-trigger="hover" data-placement="bottom" data-content=""></div>
+					</div>
+				</div>
+			</div>
+			<br>
+				
+				<h4 class="text-white font-weight-bold text-center mt-4">Score fin de match</h4>
 				<div class="card success-color-dark mt-3">
 					<div class="row">
 						<div id="hometeamscore" class="col">
@@ -134,8 +154,21 @@
 						</div>
 					</div>
 				</div>
-
 				<br>
+				
+				<h4 class="text-white font-weight-bold text-center mt-4">Mi-temps avec le plus de but</h4>
+				<div class="card success-color-dark mt-3">
+					<div class="row">
+						<div class="col">
+						</div>
+						<div id="winhalftime" class="col">
+						</div>
+						<div class="col">
+						</div>
+					</div>
+				</div>
+				<br>
+				
 			</div>
 			
 		</div>
@@ -178,11 +211,11 @@
 				document.getElementById("hometeamname").innerHTML = `<h2 class="text-white font-weight-bold text-center mt-4">${json.homeTeam[i]}</h2>`
 				document.getElementById("awayteamname").innerHTML = `<h2 class="text-white font-weight-bold text-center mt-4">${json.AwayTeam[i]}</h2>`
 				
-				document.getElementById("predictawayteam").innerHTML = `<div id="barAT" class="progress-bar progress-bar success-color-dark " role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="height:${json.prediction_awayTeam_victory[i]}%;"><h5>${json.prediction_awayTeam_victory[i]}%</h5></div>`
+				document.getElementById("predictawayteam").innerHTML = `<div id="barAT" class="progress-bar progress-bar success-color-dark " role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="height:${json.prediction_awayTeam_victory[i]}%;"><h5></h5></div>`
 				
-				document.getElementById("predictdraw").innerHTML = `<div class="progress-bar progress-bar success-color-dark" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="height:${json.prediction_egalite[i]}%;"><h5>${json.prediction_egalite[i]}%</h5></div>`
+				document.getElementById("predictdraw").innerHTML = `<div class="progress-bar progress-bar success-color-dark" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="height:${json.prediction_egalite[i]}%;"><h5></h5></div>`
 				
-				document.getElementById("predicthometeam").innerHTML = `<div class="progress-bar progress-bar success-color-dark" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="height:${json.prediction_homeTeam_victory[i]}%;"><h5>${json.prediction_homeTeam_victory[i]}%</h5></div>`
+				document.getElementById("predicthometeam").innerHTML = `<div class="progress-bar progress-bar success-color-dark" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="height:${json.prediction_homeTeam_victory[i]}%;"><h5></h5></div>`
 				
 				var winrateat = `${json.prediction_awayTeam_victory[i]}%`
 				document.getElementById("predictawayteam").setAttribute('data-content', winrateat);
@@ -212,6 +245,36 @@
 		
 	});
 	
+	$.getJSON("predictions_mi_temps_gagnante_finished.json", function(jsonhalf) {
+		console.log(jsonhalf);
+	
+		var count = Object.keys(jsonhalf.id_match).length;
+		
+		for(var i = 0; i < count; i++){
+			if(jsonhalf.id_match[i] == idmatch){
+				document.getElementById("winhalftime").innerHTML = `<h1 class="text-white font-weight-bold text-center mt-3 mb-3">${jsonhalf.mi_temps_gagnante[i]}</h1>`
+				
+			}
+		}
+		
+	});
+	
+	$.getJSON("predictions_buts_matchs_finished.json", function(jsonbut) {
+		console.log(jsonbut);
+	
+		var count = Object.keys(jsonbut.id_match).length;
+		
+		for(var i = 0; i < count; i++){
+			if(jsonbut.id_match[i] == idmatch){
+				document.getElementById("predictbut05").innerHTML = `<h2 class="text-white font-weight-bold text-center mt-3 mb-3">${jsonbut.inferieur_a_0_5_buts[i]}% | ${jsonbut.superieur_a_0_5_buts[i]}%</h2>`
+				document.getElementById("predictbut15").innerHTML = `<h2 class="text-white font-weight-bold text-center mt-3 mb-3">${jsonbut.inferieur_a_1_5_buts[i]}% | ${jsonbut.superieur_a_1_5_buts[i]}%</h2>`
+				document.getElementById("predictbut25").innerHTML = `<h2 class="text-white font-weight-bold text-center mt-3 mb-3">${jsonbut.inferieur_a_2_5_buts[i]}% | ${jsonbut.superieur_a_2_5_buts[i]}%</h2>`
+				
+			}
+		}
+		
+	});
+	
 	$.ajaxSetup({
 	  headers : {
 		'X-Auth-Token' : '569771c37d684195853778124ab853fc'
@@ -234,7 +297,7 @@
 				return name;
 			}
 			else {
-				name = 'draw';
+				name = 'Match nul';
 				return name;
 			}
 		}
